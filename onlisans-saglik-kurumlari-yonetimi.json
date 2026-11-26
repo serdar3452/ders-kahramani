@@ -1100,6 +1100,125 @@
                                                 "explanation":  "Sağlık Market, DMO bünyesinde yürütülen ve kamu sağlık tesislerinin elektronik alım yaptığı platformdur."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u8",
+                      "number":  8,
+                      "term":  2,
+                      "exam":  "Büyük Final Şampiyonluğu",
+                      "name":  "8. Ünite: Sağlık Kurumlarında İletişim ve Yönetimi",
+                      "badge":  "👑 Sağlık İletişimi \u0026 Yönetim Şampiyonu",
+                      "icon":  "fa-comments",
+                      "boss":  {
+                                   "name":  "İletişim ve İtibar Lordu \u0027Gürültü Kesen\u0027",
+                                   "introText":  "İletişim modellerini (Doğrusal vs. Etkileşimsel), kurumsal iletişimin 3 boyutunu (Yönetim, Örgütsel, Pazarlama) ve biçimsel/gayrıresmî iletişim ağlarını bilmeyen bu kurumu yönetemez!",
+                                   "defeatText":  "Tebrikler iletişim üstadı! Çapraz ve yatay iletişim kanallarını açıp kriz iletişimini ve paydaş güvenini ustalıkla yöneterek kurumsal itibarı zirveye taşıdın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 İletişim Modelleri, Kurumsal İletişim Boyutları ve Örgütsel İletişim Kanalları",
+                                          "summary":  "8. Ünitede bilinmesi gereken çekirdek iletişim ve yönetim kuralları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Genel İletişim Modelleri:\u003c/strong\u003e Doğrusal Model (Shannon-Weaver: Kaynak ➔ Gönderici ➔ Kanal ➔ Alıcı ➔ Hedef + Gürültü) ve Etkileşimsel Model (Schramm: Çift yönlü, geribildirimli, bağlam ve deneyim alanlı döngüsel iletişim).",
+                                                         "\u003cstrong\u003e2. Sağlık Kurumlarında Kurumsal İletişimin 3 Boyutu:\u003c/strong\u003e Yönetim İletişimi (üst yönetim/stratejik), Örgütsel İletişim (klinik/ekip içi/operasyonel) ve Pazarlama İletişimi (hizmet talebi/algı/paydaş odaklı).",
+                                                         "\u003cstrong\u003e3. Biçimsel (Formel) İletişim Türleri:\u003c/strong\u003e Dikey (aşağı/yukarı yönlü emir ve raporlama), Yanal/Yatay (aynı seviyedeki birimler arası) ve Çapraz iletişim (farklı düzey ve departmanlar arası hızlı iletişim).",
+                                                         "\u003cstrong\u003e4. Biçimsel Olmayan (İnformel) İletişim ve Dış Paydaş İlkeleri:\u003c/strong\u003e İnformel iletişim (dedikodu/söylenti) hızlıdır ancak bilgi bozulması riski taşır; dış paydaş iletişiminde Ulaşılabilirlik, Anlaşılırlık, Zamanındalık, Güvenilirlik ve Şeffaflık ilkeleri esastır."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda Doğrusal (Shannon-Weaver) vs. Etkileşimsel (Schramm) model farkı, kurumsal iletişimin 3 boyutu (Yönetim, Örgütsel, Pazarlama) ve Çapraz iletişimin tanımı çok sık sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Sağlık kurumunda farklı departman ve farklı hiyerarşik kademelerdeki personelin doğrudan, bürokrasiye takılmadan kurduğu biçimsel iletişim türü hangisidir?",
+                                                             "options":  [
+                                                                             "Dikey İletişim",
+                                                                             "Çapraz İletişim",
+                                                                             "İnformel İletişim",
+                                                                             "Yatay İletişim"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "Birimler ve yetki kademeleri arasını çaprazlama keser."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "İletişim sürecine \u0027geribildirim\u0027, \u0027bağlam\u0027 ve \u0027deneyim alanı\u0027 kavramlarını ekleyen döngüsel model hangisidir?",
+                                             "a":  "Etkileşimsel İletişim Modeli (Osgood-Schramm Modeli)",
+                                             "hint":  "Çift yönlü dairesel iletişim yaklaşımı"
+                                         },
+                                         {
+                                             "q":  "Sağlık kurumlarında klinikler ve ekipler arasındaki işleyişi sağlayan kurumsal iletişim boyutu nedir?",
+                                             "a":  "Örgütsel İletişim",
+                                             "hint":  "Hizmet sunumu ve operasyonel uyum"
+                                         },
+                                         {
+                                             "q":  "Hiyerarşik kademeleri dikkate almadan farklı departman ve düzeydeki çalışanların doğrudan iletişim kurmasını sağlayan biçimsel iletişim türü nedir?",
+                                             "a":  "Çapraz İletişim",
+                                             "hint":  "Departmanlar arası acil karar iletişimi"
+                                         },
+                                         {
+                                             "q":  "Aşağıdan yukarıya bilgi aktarımında orta kademe yöneticinin kendi kişisel değerlendirmesiyle bilgiyi üst yönetime aktarmamasına ne ad verilir?",
+                                             "a":  "Subjektif Sansür",
+                                             "hint":  "Yönetsel süzgeç ve bilgi engelleme"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Yönetim İletişimi",
+                                                "match":  "Üst yönetimin kaynak temini, misyon ve stratejik politikaları belirlediği iletişim"
+                                            },
+                                            {
+                                                "term":  "Çapraz İletişim",
+                                                "match":  "Farklı birim ve hiyerarşik düzeydeki çalışanların bürokrasiyi aşarak kurduğu doğrudan iletişim"
+                                            },
+                                            {
+                                                "term":  "Subjektif Sansür",
+                                                "match":  "Aşağıdan yukarıya mesaj aktarımında aradaki yöneticinin içeriği kendi isteğiyle süzmesi"
+                                            },
+                                            {
+                                                "term":  "Gürültü",
+                                                "match":  "İletişim sürecinde kaynağın gönderdiği mesajın alıcıya ulaşmasını bozan veya engelleyen tüm etkenler"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Shannon ve Weaver tarafından geliştirilen Doğrusal İletişim Modeli, iletişimi geribildirimi içeren çift yönlü bir süreç olarak ele alır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Doğrusal model tekyönlü ve mekanik aktarımı esas alır; geribildirimi ve çift yönlülüğü ekleyen Etkileşimsel Modeldir."
+                                                 },
+                                                 {
+                                                     "statement":  "Çapraz iletişim, acil durumlarda bürokrasiyi azaltarak hızı artırır fakat denetimsiz kullanılırsa yetki karmaşasına yol açabilir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Çapraz iletişim süreçleri hızlandırır ama aşırı kullanımı hiyerarşik dengeleri bozabilir."
+                                                 },
+                                                 {
+                                                     "statement":  "Biçimsel olmayan (informel) iletişim kurum tarafından tamamen engellenmeli ve sıfırlanmalıdır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İnformel iletişim insan sosyalleşmesinin doğal sonucudur; tamamen engellenemez, doğru yönlendirilerek kurum kültürüne katkı sağlamalıdır."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Sağlık kurumlarında yönetim seviyesinin ana aktör olduğu, kaynakların temini, kurumsal politikaların belirlenmesi ve misyon/vizyon doğrultusunda stratejik kararların iletildiği kurumsal iletişim boyutu aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Yönetim iletişimi",
+                                                                "Pazarlama iletişimi",
+                                                                "İnformel iletişim",
+                                                                "Çapraz iletişim"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "Üst yönetimin misyon, vizyon, kaynak kullanımı ve stratejik kararları yürüttüğü boyut Yönetim İletişimidir."
+                                            },
+                                            {
+                                                "q":  "Kurumsal hiyerarşi içinde farklı departmanlarda ve farklı yetki düzeylerinde bulunan çalışanların, zaman ve süreç kayıplarını önlemek amacıyla doğrudan kurdukları biçimsel iletişim türü aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Dikey iletişim",
+                                                                "Aşağı yönlü iletişim",
+                                                                "Çapraz iletişim",
+                                                                "İnformel iletişim"
+                                                            ],
+                                                "answer":  2,
+                                                "explanation":  "Farklı departman ve farklı yetki kademelerindeki bireylerin doğrudan iletişimi Çapraz İletişim olarak adlandırılır."
+                                            }
+                                        ]
                   }
               ],
     "updatedAt":  "2026-11-26T16:30:03Z"
