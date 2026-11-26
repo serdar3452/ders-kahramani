@@ -486,6 +486,126 @@
                                                 "explanation":  "Rakiplerle yapılan fiyat anlaşmaları ve rekabet kısıtlamaları \u0027İşletme DIŞI\u0027 (pazar ve rekabet) faktörlerle ilgili iş ahlakı konusudur."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u5",
+                      "number":  5,
+                      "term":  2,
+                      "exam":  "2. Dönem / Final Sınavı Kapsamı",
+                      "name":  "5. Ünite: İşletmelerin Kuruluşu",
+                      "badge":  "📐 Fizibilite \u0026 Yatırım Mimarı",
+                      "icon":  "fa-chart-pie",
+                      "boss":  {
+                                   "name":  "Fizibilite Lordu \u0027Optimal Kapasite \u0026 Kuruluş Yeri\u0027",
+                                   "introText":  "Fizibilite araştırmasının boyutlarını (ekonomik, teknik, finansal), kuruluş yeri faktörlerini ve kapasite türlerini bilmeyen bu yatırım projesini hayata geçiremez!",
+                                   "defeatText":  "Harika yatırım analizi! Fizibilite raporunu başarıyla hazırlayıp optimal kuruluş yerini ve kapasiteyi seçerek 5. Ünite Boss\u0027unu yendin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 Fizibilite Araştırması, Kuruluş Yeri ve Kapasite Türleri",
+                                          "summary":  "5. Ünitede bilinmesi gereken işletmelerin kuruluş aşamaları, fizibilite etüdü ve kapasite kavramları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Kuruluş Aşamaları:\u003c/strong\u003e Yatırım düşüncesi ➔ Ön fizibilite ➔ Fizibilite etüdü (Yapılabilirlik araştırması) ➔ Fizibilite raporu ve Yatırım kararı ➔ Kesin proje ➔ Yatırımın gerçekleşmesi/Deneme üretimi ➔ İşletmeye geçiş.",
+                                                         "\u003cstrong\u003e2. Fizibilite Araştırmasının Boyutları:\u003c/strong\u003e Ekonomik (pazar ve talep tahmini), Teknik (teknoloji, makine ve yerleşim düzeni), Finansal (sermaye ihtiyacı, fon kaynakları ve kârlılık), Hukuki (yasal yükümlülükler) ve Örgütsel (personel ve örgüt şeması) araştırmalar.",
+                                                         "\u003cstrong\u003e3. Kuruluş Yeri Seçimi:\u003c/strong\u003e İşletmenin toplam üretim ve dağıtım maliyetlerini en aza indirerek en yüksek verimliliğe ulaştığı yer \u0027En Uygun (Optimal) Kuruluş Yeri\u0027dir. Faktörleri: Hammaddeye yakınlık, pazara yakınlık, iş gücü, taşıma/ulaşım, enerji ve devlet teşvikleridir.",
+                                                         "\u003cstrong\u003e4. Kapasite Türleri:\u003c/strong\u003e Teorik (Maksimum) Kapasite (hiçbir aksama olmadan teknik sınır), Pratik (Reel) Kapasite (bakım, arıza ve molalar düşüldükten sonraki kapasite), Fiili Kapasite (gerçekleşen üretim miktarı).",
+                                                         "\u003cstrong\u003e5. Optimal Kapasite ve Atıl Kapasite:\u003c/strong\u003e Birim maliyetlerin en düşük olduğu üretim miktarı \u0027Optimal Kapasite\u0027dir. Pratik kapasitenin kullanılmayan kısmına ise \u0027Atıl (Boş) Kapasite\u0027 denir. Kapasite Kullanım Oranı = (Fiili Kapasite / Pratik Kapasite) * 100."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda Kapasite Türleri (özellikle Pratik vs. Fiili kapasite ve Atıl kapasite hesabı) ile Fizibilite Etüdünün boyutları (Ekonomik, Teknik, Finansal) sıklıkla sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Pratik (reel) kapasite ile fiili olarak gerçekleşen üretim miktarı arasındaki boşta kalan üretim kapasitesine ne ad verilir?",
+                                                             "options":  [
+                                                                             "Teorik Kapasite",
+                                                                             "Atıl (Boş) Kapasite",
+                                                                             "Optimal Kapasite",
+                                                                             "Maksimum Kapasite"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "Kullanılmayan üretim potansiyelini ifade eder."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Bir işletmenin birim maliyetlerini en düşük seviyeye indirdiği üretim miktarına ne ad verilir?",
+                                             "a":  "Optimal (En Uygun) Kapasite",
+                                             "hint":  "Minimum birim maliyet noktası"
+                                         },
+                                         {
+                                             "q":  "Pratik kapasite ile fiili kapasite arasındaki kullanılmayan üretim potansiyeline ne denir?",
+                                             "a":  "Atıl (Boş) Kapasite",
+                                             "hint":  "Kullanılmayan kapasite farkı"
+                                         },
+                                         {
+                                             "q":  "İşletmenin pazardaki talep yapısını, satış gelirlerini ve rakiplerini inceleyen fizibilite boyutu hangisidir?",
+                                             "a":  "Ekonomik Araştırma",
+                                             "hint":  "Pazar ve talep tahmini"
+                                         },
+                                         {
+                                             "q":  "Üretim duruşları, bakım ve zorunlu kayıplar düşüldükten sonra ulaşılabilecek makul maksimum kapasiteye ne denir?",
+                                             "a":  "Pratik (Reel/Nominal) Kapasite",
+                                             "hint":  "Gerçekçi maksimum üretim seviyesi"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Teorik Kapasite",
+                                                "match":  "Hiçbir aksama, arıza veya mola olmadan ulaşılabilecek teorik maksimum üretim miktarı"
+                                            },
+                                            {
+                                                "term":  "Ekonomik Araştırma",
+                                                "match":  "Fizibilitede pazar büyüklüğü, talep tahmini ve gelir-gider analizlerinin yapıldığı boyut"
+                                            },
+                                            {
+                                                "term":  "Optimal Kuruluş Yeri",
+                                                "match":  "İşletmenin toplam maliyetlerini en aza indirip kârlılığını en üst düzeye çıkardığı konum"
+                                            },
+                                            {
+                                                "term":  "Atıl Kapasite",
+                                                "match":  "Pratik kapasite ile fiili (gerçekleşen) kapasite arasındaki fark"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Fizibilite araştırmasında üretim teknolojisi ve makine-teçhizat seçimi Finansal Araştırma kapsamında değerlendirilir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Makine-teçhizat seçimi, teknoloji ve üretim alanı düzenlemesi Teknik Araştırma kapsamına girer."
+                                                 },
+                                                 {
+                                                     "statement":  "Kapasite Kullanım Oranı (KKO), fiili kapasitenin pratik kapasiteye oranlanmasıyla hesaplanır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! KKO = (Fiili Kapasite / Pratik Kapasite) * 100 formülü ile bulunur."
+                                                 },
+                                                 {
+                                                     "statement":  "Çabuk bozulan hammaddeleri işleyen konserve veya süt fabrikaları için kuruluş yer seçiminde \u0027Pazara Yakınlık\u0027 ilk sırada gelir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Hammaddesi çabuk bozulan veya taşıma maliyeti yüksek olan işletmelerde \u0027Hammaddeye Yakınlık\u0027 en önemli faktördür."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Bir tekstil fabrikasının teknik tasarımı gereği hiçbir mola ve arıza olmadan üretebileceği miktar yıllık 100.000 adettir. Zorunlu bakım ve molalar düşüldüğünde makul kapasitesi 80.000 adettir. Fabrika bu yıl gerçekte 60.000 adet üretim yaptığına göre, bu işletmenin \u0027Atıl (Boş) Kapasitesi\u0027 kaç adettir?",
+                                                "options":  [
+                                                                "20.000 adet",
+                                                                "40.000 adet",
+                                                                "80.000 adet",
+                                                                "100.000 adet"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "Atıl Kapasite = Pratik Kapasite - Fiili Kapasite ➔ 80.000 - 60.000 = 20.000 adettir. (Teorik kapasite atıl kapasite hesabında kullanılmaz)."
+                                            },
+                                            {
+                                                "q":  "İşletmenin kuruluş sürecinde yapılabilirlik araştırmasının (fizibilite etüdü) yapıldığı ve fizibilite raporunun hazırlandığı aşama aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Yatırım Düşüncesi Aşaması",
+                                                                "Ön Proje / Fizibilite Aşaması",
+                                                                "Kesin Proje Aşaması",
+                                                                "Deneme Üretimi Aşaması"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Fizibilite etüdü ve yapılabilirlik raporu ön proje aşamasında hazırlanır ve bu rapora göre yatırım kararı verilir."
+                                            }
+                                        ]
                   }
               ]
 }
