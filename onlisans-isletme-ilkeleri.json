@@ -246,6 +246,126 @@
                                                 "explanation":  "SWOT analizi (Strengths, Weaknesses, Opportunities, Threats) iç çevredeki güçlü/zayıf yönler ile dış çevredeki fırsat/tehditleri birlikte değerlendirir."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u3",
+                      "number":  3,
+                      "term":  1,
+                      "exam":  "1. Dönem / Vize Sınavı Kapsamı",
+                      "name":  "3. Ünite: İşletmelerin Sınıflandırılması ve Türleri",
+                      "badge":  "🏢 Şirketler \u0026 KOBİ Uzmanı",
+                      "icon":  "fa-building",
+                      "boss":  {
+                                   "name":  "Sınıflandırma Ustası \u0027Şirketler \u0026 KOBİ\u0027 Dev-i",
+                                   "introText":  "Faaliyet alanlarına, mülkiyet yapısına, KOBİ büyüklük ölçütlerine ve hukuki formlara (Şahıs - Sermaye Şirketleri) hakim olmayan bu sınavdan geçemez!",
+                                   "defeatText":  "Muazzam sınıflandırma başarısı! KOBİ kriterlerinden şahıs ve sermaye şirketlerinin sorumluluk farklarına kadar tüm işletme türlerini kavrayıp 3. Ünite Boss\u0027unu yendin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 İşletme Türleri, Büyüklük Ölçütleri ve Hukuki Yapılar",
+                                          "summary":  "3. Ünitede bilinmesi gereken temel işletme sınıflandırma ölçütleri ve şirket türleri:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Faaliyet Alanlarına Göre:\u003c/strong\u003e Ürün üreten (temel, imalat ve yapı endüstrileri), Hizmet üreten ve Ticaret işletmeleri (toptancı, perakendeci, acente, komisyoncu).",
+                                                         "\u003cstrong\u003e2. Sermayenin Mülkiyetine Göre:\u003c/strong\u003e Özel işletmeler, Kamu işletmeleri (İDT - İktisadi Devlet Teşekkülleri, KİK - Kamu İktisadi Kuruluşları, Yerel Yönetim) ve Yabancı sermayeli işletmeler.",
+                                                         "\u003cstrong\u003e3. Büyüklüklerine Göre (KOBİ Ölçütleri):\u003c/strong\u003e Mikro (\u003c10 çalışan, ≤3 Milyon TL), Küçük (\u003c50 çalışan, ≤25 Milyon TL), Orta (\u003c250 çalışan, ≤125 Milyon TL) ve Büyük işletmeler (\u003e250 çalışan, \u003e125 Milyon TL).",
+                                                         "\u003cstrong\u003e4. Hukuki Yapılarına Göre İşletmeler:\u003c/strong\u003e Şahıs İşletmeleri (Tek kişi, Adi, Kollektif, Komandit) ve Sermaye İşletmeleri (Anonim, Limited, Paylı Komandit) ile Kooperatifler.",
+                                                         "\u003cstrong\u003e5. Şahıs vs Sermaye Şirketi Farkı:\u003c/strong\u003e Şahıs şirketlerinde ortakların sorumluluğu sınırsız ve müteselsildir (kişisel varlıklar dahildir). Sermaye şirketlerinde ise ortakların sorumluluğu taahhüt ettikleri sermaye ile sınırlıdır."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda KOBİ sınırları (özellikle çalışan sayısı ve ciro), Şahıs vs Sermaye şirketlerinin borç sorumluluk farkı ile İDT (kâr odaklı) ve KİK (kamu hizmeti odaklı) ayrımı sıklıkla sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Şirket borçlarına karşı sorumluluğun ortakların taahhüt ettikleri sermaye payıyla sınırlı olduğu şirket grubu hangisidir?",
+                                                             "options":  [
+                                                                             "Şahıs Şirketleri",
+                                                                             "Sermaye Şirketleri",
+                                                                             "Adi Ortaklıklar",
+                                                                             "Kollektif Şirketler"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "Anonim ve limited şirketler bu gruba girer."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "KOBİ yönetmeliğine göre \u0027Küçük Ölçekli İşletme\u0027 sınırı nedir?",
+                                             "a":  "Yıllık çalışan sayısı 50\u0027den az ve yıllık net satış hasılatı/mali bilançosu 25 milyon TL\u0027yi aşmayan işletmelerdir.",
+                                             "hint":  "10 ile 49 çalışan arası"
+                                         },
+                                         {
+                                             "q":  "Anonim ve Limited şirketlerde ortakların şirket borçlarına karşı sorumluluğu nasıldır?",
+                                             "a":  "Yalnızca taahhüt ettikleri sermaye payı miktarı ile sınırlıdır.",
+                                             "hint":  "Sermaye şirketi güvencesi"
+                                         },
+                                         {
+                                             "q":  "Ayrı bir tüzel kişiliği olmayan, Borçlar Kanunu\u0027na tabi ve ortakların borçlardan sınırsız/müteselsil sorumlu olduğu şirket türü nedir?",
+                                             "a":  "Adi Şirket",
+                                             "hint":  "Ticaret siciline şirket olarak kayıt olmayan şahıs ortaklığı"
+                                         },
+                                         {
+                                             "q":  "İktisadi Devlet Teşekkülleri (İDT) ile Kamu İktisadi Kuruluşları (KİK) arasındaki temel amaç farkı nedir?",
+                                             "a":  "İDT\u0027ler öncelikli olarak kâr amacı güder; KİK\u0027ler ise tekel niteliğindeki kamu hizmeti ve toplumsal faydayı ön planda tutar.",
+                                             "hint":  "Kâr amacı vs Kamu hizmeti odağı"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Mikro Ölçekli İşletme",
+                                                "match":  "Çalışan sayısı 10\u0027dan az, yıllık cirosu 3 milyon TL\u0027yi aşmayan işletme"
+                                            },
+                                            {
+                                                "term":  "Kollektif Şirket",
+                                                "match":  "Yalnızca gerçek kişiler arasında kurulan ve tüm ortakların sınırsız sorumlu olduğu ticaret şirketi"
+                                            },
+                                            {
+                                                "term":  "Komandite Ortak",
+                                                "match":  "Komandit şirkette sorumluluğu sınırsız olan ve yönetime seçilebilen gerçek kişi ortak"
+                                            },
+                                            {
+                                                "term":  "Kooperatifler",
+                                                "match":  "Temel amacı kâr değil, ortakların ekonomik ihtiyaçlarını karşılıklı dayanışma ile ucuza karşılamak olan özel kuruluşlar"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Limited şirketler bankacılık ve sigortacılık alanlarında faaliyet gösterebilir ve hisse senedi çıkarabilir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Bankacılık ve sigortacılık yapmak sadece Anonim Şirketlere tanınmıştır; Limited şirketler hisse senedi ve tahvil çıkaramaz."
+                                                 },
+                                                 {
+                                                     "statement":  "Adi şirketlerin kendisini oluşturan kişilerden bağımsız ayrı bir tüzel kişiliği yoktur.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Adi şirketlerin ayrı tüzel kişiliği yoktur ve Borçlar Kanunu hükümlerine tabidir."
+                                                 },
+                                                 {
+                                                     "statement":  "İşletme büyüklüğünü belirlemede kullanılan yönetim şekli, örgüt yapısı ve pazar yapısı nicel (kantitatif) ölçütlerdir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Çalışan sayısı, ciro ve sermaye miktarı nicel; yönetim şekli, örgüt yapısı ve pazar yapısı nitel (kalitatif) ölçütlerdir."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Sorumlulukları sınırsız olan \u0027Komandite\u0027 ortaklar ile sorumlulukları koydukları sermaye miktarı ile sınırlı olan \u0027Komanditer\u0027 ortakların birlikte yer aldığı şirket türü aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Anonim Şirket",
+                                                                "Komandit Şirket",
+                                                                "Kollektif Şirket",
+                                                                "Limited Şirket"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Komandit şirketlerde iki tip ortak bulunur: Sorumluluğu sınırsız komandite ortak ve sorumluluğu sermayesiyle sınırlı komanditer ortak."
+                                            },
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi işletmeleri büyüklüklerine göre sınıflandırırken kullanılan nitel (kalitatif) ölçütlerden biridir?",
+                                                "options":  [
+                                                                "Çalışan personel sayısı",
+                                                                "Yıllık net satış hasılatı",
+                                                                "Harcanan enerji miktarı",
+                                                                "Örgüt ve yönetim yapısı"
+                                                            ],
+                                                "answer":  3,
+                                                "explanation":  "Çalışan sayısı, satış hasılatı ve harcanan enerji nicel (sayısal) ölçütlerdir. Örgüt ve yönetim yapısı ise nitel (kalitatif) ölçüttür."
+                                            }
+                                        ]
                   }
               ]
 }
