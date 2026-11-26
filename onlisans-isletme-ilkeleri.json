@@ -726,6 +726,126 @@
                                                 "explanation":  "Konsern yapısına giren işletmeler unvanlarını korusalar da ekonomik bağımsızlıklarını kaybederler ve finansal yönetimleri tek merkezden yürütülür."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u7",
+                      "number":  7,
+                      "term":  2,
+                      "exam":  "2. Dönem / Final Sınavı Kapsamı",
+                      "name":  "7. Ünite: Küresel Çevrede İşletmecilik ve Rekabet",
+                      "badge":  "🌐 Küresel Ticaret \u0026 Rekabet Fatihi",
+                      "icon":  "fa-globe",
+                      "boss":  {
+                                   "name":  "Küreselleşme \u0026 Rekabet \u0027Porter Elması\u0027 Lordu",
+                                   "introText":  "Uluslararası pazara giriş yöntemlerini (Lisans, Franchising, FDI), Hofstede\u0027in kültür boyutlarını ve Porter\u0027ın Elmas Modelini bilmeyen bu küresel arenada ayakta kalamaz!",
+                                   "defeatText":  "Muazzam küresel strateji! Dış pazara giriş yollarını, gümrük birliği seviyelerini ve uluslararası rekabet üstünlüğünü kavrayıp 7. Ünite Boss\u0027unu yendin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 Uluslararasılaşma, Dış Pazarlara Giriş Yöntemleri ve Rekabet",
+                                          "summary":  "7. Ünitede bilinmesi gereken küreselleşme kavramları, dış pazarlara giriş stratejileri ve bölgesel entegrasyonlar:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Dış Pazarlara Giriş Yöntemleri:\u003c/strong\u003e İhracat (Doğrudan/Dolaylı - en düşük risk), Lisans Anlaşması (teknoloji/patent devri), Franchising (marka/sistem imtiyazı), Sözleşmeli Üretim, Ortak Girişim (Joint Venture) ve Doğrudan Yabancı Yatırım (FDI - en yüksek risk ve kontrol).",
+                                                         "\u003cstrong\u003e2. Küresel Şirket Türleri:\u003c/strong\u003e Çok Uluslu İşletmeler (ÇUİ - merkez odaklı uyarlama), Küresel İşletmeler (dünyayı tek pazar gören standartlaşma) ve Ulusötesi İşletmeler (hem yerel esneklik hem küresel ölçek).",
+                                                         "\u003cstrong\u003e3. Hofstede\u0027in Kültür Boyutları:\u003c/strong\u003e Güç Mesafesi, Bireycilik vs. Ortaklaşalık (Kollektivizm), Belirsizlikten Kaçınma, Erillik vs. Dişilik ve Uzun Vadeli Oryantasyon.",
+                                                         "\u003cstrong\u003e4. Porter\u0027ın Ulusal Rekabet Üstünlüğü (Elmas Modeli):\u003c/strong\u003e Faktör Koşulları, Talep Koşulları, İlgili ve Destekleyici Sanayiler ile Firma Stratejisi, Yapısı ve Rekabet.",
+                                                         "\u003cstrong\u003e5. Bölgesel Ekonomik Entegrasyon Aşamaları:\u003c/strong\u003e Serbest Ticaret Bölgesi (iç gümrük yok) ➔ Gümrük Birliği (ortak dış gümrük) ➔ Ortak Pazar (serbest faktör dolaşımı) ➔ Ekonomik Birlik (ortak para ve ekonomi politikası)."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda en çok \u0027Dış pazara giriş yöntemlerinin risk/kontrol sıralaması\u0027 (İhracat \u003c Lisans \u003c Franchising \u003c Joint Venture \u003c Doğrudan Yatırım) ve \u0027Bölgesel entegrasyon aşamaları\u0027 (özellikle Gümrük Birliği vs Ortak Pazar farkı) sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Bölgesel ekonomik entegrasyonlarda, malların yanı sıra üretim faktörlerinin de (emek ve sermaye) serbestçe dolaşabildiği aşama hangisidir?",
+                                                             "options":  [
+                                                                             "Serbest Ticaret Bölgesi",
+                                                                             "Gümrük Birliği",
+                                                                             "Ortak Pazar",
+                                                                             "Tercihli Ticaret Anlaşması"
+                                                                         ],
+                                                             "answer":  2,
+                                                             "hint":  "Faktör serbestliğini sağlayan ortak pazar düzeyidir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Sermaye riski en yüksek ancak yönetim kontrolü en fazla olan dış pazara giriş yöntemi nedir?",
+                                             "a":  "Doğrudan Yabancı Yatırım (FDI - Foreign Direct Investment)",
+                                             "hint":  "Yabancı ülkede sıfırdan tesis kurma veya şirket satın alma"
+                                         },
+                                         {
+                                             "q":  "Üye ülkelerin kendi aralarında gümrükleri kaldırıp üçüncü ülkelere karşı \u0027ortak dış gümrük tarifesi\u0027 uyguladığı entegrasyon seviyesi nedir?",
+                                             "a":  "Gümrük Birliği",
+                                             "hint":  "Türkiye ile AB arasındaki mevcut ticaret rejimi seviyesi"
+                                         },
+                                         {
+                                             "q":  "Bir işletmenin marka adını, sistemini ve iş yapış yöntemini belirli bir bedel karşılığında başkasına devrettiği uzun vadeli sözleşme nedir?",
+                                             "a":  "Franchising (İmtiyaz)",
+                                             "hint":  "McDonald\u0027s, Starbucks gibi hizmet ve perakende zincirlerinin büyüme modeli"
+                                         },
+                                         {
+                                             "q":  "Porter\u0027ın Elmas Modeline göre eğitimli iş gücü, araştırma kurumları ve dijital altyapı hangi faktör kategorisine girer?",
+                                             "a":  "Gelişmiş Faktörler (Advanced Factors)",
+                                             "hint":  "Doğal kaynakların aksine sonradan yaratılan nitelikli girdiler"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Serbest Ticaret Bölgesi",
+                                                "match":  "Üye ülkeler arası gümrük tarifelerinin sıfırlandığı ama üçüncü ülkelere bağımsız gümrük uygulandığı aşama"
+                                            },
+                                            {
+                                                "term":  "Lisans Anlaşması",
+                                                "match":  "Üretim teknolojisi, patent veya üretim hakkının bir ücret (royalty) karşılığında yabancı firmaya devredilmesi"
+                                            },
+                                            {
+                                                "term":  "Hofstede - Güç Mesafesi",
+                                                "match":  "Toplumdaki bireylerin gücün eşitsiz dağılımını kabullenme derecesi"
+                                            },
+                                            {
+                                                "term":  "Ortak Pazar",
+                                                "match":  "Mal ve hizmetlerin yanı sıra sermaye ve iş gücünün (faktörlerin) serbestçe dolaşabildiği entegrasyon"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Doğrudan İhracat, bir işletmenin yabancı pazara girerken en yüksek finansal risk üstlendiği yöntemdir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İhracat en düşük finansal risk taşıyan yöntemdir; en yüksek finansal risk Doğrudan Yabancı Yatırımdadır (FDI)."
+                                                 },
+                                                 {
+                                                     "statement":  "Gümrük Birliği\u0027nde üye ülkeler hem kendi aralarındaki tarifeleri sıfırlar hem de üçüncü ülkelere ortak bir dış gümrük tarifesi uygularlar.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Gümrük birliğini serbest ticaret bölgesinden ayıran temel fark üçüncü ülkelere uygulanan ortak dış tarifedir."
+                                                 },
+                                                 {
+                                                     "statement":  "Franchising sadece üretim alanında kullanılan bir patent devri sözleşmesidir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Franchising pazarlama, hizmet ve perakende sektöründe bütüncül iş yapış sistemi imtiyazıdır; patent devri olan ise Lisans anlaşmasıdır."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdaki dış pazara giriş yöntemlerinden hangisinde işletme en DÜŞÜK kaynak taahhüdü ve finansal risk üstlenir?",
+                                                "options":  [
+                                                                "Doğrudan Yabancı Yatırım (FDI)",
+                                                                "Ortak Girişim (Joint Venture)",
+                                                                "Dolaylı İhracat",
+                                                                "Franchising"
+                                                            ],
+                                                "answer":  2,
+                                                "explanation":  "Dolaylı ihracat, aracı kurumlar üzerinden yapıldığı için yabancı pazara girişte işletmeye en az finansal risk ve en az kaynak yükü getiren yöntemdir."
+                                            },
+                                            {
+                                                "q":  "Bölgesel ekonomik entegrasyon aşamaları dikkate alındığında; üye ülkeler arasında mal, hizmet, sermaye ve iş gücünün (üretim faktörlerinin) tamamen serbest dolaşımına izin veren aşama aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Tercihli Ticaret Anlaşması",
+                                                                "Serbest Ticaret Bölgesi",
+                                                                "Gümrük Birliği",
+                                                                "Ortak Pazar"
+                                                            ],
+                                                "answer":  3,
+                                                "explanation":  "Ortak Pazar (Common Market) aşamasında mal ve hizmetlerin yanı sıra üretim faktörleri de (iş gücü ve sermaye) serbest dolaşım hakkı kazanır."
+                                            }
+                                        ]
                   }
               ]
 }
