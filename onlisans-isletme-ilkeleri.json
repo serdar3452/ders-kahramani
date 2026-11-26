@@ -606,6 +606,126 @@
                                                 "explanation":  "Fizibilite etüdü ve yapılabilirlik raporu ön proje aşamasında hazırlanır ve bu rapora göre yatırım kararı verilir."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u6",
+                      "number":  6,
+                      "term":  2,
+                      "exam":  "2. Dönem / Final Sınavı Kapsamı",
+                      "name":  "6. Ünite: İşletmelerin Büyümesi",
+                      "badge":  "📈 Ölçek Ekonomileri \u0026 Birleşme Uzmanı",
+                      "icon":  "fa-arrow-trend-up",
+                      "boss":  {
+                                   "name":  "Büyüme \u0026 Birleşme \u0027Ölçek Ekonomileri\u0027 Ejderi",
+                                   "introText":  "İşletmelerin büyüme evrelerini, ölçek ekonomilerini, kartel, tröst, holding gibi iş birliklerini ve birleşme türlerini (yatay, dikey, çapraz) bilmeyen bu aşamayı geçemez!",
+                                   "defeatText":  "Harika stratejik büyüme hamlesi! İç ve dış büyüme yollarını, ölçek ekonomilerini ve şirket birleşmelerini kavramakla 6. Ünite Boss\u0027unu mağlup ettin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 İşletmelerde Büyüme Evreleri, Türleri ve İş Birlikleri",
+                                          "summary":  "6. Ünitede bilinmesi gereken işletmelerin büyüme nedenleri, evreleri, iş birliği modelleri ve şirket birleşmeleri:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Büyüme Evreleri:\u003c/strong\u003e Kurulma ➔ Gelişme ➔ Resmî yapıya kavuşma ➔ Dinozorlaşma ➔ Gerileme. Büyüyen işletmelerde kurucudan profesyonel yöneticilere geçiş ve yetki devri kritik önem taşır.",
+                                                         "\u003cstrong\u003e2. İç ve Dış Büyüme Ayrımı:\u003c/strong\u003e İç büyüme işletmenin kendi öz kaynakları, satış gelirleri ve kapasite artışıyla büyümesidir. Dış büyüme ise başka işletmelerle iş birliği yapması, birleşmesi (merger) veya onları satın almasıdır (acquisition).",
+                                                         "\u003cstrong\u003e3. Büyüme Yönleri ve Birleşme Türleri:\u003c/strong\u003e Aynı sektördeki rakiplerle \u0027Yatay birleşme\u0027; tedarikçi veya dağıtıcı ile \u0027Dikey birleşme\u0027 (tedarikçiye doğru geriye dikey, pazarlamaya doğru ileriye dikey); farklı sektördeki işletmelerle \u0027Çapraz (Kümeli) birleşme\u0027.",
+                                                         "\u003cstrong\u003e4. İş Birlikleri ve Anlaşma Türleri:\u003c/strong\u003e Centilmenlik anlaşmaları, Konsorsiyum (geçici iş birliği, ayrı tüzel kişilik yok), Kartel (gizli/açık kota veya fiyat anlaşması), Konsern (ekonomik bağımsızlık kaybedilir), Tröst (hem hukuki hem ekonomik bağımsızlık kaybedilir), Holding (bağlı şirketlerin hisselerini kontrol eden ana şirket) ve Joint Venture (Ortak Girişim - ayrı tüzel kişiliğe sahip yeni şirket).",
+                                                         "\u003cstrong\u003e5. Büyümenin Yararları ve Ölçek Ekonomileri:\u003c/strong\u003e Üretim hacmi arttıkça birim başına düşen sabit maliyetlerin azalması \u0027Ölçek Ekonomisi\u0027 avantajı sağlar. Pazarlık gücü, finansmana erişim kolaylığı ve vergi avantajı (zarar mahsubu) da büyümenin temel yararları arasındadır."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda en çok \u0027Yatay vs. Dikey Birleşme\u0027 farkı, \u0027Konsorsiyum ile Joint Venture arasındaki tüzel kişilik farkı\u0027 (Konsorsiyumda tüzel kişilik yoktur, Joint Venture\u0027da vardır) ve \u0027Kartel vs. Tröst\u0027 kavramları sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Aynı sektörde benzer mal veya hizmet üreten iki rakip işletmenin birleşmesi hangi birleşme türüne girer?",
+                                                             "options":  [
+                                                                             "Yatay Birleşme",
+                                                                             "Dikey Birleşme",
+                                                                             "Çapraz Birleşme",
+                                                                             "Konsorsiyum"
+                                                                         ],
+                                                             "answer":  0,
+                                                             "hint":  "Aynı faaliyet düzeyindeki rakiplerin birleşmesidir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Birden fazla işletmenin belirli bir işi yapmak üzere geçici olarak kaynaklarını birleştirdiği, ayrı bir tüzel kişiliği OLMAYAN iş birliği türü nedir?",
+                                             "a":  "Konsorsiyum",
+                                             "hint":  "Büyük altyapı ve köprü/otoyol projelerinde geçici iş birliği"
+                                         },
+                                         {
+                                             "q":  "İki veya daha fazla işletmenin yeni bir şirket kurarak stratejik ortaklık yapması ve bu ortaklığın AYRI BİR TÜZEL KİŞİLİĞE sahip olması durumu nedir?",
+                                             "a":  "Ortak Girişim (Joint Venture)",
+                                             "hint":  "Özellikle yabancı pazarlara girişte kurulan yeni tüzel kişilik"
+                                         },
+                                         {
+                                             "q":  "Aynı sektörde benzer mal ve hizmet üreten rakip işletmelerin birleşmesine ne ad verilir?",
+                                             "a":  "Yatay Birleşme",
+                                             "hint":  "İki bankanın veya iki otomotiv üreticisinin birleşmesi"
+                                         },
+                                         {
+                                             "q":  "Üretim hacmi arttıkça birim başına düşen sabit maliyetlerin azalması avantajına ne denir?",
+                                             "a":  "Ölçek Ekonomileri (Economies of Scale)",
+                                             "hint":  "Kitlesel üretimin getirdiği maliyet düşüşü"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Holding",
+                                                "match":  "Başka şirketlerin hisse senetlerini bünyesinde tutarak onları yönetim ve finans açısından denetleyen ana şirket"
+                                            },
+                                            {
+                                                "term":  "Tröst",
+                                                "match":  "Dâhil olan işletmelerin hem hukuki hem de ekonomik bağımsızlıklarını tamamen kaybettiği tekelci birleşme"
+                                            },
+                                            {
+                                                "term":  "Geriye Doğru Dikey Birleşme",
+                                                "match":  "İşletmenin kendi hammaddesini veya ara mamulünü üreten tedarikçi firma ile birleşmesi"
+                                            },
+                                            {
+                                                "term":  "Kartel",
+                                                "match":  "Aynı sektördeki işletmelerin rekabeti sınırlandırmak için fiyat veya kota konusunda yaptıkları anlaşma"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Konsorsiyumlarda bir araya gelen işletmelerden ayrı yeni bir tüzel kişilik doğar.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Konsorsiyumlarda ayrı bir tüzel kişilik kurulmaz; proje bittiğinde dağılır. Ayrı tüzel kişiliği olan yapı Joint Venture (Ortak Girişim)dir."
+                                                 },
+                                                 {
+                                                     "statement":  "İki firmanın birleşmesi durumunda kârlı işletmenin kârı ile zararlı işletmenin zararı mahsup edilebildiğinden vergi avantajı sağlanır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Zarar mahsubu imkânı sayesinde vergi matrahı düşer ve birleşme vergi avantajı sağlar."
+                                                 },
+                                                 {
+                                                     "statement":  "Dikey birleşme, aynı sektörde aynı seviyede mal üreten iki rakip firmanın birleşmesidir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Rakiplerin birleşmesi Yatay Birleşmedir. Dikey birleşme tedarik zincirindeki alıcı (dağıtıcı) veya satıcı (tedarikçi) firma ile gerçekleşir."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Bir otomotiv üreticisinin, kendisine oto lastiği üreten tedarikçi firmayı satın alarak bünyesine katması aşağıdaki büyüme ve birleşme türlerinden hangisine örnektir?",
+                                                "options":  [
+                                                                "Yatay Birleşme",
+                                                                "Geriye Doğru Dikey Birleşme",
+                                                                "İleriye Doğru Dikey Birleşme",
+                                                                "Çapraz (Kümeli) Birleşme"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "İşletmenin gereksinim duyduğu hammadde veya ara mamulü üreten tedarikçi ile birleşmesi \u0027Geriye Doğru Dikey Birleşme\u0027dir. Pazarlama ve dağıtım kanalıyla birleşme ise \u0027İleriye Doğru Dikey Birleşme\u0027dir."
+                                            },
+                                            {
+                                                "q":  "Aşağıdaki iş birliği türlerinden hangisinde katılan işletmeler ticari unvanlarını ve markalarını korumakla birlikte \u0027ekonomik bağımsızlıklarını\u0027 kaybederek tek bir merkezin parçası haline gelirler?",
+                                                "options":  [
+                                                                "Centilmenlik Anlaşması",
+                                                                "Konsorsiyum",
+                                                                "Konsern",
+                                                                "Kartel"
+                                                            ],
+                                                "answer":  2,
+                                                "explanation":  "Konsern yapısına giren işletmeler unvanlarını korusalar da ekonomik bağımsızlıklarını kaybederler ve finansal yönetimleri tek merkezden yürütülür."
+                                            }
+                                        ]
                   }
               ]
 }
