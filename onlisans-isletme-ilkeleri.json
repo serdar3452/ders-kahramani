@@ -126,6 +126,126 @@
                                                 "explanation":  "İşletmenin temel fonksiyonları Üretim ve Pazarlamadır. Yönetim genel fonksiyon; finans, insan kaynakları, Ar-Ge vb. ise yardımcı fonksiyonlardır."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u2",
+                      "number":  2,
+                      "term":  1,
+                      "exam":  "1. Dönem / Vize Sınavı Kapsamı",
+                      "name":  "2. Ünite: İşletme ve Çevresi",
+                      "badge":  "🌍 Çevre \u0026 Rekabet Stratejisti",
+                      "icon":  "fa-compass",
+                      "boss":  {
+                                   "name":  "Çevresel Belirsizlik Lordu \u0027Makro \u0026 Mikro\u0027 Ejderhası",
+                                   "introText":  "İşletmenin dış çevresini (PEST/PESTEL), Porter\u0027ın 5 rekabet gücünü ve çevresel belirsizlik düzeylerini analiz edemeyen bu sınavı geçemez!",
+                                   "defeatText":  "Muazzam çevre analizi! Makro ve mikro çevre değişkenlerini analiz edip SWOT ve PEST teknikleriyle belirsizliği aşarak vizeyi kazandın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 İşletme Çevresi, Çevresel Belirsizlik ve Uyum Teknikleri",
+                                          "summary":  "2. Ünitede bilinmesi gereken temel çevre boyutları ve analiz teknikleri:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. İşletme Çevre Katmanları:\u003c/strong\u003e Küresel Çevre (dünya çapındaki eğilimler ve teknoloji), Makro Çevre (politik, ekonomik, sosyo-kültürel, teknolojik, demografik, yasal - işletmenin kontrol edemediği dış çevre), Mikro Çevre (müşteriler, tedarikçiler, rakipler, iş gücü piyasası, düzenleyici kurumlar - sektör seviyesi) ve İşletme İçi Çevre (sahipler, yöneticiler, çalışanlar, örgüt kültürü).",
+                                                         "\u003cstrong\u003e2. Porter\u0027ın 5 Rekabet Gücü (Mikro Çevre):\u003c/strong\u003e Sektöre giriş engelleri, ikame ürünlerin varlığı, tedarikçilerin pazarlık gücü, müşterilerin pazarlık gücü ve mevcut rakipler arasındaki rekabet.",
+                                                         "\u003cstrong\u003e3. Çevresel Belirsizlik Düzeyleri:\u003c/strong\u003e Çevresel faktör sayısına göre Basit-Karmaşık; değişim hızına göre Statik-Dinamik. Yüksek belirsizlik = Karmaşık ve Dinamik çevre.",
+                                                         "\u003cstrong\u003e4. Dış Çevreye Uyum Politikaları:\u003c/strong\u003e Paydaşlarla yakın ilişki kurma, birleşme/ortak girişim (joint venture) yapma, esnek/organik örgüt yapılarına geçme ve dış çevreyi analiz etme.",
+                                                         "\u003cstrong\u003e5. Dış Çevre Analiz Teknikleri:\u003c/strong\u003e PEST Analizi (Politik, Ekonomik, Sosyo-kültürel, Teknolojik), SWOT Analizi (Güçlü/Zayıf yönler = İç çevre; Fırsat/Tehditler = Dış çevre), Delphi Tekniği (uzman görüşleri uzlaşısı), Senaryo Hazırlama ve Trend Analizi."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda SWOT analizindeki Güçlü/Zayıf yönlerin İÇ çevreye, Fırsat/Tehditlerin DIŞ çevreye ait olduğu ve Porter\u0027ın 5 Rekabet Gücü modeli çok sık sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "SWOT analizinde \u0027Fırsatlar\u0027 ve \u0027Tehditler\u0027 hangi çevrenin analiz edilmesiyle ortaya çıkar?",
+                                                             "options":  [
+                                                                             "İç Çevre",
+                                                                             "Dış Çevre",
+                                                                             "Sadece Şirket Yönetimi",
+                                                                             "Departmanlar"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "İşletmenin dışındaki makro ve mikro dinamiklerden beslenir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "İşletmenin doğrudan kontrol edemediği, PESTEL faktörlerini içeren çevre katmanı hangisidir?",
+                                             "a":  "Makro Çevre (Uzak Çevre)",
+                                             "hint":  "Politik, ekonomik, sosyo-kültürel etkenler"
+                                         },
+                                         {
+                                             "q":  "SWOT analizinde Fırsatlar ve Tehditler hangi çevre analizinden elde edilir?",
+                                             "a":  "Dış Çevre (Makro ve Mikro Çevre) analizinden",
+                                             "hint":  "İşletmenin dışındaki gelişmeler"
+                                         },
+                                         {
+                                             "q":  "Çevresel belirsizliğin en yüksek olduğu çevre koşulu hangisidir?",
+                                             "a":  "Karmaşık ve Dinamik Çevre",
+                                             "hint":  "Çok sayıda değişken ve hızlı değişim"
+                                         },
+                                         {
+                                             "q":  "Uzmanların birbirlerinden habersiz olarak görüş bildirip uzlaşmaya vardıkları tahmin tekniği nedir?",
+                                             "a":  "Delphi Tekniği",
+                                             "hint":  "Uzman paneli ve anonim görüş bildirme"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "PEST Analizi",
+                                                "match":  "Politik, Ekonomik, Sosyo-kültürel ve Teknolojik makro çevre analizi"
+                                            },
+                                            {
+                                                "term":  "Porter\u0027ın 5 Rekabet Gücü",
+                                                "match":  "Sektör düzeyindeki (mikro çevre) rekabet yapısını açıklayan model"
+                                            },
+                                            {
+                                                "term":  "Organik Örgüt Yapısı",
+                                                "match":  "Yüksek çevresel belirsizlikte kararların hızlı alındığı esnek yapı"
+                                            },
+                                            {
+                                                "term":  "Mikro Çevre",
+                                                "match":  "İşletmenin faaliyette bulunduğu sektördeki tedarikçi, müşteri ve rakipler"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "SWOT analizinde işletmenin Güçlü ve Zayıf yönleri dış çevre analizine dayanır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Güçlü ve zayıf yönler işletme İÇİ çevreye aittir; Fırsat ve Tehditler dış çevreye aittir."
+                                                 },
+                                                 {
+                                                     "statement":  "Statik ve basit bir çevrede faaliyet gösteren işletmelerde çevresel belirsizlik düşüktür.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Faktör sayısının az (basit) ve değişim hızının yavaş (statik) olduğu durumlarda belirsizlik düşüktür."
+                                                 },
+                                                 {
+                                                     "statement":  "Tedarikçiler ve müşteriler işletmenin makro çevre unsurları arasında yer alır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Tedarikçi ve müşteriler sektör düzeyindeki MİKRO çevre unsurlarıdır."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi işletmenin makro (uzak) çevre faktörleri arasında yer ALMAZ?",
+                                                "options":  [
+                                                                "Ekonomik Çevre",
+                                                                "Demografik Çevre",
+                                                                "Politik ve Yasal Çevre",
+                                                                "Rakipler ve Tedarikçiler"
+                                                            ],
+                                                "answer":  3,
+                                                "explanation":  "Rakipler ve tedarikçiler işletmenin MİKRO (yakın/sektörel) çevresinde yer alır. Diğerleri makro çevre faktörleridir."
+                                            },
+                                            {
+                                                "q":  "Aşağıdaki tekniklerden hangisi makro ve mikro çevredeki fırsat ve tehditler ile işletmenin güçlü ve zayıf yönlerini eş zamanlı incelemeyi sağlar?",
+                                                "options":  [
+                                                                "PEST Analizi",
+                                                                "SWOT Analizi",
+                                                                "Delphi Tekniği",
+                                                                "Trend Analizi"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "SWOT analizi (Strengths, Weaknesses, Opportunities, Threats) iç çevredeki güçlü/zayıf yönler ile dış çevredeki fırsat/tehditleri birlikte değerlendirir."
+                                            }
+                                        ]
                   }
               ]
 }
