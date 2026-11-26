@@ -846,6 +846,126 @@
                                                 "explanation":  "Ortak Pazar (Common Market) aşamasında mal ve hizmetlerin yanı sıra üretim faktörleri de (iş gücü ve sermaye) serbest dolaşım hakkı kazanır."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u8",
+                      "number":  8,
+                      "term":  2,
+                      "exam":  "Büyük Final Şampiyonluğu",
+                      "name":  "8. Ünite: İşletme Fonksiyonları",
+                      "badge":  "👑 İşletme Fonksiyonları \u0026 Sistem Lideri",
+                      "icon":  "fa-gears",
+                      "boss":  {
+                                   "name":  "Sistem \u0026 Mimar \u0027İşletme Fonksiyonları\u0027 Üstadı",
+                                   "introText":  "İşletmenin sistem yaklaşımını (girdi, süreç, çıktı, geri bildirim), genel fonksiyon olan yönetimi (planlama, örgütleme, yöneltme, denetim), temel (üretim, pazarlama) ve yardımcı fonksiyonlarını (finans, muhasebe, İKY, Ar-Ge, halkla ilişkiler) bilmeyen bu son sınavı geçemez!",
+                                   "defeatText":  "Muazzam bir orkestra şefi gibi! Genel, temel ve yardımcı fonksiyonların uyumunu kavrayıp işletme sistemini mükemmel kurarak 8. Ünite Boss\u0027unu mağlup ettin ve İşletme İlkeleri dersini başarıyla tamamladın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 Bir Sistem Olarak İşletme, Genel, Temel ve Yardımcı Fonksiyonlar",
+                                          "summary":  "8. Ünitede bilinmesi gereken işletmeyi sistem olarak ele alan yaklaşım ve tüm işletme fonksiyonları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Sistem Olarak İşletme ve Bileşenleri:\u003c/strong\u003e İşletme; girdi (insan, para, malzeme, bilgi), dönüşüm süreci, çıktı (ürün/hizmet), geri bildirim ve kontrol ögelerinden oluşan açık bir sosyo-teknik sistemdir.",
+                                                         "\u003cstrong\u003e2. Genel Fonksiyon (Yönetim):\u003c/strong\u003e Diğer tüm fonksiyonları koordine eden çatı fonksiyondur. Süreci: Planlama, Örgütleme, Yöneltme ve Denetim (Kontrol). Üst yönetimde kavramsal, orta yönetimde beşeri, alt yönetimde teknik beceri ön plandadır.",
+                                                         "\u003cstrong\u003e3. Temel Fonksiyonlar (Gelir Yaratan):\u003c/strong\u003e Üretim (girdileri ürün/hizmete dönüştürme; planlama, yer seçimi, kalite kontrol, tedarik zinciri) ve Pazarlama (4P: Ürün, Fiyat, Dağıtım, Tutundurma).",
+                                                         "\u003cstrong\u003e4. Yardımcı / Destek Fonksiyonları:\u003c/strong\u003e Finansman (fon temini ve yönetimi), Muhasebe (mali işlemleri kaydetme, sınıflama, özetleme, raporlama), İnsan Kaynakları Yönetimi (nitelikli iş gücünü seçme, eğitme, performans ve ücret yönetimi), Ar-Ge ve İnovasyon (temel/uygulamalı araştırma, geliştirme) ve Halkla İlişkiler (paydaşlar ve kamuoyuyla olumlu ilişki kurma).",
+                                                         "\u003cstrong\u003e5. Fonksiyonlar Arası Etkileşim:\u003c/strong\u003e Pazarlama talebi tespit eder ve Ar-Ge ile üretime iletir, üretim üretir, İKY insan kaynağını sağlar, finans fon sağlar, muhasebe kaydeder, yönetim ise tüm bu çarkı hedeflere doğru döndürür."
+                                                     ],
+                                          "examTip":  "💡 Final/Sınav Tüyosu: Sınavlarda en çok \u0027İşletmenin Genel (Yönetim), Temel (Üretim, Pazarlama) ve Yardımcı (Finans, Muhasebe, İKY, Ar-Ge, Halkla İlişkiler) fonksiyon ayrımı\u0027 ile Pazarlama Karması (4P) ve Yönetim seviyelerinde aranan beceri türleri sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "İşletmenin diğer tüm fonksiyonlarını birbiriyle koordine eden, planlama, örgütleme, yöneltme ve denetim aşamalarından oluşan \u0027Genel Fonksiyon\u0027 hangisidir?",
+                                                             "options":  [
+                                                                             "Pazarlama",
+                                                                             "Muhasebe",
+                                                                             "Yönetim",
+                                                                             "İnsan Kaynakları"
+                                                                         ],
+                                                             "answer":  2,
+                                                             "hint":  "Çatı koordinasyon fonksiyonudur."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "İşletmenin \u0027Genel Fonksiyonu\u0027 olarak kabul edilen ve tüm diğer fonksiyonları koordine eden çatı fonksiyon hangisidir?",
+                                             "a":  "Yönetim Fonksiyonu",
+                                             "hint":  "Planlama, örgütleme, yöneltme ve denetim süreci"
+                                         },
+                                         {
+                                             "q":  "İşletmenin gelir getiren \u0027Temel Fonksiyonları\u0027 hangileridir?",
+                                             "a":  "Üretim ve Pazarlama",
+                                             "hint":  "Ürün/hizmet meydana getirme ve müşteriye ulaştırma"
+                                         },
+                                         {
+                                             "q":  "Pazarlama karmasını oluşturan 4P unsurları nelerdir?",
+                                             "a":  "Ürün (Product), Fiyat (Price), Dağıtım (Place), Tutundurma (Promotion)",
+                                             "hint":  "Pazarlama stratejisinin 4 temel ayağı"
+                                         },
+                                         {
+                                             "q":  "Üst kademe yöneticilerde ön planda olması gereken, işletmeyi bir bütün olarak görebilme yeteneğine ne ad verilir?",
+                                             "a":  "Kavramsal Beceri (Conceptual Skill)",
+                                             "hint":  "Stratejik ve bütünsel bakış yeteneği"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Geri Bildirim (Feedback)",
+                                                "match":  "Sistemin performansı hakkındaki verilerin toplanıp kontrol mekanizmasına iletilmesi"
+                                            },
+                                            {
+                                                "term":  "Muhasebe",
+                                                "match":  "Mali nitelikteki işlemleri kaydetme, sınıflandırma, özetleme ve raporlama süreci"
+                                            },
+                                            {
+                                                "term":  "İş Değerlemesi",
+                                                "match":  "İşletmedeki her işin göreceli değerini belirleyerek adil ücret sistemi kurmayı sağlayan teknik"
+                                            },
+                                            {
+                                                "term":  "Uygulamalı Araştırma",
+                                                "match":  "Belirli ticari amaçlar veya ürün/üretim süreçleri üzerinde yeni bilgi elde etmeyi hedefleyen Ar-Ge türü"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Halkla ilişkiler ve İnsan Kaynakları Yönetimi işletmenin gelir yaratan temel fonksiyonları arasında yer alır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İşletmenin temel (gelir getiren) fonksiyonları Üretim ve Pazarlamadır; Halkla İlişkiler ve İKY ise destek/yardımcı fonksiyonlardır."
+                                                 },
+                                                 {
+                                                     "statement":  "Alt kademe yöneticilerde (şef, gözetmen vb.) uzmanlaşmış bilgi ve araç kullanımını gerektiren teknik beceri ön plandadır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Alt kademede teknik beceri, orta kademede beşeri (insan ilişkileri) beceri, üst kademede ise kavramsal beceri ağırlıktadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Geniş anlamda pazarlama faaliyeti sadece üretim bittikten sonra başlayan bir satış sürecidir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Modern ve geniş anlamda pazarlama, üretimden hatta yatırım fikrinden önce müşteri ihtiyaçlarını belirlemekle başlar."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "İşletme fonksiyonlarının sınıflandırılması dikkate alındığında, aşağıdakilerden hangisi \u0027İşletmenin Yardımcı (Destek) Fonksiyonları\u0027 arasında yer ALMAZ?",
+                                                "options":  [
+                                                                "İnsan Kaynakları Yönetimi",
+                                                                "Pazarlama",
+                                                                "Halkla İlişkiler",
+                                                                "Araştırma ve Geliştirme (Ar-Ge)"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Pazarlama (Üretim ile birlikte) işletmenin \u0027Temel\u0027 fonksiyonudur. İKY, Halkla İlişkiler, Ar-Ge, Muhasebe ve Finansman ise \u0027Yardımcı\u0027 fonksiyonlardır."
+                                            },
+                                            {
+                                                "q":  "Yönetim düzeyleri ve sahip olunması gereken yönetsel beceriler eşleştirildiğinde; genel müdür, başkan gibi \u0027Üst Kademe Yöneticilerde\u0027 en çok bulunması beklenen yönetsel beceri aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Teknik Beceri",
+                                                                "Kavramsal Beceri",
+                                                                "Beşeri İlişkiler Becerisi",
+                                                                "Operasyonel Beceri"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Üst kademe yöneticilerde işletmeyi bütün olarak görme, strateji geliştirme ve çevreyi analiz etmeyi sağlayan \u0027Kavramsal Beceri\u0027 en ön plandadır."
+                                            }
+                                        ]
                   }
               ]
 }
