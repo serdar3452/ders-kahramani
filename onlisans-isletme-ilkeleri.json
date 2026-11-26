@@ -1,10 +1,131 @@
 {
-  "courseId": "onlisans-isletme-ilkeleri",
-  "courseName": "İşletme İlkeleri",
-  "grade": "Ön Lisans (İşletme & Muhasebe)",
-  "badge": "💼 Girişimci & İşletmeci",
-  "icon": "💼",
-  "color": "amber",
-  "totalUnits": 8,
-  "units": []
+    "courseId":  "onlisans-isletme-ilkeleri",
+    "courseName":  "İşletme İlkeleri",
+    "grade":  "Ön Lisans (İşletme \u0026 Muhasebe)",
+    "badge":  "💼 Girişimci \u0026 İşletmeci",
+    "icon":  "💼",
+    "color":  "amber",
+    "totalUnits":  8,
+    "units":  [
+                  {
+                      "id":  "onlisans-isi-u1",
+                      "number":  1,
+                      "term":  1,
+                      "exam":  "1. Dönem / Vize Sınavı Kapsamı",
+                      "name":  "1. Ünite: İşletme ve İşletmecilik ile İlgili Kavramlar",
+                      "badge":  "🚀 Girişimcilik Öncüsü",
+                      "icon":  "fa-lightbulb",
+                      "boss":  {
+                                   "name":  "Müteşebbis \u0027Kâr ve Risk\u0027 Canavarı",
+                                   "introText":  "Üretim faktörlerini bir araya getiremeyen, girişimci ile yönetici arasındaki farkı bilmeyen ve işletmenin temel amaçlarını kavramayan bu sınavı geçemez!",
+                                   "defeatText":  "Tebrikler! Üretim faktörlerini mükemmel organize ettin, kâr ve risk dengesini kurarak 1. Ünite Boss\u0027unu mağlup ettin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 İşletme, Örgüt ve Üretim Faktörleri",
+                                          "summary":  "1. Ünitede bilinmesi gereken çekirdek işletmecilik kavramları ve üretim faktörleri:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. İşletme ve Örgüt Tanımı:\u003c/strong\u003e İşletme; kâr amacı güderek insanların ihtiyaç duyduğu mal ve hizmetleri üreten/satan ekonomik ve sosyal birimlerdir. Örgüt ise insanların tek başlarına başaramayacakları amaçları bir araya gelerek gerçekleştirdikleri iş bölümü sistemidir.",
+                                                         "\u003cstrong\u003e2. Üretim Faktörleri ve Gelirleri:\u003c/strong\u003e Doğal kaynaklar (Rant), Emek/İş gücü (Ücret), Sermaye (Faiz) ve Girişimci (Kâr). Günümüzde bilgi ve teknoloji de bu faktörleri tamamlayan kritik unsurlardır.",
+                                                         "\u003cstrong\u003e3. Girişimci ile Yönetici Arasındaki Fark:\u003c/strong\u003e Girişimci riski üstlenip kâr veya zarara katlanan kişidir. Yönetici ise kâr ve riski başkalarına (işletme sahibine/girişimciye) ait olmak üzere işletmeyi yöneten profesyoneldir.",
+                                                         "\u003cstrong\u003e4. İşletmenin Temel Amaçları:\u003c/strong\u003e Ekonomik amaçlar (Kârlılık, Büyüme, Süreklilik) ve Ekonomik Olmayan Amaçlar (Çıkar gruplarının ve sosyal paydaşların beklentilerini karşılama, sosyal sorumluluk).",
+                                                         "\u003cstrong\u003e5. İşletme Fonksiyonları:\u003c/strong\u003e Genel fonksiyon (Yönetim); Temel fonksiyonlar (Üretim, Pazarlama); Yardımcı fonksiyonlar (Muhasebe/Finans, İnsan Kaynakları, Ar-Ge, Halkla İlişkiler)."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda en çok \u0027Girişimci ile Yönetici arasındaki temel fark\u0027 (Risk ve kâra katlanma) ile \u0027İşletmenin 3 temel ekonomik amacı\u0027 (Kârlılık, Büyüme, Süreklilik) sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "İşletme faaliyetlerinde kâr veya zarar etme riskini doğrudan kendi üzerine alan ve üretim faktörlerini bir araya getiren kişi hangisidir?",
+                                                             "options":  [
+                                                                             "Yönetici",
+                                                                             "Girişimci (Müteşebbis)",
+                                                                             "Denetçi",
+                                                                             "Danışman"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "Kâr ve risk doğrudan bu kişiye aittir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Girişimci ile yönetici arasındaki en temel fark nedir?",
+                                             "a":  "Girişimci riski üstlenip kâr ve zarara katlanır; yönetici ise riski üstlenmeden işletmeyi yönetir.",
+                                             "hint":  "Risk ve kâr-zarar sorumluluğu"
+                                         },
+                                         {
+                                             "q":  "İşletmenin üç temel ekonomik amacı nelerdir?",
+                                             "a":  "Kârlılık, Büyüme ve Süreklilik",
+                                             "hint":  "Ortakların beklediği temel finansal hedefler"
+                                         },
+                                         {
+                                             "q":  "Üretim faktörlerinden \u0027Emek\u0027 faktörünün elde ettiği gelir türü nedir?",
+                                             "a":  "Ücret",
+                                             "hint":  "İş gücünün karşılığı"
+                                         },
+                                         {
+                                             "q":  "İşletmenin temel (gelir getiren) iki fonksiyonu hangileridir?",
+                                             "a":  "Üretim ve Pazarlama",
+                                             "hint":  "Mal/hizmet oluşturma ve müşteriye ulaştırma"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Doğal Kaynaklar (Toprak)",
+                                                "match":  "Rant geliri elde eden üretim faktörü"
+                                            },
+                                            {
+                                                "term":  "Girişimci (Müteşebbis)",
+                                                "match":  "Üretim faktörlerini bir araya getirip riski üstlenen ve kâr hedefleyen kişi"
+                                            },
+                                            {
+                                                "term":  "Yönetici",
+                                                "match":  "Riski başkasına ait olmak üzere üretimi yönlendiren ve kararları alan profesyonel"
+                                            },
+                                            {
+                                                "term":  "Süreklilik",
+                                                "match":  "İşletmenin uzun dönemde varlığını devam ettirme amacı"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Yönetici, işletmenin kurulmasında tüm finansal riski üstlenen ve kâr/zarara doğrudan katlanan kişidir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Riski üstlenen ve kâr/zarara katlanan kişi girişimcidir (müteşebbis). Yönetici profesyonel olarak çalışır."
+                                                 },
+                                                 {
+                                                     "statement":  "İşletmenin üç temel ekonomik amacı kârlılık, büyüme ve sürekliliktir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Bu üç amaç birbirini tamamlar ve işletmenin uzun vadeli yaşamını sağlar."
+                                                 },
+                                                 {
+                                                     "statement":  "Hizmetler soyut, depolanamayan ve üretildiği an tüketilen ürünlerdir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hizmetlerin en belirgin özelliği soyut olmaları ve stoklanamamalarıdır."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi üretim faktörleri ve onların elde ettiği gelir eşleştirmelerinden biri DEĞİLDİR?",
+                                                "options":  [
+                                                                "Emek - Ücret",
+                                                                "Sermaye - Faiz",
+                                                                "Doğal Kaynaklar - Rant",
+                                                                "Yönetici - Kâr"
+                                                            ],
+                                                "answer":  3,
+                                                "explanation":  "Kâr, üretim faktörlerinden \u0027Girişimci\u0027nin (müteşebbis) elde ettiği gelirdir. Yönetici ise emek karşılığı maaş/ücret alır ve riski üstlenmez."
+                                            },
+                                            {
+                                                "q":  "İşletmenin \u0027ürün üreten ve müşteriye ulaştırarak doğrudan gelir yaratan\u0027 temel fonksiyonları aşağıdakilerin hangisinde birlikte verilmiştir?",
+                                                "options":  [
+                                                                "Yönetim ve İnsan Kaynakları",
+                                                                "Üretim ve Pazarlama",
+                                                                "Muhasebe ve Finans",
+                                                                "Ar-Ge ve Halkla İlişkiler"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "İşletmenin temel fonksiyonları Üretim ve Pazarlamadır. Yönetim genel fonksiyon; finans, insan kaynakları, Ar-Ge vb. ise yardımcı fonksiyonlardır."
+                                            }
+                                        ]
+                  }
+              ]
 }
