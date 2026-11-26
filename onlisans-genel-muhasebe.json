@@ -1,1 +1,145 @@
-﻿{"id":"onlisans-genel-muhasebe","name":"Genel Muhasebe","icon":"📊","color":"emerald","badge":"Mali Müşavir Adayı","description":"Temel Bilanço Eşitliği, Muhasebe Süreci, Varlıklar, Kaynaklar ve Dönem Sonu Kayıtları!","title":"Ön Lisans: Genel Muhasebe Zirvesi","subtitle":"Ders Kitabından Damıtılmış Vize/Final Sınav Taktikleri ve Test Havuzu","grade":"Ön Lisans (Muhasebe \u0026 İktisat)","term":"Güz ve Bahar Dönemi Kapsamı","units":[{"id":"onlisans-muhasebe-u1","number":1,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"1. Ünite: Muhasebeye Giriş","badge":"⚖️ Bilanço Fatihi","color":"emerald","icon":"fa-calculator","boss":{"name":"Bilanço Lordu \u0027Aktif-Pasif Dengesi\u0027","hp":100,"avatar":"🧑‍💼","introText":"Varlıkların kaynaklara eşit olduğunu (Aktif = Pasif) ve temel muhasebe ilkelerini bilmeyen vizeden geçemez!","defeatText":"Harika muhasebeci! Çift taraflı kayıt sistemini ve temel bilanço eşitliğini kavrayıp sınavı geçtin!"},"lessons":[{"step":1,"title":"📖 Temel Muhasebe Kavramları ve Bilanço Eşitliği","summary":"1. Ünitede bilinmesi gereken çekirdek muhasebe kuralları:","points":["\u003cstrong\u003e1. Temel Bilanço Eşitliği:\u003c/strong\u003e Varlıklar (Aktif) = Kaynaklar (Pasif) ➔ Yani Varlıklar = Borçlar (Yabancı Kaynaklar) + Öz Kaynaklar.","\u003cstrong\u003e2. Temel Muhasebe Kavramları:\u003c/strong\u003e Kişilik kavramı (işletmenin sahibinden ayrı kişiliği), Dönemsellik kavramı, Süreklilik kavramı, İhtiyatlılık kavramı ve Parayla Ölçülme kavramı.","\u003cstrong\u003e3. Bilanço ve Gelir Tablosu Ayrımı:\u003c/strong\u003e Bilanço işletmenin belli bir andaki finansal fotoğrafıdır (Statik); Gelir Tablosu ise belli bir dönemin faaliyet sonucunu (Kâr/Zarar) gösterir (Dinamik).","\u003cstrong\u003e4. Hesapların İşleyiş Kuralı:\u003c/strong\u003e Aktif karakterli hesaplar ilk açılışta veya artış olduğunda BORÇ tarafına; azalış olduğunda ALACAK tarafına kaydedilir."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda en çok \u0027Kişilik\u0027 ve \u0027Dönemsellik\u0027 kavramları sorulur. İşletme sahibinin şahsi harcamalarını şirket kasasından yapmaması \u0027Kişilik\u0027 kavramının sonucudur!","quickCheck":{"q":"İşletmenin sahip olduğu varlıkların toplamı aşağıdakilerden hangisine daima eşittir?","options":["Kaynaklar (Borçlar + Öz Kaynaklar)","Yalnızca Dönem Net Kârı","Kasa Hesabı Bakiyesi"],"correct":0,"explanation":"Tebrikler! Temel bilanço eşitliği gereği Aktif = Pasif (Varlıklar = Kaynaklar) dengesi asla bozulmaz."}}],"flashcards":[{"q":"Bilanço eşitliği nasıldır?","front":"Bilanço eşitliği nasıldır?","a":"Varlıklar (Aktif) = Borçlar + Öz Kaynaklar (Pasif)","back":"Aktif = Pasif (Varlıklar = Kaynaklar)","hint":"Temel muhasebe denkliği"},{"q":"Aktif hesaplarda artış hangi tarafa yazılır?","front":"Aktif hesaplarda artış hangi tarafa yazılır?","a":"Borç tarafına (Sol tarafa)","back":"Borç (Sol)","hint":"Kasa, banka artışları"}],"matchingPairs":[{"id":1,"term":"Kişilik Kavramı","left":"Kişilik Kavramı","match":"İşletmenin sahibinden bağımsız kişiliği","right":"İşletmenin sahibinden bağımsız kişiliği","category":"Muhasebe İlkesi"},{"id":2,"term":"Dönemsellik Kavramı","left":"Dönemsellik Kavramı","match":"Ömrün zaman dilimlerine bölünmesi","right":"Ömrün zaman dilimlerine bölünmesi","category":"Muhasebe İlkesi"},{"id":3,"term":"İhtiyatlılık Kavramı","left":"İhtiyatlılık Kavramı","match":"Risk ve giderler için karşılık ayrılması","right":"Risk ve giderler için karşılık ayrılması","category":"Muhasebe İlkesi"}],"trueFalseQuestions":[{"statement":"Bilanço işletmenin belirli bir tarihteki mali durumunu gösteren statik bir tablodur.","question":"Bilanço işletmenin belirli bir tarihteki mali durumunu gösteren statik bir tablodur.","isTrue":true,"explanation":"Doğru! Bilanço belli bir andaki finansal fotoğrafı çeker."},{"statement":"Aktif karakterli bir hesapta artış olduğunda alacak tarafına yazılır.","question":"Aktif karakterli bir hesapta artış olduğunda alacak tarafına yazılır.","isTrue":false,"explanation":"Yanlış! Aktif hesaplarda artış daima BORÇ tarafına yazılır."}],"speedQuestions":[{"statement":"Bilanço eşitliği Aktif = Pasif midir?","question":"Bilanço eşitliği Aktif = Pasif midir?","options":["Evet","Hayır"],"answer":0,"isTrue":true,"explanation":"Temel bilanço denkliği Aktif = Pasif\u0027tir."}],"quizQuestions":[{"q":"İşletme sahibinin kişisel harcamalarını işletme kasasından karşılamaması ve şirket gideri olarak göstermemesi aşağıdaki muhasebe temel kavramlarından hangisinin bir gereğidir?","options":["Kişilik Kavramı","Dönemsellik Kavramı","Parayla Ölçülme Kavramı","Önemlilik Kavramı"],"answer":0,"explanation":"Kişilik kavramı gereğince işletme, sahiplerinden ve ortaklarından ayrı bağımsız bir hukuki ve iktisadi kişiliğe sahiptir."}]},{"id":"onlisans-muhasebe-u2","number":2,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"2. Ünite: Bilgi İşleme ve Muhasebe Süreci","badge":"📜 Yevmiye \u0026 Mizan Ustası","color":"sky","icon":"fa-book","boss":{"name":"Yevmiye \u0026 Mizan Muhafızı \u0027Kapanmaz Bakiye\u0027","hp":100,"avatar":"🧑‍💼","introText":"Borç ve alacak kayıtlarının eşitliğini sağlayamayan, Yevmiye Defteri ile Büyük Defter arasındaki aktarımı çözemeyen mizanda dengeyi kuramaz!","defeatText":"Tebrikler muhasebeci! Borç-Alacak işleyiş kurallarını, yevmiye maddelerini ve mizanın mantığını kusursuz kavradın!"},"lessons":[{"step":1,"title":"📖 Hesap Kavramı, Yevmiye Defteri ve Muhasebe Süreci","summary":"2. Ünitede bilinmesi gereken çekirdek muhasebe ve defter tutma kuralları:","points":["\u003cstrong\u003e1. Borçlandırma ve Alacaklandırma Kuralları:\u003c/strong\u003e Aktif (Varlık) ve Gider hesaplarında artışlar BORÇ, azalışlar ALACAK tarafına; Pasif (Kaynak) ve Gelir hesaplarında artışlar ALACAK, azalışlar BORÇ tarafına yazılır.","\u003cstrong\u003e2. Yevmiye Defteri ve Madde Türleri:\u003c/strong\u003e İşlemlerin kronolojik kaydıdır. Tek borçlu-tek alacaklı hesabı içeren \u0027Basit Madde\u0027, birden fazla borçlu veya alacaklı hesabı içeren \u0027Bileşik Madde\u0027 ve çoklu borçlu-alacaklı hesabı içeren \u0027Karışık Madde\u0027 türleri vardır.","\u003cstrong\u003e3. Büyük Defter (Defter-i Kebir) ve Mizan:\u003c/strong\u003e Yevmiye kayıtları niteliklerine göre Büyük Defter hesaplarına aktarılarak sınıflandırılır. Mizandaki borç-alacak toplamlarının eşitliği kayıtların matematiksel doğruluğunu kontrol eder.","\u003cstrong\u003e4. Muhasebe Sürecinin Adımları:\u003c/strong\u003e Açılış bilançosu ➔ Yevmiye açılış kaydı ➔ Dönem içi kayıtlar ➔ Genel geçici mizan ➔ Envanter (Düzeltme) kayıtları ➔ Kesin mizan ➔ Dönem sonu bilançosu."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda hesap kalanları sorulur: Aktif ve Gider hesapları daima Borç kalanı verir (veya kalan vermez); Pasif ve Gelir hesapları ise daima Alacak kalanı verir (veya kalan vermez)!","quickCheck":{"q":"Aktif (varlık) ve gider hesaplarında artışlar hesabın hangi tarafına kaydedilir?","options":["Borç tarafına (Sol tarafa)","Alacak tarafına (Sağ tarafa)","Dönem kârı hesabına"],"correct":0,"explanation":"Tebrikler! Varlık ve gider hesaplarında artışlar daima BORÇ tarafına yazılır."}}],"flashcards":[{"q":"Varlık (Aktif) hesaplarında ilk açılış ve artışlar hesabın hangi tarafına kaydedilir?","front":"Varlık (Aktif) hesaplarında ilk açılış ve artışlar hesabın hangi tarafına kaydedilir?","a":"Borç tarafına (Sol tarafa)","back":"Borç tarafına (Sol)","hint":"Kasa, Banka, Mal gibi varlık hesapları"},{"q":"Yevmiye defterindeki kayıtların matematiksel olarak doğruluğunu kontrol etmek için düzenlenen tabloya ne ad verilir?","front":"Yevmiye defterindeki kayıtların matematiksel olarak doğruluğunu kontrol etmek için düzenlenen tabloya ne ad verilir?","a":"Mizan","back":"Mizan","hint":"Borç ve alacak toplamlarının eşitliği kontrol edilir"}],"matchingPairs":[{"id":1,"term":"Yevmiye Defteri","left":"Yevmiye Defteri","match":"Tarih sırasına (kronolojik) göre kaydedilen yasal defter","right":"Tarih sırasına (kronolojik) göre kaydedilen yasal defter","category":"Muhasebe Defteri"},{"id":2,"term":"Büyük Defter","left":"Büyük Defter","match":"Hesap bazında sınıflandırma yapılan çift sayfalı defter","right":"Hesap bazında sınıflandırma yapılan çift sayfalı defter","category":"Muhasebe Defteri"},{"id":3,"term":"Kesin Mizan","left":"Kesin Mizan","match":"Envanter ve düzeltmelerden sonra çıkarılan son mizan","right":"Envanter ve düzeltmelerden sonra çıkarılan son mizan","category":"Muhasebe Tablosu"}],"trueFalseQuestions":[{"statement":"Gelir ve gider hesapları dönem sonunda Dönem Kârı veya Zararı hesabına devredilerek kapatıldığı için bilançoda yer almazlar.","question":"Gelir ve gider hesapları dönem sonunda Dönem Kârı veya Zararı hesabına devredilerek kapatıldığı için bilançoda yer almazlar.","isTrue":true,"explanation":"Doğru! Gelir ve gider hesapları devredilerek kapatılır, bilançoda sadece kalan veren bilanço hesapları yer alır."},{"statement":"Bir yevmiye maddesinde bir hesap borçlandırılırken birden fazla hesap alacaklandırılıyorsa bu maddeye basit madde denir.","question":"Bir yevmiye maddesinde bir hesap borçlandırılırken birden fazla hesap alacaklandırılıyorsa bu maddeye basit madde denir.","isTrue":false,"explanation":"Yanlış! Bir taraf birden fazla hesap içeriyorsa bu \u0027Bileşik Madde\u0027dir. Basit maddede tek borçlu ve tek alacaklı hesap bulunur."}],"speedQuestions":[{"statement":"Kasa hesabı alacak kalanı verebilir mi?","question":"Kasa hesabı alacak kalanı verebilir mi?","options":["Hayır (Daima borç kalanı verir veya sıfırdır)","Evet"],"answer":0,"isTrue":true,"explanation":"Kasada olmayan para harcanamayacağından kasa hesabı asla alacak kalanı veremez."}],"quizQuestions":[{"q":"Aktif karakterli bir hesap olan \u0027100 Kasa Hesabı\u0027 ile ilgili aşağıdaki ifadelerden hangisi doğrudur?","options":["Kasaya para girdiğinde hesap alacaklandırılır.","Kasa hesabı dönem sonunda her zaman alacak kalanı verir.","Kasadan para çıktığında hesap borçlandırılır.","Kasa hesabı her zaman borç kalanı verir veya kalan vermez."],"answer":3,"explanation":"Aktif hesaplar (varlık hesapları) artışta borçlanır, azalışta alacaklanır. Bu nedenle daima borç kalanı verir veya sıfır (kalan vermez) olur, asla alacak kalanı veremez."}]}]}
+{"id":"onlisans-genel-muhasebe","name":"Genel Muhasebe","icon":"📊","color":"emerald","badge":"Mali Müşavir Adayı","description":"Temel Bilanço Eşitliği, Muhasebe Süreci, Varlıklar, Kaynaklar ve Dönem Sonu Kayıtları!","title":"Ön Lisans: Genel Muhasebe Zirvesi","subtitle":"Ders Kitabından Damıtılmış Vize/Final Sınav Taktikleri ve Test Havuzu","grade":"Ön Lisans (Muhasebe \u0026 İktisat)","term":"Güz ve Bahar Dönemi Kapsamı","units":[{
+  "unitName": "3. Ünite: Dönen Varlıklar",
+  "boss": {
+    "name": "Dönen Varlık Muhafızı 'Likidite ve KDV Üstadı'",
+    "introText": "Hazır değerleri, senetli alacak reeskontunu, stok hesaplarını ve KDV mahsup kaydını çözemeyen dönen varlıkları yönetemez!",
+    "defeatText": "Tebrikler muhasebeci! Nakit akışını, ticari alacakları ve KDV işlemlerini eksiksiz kavrayıp vizeyi fethettin!"
+  },
+  "lessons": [
+    {
+      "title": "📖 Dönen Varlıklar, Stoklar ve KDV İşlemleri",
+      "summary": "3. Ünitede bilinmesi gereken çekirdek muhasebe ve kayıt kuralları:",
+      "points": [
+        "<strong>1. Hazır Değerler ve Menkul Kıymetler:</strong> İşletmenin kasasındaki nakit (100 Kasa), bankadaki parası (102 Bankalar), aldığı çekler (101 Alınan Çekler) ve geçici yatırım amaçlı hisse senetleri dönen varlıklardır. 103 Verilen Çekler (-) hesabı aktif düzenleyici pasif karakterli hesaptır.",
+        "<strong>2. Ticari Alacaklar ve Şüpheli Alacaklar:</strong> Senetsiz alacaklar '120 Alıcılar', senetli alacaklar '121 Alacak Senetleri' hesabında izlenir. Tahsili şüpheli hale gelen alacaklar için '128 Şüpheli Ticari Alacaklar' hesabı açılır ve '654 Karşılık Giderleri' ile karşılık ayrılır.",
+        "<strong>3. Stok İşlemleri (Ticari Mallar):</strong> Aralıklı envanter ve aralıksız envanter yöntemleri kullanılır. Mal alışında '153 Ticari Mallar' borçlanır; mal satışında '600 Yurtiçi Satışlar' alacaklanır.",
+        "<strong>4. KDV Kayıtları ve Mahsubu:</strong> Mal/hizmet alırken '191 İndirilecek KDV' (Borçlu); satarken '391 Hesaplanan KDV' (Alacaklı) kullanılır. Ay sonunda 391 > 191 ise aradaki fark '360 Ödenecek Vergi ve Fonlar' hesabına, 191 > 391 ise '190 Devreden KDV' hesabına aktarılır."
+      ],
+      "examTip": "💡 Vize Sınav Tüyosu: Sınavlarda KDV mahsup kaydı kesin sorulur! Ay sonunda 391 Hesaplanan KDV ve 191 İndirilecek KDV hesapları karşılıklı kapatılır. 391 büyükse devlete vergi ödenir (360), 191 büyükse sonraki aya devreder (190)!"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Mal satın alındığında ödenen KDV hangi hesapta takip edilir?",
+      "a": "191 İndirilecek KDV Hesabı (Borç tarafında)",
+      "hint": "Alış KDV'si"
+    },
+    {
+      "q": "Aktifte yer almasına rağmen eksi (-) işaretli olan '103 Verilen Çekler ve Ödeme Emirleri' hesabının niteliği nedir?",
+      "a": "Aktifi düzenleyici pasif karakterli hesap (Alacak kalanı verir/Alacaktan çalışır)",
+      "hint": "Düzenleyici hesap"
+    }
+  ],
+  "matchingPairs": [
+    {
+      "term": "100 Kasa Hesabı",
+      "match": "İşletmenin elindeki ulusal ve yabancı paraların izlendiği hazır değer hesabı"
+    },
+    {
+      "term": "191 İndirilecek KDV",
+      "match": "Mal ve hizmet satın alınırken ödenen ve indirilebilecek KDV hesabı"
+    },
+    {
+      "term": "121 Alacak Senetleri",
+      "match": "İşletmenin ticari faaliyetinden doğan senetli alacaklarının izlendiği hesap"
+    }
+  ],
+  "trueFalseQuestions": [
+    {
+      "statement": "Ay sonunda 391 Hesaplanan KDV tutarı, 191 İndirilecek KDV tutarından büyükse aradaki fark 190 Devreden KDV hesabına yazılır.",
+      "isTrue": false,
+      "explanation": "Yanlış! 391 (satış KDV) 191'den (alış KDV) büyükse devlete ödenecek vergi doğar ve '360 Ödenecek Vergi ve Fonlar' hesabına yazılır."
+    },
+    {
+      "statement": "153 Ticari Mallar hesabı aktif bir hesap olduğu için mal alışlarında borçlandırılır.",
+      "isTrue": true,
+      "explanation": "Doğru! Ticari mallar varlık hesabıdır ve alışlarda/artışlarda BORÇ tarafına yazılır."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "q": "İşletme ay sonunda 191 İndirilecek KDV hesabının bakiyesinin 15.000 TL, 391 Hesaplanan KDV hesabının bakiyesinin ise 20.000 TL olduğunu tespit etmiştir. Yapılacak KDV mahsup kaydı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "190 Devreden KDV hesabı 5.000 TL borçlandırılır.",
+        "360 Ödenecek Vergi ve Fonlar hesabı 5.000 TL alacaklandırılır.",
+        "191 İndirilecek KDV hesabı 15.000 TL borçlandırılır.",
+        "391 Hesaplanan KDV hesabı 20.000 TL alacaklandırılır."
+      ],
+      "answer": 1,
+      "explanation": "KDV kapatma kaydında 391 (20.000 TL) borçlandırılarak, 191 (15.000 TL) alacaklandırılarak kapatılır. Satış KDV'si daha büyük olduğu için aradaki 5.000 TL fark devlete ödenecek vergidir ve '360 Ödenecek Vergi ve Fonlar' hesabının ALACAK tarafına yazılır."
+    }
+  ]
+},{"id":"onlisans-muhasebe-u1","number":1,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"1. Ünite: Muhasebeye Giriş","badge":"⚖️ Bilanço Fatihi","color":"emerald","icon":"fa-calculator","boss":{"name":"Bilanço Lordu \u0027Aktif-Pasif Dengesi\u0027","hp":100,"avatar":"🧑‍💼","introText":"Varlıkların kaynaklara eşit olduğunu (Aktif = Pasif) ve temel muhasebe ilkelerini bilmeyen vizeden geçemez!","defeatText":"Harika muhasebeci! Çift taraflı kayıt sistemini ve temel bilanço eşitliğini kavrayıp sınavı geçtin!"},"lessons":[{"step":1,"title":"📖 Temel Muhasebe Kavramları ve Bilanço Eşitliği","summary":"1. Ünitede bilinmesi gereken çekirdek muhasebe kuralları:","points":["\u003cstrong\u003e1. Temel Bilanço Eşitliği:\u003c/strong\u003e Varlıklar (Aktif) = Kaynaklar (Pasif) ➔ Yani Varlıklar = Borçlar (Yabancı Kaynaklar) + Öz Kaynaklar.","\u003cstrong\u003e2. Temel Muhasebe Kavramları:\u003c/strong\u003e Kişilik kavramı (işletmenin sahibinden ayrı kişiliği), Dönemsellik kavramı, Süreklilik kavramı, İhtiyatlılık kavramı ve Parayla Ölçülme kavramı.","\u003cstrong\u003e3. Bilanço ve Gelir Tablosu Ayrımı:\u003c/strong\u003e Bilanço işletmenin belli bir andaki finansal fotoğrafıdır (Statik); Gelir Tablosu ise belli bir dönemin faaliyet sonucunu (Kâr/Zarar) gösterir (Dinamik).","\u003cstrong\u003e4. Hesapların İşleyiş Kuralı:\u003c/strong\u003e Aktif karakterli hesaplar ilk açılışta veya artış olduğunda BORÇ tarafına; azalış olduğunda ALACAK tarafına kaydedilir."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda en çok \u0027Kişilik\u0027 ve \u0027Dönemsellik\u0027 kavramları sorulur. İşletme sahibinin şahsi harcamalarını şirket kasasından yapmaması \u0027Kişilik\u0027 kavramının sonucudur!","quickCheck":{"q":"İşletmenin sahip olduğu varlıkların toplamı aşağıdakilerden hangisine daima eşittir?","options":["Kaynaklar (Borçlar + Öz Kaynaklar)","Yalnızca Dönem Net Kârı","Kasa Hesabı Bakiyesi"],"correct":0,"explanation":"Tebrikler! Temel bilanço eşitliği gereği Aktif = Pasif (Varlıklar = Kaynaklar) dengesi asla bozulmaz."}}],"flashcards":[{"q":"Bilanço eşitliği nasıldır?","front":"Bilanço eşitliği nasıldır?","a":"Varlıklar (Aktif) = Borçlar + Öz Kaynaklar (Pasif)","back":"Aktif = Pasif (Varlıklar = Kaynaklar)","hint":"Temel muhasebe denkliği"},{"q":"Aktif hesaplarda artış hangi tarafa yazılır?","front":"Aktif hesaplarda artış hangi tarafa yazılır?","a":"Borç tarafına (Sol tarafa)","back":"Borç (Sol)","hint":"Kasa, banka artışları"}],"matchingPairs":[{"id":1,"term":"Kişilik Kavramı","left":"Kişilik Kavramı","match":"İşletmenin sahibinden bağımsız kişiliği","right":"İşletmenin sahibinden bağımsız kişiliği","category":"Muhasebe İlkesi"},{"id":2,"term":"Dönemsellik Kavramı","left":"Dönemsellik Kavramı","match":"Ömrün zaman dilimlerine bölünmesi","right":"Ömrün zaman dilimlerine bölünmesi","category":"Muhasebe İlkesi"},{"id":3,"term":"İhtiyatlılık Kavramı","left":"İhtiyatlılık Kavramı","match":"Risk ve giderler için karşılık ayrılması","right":"Risk ve giderler için karşılık ayrılması","category":"Muhasebe İlkesi"}],"trueFalseQuestions":[{"statement":"Bilanço işletmenin belirli bir tarihteki mali durumunu gösteren statik bir tablodur.","question":"Bilanço işletmenin belirli bir tarihteki mali durumunu gösteren statik bir tablodur.","isTrue":true,"explanation":"Doğru! Bilanço belli bir andaki finansal fotoğrafı çeker."},{"statement":"Aktif karakterli bir hesapta artış olduğunda alacak tarafına yazılır.","question":"Aktif karakterli bir hesapta artış olduğunda alacak tarafına yazılır.","isTrue":false,"explanation":"Yanlış! Aktif hesaplarda artış daima BORÇ tarafına yazılır."}],"speedQuestions":[{"statement":"Bilanço eşitliği Aktif = Pasif midir?","question":"Bilanço eşitliği Aktif = Pasif midir?","options":["Evet","Hayır"],"answer":0,"isTrue":true,"explanation":"Temel bilanço denkliği Aktif = Pasif\u0027tir."}],"quizQuestions":[{"q":"İşletme sahibinin kişisel harcamalarını işletme kasasından karşılamaması ve şirket gideri olarak göstermemesi aşağıdaki muhasebe temel kavramlarından hangisinin bir gereğidir?","options":["Kişilik Kavramı","Dönemsellik Kavramı","Parayla Ölçülme Kavramı","Önemlilik Kavramı"],"answer":0,"explanation":"Kişilik kavramı gereğince işletme, sahiplerinden ve ortaklarından ayrı bağımsız bir hukuki ve iktisadi kişiliğe sahiptir."}]},{"id":"onlisans-muhasebe-u2","number":2,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"2. Ünite: Bilgi İşleme ve Muhasebe Süreci","badge":"📜 Yevmiye \u0026 Mizan Ustası","color":"sky","icon":"fa-book","boss":{"name":"Yevmiye \u0026 Mizan Muhafızı \u0027Kapanmaz Bakiye\u0027","hp":100,"avatar":"🧑‍💼","introText":"Borç ve alacak kayıtlarının eşitliğini sağlayamayan, Yevmiye Defteri ile Büyük Defter arasındaki aktarımı çözemeyen mizanda dengeyi kuramaz!","defeatText":"Tebrikler muhasebeci! Borç-Alacak işleyiş kurallarını, yevmiye maddelerini ve mizanın mantığını kusursuz kavradın!"},"lessons":[{"step":1,"title":"📖 Hesap Kavramı, Yevmiye Defteri ve Muhasebe Süreci","summary":"2. Ünitede bilinmesi gereken çekirdek muhasebe ve defter tutma kuralları:","points":["\u003cstrong\u003e1. Borçlandırma ve Alacaklandırma Kuralları:\u003c/strong\u003e Aktif (Varlık) ve Gider hesaplarında artışlar BORÇ, azalışlar ALACAK tarafına; Pasif (Kaynak) ve Gelir hesaplarında artışlar ALACAK, azalışlar BORÇ tarafına yazılır.","\u003cstrong\u003e2. Yevmiye Defteri ve Madde Türleri:\u003c/strong\u003e İşlemlerin kronolojik kaydıdır. Tek borçlu-tek alacaklı hesabı içeren \u0027Basit Madde\u0027, birden fazla borçlu veya alacaklı hesabı içeren \u0027Bileşik Madde\u0027 ve çoklu borçlu-alacaklı hesabı içeren \u0027Karışık Madde\u0027 türleri vardır.","\u003cstrong\u003e3. Büyük Defter (Defter-i Kebir) ve Mizan:\u003c/strong\u003e Yevmiye kayıtları niteliklerine göre Büyük Defter hesaplarına aktarılarak sınıflandırılır. Mizandaki borç-alacak toplamlarının eşitliği kayıtların matematiksel doğruluğunu kontrol eder.","\u003cstrong\u003e4. Muhasebe Sürecinin Adımları:\u003c/strong\u003e Açılış bilançosu ➔ Yevmiye açılış kaydı ➔ Dönem içi kayıtlar ➔ Genel geçici mizan ➔ Envanter (Düzeltme) kayıtları ➔ Kesin mizan ➔ Dönem sonu bilançosu."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda hesap kalanları sorulur: Aktif ve Gider hesapları daima Borç kalanı verir (veya kalan vermez); Pasif ve Gelir hesapları ise daima Alacak kalanı verir (veya kalan vermez)!","quickCheck":{"q":"Aktif (varlık) ve gider hesaplarında artışlar hesabın hangi tarafına kaydedilir?","options":["Borç tarafına (Sol tarafa)","Alacak tarafına (Sağ tarafa)","Dönem kârı hesabına"],"correct":0,"explanation":"Tebrikler! Varlık ve gider hesaplarında artışlar daima BORÇ tarafına yazılır."}}],"flashcards":[{"q":"Varlık (Aktif) hesaplarında ilk açılış ve artışlar hesabın hangi tarafına kaydedilir?","front":"Varlık (Aktif) hesaplarında ilk açılış ve artışlar hesabın hangi tarafına kaydedilir?","a":"Borç tarafına (Sol tarafa)","back":"Borç tarafına (Sol)","hint":"Kasa, Banka, Mal gibi varlık hesapları"},{"q":"Yevmiye defterindeki kayıtların matematiksel olarak doğruluğunu kontrol etmek için düzenlenen tabloya ne ad verilir?","front":"Yevmiye defterindeki kayıtların matematiksel olarak doğruluğunu kontrol etmek için düzenlenen tabloya ne ad verilir?","a":"Mizan","back":"Mizan","hint":"Borç ve alacak toplamlarının eşitliği kontrol edilir"}],"matchingPairs":[{"id":1,"term":"Yevmiye Defteri","left":"Yevmiye Defteri","match":"Tarih sırasına (kronolojik) göre kaydedilen yasal defter","right":"Tarih sırasına (kronolojik) göre kaydedilen yasal defter","category":"Muhasebe Defteri"},{"id":2,"term":"Büyük Defter","left":"Büyük Defter","match":"Hesap bazında sınıflandırma yapılan çift sayfalı defter","right":"Hesap bazında sınıflandırma yapılan çift sayfalı defter","category":"Muhasebe Defteri"},{"id":3,"term":"Kesin Mizan","left":"Kesin Mizan","match":"Envanter ve düzeltmelerden sonra çıkarılan son mizan","right":"Envanter ve düzeltmelerden sonra çıkarılan son mizan","category":"Muhasebe Tablosu"}],"trueFalseQuestions":[{"statement":"Gelir ve gider hesapları dönem sonunda Dönem Kârı veya Zararı hesabına devredilerek kapatıldığı için bilançoda yer almazlar.","question":"Gelir ve gider hesapları dönem sonunda Dönem Kârı veya Zararı hesabına devredilerek kapatıldığı için bilançoda yer almazlar.","isTrue":true,"explanation":"Doğru! Gelir ve gider hesapları devredilerek kapatılır, bilançoda sadece kalan veren bilanço hesapları yer alır."},{"statement":"Bir yevmiye maddesinde bir hesap borçlandırılırken birden fazla hesap alacaklandırılıyorsa bu maddeye basit madde denir.","question":"Bir yevmiye maddesinde bir hesap borçlandırılırken birden fazla hesap alacaklandırılıyorsa bu maddeye basit madde denir.","isTrue":false,"explanation":"Yanlış! Bir taraf birden fazla hesap içeriyorsa bu \u0027Bileşik Madde\u0027dir. Basit maddede tek borçlu ve tek alacaklı hesap bulunur."}],"speedQuestions":[{"statement":"Kasa hesabı alacak kalanı verebilir mi?","question":"Kasa hesabı alacak kalanı verebilir mi?","options":["Hayır (Daima borç kalanı verir veya sıfırdır)","Evet"],"answer":0,"isTrue":true,"explanation":"Kasada olmayan para harcanamayacağından kasa hesabı asla alacak kalanı veremez."}],"quizQuestions":[{"q":"Aktif karakterli bir hesap olan \u0027100 Kasa Hesabı\u0027 ile ilgili aşağıdaki ifadelerden hangisi doğrudur?","options":["Kasaya para girdiğinde hesap alacaklandırılır.","Kasa hesabı dönem sonunda her zaman alacak kalanı verir.","Kasadan para çıktığında hesap borçlandırılır.","Kasa hesabı her zaman borç kalanı verir veya kalan vermez."],"answer":3,"explanation":"Aktif hesaplar (varlık hesapları) artışta borçlanır, azalışta alacaklanır. Bu nedenle daima borç kalanı verir veya sıfır (kalan vermez) olur, asla alacak kalanı veremez."}]}]}
+
+{
+  "unitName": "3. Ünite: Dönen Varlıklar",
+  "boss": {
+    "name": "Dönen Varlık Muhafızı 'Likidite ve KDV Üstadı'",
+    "introText": "Hazır değerleri, senetli alacak reeskontunu, stok hesaplarını ve KDV mahsup kaydını çözemeyen dönen varlıkları yönetemez!",
+    "defeatText": "Tebrikler muhasebeci! Nakit akışını, ticari alacakları ve KDV işlemlerini eksiksiz kavrayıp vizeyi fethettin!"
+  },
+  "lessons": [
+    {
+      "title": "📖 Dönen Varlıklar, Stoklar ve KDV İşlemleri",
+      "summary": "3. Ünitede bilinmesi gereken çekirdek muhasebe ve kayıt kuralları:",
+      "points": [
+        "<strong>1. Hazır Değerler ve Menkul Kıymetler:</strong> İşletmenin kasasındaki nakit (100 Kasa), bankadaki parası (102 Bankalar), aldığı çekler (101 Alınan Çekler) ve geçici yatırım amaçlı hisse senetleri dönen varlıklardır. 103 Verilen Çekler (-) hesabı aktif düzenleyici pasif karakterli hesaptır.",
+        "<strong>2. Ticari Alacaklar ve Şüpheli Alacaklar:</strong> Senetsiz alacaklar '120 Alıcılar', senetli alacaklar '121 Alacak Senetleri' hesabında izlenir. Tahsili şüpheli hale gelen alacaklar için '128 Şüpheli Ticari Alacaklar' hesabı açılır ve '654 Karşılık Giderleri' ile karşılık ayrılır.",
+        "<strong>3. Stok İşlemleri (Ticari Mallar):</strong> Aralıklı envanter ve aralıksız envanter yöntemleri kullanılır. Mal alışında '153 Ticari Mallar' borçlanır; mal satışında '600 Yurtiçi Satışlar' alacaklanır.",
+        "<strong>4. KDV Kayıtları ve Mahsubu:</strong> Mal/hizmet alırken '191 İndirilecek KDV' (Borçlu); satarken '391 Hesaplanan KDV' (Alacaklı) kullanılır. Ay sonunda 391 > 191 ise aradaki fark '360 Ödenecek Vergi ve Fonlar' hesabına, 191 > 391 ise '190 Devreden KDV' hesabına aktarılır."
+      ],
+      "examTip": "💡 Vize Sınav Tüyosu: Sınavlarda KDV mahsup kaydı kesin sorulur! Ay sonunda 391 Hesaplanan KDV ve 191 İndirilecek KDV hesapları karşılıklı kapatılır. 391 büyükse devlete vergi ödenir (360), 191 büyükse sonraki aya devreder (190)!"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Mal satın alındığında ödenen KDV hangi hesapta takip edilir?",
+      "a": "191 İndirilecek KDV Hesabı (Borç tarafında)",
+      "hint": "Alış KDV'si"
+    },
+    {
+      "q": "Aktifte yer almasına rağmen eksi (-) işaretli olan '103 Verilen Çekler ve Ödeme Emirleri' hesabının niteliği nedir?",
+      "a": "Aktifi düzenleyici pasif karakterli hesap (Alacak kalanı verir/Alacaktan çalışır)",
+      "hint": "Düzenleyici hesap"
+    }
+  ],
+  "matchingPairs": [
+    {
+      "term": "100 Kasa Hesabı",
+      "match": "İşletmenin elindeki ulusal ve yabancı paraların izlendiği hazır değer hesabı"
+    },
+    {
+      "term": "191 İndirilecek KDV",
+      "match": "Mal ve hizmet satın alınırken ödenen ve indirilebilecek KDV hesabı"
+    },
+    {
+      "term": "121 Alacak Senetleri",
+      "match": "İşletmenin ticari faaliyetinden doğan senetli alacaklarının izlendiği hesap"
+    }
+  ],
+  "trueFalseQuestions": [
+    {
+      "statement": "Ay sonunda 391 Hesaplanan KDV tutarı, 191 İndirilecek KDV tutarından büyükse aradaki fark 190 Devreden KDV hesabına yazılır.",
+      "isTrue": false,
+      "explanation": "Yanlış! 391 (satış KDV) 191'den (alış KDV) büyükse devlete ödenecek vergi doğar ve '360 Ödenecek Vergi ve Fonlar' hesabına yazılır."
+    },
+    {
+      "statement": "153 Ticari Mallar hesabı aktif bir hesap olduğu için mal alışlarında borçlandırılır.",
+      "isTrue": true,
+      "explanation": "Doğru! Ticari mallar varlık hesabıdır ve alışlarda/artışlarda BORÇ tarafına yazılır."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "q": "İşletme ay sonunda 191 İndirilecek KDV hesabının bakiyesinin 15.000 TL, 391 Hesaplanan KDV hesabının bakiyesinin ise 20.000 TL olduğunu tespit etmiştir. Yapılacak KDV mahsup kaydı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "190 Devreden KDV hesabı 5.000 TL borçlandırılır.",
+        "360 Ödenecek Vergi ve Fonlar hesabı 5.000 TL alacaklandırılır.",
+        "191 İndirilecek KDV hesabı 15.000 TL borçlandırılır.",
+        "391 Hesaplanan KDV hesabı 20.000 TL alacaklandırılır."
+      ],
+      "answer": 1,
+      "explanation": "KDV kapatma kaydında 391 (20.000 TL) borçlandırılarak, 191 (15.000 TL) alacaklandırılarak kapatılır. Satış KDV'si daha büyük olduğu için aradaki 5.000 TL fark devlete ödenecek vergidir ve '360 Ödenecek Vergi ve Fonlar' hesabının ALACAK tarafına yazılır."
+    }
+  ]
+}
