@@ -1,1 +1,1106 @@
-{"id":"onlisans-saglik-kurumlari-yonetimi","name":"Sağlık Kurumları Yönetimi","icon":"🏥","color":"indigo","badge":"Hastane Yöneticisi","description":"Sağlık Hizmetleri, Kalite, Pazarlama, İnsan Kaynakları, Tedarik Zinciri ve Finansman!","title":"Ön Lisans: Sağlık Kurumları Yönetimi","subtitle":"Ders Kitabından Damıtılmış Vize/Final Sınav Taktikleri ve Test Havuzu","grade":"Ön Lisans (Sağlık)","term":"Güz ve Bahar Dönemi Kapsamı","units":[{"id":"onlisans-sky-u1","number":1,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"1. Ünite: Sağlık ve Sağlık Hizmetlerinin Özellikleri","badge":"🏥 Sağlık Sistemi \u0026 DSÖ Fatihi","color":"indigo","icon":"fa-hospital","boss":{"name":"Sağlık Sistemi Muhafızı \u0027Kapsayıcı Lordu\u0027","hp":100,"avatar":"👨‍⚕️","introText":"Sağlık tanımını, DSÖ\u0027nün 6 yapı taşını ve Türkiye\u0027deki basamaklı sağlık sistemini kavramayan bu sınavı geçemez!","defeatText":"Harika sağlık yöneticisi! DSÖ ilkelerini, DALY/QALY ölçütlerini ve sağlık hizmeti basamaklarını mükemmel kavrayarak bölümü geçtin!"},"lessons":[{"step":1,"title":"📖 Sağlık Kavramı, DSÖ Sağlık Sistemi ve Genel Sağlık Kapsayıcılığı","summary":"1. Ünitede bilinmesi gereken çekirdek sağlık yönetimi kuralları:","points":["\u003cstrong\u003e1. Sağlık Tanımı (DSÖ):\u003c/strong\u003e Sağlık; sadece hastalık ve sakatlığın olmayışı değil, bedence, ruhça ve sosyal yönden tam bir iyilik hâlidir.","\u003cstrong\u003e2. DSÖ Sağlık Sisteminin 6 Yapı Taşı:\u003c/strong\u003e Hizmet sunumu, sağlık insan gücü, enformasyon sistemi, tıbbi ürün-aşı ve teknolojiler, sağlık finansmanı ile liderlik ve yönetişim.","\u003cstrong\u003e3. Koruyucu Sağlık Hizmetleri ve Basamaklar:\u003c/strong\u003e Birincil koruma (hastalanmadan önleme/aşı), İkincil koruma (erken teşhis/tedavi). Türkiye\u0027de sağlık sunumu 1. Basamak (ASM, TSM), 2. Basamak (Devlet ve Özel Hastaneler) ve 3. Basamak (Üniversite ve Eğitim-Araştırma Hastaneleri) olarak örgütlenmiştir.","\u003cstrong\u003e4. Hastalık Yükü Ölçütleri ve Sistem Hedefleri:\u003c/strong\u003e DALY (hastalık nedeniyle kaybedilen yıllar) ve QALY (nitelikli yaşanan ömür) hastalık yükünü ölçer; sistem hedefleri ise hakkaniyet, cevap verebilirlik, verimlilik ve finansal/sosyal riskten koruyuculuktur."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda DSÖ\u0027nün 6 yapı taşı, DALY/QALY tanımları ile 1., 2. ve 3. basamak sağlık kuruluşlarının görev ayrımları çok sık sorulur!","quickCheck":{"q":"Dünya Sağlık Örgütüne (DSÖ) göre sağlık hangi boyutlarda tam iyilik halidir?","options":["Bedensel, ruhsal ve sosyal yönden","Yalnızca bedensel yönden","Sadece laboratuvar sonuçları iyi olma durumu"],"correct":0,"explanation":"Tebrikler! Sağlık; bedence, ruhça ve sosyal yönden tam bir iyilik halidir."}}],"flashcards":[{"q":"Dünya Sağlık Örgütüne (DSÖ) göre sağlık nedir?","front":"Dünya Sağlık Örgütüne (DSÖ) göre sağlık nedir?","a":"Sadece hastalık ve sakatlığın olmayışı değil, bedence, ruhça ve sosyal yönden tam iyilik hâlidir.","back":"Bedensel, Ruhsal ve Sosyal Tam İyilik Hali","hint":"Üç boyutlu iyilik hâli"},{"q":"DALY ve QALY neyi ifade eder?","front":"DALY ve QALY neyi ifade eder?","a":"DALY hastalık nedeniyle kaybedilen yılları, QALY ise yıl bazında nitelikli yaşanan ömrü ifade eder.","back":"DALY (Kaybedilen Yıllar) / QALY (Kaliteli Yıllar)","hint":"Hastalık yükü ölçütleri"},{"q":"Türkiye\u0027de Aile Sağlığı Merkezleri (ASM) hangi basamakta yer alır?","front":"Türkiye\u0027de Aile Sağlığı Merkezleri (ASM) hangi basamakta yer alır?","a":"Birinci basamak sağlık hizmetleri örgütlenmesinde yer alır.","back":"Birinci Basamak","hint":"Temel ve koruyucu hizmetler"},{"q":"Aşılama ve üreme sağlığı hizmetleri hangi koruma seviyesine girer?","front":"Aşılama ve üreme sağlığı hizmetleri hangi koruma seviyesine girer?","a":"Birincil koruyucu sağlık hizmetlerine girer.","back":"Birincil Koruyuculuk","hint":"Hastalık ortaya çıkmadan alınan önlemler"}],"matchingPairs":[{"id":1,"term":"Birincil Koruyuculuk","left":"Birincil Koruyuculuk","match":"Kişiler hastalanmadan önce yapılan aşı ve bağışıklama çalışmaları","right":"Kişiler hastalanmadan önce yapılan aşı ve bağışıklama çalışmaları","category":"Koruma Düzeyi"},{"id":2,"term":"DALY","left":"DALY","match":"Hastalıklar nedeniyle ömürden kaybedilen yılları gösteren ölçüt","right":"Hastalıklar nedeniyle ömürden kaybedilen yılları gösteren ölçüt","category":"Hastalık Yükü"},{"id":3,"term":"QALY","left":"QALY","match":"Yıl bazında nitelikli ve sağlıklı yaşanan ömrü gösteren ölçüt","right":"Yıl bazında nitelikli ve sağlıklı yaşanan ömrü gösteren ölçüt","category":"Yaşam Kalitesi"},{"id":4,"term":"Genel Sağlık Kapsayıcılığı (UHC)","left":"Genel Sağlık Kapsayıcılığı (UHC)","match":"Herkesin ihtiyaç duyduğu hizmetlere finansal güçlük çekmeden erişmesi","right":"Herkesin ihtiyaç duyduğu hizmetlere finansal güçlük çekmeden erişmesi","category":"Sağlık Hedefi"}],"trueFalseQuestions":[{"statement":"DSÖ tanımına göre sağlık, sadece vücutta herhangi bir hastalığın veya sakatlığın bulunmaması durumudur.","question":"DSÖ tanımına göre sağlık, sadece vücutta herhangi bir hastalığın veya sakatlığın bulunmaması durumudur.","isTrue":false,"explanation":"Yanlış! Sağlık bedensel, ruhsal ve sosyal yönden tam bir iyilik halini kapsar."},{"statement":"İkincil koruyucu hizmetlerin temel amacı, hastalığı erken teşhis ve tedavi ederek ilerlemesini önlemektir.","question":"İkincil koruyucu hizmetlerin temel amacı, hastalığı erken teşhis ve tedavi ederek ilerlemesini önlemektir.","isTrue":true,"explanation":"Doğru! İkincil koruma erken tanı ve tedavi odaklıdır."},{"statement":"Üniversite hastaneleri ve Eğitim-Araştırma hastaneleri Türkiye sağlık sisteminde 3. basamak sağlık hizmeti sunar.","question":"Üniversite hastaneleri ve Eğitim-Araştırma hastaneleri Türkiye sağlık sisteminde 3. basamak sağlık hizmeti sunar.","isTrue":true,"explanation":"Doğru! Tıp eğitimi verilen ve ileri tıbbi bakım sunan bu hastaneler 3. basamaktır."}],"speedQuestions":[{"statement":"Aşı hizmetleri birincil koruma mıdır?","question":"Aşı hizmetleri birincil koruma mıdır?","options":["Evet (Hastalık öncesi önlem)","Hayır"],"answer":0,"isTrue":true,"explanation":"Aşı ve bağışıklama doğrudan birincil koruyucu sağlık hizmetidir."}],"quizQuestions":[{"q":"Aşağıdakilerden hangisi Dünya Sağlık Örgütünün (DSÖ) Sağlık Sistemi Çerçevesi Modeli\u0027nde yer alan 6 yapı taşından biri değildir?","options":["Sağlık finansmanı","Liderlik ve yönetişim","Sağlık insan gücü","Toplumsal sınıf ayrımı"],"answer":3,"explanation":"DSÖ modelinde 6 yapı taşı: Hizmet sunumu, insan gücü, enformasyon, tıbbi ürün/teknoloji, finansman ve liderlik/yönetişimdir."},{"q":"Hastalık yükünün ölçütü olarak kullanılan ve hastalıklar nedeniyle ömürden kaybedilen yılları ifade eden kavram aşağıdakilerden hangisidir?","options":["DALY (Disability Adjusted Life Years)","QALY (Quality Adjusted Life Years)","UHC (Universal Health Coverage)","SUT (Sağlık Uygulama Tebliği)"],"answer":0,"explanation":"DALY (Yeti Kaybına Ayarlanmış Ömür), hastalık nedeniyle ömürden kaybedilen yılları ölçer."}]},{"id":"onlisans-sky-u2","number":2,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"2. Ünite: Yönetim ve Sağlık Kurumlarında Yönetim","badge":"📋 Yönetim \u0026 Strateji Uzmanı","color":"indigo","icon":"fa-users-gear","boss":{"name":"Yönetsel Karmaşa Lordu \u0027Takım Elbiseli Beyaz Önlük\u0027","hp":100,"avatar":"👨‍⚕️","introText":"Yönetimin 6 temel işlevini, bilgi asimetrisinden kaynaklanan sunucu talebini ve kanıta dayalı karar araçlarını bilmeyen bu seviyeyi geçemez!","defeatText":"Mükemmel yönetim stratejisti! Planlama, örgütleme ve kanıta dayalı karar mekanizmalarını çözerek kurumsal karmaşayı sonlandırdın!"},"lessons":[{"step":1,"title":"📖 Yönetim İşlevleri, Sağlık Yönetiminin Özellikleri ve Karar Verme","summary":"2. Ünitede bilinmesi gereken çekirdek yönetim ve karar alma kuralları:","points":["\u003cstrong\u003e1. Yönetimin Temel İşlevleri:\u003c/strong\u003e Durum saptama ve ihtiyaç analizi, Planlama, Örgütleme, Kadrolaşma, Yönlendirme ve Denetleme.","\u003cstrong\u003e2. Sağlık Yönetimini Farklı Kılan Özellikler:\u003c/strong\u003e Sunulan hizmetlerin heterojenliği/soyutluğu, iş ve meslek çeşitliliği, hekim özerkliği ve paternalist tutumu ile kendine özgü ekonomik dinamikler.","\u003cstrong\u003e3. Sağlık Ekonomisi Riskleri:\u003c/strong\u003e Bilgi asimetrisi nedeniyle \u0027Sunucu Tarafından Oluşturulan Talep\u0027 ve sigorta sistemlerinde görülen \u0027Ahlaki Tehlike (Moral Hazard)\u0027.","\u003cstrong\u003e4. Karar Verme ve Dijital Araçlar:\u003c/strong\u003e Karar verme seçenekler arasından en uygununu seçmektir. Kanıta dayalı karar vermede Karar Ağacı, Karar Destek Sistemleri ve Algoritmalar kullanılır."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda \u0027Sunucu Tarafından Oluşturulan Talep\u0027, yönetimin 6 temel işlevi ve \u0027Planlama\u0027 işlevinin özellikleri (dinamik, geleceğe dönük, revizyona açık) sıkça sorulur!","quickCheck":{"q":"Sağlık hizmetlerinde hekimin bilgi avantajını kullanarak hasta adına gereksiz tetkik/tedavi talep etmesine ne ad verilir?","options":["Sunucu Tarafından Oluşturulan Talep","Ters Seçim","Piyasa Denge Talebi"],"correct":0,"explanation":"Tebrikler! Bilgi asimetrisi hekimin hasta adına sunucu kaynaklı talep oluşturmasına yol açabilir."}}],"flashcards":[{"q":"Sağlık hizmetlerinde hekimin bilgi üstünlüğü (bilgi asimetrisi) nedeniyle ortaya çıkan talep türü nedir?","front":"Sağlık hizmetlerinde hekimin bilgi üstünlüğü (bilgi asimetrisi) nedeniyle ortaya çıkan talep türü nedir?","a":"Sunucu Tarafından Oluşturulan Talep","back":"Sunucu Tarafından Oluşturulan Talep","hint":"Talebi hizmeti veren belirler"},{"q":"Yetki, sorumluluk ve raporlama ilişkilerinin kurulduğu yönetim işlevi hangisidir?","front":"Yetki, sorumluluk ve raporlama ilişkilerinin kurulduğu yönetim işlevi hangisidir?","a":"Örgütleme","back":"Örgütleme (Organize Etme)","hint":"Yapılanma ve iş bölümü oluşturma"},{"q":"Belli bir problemi çözmek veya bir amaca ulaşmak için tasarlanan mantıksal adımlar dizisine ne ad verilir?","front":"Belli bir problemi çözmek veya bir amaca ulaşmak için tasarlanan mantıksal adımlar dizisine ne ad verilir?","a":"Algoritma","back":"Algoritma","hint":"Karar alma ve işlem akış yolu"},{"q":"Hekimlerin hastaları adına en iyisini bildiklerini varsayan geleneksel tutuma ne ad verilir?","front":"Hekimlerin hastaları adına en iyisini bildiklerini varsayan geleneksel tutuma ne ad verilir?","a":"Paternalist Tavır","back":"Paternalist Tavır","hint":"Aşırı korumacı/babaç yaklaşım"}],"matchingPairs":[{"id":1,"term":"Sunucu Kaynaklı Talep","left":"Sunucu Kaynaklı Talep","match":"Bilgi asimetrisi nedeniyle sağlık hizmet sunucusunun talebi yönlendirmesi","right":"Bilgi asimetrisi nedeniyle sağlık hizmet sunucusunun talebi yönlendirmesi","category":"Ekonomik Risk"},{"id":2,"term":"Ahlaki Tehlike","left":"Ahlaki Tehlike","match":"Sigorta kapsamına giren bireyin sağlığını korumada özensizleşmesi veya aşırı tüketimi","right":"Sigorta kapsamına giren bireyin sağlığını korumada özensizleşmesi veya aşırı tüketimi","category":"Sigorta Riski"},{"id":3,"term":"Karar Ağacı","left":"Karar Ağacı","match":"Seçenekleri, olası yolları ve sonuçları özetleyen akış şemaları","right":"Seçenekleri, olası yolları ve sonuçları özetleyen akış şemaları","category":"Karar Aracı"},{"id":4,"term":"Denetleme (Kontrol)","left":"Denetleme (Kontrol)","match":"Gerçekleşen sonuçların standartlarla karşılaştırılıp sapmaların düzeltilmesi","right":"Gerçekleşen sonuçların standartlarla karşılaştırılıp sapmaların düzeltilmesi","category":"Yönetim İşlevi"}],"trueFalseQuestions":[{"statement":"Planlama işlevi statik bir süreçtir ve bir kez yapıldıktan sonra revizyona kapalıdır.","question":"Planlama işlevi statik bir süreçtir ve bir kez yapıldıktan sonra revizyona kapalıdır.","isTrue":false,"explanation":"Yanlış! Planlama dinamik ve süreklilik gerektiren bir süreçtir; değişen koşullara göre revize edilir."},{"statement":"Hekimlerin mesleki uygulamalarında bağımsız karar verme isteği hekim özerkliği olarak adlandırılır.","question":"Hekimlerin mesleki uygulamalarında bağımsız karar verme isteği hekim özerkliği olarak adlandırılır.","isTrue":true,"explanation":"Doğru! Hekimlik mesleği özerkliği yüksek ve yönetsel kısıtlamalarla çatışmaya meyilli bir meslektir."},{"statement":"Karar verme, seçenekler arasından en uygun olanı seçme sürecidir.","question":"Karar verme, seçenekler arasından en uygun olanı seçme sürecidir.","isTrue":true,"explanation":"Doğru! Karar verme, yönetim sürecinde alternatifler arasından tercih yapmaktır."}],"speedQuestions":[{"statement":"Planlama dinamik ve esnek bir süreç midir?","question":"Planlama dinamik ve esnek bir süreç midir?","options":["Evet (Sürekli revize edilebilir)","Hayır (Statiktir)"],"answer":0,"isTrue":true,"explanation":"Planlama değişen iç ve dış çevre koşullarına göre sürekli güncellenir."}],"quizQuestions":[{"q":"Sağlık hizmetlerinde hasta ile hekim arasındaki bilgi düzey farkından (bilgi asimetrisi) kaynaklanan ve hastanın gerçekte ihtiyacı olmasa bile hekimin koyduğu teşhisle ortaya çıkan talep türü aşağıdakilerden hangisidir?","options":["Ahlaki tehlike","Sunucu tarafından oluşturulan talep","Ertelenmiş talep","Tam esnek talep"],"answer":1,"explanation":"Bilgi asimetrisi nedeniyle sağlık hizmetini sunanlar (hekimler) hasta adına talep oluşturabilir."},{"q":"Aşağıdakilerden hangisi sağlık kurumlarında yönetimin temel işlevlerinden biri değildir?","options":["Planlama","Örgütleme","Paternalist zorlama","Denetleme"],"answer":2,"explanation":"Yönetimin temel işlevleri durum saptama/ihtiyaç analizi, planlama, örgütleme, kadrolaşma, yönlendirme ve denetlemedir."}]},{"id":"onlisans-sky-u3","number":3,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"3. Ünite: Sağlık Kurumlarında Kalite Yönetimi","badge":"🎖️ TKY \u0026 Akreditasyon Lideri","color":"indigo","icon":"fa-certificate","boss":{"name":"Süreç ve Standartlar Efendisi \u0027Kusursuz Akreditör\u0027","hp":100,"avatar":"👨‍⚕️","introText":"Donabedian\u0027ın Kalite Modelini (Yapı-Süreç-Çıktı), PUKÖ Döngüsünü ve Türkiye\u0027deki Akreditasyon (SKS, TÜSKA, JCI) Standartlarını kavramadan sınavı geçemezsin!","defeatText":"Harika kalite lideri! Toplam Kalite Yönetimi (TKY) felsefesini, PUKÖ döngüsünü ve akreditasyon standartlarını mükemmel kavrayarak bölümü geçtin!"},"lessons":[{"step":1,"title":"📖 Kalite Kavramı, Donabedian Modeli ve Akreditasyon Standartları","summary":"3. Ünitede bilinmesi gereken çekirdek kalite yönetimi kuralları:","points":["\u003cstrong\u003e1. Sağlıkta Kalite ve Donabedian Modeli:\u003c/strong\u003e Avedis Donabedian kaliteyi \u0027Yapı\u0027 (fiziksel/insan kaynağı ortamı), \u0027Süreç\u0027 (teşhis/tedavi uygulamaları) ve \u0027Çıktı\u0027 (klinik sonuçlar ve hasta memnuniyeti) olarak 3 temel boyutta ele alır.","\u003cstrong\u003e2. Toplam Kalite Yönetimi (TKY) ve PUKÖ Döngüsü:\u003c/strong\u003e TKY; müşteri odaklılık, sürekli iyileştirme ve paydaş katılımına dayanır. Kalite iyileştirme süreçleri Planla-Uygula-Kontrol Et-Önlem Al (PUKÖ) döngüsüyle yürütülür.","\u003cstrong\u003e3. Kalite Boyutları (Donabedian \u0026 Sağlık Bakanlığı):\u003c/strong\u003e Etkenlik, etkililik, verimlilik, optimallik, kabul edilebilirlik, yasallık ve hakkaniyet Donabedian\u0027ın 7 temel kalite özelliğidir. Sağlık Bakanlığı da zamanlılık ve hasta odaklılık dâhil bu boyutları esas alır.","\u003cstrong\u003e4. Akreditasyon ve Türkiye\u0027deki Sağlık Kalite Standartları:\u003c/strong\u003e Akreditasyon, sağlık kurumlarının bağımsız dış kuruluşlarca (Türkiye\u0027de TÜSKA/SKS, uluslararası alanda JCI) belirlenmiş standartlara uygunluğunun değerlendirilip onaylandığı gönüllü dış denetim sürecidir."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda Donabedian\u0027ın Yapı-Süreç-Çıktı üçlüsü, PUKÖ döngüsü adımları ve Türkiye\u0027de akreditasyonu yürüten TÜSKA kurumu sıklıkla sorulur!","quickCheck":{"q":"Donabedian kalite modelinde hastanenin fiziksel mekânı, donanımı ve personel sayısı hangi boyutu oluşturur?","options":["Yapı","Süreç","Çıktı"],"correct":0,"explanation":"Tebrikler! Donabedian modelinde fiziki ve beşeri kaynaklar \u0027Yapı\u0027 kalitesidir."}}],"flashcards":[{"q":"Donabedian\u0027ın Kalite Modelindeki 3 temel boyut nedir?","front":"Donabedian\u0027ın Kalite Modelindeki 3 temel boyut nedir?","a":"Yapı, Süreç ve Çıktı","back":"Yapı, Süreç ve Çıktı","hint":"Kalite değerlendirme sacayağı"},{"q":"PUKÖ döngüsünün açılımı nedir?","front":"PUKÖ döngüsünün açılımı nedir?","a":"Planla, Uygula, Kontrol Et, Önlem Al","back":"Planla, Uygula, Kontrol Et, Önlem Al","hint":"Sürekli iyileştirme döngüsü"},{"q":"Türkiye\u0027de sağlıkta akreditasyon standartlarını belirleyen ve uygulayan enstitü hangisidir?","front":"Türkiye\u0027de sağlıkta akreditasyon standartlarını belirleyen ve uygulayan enstitü hangisidir?","a":"TÜSKA (Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsü)","back":"TÜSKA","hint":"Sağlık Bakanlığı bağlantılı akreditasyon enstitüsü"},{"q":"Hataların ortaya çıkmadan önlenmesini ve ilk seferde doğru yapılmasını esas alan yönetim felsefesi nedir?","front":"Hataların ortaya çıkmadan önlenmesini ve ilk seferde doğru yapılmasını esas alan yönetim felsefesi nedir?","a":"Toplam Kalite Yönetimi (TKY)","back":"Toplam Kalite Yönetimi (TKY)","hint":"Müşteri odaklı sürekli gelişme anlayışı"}],"matchingPairs":[{"id":1,"term":"Yapı Kalitesi","left":"Yapı Kalitesi","match":"Hastanenin fiziki imkânları, teknolojik altyapısı ve personel niteliği","right":"Hastanenin fiziki imkânları, teknolojik altyapısı ve personel niteliği","category":"Donabedian Modeli"},{"id":2,"term":"Süreç Kalitesi","left":"Süreç Kalitesi","match":"Muayene, teşhis, tedavi ve bakım hizmetlerinin bilimsel ilkelere göre yürütülmesi","right":"Muayene, teşhis, tedavi ve bakım hizmetlerinin bilimsel ilkelere göre yürütülmesi","category":"Donabedian Modeli"},{"id":3,"term":"Çıktı Kalitesi","left":"Çıktı Kalitesi","match":"Tedavi başarısı, komplikasyon oranları ve hasta memnuniyeti sonuçları","right":"Tedavi başarısı, komplikasyon oranları ve hasta memnuniyeti sonuçları","category":"Donabedian Modeli"},{"id":4,"term":"Akreditasyon","left":"Akreditasyon","match":"Önceden belirlenmiş standartlara uygunluğun bağımsız bir dış kuruluşça onaylanması","right":"Önceden belirlenmiş standartlara uygunluğun bağımsız bir dış kuruluşça onaylanması","category":"Kalite Denetimi"}],"trueFalseQuestions":[{"statement":"Donabedian modeline göre hastanenin tıbbi cihaz ve personel sayısı \u0027Yapı\u0027 boyutunu temsil eder.","question":"Donabedian modeline göre hastanenin tıbbi cihaz ve personel sayısı \u0027Yapı\u0027 boyutunu temsil eder.","isTrue":true,"explanation":"Doğru! Hizmetin verildiği ortam, donanım ve personel \u0027Yapı\u0027 kalitesini oluşturur."},{"statement":"Akreditasyon süreci, hastaneler için yasal olarak zorunlu tutulan bir ruhsatlandırma işlemidir.","question":"Akreditasyon süreci, hastaneler için yasal olarak zorunlu tutulan bir ruhsatlandırma işlemidir.","isTrue":false,"explanation":"Yanlış! Akreditasyon genellikle gönüllülük esasına dayanan bağımsız bir dış değerlendirme ve belgelendirme sürecidir."},{"statement":"PUKÖ döngüsünde \u0027Önlem Al\u0027 adımı, süreçte tespit edilen sapmaların düzeltilmesi ve iyileştirilmesini ifade eder.","question":"PUKÖ döngüsünde \u0027Önlem Al\u0027 adımı, süreçte tespit edilen sapmaların düzeltilmesi ve iyileştirilmesini ifade eder.","isTrue":true,"explanation":"Doğru! Kontrol et aşamasından sonra ortaya çıkan aksaklıklar için önleyici ve düzeltici tedbirler alınır."}],"speedQuestions":[{"statement":"Akreditasyon gönüllü bir dış denetim süreci midir?","question":"Akreditasyon gönüllü bir dış denetim süreci midir?","options":["Evet (Gönüllü belgelendirme)","Hayır (Zorunlu ruhsattır)"],"answer":0,"isTrue":true,"explanation":"Akreditasyon standartlara uyumu bağımsızca onaylayan gönüllü bir süreçtir."}],"quizQuestions":[{"q":"Avedis Donabedian\u0027a göre sağlık hizmetinin verildiği fiziki ortam, araç-gereç donanımı ve insan gücü kalitenin hangi boyutunu oluşturur?","options":["Süreç","Yapı","Çıktı","Girdi-Çıktı Dengesi"],"answer":1,"explanation":"Donabedian kalite modelinde fiziki imkânlar ve personel niteliği \u0027Yapı\u0027 boyutunda değerlendirilir."},{"q":"Sağlık kurumlarında sürekli kalite iyileştirme amacıyla kullanılan ve \u0027Planla - Uygula - Kontrol Et - Önlem Al\u0027 adımlarından oluşan yönetim aracı aşağıdakilerden hangisidir?","options":["SWOT Analizi","PUKÖ Döngüsü","VED Analizi","CPM Yöntemi"],"answer":1,"explanation":"Sürekli kalite geliştirmede kullanılan bu yönteme PUKÖ döngüsü denir."}]},{"id":"onlisans-sky-u4","number":4,"term":1,"exam":"1. Vize Sınavı Kapsamı","name":"4. Ünite: Sağlık Kurumlarında Pazarlama ve Yönetimi","badge":"🎯 7P \u0026 Sağlık Pazarlaması Mimarı","color":"indigo","icon":"fa-bullhorn","boss":{"name":"Pazar ve Algı Hakimi \u00277P Ustası\u0027","hp":100,"avatar":"👨‍⚕️","introText":"Hizmet pazarlamasının 7P bileşenini (Ürün, Fiyat, Dağıtım, Tutundurma, İnsanlar, Fiziksel Kanıt, Süreç) ve sağlık pazarlamasının güven/etik ilkelerini bilmeyen sınavda elenir!","defeatText":"Tebrikler stratejist! Pazarlama karmasını, hizmetlerin 7P boyutunu ve müşteri güveni odaklı yönetim stratejilerini başarıyla tamamladın!"},"lessons":[{"step":1,"title":"📖 Sağlık Hizmetlerinde Pazarlama, 7P Karması ve Yönetim Süreci","summary":"4. Ünitede bilinmesi gereken çekirdek pazarlama ve yönetim kural/ilkeleri:","points":["\u003cstrong\u003e1. Hizmet Pazarlaması Karması (7P):\u003c/strong\u003e Geleneksel 4P (Ürün, Fiyat, Dağıtım, Tutundurma) unsurlarına hizmet sektöründe 3 yeni bileşen (İnsanlar, Fiziksel Kanıt, Süreç) eklenerek 7P oluşturulmuştur.","\u003cstrong\u003e2. Sağlık Pazarlamasının Özellikleri:\u003c/strong\u003e Sağlık hizmetleri soyut, heterojen ve ertelenemez niteliktedir; mülkiyet devri içermez. Temel amaç kısa vadeli kârdan ziyade güven ve hasta memnuniyeti algısını konumlandırmaktır.","\u003cstrong\u003e3. Pazarlama İşlevleri ve Ayrılıklar:\u003c/strong\u003e Pazarlama; mekânsal, zaman, bilgi, değer ve mülkiyet ayrılıklarını ortadan kaldırır. Finansman, fiyatlandırma, sigorta gibi unsurlar kolaylaştırıcı fonksiyonlardır.","\u003cstrong\u003e4. Pazarlama Yönetim Süreci:\u003c/strong\u003e Sağlık kurumlarında pazarlama yönetimi Durum Analizi (GZFT/SWOT), Amaç ve Hedeflerin Saptanması, Pazarlama Karmasının Oluşturulması, Uygulama ve Pazarlama Denetimi adımlarından oluşur."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda hizmet pazarlamasına eklenen 3P (İnsanlar, Fiziksel Kanıt, Süreç), sağlıkta temel unsurun \u0027güven\u0027 olması ve pazarlama denetiminin hedeflerle gerçekleşenleri kıyaslama işlevi sıkça sorulur!","quickCheck":{"q":"Geleneksel 4P modeline hizmet sektöründe eklenen 3 unsur aşağıdakilerden hangisidir?","options":["İnsanlar, Fiziksel Kanıt, Süreç","Kalite, Fiyat, Kâr","Reklam, Kampanya, İndirim"],"correct":0,"explanation":"Tebrikler! Hizmet pazarlamasında 7P modeli; İnsanlar (People), Fiziksel Kanıt (Physical Evidence) ve Süreç (Process) eklenerek oluşur."}}],"flashcards":[{"q":"Geleneksel 4P pazarlama karmasına hizmet sektöründe eklenen 3 unsur (3P) hangileridir?","front":"Geleneksel 4P pazarlama karmasına hizmet sektöründe eklenen 3 unsur (3P) hangileridir?","a":"İnsanlar (People), Fiziksel Kanıt (Physical Evidence) ve Süreç (Process)","back":"İnsanlar, Fiziksel Kanıt, Süreç (7P)","hint":"Hizmet kalitesini belirleyen insan ve sunum adımları"},{"q":"Sağlık kurumlarının pazarlamadaki en temel ve öncelikli hedefi ne olmalıdır?","front":"Sağlık kurumlarının pazarlamadaki en temel ve öncelikli hedefi ne olmalıdır?","a":"Hasta ve yakınlarında güven algısı ve kurumsal itibar oluşturmak","back":"Güven Algısı ve Kurumsal İtibar","hint":"Kısa vadeli kazanç yerine uzun vadeli bağ"},{"q":"Sağlık kurumunun otoparkı, kurumsal renkleri, temizliği ve tasarımı hangi pazarlama karması unsurudur?","front":"Sağlık kurumunun otoparkı, kurumsal renkleri, temizliği ve tasarımı hangi pazarlama karması unsurudur?","a":"Fiziksel Kanıt (Physical Evidence)","back":"Fiziksel Kanıt (Physical Evidence)","hint":"Somut ve görsel çevre göstergeleri"},{"q":"Pazarlama yönetiminde kurumun güçlü/zayıf yönleri ile fırsat ve tehditlerinin incelendiği ilk adım hangisidir?","front":"Pazarlama yönetiminde kurumun güçlü/zayıf yönleri ile fırsat ve tehditlerinin incelendiği ilk adım hangisidir?","a":"Durum Analizi (GZFT / SWOT Analizi)","back":"Durum Analizi (SWOT)","hint":"Mevcut durumu tarafsız değerlendirme"}],"matchingPairs":[{"id":1,"term":"Fiziksel Kanıt","left":"Fiziksel Kanıt","match":"Hastanenin mimarisi, hijyeni, otoparkı, kurumsal renkleri ve logosu","right":"Hastanenin mimarisi, hijyeni, otoparkı, kurumsal renkleri ve logosu","category":"7P Unsuru"},{"id":2,"term":"Süreç (Process)","left":"Süreç (Process)","match":"Randevu almadan taburcu olmaya kadar hizmetin sunulduğu işlem adımları","right":"Randevu almadan taburcu olmaya kadar hizmetin sunulduğu işlem adımları","category":"7P Unsuru"},{"id":3,"term":"İnsanlar (People)","left":"İnsanlar (People)","match":"Hizmeti sunan hekim, hemşire, idari personel ile hizmeti alan hastalar","right":"Hizmeti sunan hekim, hemşire, idari personel ile hizmeti alan hastalar","category":"7P Unsuru"},{"id":4,"term":"Pazarlama Denetimi","left":"Pazarlama Denetimi","match":"Planlanan pazarlama hedefleri ile gerçekleşen sonuçların karşılaştırılması","right":"Planlanan pazarlama hedefleri ile gerçekleşen sonuçların karşılaştırılması","category":"Pazarlama Adımı"}],"trueFalseQuestions":[{"statement":"Sağlık hizmetlerinin pazarlanmasında mülkiyet devri gerçekleşir ve müşteri satın aldığı hizmetin mülkiyetine sahip olur.","question":"Sağlık hizmetlerinin pazarlanmasında mülkiyet devri gerçekleşir ve müşteri satın aldığı hizmetin mülkiyetine sahip olur.","isTrue":false,"explanation":"Yanlış! Hizmet pazarlaması soyuttur ve mülkiyet devri gerektirmez; sadece fayda sağlama amacı taşır."},{"statement":"Sağlık kurumlarında pazarlama karması 4P bileşenine ek olarak İnsanlar, Fiziksel Kanıt ve Süreç unsurlarını kapsayan 7P modeline dayanır.","question":"Sağlık kurumlarında pazarlama karması 4P bileşenine ek olarak İnsanlar, Fiziksel Kanıt ve Süreç unsurlarını kapsayan 7P modeline dayanır.","isTrue":true,"explanation":"Doğru! Booms ve Bitner tarafından geliştirilen hizmet pazarlaması karması 7P\u0027den oluşur."},{"statement":"Fiyat, pazarlama karması unsurları arasında giderler üzerinden değil doğrudan gelire dönük planlama yapılan tek unsurdur.","question":"Fiyat, pazarlama karması unsurları arasında giderler üzerinden değil doğrudan gelire dönük planlama yapılan tek unsurdur.","isTrue":true,"explanation":"Doğru! Ürün, dağıtım ve tutundurma maliyet/gider oluştururken fiyat gelir sağlayan tek bileşendir."}],"speedQuestions":[{"statement":"Hizmet pazarlamasında mülkiyet devri var mıdır?","question":"Hizmet pazarlamasında mülkiyet devri var mıdır?","options":["Hayır (Hizmet soyuttur)","Evet (Mülkiyet devredilir)"],"answer":0,"isTrue":true,"explanation":"Hizmetler tüketildiği anda biter, fiziki mülkiyet devri gerçekleşmez."}],"quizQuestions":[{"q":"Booms ve Bitner tarafından geliştirilen ve geleneksel 4P pazarlama karmasına eklenerek hizmet pazarlamasını 7P modeline dönüştüren 3 yeni bileşen aşağıdakilerin hangisinde doğru verilmiştir?","options":["İnsanlar, Fiziksel Kanıt, Süreç","İnovasyon, Finansman, Kalite","Reklam, Fiyatlandırma, Dağıtım","Planlama, Örgütleme, Denetim"],"answer":0,"explanation":"Hizmet pazarlamasında 4P\u0027ye (Ürün, Fiyat, Dağıtım, Tutundurma) ek olarak İnsanlar (People), Fiziksel Kanıt (Physical Evidence) ve Süreç (Process) eklenmiştir."},{"q":"Sağlık kurumunun otelcilik hizmetleri, otopark olanağı, bina tasarımı, kurumsal renkleri ve hijyen standartları pazarlama karmasının hangi bileşeni kapsamında değerlendirilir?","options":["Tutundurma","Fiziksel Kanıt","Dağıtım","Süreç"],"answer":1,"explanation":"Hizmet alanın algısını etkileyen fiziki ve görsel tüm imkânlar Fiziksel Kanıt (Physical Evidence) başlığı altındadır."}]},{"id":"onlisans-sky-u5","number":5,"term":2,"exam":"2. Dönem / Final Sınavı Kapsamı","name":"5. Ünite: Sağlık Kurumlarında İnsan Kaynakları Yönetimi","badge":"👥 İKY \u0026 Liyakat Mimarı","color":"indigo","icon":"fa-user-tie","boss":{"name":"İnsan Gücü Mimarisi \u0027Liyakat ve Motivasyon Lordu\u0027","hp":100,"avatar":"👨‍⚕️","introText":"Sağlık hizmetlerinde emek-yoğun yapıyı, İKY ile geleneksel personel yönetimi farkını, iş analizini ve motivasyon kuramlarını bilmeyen bu birimi yönetemez!","defeatText":"Tebrikler İK stratejisti! İş analizi, yetkinlik bazlı istihdam ve motivasyon kuramlarını (Maslow, Herzberg, Vroom, Porter-Lawler) ustalıkla uygulayarak ekibini zafere taşıdın!"},"lessons":[{"step":1,"title":"📖 İnsan Kaynakları Yönetimi (İKY), İş Analizi ve Motivasyon Kuramları","summary":"5. Ünitede bilinmesi gereken çekirdek İKY ilkeleri ve süreçleri:","points":["\u003cstrong\u003e1. Personel Yönetimi vs. İKY:\u003c/strong\u003e Geleneksel personel yönetimi reaktif, kısa vadeli ve maliyet odaklıyken; İKY proaktif, stratejik, insanı yatırım unsuru gören ve tüm yöneticilerin paylaştığı bir sorumluluktur.","\u003cstrong\u003e2. İş Analizi, İş Tanımı ve İş Gerekleri:\u003c/strong\u003e İş analizi bir işin doğasını belirleme sürecidir. Çıktılarından \u0027İş Tanımı\u0027 yapılacak işi/görevleri tanımlarken; \u0027İş Gerekleri\u0027 o işi yapacak kişide bulunması gereken nitelikleri (eğitim, beceri, deneyim) belirtir.","\u003cstrong\u003e3. Motivasyon Kuramları (İçerik ve Süreç):\u003c/strong\u003e İçerik kuramları (Maslow İhtiyaçlar Hiyerarşisi, Herzberg Çift Faktör); Süreç kuramları (Vroom Beklenti Kuramı, Porter-Lawler Modeli). Herzberg\u0027de hijyen faktörleri yokluğunda doyumsuzluk yaratırken, motivasyon faktörleri (başarı, sorumluluk) doyum sağlar.","\u003cstrong\u003e4. Sağlıkta İKY\u0027nin Önemi:\u003c/strong\u003e Sağlık hizmetleri ileri teknolojiye rağmen emek-yoğun yapıda olup giderlerin %50-75\u0027i personel ödemeleridir; hekimlik ve sağlık mesleklerindeki özerklik/çeşitlilik İKY\u0027yi kritik kılar."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda İKY ile Personel Yönetimi arasındaki farklar (proaktif/reaktif), İş Tanımı-İş Gerekleri ayrımı ve Herzberg\u0027in Hijyen-Motivasyon faktörleri çok sık sorulur!","quickCheck":{"q":"İşi yapacak personelin taşıması gereken eğitim, yabancı dil ve tecrübe gibi nitelikleri gösteren doküman hangisidir?","options":["İş Gerekleri (İş Nitelikleri)","İş Tanımı","Organizasyon Şeması"],"correct":0,"explanation":"Tebrikler! İşi yapacak insanda aranan özellikler \u0027İş Gerekleri\u0027 dokümanında tanımlanır."}}],"flashcards":[{"q":"Geleneksel personel yönetimi ile İKY arasındaki temel fark nedir?","front":"Geleneksel personel yönetimi ile İKY arasındaki temel fark nedir?","a":"Personel yönetimi reaktif ve maliyet odaklıyken, İKY proaktif ve stratejik bir yatırım anlayışına sahiptir.","back":"İKY Proaktif \u0026 Yatırım Odaklıdır","hint":"Proaktiflik ve stratejik bakış"},{"q":"İş analizi sonucunda ortaya çıkan ve işi yapacak personelin taşıması gereken nitelikleri (eğitim, tecrübe) gösteren doküman nedir?","front":"İş analizi sonucunda ortaya çıkan ve işi yapacak personelin taşıması gereken nitelikleri (eğitim, tecrübe) gösteren doküman nedir?","a":"İş Gerekleri (İş Nitelikleri)","back":"İş Gerekleri (İş Nitelikleri)","hint":"İşi yapacak insanda aranan özellikler"},{"q":"Herzberg\u0027in Çift Faktör Kuramında maaş, çalışma koşulları ve şirket politikası hangi faktör grubuna girer?","front":"Herzberg\u0027in Çift Faktör Kuramında maaş, çalışma koşulları ve şirket politikası hangi faktör grubuna girer?","a":"Hijyen Faktörleri (Yokluğunda doyumsuzluk yaratan faktörler)","back":"Hijyen Faktörleri","hint":"İşin çevresiyle ilgili temel unsurlar"},{"q":"Sağlık kurumlarında bütçe giderlerinin yaklaşık ne kadarı personel ödemelerinden (insan gücü maliyetinden) oluşur?","front":"Sağlık kurumlarında bütçe giderlerinin yaklaşık ne kadarı personel ödemelerinden (insan gücü maliyetinden) oluşur?","a":"%50 ile %75 arasında değişen oranda","back":"%50 - %75 Arası (Emek-Yoğun)","hint":"Emek-yoğun yapının mali göstergesi"}],"matchingPairs":[{"id":1,"term":"İş Tanımı","left":"İş Tanımı","match":"İşin içeriğini, görev ve sorumluluklarını açıklayan doküman","right":"İşin içeriğini, görev ve sorumluluklarını açıklayan doküman","category":"İKY Dokümanı"},{"id":2,"term":"İş Gerekleri","left":"İş Gerekleri","match":"İşi yapacak personelde bulunması gereken eğitim, beceri ve nitelikler","right":"İşi yapacak personelde bulunması gereken eğitim, beceri ve nitelikler","category":"İKY Dokümanı"},{"id":3,"term":"Hijyen Faktörleri","left":"Hijyen Faktörleri","match":"Eksikliğinde doyumsuzluk yaratan fakat tek başına yüksek motivasyon sağlamayan unsurlar","right":"Eksikliğinde doyumsuzluk yaratan fakat tek başına yüksek motivasyon sağlamayan unsurlar","category":"Herzberg Kuramı"},{"id":4,"term":"Proaktif Yaklaşım","left":"Proaktif Yaklaşım","match":"Olaylar gerçekleşmeden önce olasılıkları öngörüp planlı eyleme geçme","right":"Olaylar gerçekleşmeden önce olasılıkları öngörüp planlı eyleme geçme","category":"İKY Felsefesi"}],"trueFalseQuestions":[{"statement":"Geleneksel personel yönetimi anlayışında insan bir \u0027maliyet unsuru\u0027 olarak görülürken, İKY anlayışında \u0027yatırım yapılan sermaye\u0027 olarak kabul edilir.","question":"Geleneksel personel yönetimi anlayışında insan bir \u0027maliyet unsuru\u0027 olarak görülürken, İKY anlayışında \u0027yatırım yapılan sermaye\u0027 olarak kabul edilir.","isTrue":true,"explanation":"Doğru! İKY insanı geliştirilmesi ve yatırım yapılması gereken stratejik bir varlık olarak ele alır."},{"statement":"Herzberg\u0027in Çift Faktör Kuramına göre maaş ve fiziksel çalışma koşulları doğrudan yüksek içsel motivasyon sağlayan faktörlerdir.","question":"Herzberg\u0027in Çift Faktör Kuramına göre maaş ve fiziksel çalışma koşulları doğrudan yüksek içsel motivasyon sağlayan faktörlerdir.","isTrue":false,"explanation":"Yanlış! Maaş ve çalışma koşulları \u0027Hijyen Faktörleri\u0027dir; yoklukları doyumsuzluk yaratır ama varlıkları tek başına yüksek motivasyon sağlamaz."},{"statement":"İş analizi çalışmaları sadece yeni eleman alımında kullanılır, eğitim ve performans değerlendirmede kullanılamaz.","question":"İş analizi çalışmaları sadece yeni eleman alımında kullanılır, eğitim ve performans değerlendirmede kullanılamaz.","isTrue":false,"explanation":"Yanlış! İş analizi; eğitim ihtiyacı tespiti, performans değerlendirme, ücretlendirme ve kariyer planlamanın da temel altyapısını oluşturur."}],"speedQuestions":[{"statement":"İKY insan kaynağını maliyet yerine yatırım unsuru olarak mı görür?","question":"İKY insan kaynağını maliyet yerine yatırım unsuru olarak mı görür?","options":["Evet (Stratejik Sermaye)","Hayır (Maliyet unsurudur)"],"answer":0,"isTrue":true,"explanation":"İKY insanı örgüte değer katan stratejik bir sermaye olarak görür."}],"quizQuestions":[{"q":"Aşağıdakilerden hangisi İnsan Kaynakları Yönetiminin (İKY) geleneksel Personel Yönetiminden (PY) ayrılan temel özelliklerinden biri değildir?","options":["İKY\u0027nin proaktif bir rol üstlenmesi","İKY\u0027nin insan kaynağını bir maliyet unsuru olarak görmesi","İKY sorumluluğunun tüm yöneticiler tarafından paylaşılması","İKY\u0027nin örgütün stratejik planlarıyla entegre çalışması"],"answer":1,"explanation":"İKY insan kaynağını maliyet değil yatırım yapılması gereken bir sermaye/varlık olarak görür; maliyet unsuru olarak gören geleneksel personel yönetimidir."},{"q":"Bir hastanede belirli bir pozisyonda görev yapacak personelin sahip olması gereken eğitim düzeyi, yabancı dil bilgisi, mesleki tecrübe ve özel yeteneklerin tanımlandığı form aşağıdakilerden hangisidir?","options":["İş Tanımı","İş Gerekleri (Nitelikleri)","İş Değerleme Formu","Oryantasyon Planı"],"answer":1,"explanation":"İşi yapacak personelin taşıması gereken kişisel özellik ve donanımlar \u0027İş Gerekleri\u0027 (İş Nitelikleri) kapsamında tanımlanır."}]},{"id":"onlisans-sky-u6","number":6,"term":2,"exam":"2. Dönem / Final Sınavı Kapsamı","name":"6. Ünite: Sağlık Finansmanı ve Harcamaları","badge":"💳 Finansal Koruma \u0026 Bütçe Mimarı","color":"indigo","icon":"fa-wallet","boss":{"name":"Bütçe ve Risk Muhafızı \u0027Katastrofik Harcama Lordu\u0027","hp":100,"avatar":"👨‍⚕️","introText":"Bismarck ve Beveridge modellerini, GSS reformunu, katastrofik harcama riskini ve TİG geri ödeme yöntemlerini çözemeyen bu bütçeyi yönetemez!","defeatText":"Tebrikler finans mimarı! Risk paylaşımını, kamu-özel sigorta dengesini ve stratejik geri ödeme yöntemlerini ustalıkla kurgulayarak finansal sürdürülebilirliği sağladın!"},"lessons":[{"step":1,"title":"📖 Sağlık Finansman Amaçları, Modelleri ve Geri Ödeme Yöntemleri","summary":"6. Ünitede bilinmesi gereken çekirdek sağlık finansmanı ve harcama kuralları:","points":["\u003cstrong\u003e1. Sağlık Finansmanının Temel Amaçları ve Hedefleri:\u003c/strong\u003e Amaçlar coğrafi ve mali ulaşılabilirlik, hakkaniyet (ihtiyaca göre eşitlik), risk paylaşımı (gençten yaşlıya/zenginden yoksula kaynak aktarımı) ve sürdürülebilirliktir. Hedefler ise finansal koruma, adalet, verimlilik ve yoksullaşmayı önlemektir.","\u003cstrong\u003e2. Kamusal ve Özel Finansman Modelleri:\u003c/strong\u003e Kamu modelleri Vergi Tabanlı \u0027Beveridge Modeli\u0027 (İngiltere, Danimarka) ve Prim Tabanlı Sosyal Sağlık Sigortası \u0027Bismarck Modeli\u0027dir (Almanya, Fransa). Özel modeller ise özel sağlık sigortası, tıbbi tasarruf hesabı ve cepten ödemelerdir.","\u003cstrong\u003e3. Türkiye\u0027de Sosyal Sağlık Sigortası ve GSS:\u003c/strong\u003e 2006\u0027da kabul edilen 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası (GSS) Kanunu ile SSK, Emekli Sandığı, BAĞ-KUR ve Yeşil Kart parçalı yapısı SGK çatısı altında birleştirilerek finansal koruyuculuk genişletilmiştir.","\u003cstrong\u003e4. Geri Ödeme Yöntemleri ve Katastrofik Harcama:\u003c/strong\u003e Geri ödeme yöntemleri hizmet başına, gün başına, vaka başına, kişi başına (capitation), global bütçe ve Tanıyla İlişkili Gruplar (TİG/DRG) olarak uygulanır. Bireyleri yoksullaştıran yıkıcı sağlık harcamalarına \u0027Katastrofik Sağlık Harcaması\u0027 denir."],"examTip":"💡 Vize Sınav Tüyosu: Sınavlarda Beveridge (vergi) vs. Bismarck (prim) modelleri, Katastrofik Sağlık Harcaması tanımı ve TİG/Global Bütçe gibi geri ödeme yöntemleri çok sık sorulur!","quickCheck":{"q":"Hanehalkının ödeme gücünü aşarak yoksullaşmasına neden olan yıkıcı sağlık harcamalarına ne ad verilir?","options":["Katastrofik Sağlık Harcaması","Marjinal Tüketim","Rücu Gideri"],"correct":0,"explanation":"Tebrikler! Bireyleri yoksulluk sınırının altına düşüren yıkıcı sağlık masraflarına Katastrofik Harcama denir."}}],"flashcards":[{"q":"Vergi tabanlı kamu sağlık finansman modeli kimin adıyla anılır?","front":"Vergi tabanlı kamu sağlık finansman modeli kimin adıyla anılır?","a":"Beveridge Modeli (İngiltere örneği)","back":"Beveridge Modeli (Genel Vergi)","hint":"Genel vergilerden finanse edilen kamusal model"},{"q":"Çalışan ve işverenden alınan primlerle devlet katkısına dayanan sosyal sağlık sigortası modeli nedir?","front":"Çalışan ve işverenden alınan primlerle devlet katkısına dayanan sosyal sağlık sigortası modeli nedir?","a":"Bismarck Modeli (Almanya örneği)","back":"Bismarck Modeli (Sosyal Prim)","hint":"Prim tabanlı kamu finansman modeli"},{"q":"Hanehalkının ödeme gücünü aşarak yoksullaşmasına neden olan yıkıcı sağlık harcamalarına ne ad verilir?","front":"Hanehalkının ödeme gücünü aşarak yoksullaşmasına neden olan yıkıcı sağlık harcamalarına ne ad verilir?","a":"Katastrofik Sağlık Harcaması","back":"Katastrofik Sağlık Harcaması","hint":"Finansal felakete yol açan harcama türü"},{"q":"Türkiye\u0027de parçalı sosyal güvenlik kurumlarını (SSK, BAĞ-KUR, Emekli Sandığı) tek çatı altında toplayan kanun hangisidir?","front":"Türkiye\u0027de parçalı sosyal güvenlik kurumlarını (SSK, BAĞ-KUR, Emekli Sandığı) tek çatı altında toplayan kanun hangisidir?","a":"5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası (GSS) Kanunu","back":"5510 Sayılı GSS Kanunu (2006)","hint":"2006 yılında çıkarılan temel reform kanunu"}],"matchingPairs":[{"id":1,"term":"Beveridge Modeli","left":"Beveridge Modeli","match":"Genel vergilerle finanse edilen kamu sağlık sistemi","right":"Genel vergilerle finanse edilen kamu sağlık sistemi","category":"Finansman Modeli"},{"id":2,"term":"Bismarck Modeli","left":"Bismarck Modeli","match":"Çalışan ve işverenden toplanan primlere dayalı sosyal sağlık sigortası","right":"Çalışan ve işverenden toplanan primlere dayalı sosyal sağlık sigortası","category":"Finansman Modeli"},{"id":3,"term":"Katastrofik Harcama","left":"Katastrofik Harcama","match":"Birey ve aileleri yoksulluk sınırının altına düşüren yıkıcı sağlık gideri","right":"Birey ve aileleri yoksulluk sınırının altına düşüren yıkıcı sağlık gideri","category":"Sağlık Riski"},{"id":4,"term":"Risk Paylaşımı","left":"Risk Paylaşımı","match":"Sağlıklı/genç bireylerden hasta/yaşlı bireylere finansal kaynak aktarımı","right":"Sağlıklı/genç bireylerden hasta/yaşlı bireylere finansal kaynak aktarımı","category":"Finansman İlkesi"}],"trueFalseQuestions":[{"statement":"Hakkaniyet kavramı sağlık finansmanında herkesin tamamen eşit tutar ödemesi anlamına gelir.","question":"Hakkaniyet kavramı sağlık finansmanında herkesin tamamen eşit tutar ödemesi anlamına gelir.","isTrue":false,"explanation":"Yanlış! Hakkaniyet eşit ödemeyi değil, ihtiyacı olanın ihtiyacı kadar hizmete erişmesini ve ödeme gücüne göre katkıda bulunmasını ifade eder."},{"statement":"5510 sayılı Kanun ile Türkiye\u0027de Genel Sağlık Sigortası (GSS) kurularak toplumun büyük çoğunluğu kapsama alınmıştır.","question":"5510 sayılı Kanun ile Türkiye\u0027de Genel Sağlık Sigortası (GSS) kurularak toplumun büyük çoğunluğu kapsama alınmıştır.","isTrue":true,"explanation":"Doğru! GSS reformu ile parçalı sosyal güvenlik yapısı SGK çatısı altında birleştirilmiş ve kapsayıcılık artırılmıştır."},{"statement":"Global bütçe ve vaka başına ödeme yöntemleri ileriye dönük (prospektif) geri ödeme mekanizmaları arasında yer alır.","question":"Global bütçe ve vaka başına ödeme yöntemleri ileriye dönük (prospektif) geri ödeme mekanizmaları arasında yer alır.","isTrue":true,"explanation":"Doğru! Hizmet sunulmadan önce miktar veya bütçe sınırının belirlendiği sistemler ileriye dönük ödeme sistemleridir."}],"speedQuestions":[{"statement":"Bismarck modelinde finansman genel vergilerden mi karşılanır?","question":"Bismarck modelinde finansman genel vergilerden mi karşılanır?","options":["Hayır (Sosyal primlerden)","Evet (Vergilerden)"],"answer":0,"isTrue":true,"explanation":"Vergiden karşılanan model Beveridge\u0027dir; Bismarck modeli prim tabanlıdır."}],"quizQuestions":[{"q":"Aşağıdakilerden hangisi vergi tabanlı kamu sağlık finansman modeli olup ilk kez uygulandığı dönemin İngiliz Başbakanı\u0027nın adıyla anılan modeldir?","options":["Bismarck Modeli","Beveridge Modeli","Tıbbi Tasarruf Hesabı","Semptom Tabanlı Model"],"answer":1,"explanation":"Vergi tabanlı kamu finansman modeli Beveridge Modeli olarak bilinmektedir."},{"q":"Bireylerin ve hanehalklarının finansal korumadan yoksun olarak ödeme güçlerini aşan, varlıklarını satmalarına ve yoksullaşmalarına yol açan sağlık harcamalarına ne ad verilir?","options":["Marjinal harcama","Katastrofik sağlık harcaması","Cari transfer harcaması","Operasyonel sermaye gideri"],"answer":1,"explanation":"Yıkıcı nitelikteki ve aileleri yoksulluğa sürükleyen bu harcamalara \u0027katastrofik sağlık harcaması\u0027 denir."}]}],"updatedAt":"2026-11-26T16:30:03Z"}
+{
+    "id":  "onlisans-saglik-kurumlari-yonetimi",
+    "name":  "Sağlık Kurumları Yönetimi",
+    "icon":  "🏥",
+    "color":  "indigo",
+    "badge":  "Hastane Yöneticisi",
+    "description":  "Sağlık Hizmetleri, Kalite, Pazarlama, İnsan Kaynakları, Tedarik Zinciri ve Finansman!",
+    "title":  "Ön Lisans: Sağlık Kurumları Yönetimi",
+    "subtitle":  "Ders Kitabından Damıtılmış Vize/Final Sınav Taktikleri ve Test Havuzu",
+    "grade":  "Ön Lisans (Sağlık)",
+    "term":  "Güz ve Bahar Dönemi Kapsamı",
+    "units":  [
+                  {
+                      "id":  "onlisans-sky-u1",
+                      "number":  1,
+                      "term":  1,
+                      "exam":  "1. Vize Sınavı Kapsamı",
+                      "name":  "1. Ünite: Sağlık ve Sağlık Hizmetlerinin Özellikleri",
+                      "badge":  "🏥 Sağlık Sistemi \u0026 DSÖ Fatihi",
+                      "color":  "indigo",
+                      "icon":  "fa-hospital",
+                      "boss":  {
+                                   "name":  "Sağlık Sistemi Muhafızı \u0027Kapsayıcı Lordu\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚕️",
+                                   "introText":  "Sağlık tanımını, DSÖ\u0027nün 6 yapı taşını ve Türkiye\u0027deki basamaklı sağlık sistemini kavramayan bu sınavı geçemez!",
+                                   "defeatText":  "Harika sağlık yöneticisi! DSÖ ilkelerini, DALY/QALY ölçütlerini ve sağlık hizmeti basamaklarını mükemmel kavrayarak bölümü geçtin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 Sağlık Kavramı, DSÖ Sağlık Sistemi ve Genel Sağlık Kapsayıcılığı",
+                                          "summary":  "1. Ünitede bilinmesi gereken çekirdek sağlık yönetimi kuralları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Sağlık Tanımı (DSÖ):\u003c/strong\u003e Sağlık; sadece hastalık ve sakatlığın olmayışı değil, bedence, ruhça ve sosyal yönden tam bir iyilik hâlidir.",
+                                                         "\u003cstrong\u003e2. DSÖ Sağlık Sisteminin 6 Yapı Taşı:\u003c/strong\u003e Hizmet sunumu, sağlık insan gücü, enformasyon sistemi, tıbbi ürün-aşı ve teknolojiler, sağlık finansmanı ile liderlik ve yönetişim.",
+                                                         "\u003cstrong\u003e3. Koruyucu Sağlık Hizmetleri ve Basamaklar:\u003c/strong\u003e Birincil koruma (hastalanmadan önleme/aşı), İkincil koruma (erken teşhis/tedavi). Türkiye\u0027de sağlık sunumu 1. Basamak (ASM, TSM), 2. Basamak (Devlet ve Özel Hastaneler) ve 3. Basamak (Üniversite ve Eğitim-Araştırma Hastaneleri) olarak örgütlenmiştir.",
+                                                         "\u003cstrong\u003e4. Hastalık Yükü Ölçütleri ve Sistem Hedefleri:\u003c/strong\u003e DALY (hastalık nedeniyle kaybedilen yıllar) ve QALY (nitelikli yaşanan ömür) hastalık yükünü ölçer; sistem hedefleri ise hakkaniyet, cevap verebilirlik, verimlilik ve finansal/sosyal riskten koruyuculuktur."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda DSÖ\u0027nün 6 yapı taşı, DALY/QALY tanımları ile 1., 2. ve 3. basamak sağlık kuruluşlarının görev ayrımları çok sık sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Dünya Sağlık Örgütüne (DSÖ) göre sağlık hangi boyutlarda tam iyilik halidir?",
+                                                             "options":  [
+                                                                             "Bedensel, ruhsal ve sosyal yönden",
+                                                                             "Yalnızca bedensel yönden",
+                                                                             "Sadece laboratuvar sonuçları iyi olma durumu"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! Sağlık; bedence, ruhça ve sosyal yönden tam bir iyilik halidir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Dünya Sağlık Örgütüne (DSÖ) göre sağlık nedir?",
+                                             "front":  "Dünya Sağlık Örgütüne (DSÖ) göre sağlık nedir?",
+                                             "a":  "Sadece hastalık ve sakatlığın olmayışı değil, bedence, ruhça ve sosyal yönden tam iyilik hâlidir.",
+                                             "back":  "Bedensel, Ruhsal ve Sosyal Tam İyilik Hali",
+                                             "hint":  "Üç boyutlu iyilik hâli"
+                                         },
+                                         {
+                                             "q":  "DALY ve QALY neyi ifade eder?",
+                                             "front":  "DALY ve QALY neyi ifade eder?",
+                                             "a":  "DALY hastalık nedeniyle kaybedilen yılları, QALY ise yıl bazında nitelikli yaşanan ömrü ifade eder.",
+                                             "back":  "DALY (Kaybedilen Yıllar) / QALY (Kaliteli Yıllar)",
+                                             "hint":  "Hastalık yükü ölçütleri"
+                                         },
+                                         {
+                                             "q":  "Türkiye\u0027de Aile Sağlığı Merkezleri (ASM) hangi basamakta yer alır?",
+                                             "front":  "Türkiye\u0027de Aile Sağlığı Merkezleri (ASM) hangi basamakta yer alır?",
+                                             "a":  "Birinci basamak sağlık hizmetleri örgütlenmesinde yer alır.",
+                                             "back":  "Birinci Basamak",
+                                             "hint":  "Temel ve koruyucu hizmetler"
+                                         },
+                                         {
+                                             "q":  "Aşılama ve üreme sağlığı hizmetleri hangi koruma seviyesine girer?",
+                                             "front":  "Aşılama ve üreme sağlığı hizmetleri hangi koruma seviyesine girer?",
+                                             "a":  "Birincil koruyucu sağlık hizmetlerine girer.",
+                                             "back":  "Birincil Koruyuculuk",
+                                             "hint":  "Hastalık ortaya çıkmadan alınan önlemler"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Birincil Koruyuculuk",
+                                                "left":  "Birincil Koruyuculuk",
+                                                "match":  "Kişiler hastalanmadan önce yapılan aşı ve bağışıklama çalışmaları",
+                                                "right":  "Kişiler hastalanmadan önce yapılan aşı ve bağışıklama çalışmaları",
+                                                "category":  "Koruma Düzeyi"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "DALY",
+                                                "left":  "DALY",
+                                                "match":  "Hastalıklar nedeniyle ömürden kaybedilen yılları gösteren ölçüt",
+                                                "right":  "Hastalıklar nedeniyle ömürden kaybedilen yılları gösteren ölçüt",
+                                                "category":  "Hastalık Yükü"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "QALY",
+                                                "left":  "QALY",
+                                                "match":  "Yıl bazında nitelikli ve sağlıklı yaşanan ömrü gösteren ölçüt",
+                                                "right":  "Yıl bazında nitelikli ve sağlıklı yaşanan ömrü gösteren ölçüt",
+                                                "category":  "Yaşam Kalitesi"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Genel Sağlık Kapsayıcılığı (UHC)",
+                                                "left":  "Genel Sağlık Kapsayıcılığı (UHC)",
+                                                "match":  "Herkesin ihtiyaç duyduğu hizmetlere finansal güçlük çekmeden erişmesi",
+                                                "right":  "Herkesin ihtiyaç duyduğu hizmetlere finansal güçlük çekmeden erişmesi",
+                                                "category":  "Sağlık Hedefi"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "DSÖ tanımına göre sağlık, sadece vücutta herhangi bir hastalığın veya sakatlığın bulunmaması durumudur.",
+                                                     "question":  "DSÖ tanımına göre sağlık, sadece vücutta herhangi bir hastalığın veya sakatlığın bulunmaması durumudur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Sağlık bedensel, ruhsal ve sosyal yönden tam bir iyilik halini kapsar."
+                                                 },
+                                                 {
+                                                     "statement":  "İkincil koruyucu hizmetlerin temel amacı, hastalığı erken teşhis ve tedavi ederek ilerlemesini önlemektir.",
+                                                     "question":  "İkincil koruyucu hizmetlerin temel amacı, hastalığı erken teşhis ve tedavi ederek ilerlemesini önlemektir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! İkincil koruma erken tanı ve tedavi odaklıdır."
+                                                 },
+                                                 {
+                                                     "statement":  "Üniversite hastaneleri ve Eğitim-Araştırma hastaneleri Türkiye sağlık sisteminde 3. basamak sağlık hizmeti sunar.",
+                                                     "question":  "Üniversite hastaneleri ve Eğitim-Araştırma hastaneleri Türkiye sağlık sisteminde 3. basamak sağlık hizmeti sunar.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Tıp eğitimi verilen ve ileri tıbbi bakım sunan bu hastaneler 3. basamaktır."
+                                                 }
+                                             ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "Aşı hizmetleri birincil koruma mıdır?",
+                                                 "question":  "Aşı hizmetleri birincil koruma mıdır?",
+                                                 "options":  [
+                                                                 "Evet (Hastalık öncesi önlem)",
+                                                                 "Hayır"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "Aşı ve bağışıklama doğrudan birincil koruyucu sağlık hizmetidir."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi Dünya Sağlık Örgütünün (DSÖ) Sağlık Sistemi Çerçevesi Modeli\u0027nde yer alan 6 yapı taşından biri değildir?",
+                                                "options":  [
+                                                                "Sağlık finansmanı",
+                                                                "Liderlik ve yönetişim",
+                                                                "Sağlık insan gücü",
+                                                                "Toplumsal sınıf ayrımı"
+                                                            ],
+                                                "answer":  3,
+                                                "explanation":  "DSÖ modelinde 6 yapı taşı: Hizmet sunumu, insan gücü, enformasyon, tıbbi ürün/teknoloji, finansman ve liderlik/yönetişimdir."
+                                            },
+                                            {
+                                                "q":  "Hastalık yükünün ölçütü olarak kullanılan ve hastalıklar nedeniyle ömürden kaybedilen yılları ifade eden kavram aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "DALY (Disability Adjusted Life Years)",
+                                                                "QALY (Quality Adjusted Life Years)",
+                                                                "UHC (Universal Health Coverage)",
+                                                                "SUT (Sağlık Uygulama Tebliği)"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "DALY (Yeti Kaybına Ayarlanmış Ömür), hastalık nedeniyle ömürden kaybedilen yılları ölçer."
+                                            }
+                                        ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u2",
+                      "number":  2,
+                      "term":  1,
+                      "exam":  "1. Vize Sınavı Kapsamı",
+                      "name":  "2. Ünite: Yönetim ve Sağlık Kurumlarında Yönetim",
+                      "badge":  "📋 Yönetim \u0026 Strateji Uzmanı",
+                      "color":  "indigo",
+                      "icon":  "fa-users-gear",
+                      "boss":  {
+                                   "name":  "Yönetsel Karmaşa Lordu \u0027Takım Elbiseli Beyaz Önlük\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚕️",
+                                   "introText":  "Yönetimin 6 temel işlevini, bilgi asimetrisinden kaynaklanan sunucu talebini ve kanıta dayalı karar araçlarını bilmeyen bu seviyeyi geçemez!",
+                                   "defeatText":  "Mükemmel yönetim stratejisti! Planlama, örgütleme ve kanıta dayalı karar mekanizmalarını çözerek kurumsal karmaşayı sonlandırdın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 Yönetim İşlevleri, Sağlık Yönetiminin Özellikleri ve Karar Verme",
+                                          "summary":  "2. Ünitede bilinmesi gereken çekirdek yönetim ve karar alma kuralları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Yönetimin Temel İşlevleri:\u003c/strong\u003e Durum saptama ve ihtiyaç analizi, Planlama, Örgütleme, Kadrolaşma, Yönlendirme ve Denetleme.",
+                                                         "\u003cstrong\u003e2. Sağlık Yönetimini Farklı Kılan Özellikler:\u003c/strong\u003e Sunulan hizmetlerin heterojenliği/soyutluğu, iş ve meslek çeşitliliği, hekim özerkliği ve paternalist tutumu ile kendine özgü ekonomik dinamikler.",
+                                                         "\u003cstrong\u003e3. Sağlık Ekonomisi Riskleri:\u003c/strong\u003e Bilgi asimetrisi nedeniyle \u0027Sunucu Tarafından Oluşturulan Talep\u0027 ve sigorta sistemlerinde görülen \u0027Ahlaki Tehlike (Moral Hazard)\u0027.",
+                                                         "\u003cstrong\u003e4. Karar Verme ve Dijital Araçlar:\u003c/strong\u003e Karar verme seçenekler arasından en uygununu seçmektir. Kanıta dayalı karar vermede Karar Ağacı, Karar Destek Sistemleri ve Algoritmalar kullanılır."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda \u0027Sunucu Tarafından Oluşturulan Talep\u0027, yönetimin 6 temel işlevi ve \u0027Planlama\u0027 işlevinin özellikleri (dinamik, geleceğe dönük, revizyona açık) sıkça sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Sağlık hizmetlerinde hekimin bilgi avantajını kullanarak hasta adına gereksiz tetkik/tedavi talep etmesine ne ad verilir?",
+                                                             "options":  [
+                                                                             "Sunucu Tarafından Oluşturulan Talep",
+                                                                             "Ters Seçim",
+                                                                             "Piyasa Denge Talebi"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! Bilgi asimetrisi hekimin hasta adına sunucu kaynaklı talep oluşturmasına yol açabilir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Sağlık hizmetlerinde hekimin bilgi üstünlüğü (bilgi asimetrisi) nedeniyle ortaya çıkan talep türü nedir?",
+                                             "front":  "Sağlık hizmetlerinde hekimin bilgi üstünlüğü (bilgi asimetrisi) nedeniyle ortaya çıkan talep türü nedir?",
+                                             "a":  "Sunucu Tarafından Oluşturulan Talep",
+                                             "back":  "Sunucu Tarafından Oluşturulan Talep",
+                                             "hint":  "Talebi hizmeti veren belirler"
+                                         },
+                                         {
+                                             "q":  "Yetki, sorumluluk ve raporlama ilişkilerinin kurulduğu yönetim işlevi hangisidir?",
+                                             "front":  "Yetki, sorumluluk ve raporlama ilişkilerinin kurulduğu yönetim işlevi hangisidir?",
+                                             "a":  "Örgütleme",
+                                             "back":  "Örgütleme (Organize Etme)",
+                                             "hint":  "Yapılanma ve iş bölümü oluşturma"
+                                         },
+                                         {
+                                             "q":  "Belli bir problemi çözmek veya bir amaca ulaşmak için tasarlanan mantıksal adımlar dizisine ne ad verilir?",
+                                             "front":  "Belli bir problemi çözmek veya bir amaca ulaşmak için tasarlanan mantıksal adımlar dizisine ne ad verilir?",
+                                             "a":  "Algoritma",
+                                             "back":  "Algoritma",
+                                             "hint":  "Karar alma ve işlem akış yolu"
+                                         },
+                                         {
+                                             "q":  "Hekimlerin hastaları adına en iyisini bildiklerini varsayan geleneksel tutuma ne ad verilir?",
+                                             "front":  "Hekimlerin hastaları adına en iyisini bildiklerini varsayan geleneksel tutuma ne ad verilir?",
+                                             "a":  "Paternalist Tavır",
+                                             "back":  "Paternalist Tavır",
+                                             "hint":  "Aşırı korumacı/babaç yaklaşım"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Sunucu Kaynaklı Talep",
+                                                "left":  "Sunucu Kaynaklı Talep",
+                                                "match":  "Bilgi asimetrisi nedeniyle sağlık hizmet sunucusunun talebi yönlendirmesi",
+                                                "right":  "Bilgi asimetrisi nedeniyle sağlık hizmet sunucusunun talebi yönlendirmesi",
+                                                "category":  "Ekonomik Risk"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Ahlaki Tehlike",
+                                                "left":  "Ahlaki Tehlike",
+                                                "match":  "Sigorta kapsamına giren bireyin sağlığını korumada özensizleşmesi veya aşırı tüketimi",
+                                                "right":  "Sigorta kapsamına giren bireyin sağlığını korumada özensizleşmesi veya aşırı tüketimi",
+                                                "category":  "Sigorta Riski"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Karar Ağacı",
+                                                "left":  "Karar Ağacı",
+                                                "match":  "Seçenekleri, olası yolları ve sonuçları özetleyen akış şemaları",
+                                                "right":  "Seçenekleri, olası yolları ve sonuçları özetleyen akış şemaları",
+                                                "category":  "Karar Aracı"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Denetleme (Kontrol)",
+                                                "left":  "Denetleme (Kontrol)",
+                                                "match":  "Gerçekleşen sonuçların standartlarla karşılaştırılıp sapmaların düzeltilmesi",
+                                                "right":  "Gerçekleşen sonuçların standartlarla karşılaştırılıp sapmaların düzeltilmesi",
+                                                "category":  "Yönetim İşlevi"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Planlama işlevi statik bir süreçtir ve bir kez yapıldıktan sonra revizyona kapalıdır.",
+                                                     "question":  "Planlama işlevi statik bir süreçtir ve bir kez yapıldıktan sonra revizyona kapalıdır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Planlama dinamik ve süreklilik gerektiren bir süreçtir; değişen koşullara göre revize edilir."
+                                                 },
+                                                 {
+                                                     "statement":  "Hekimlerin mesleki uygulamalarında bağımsız karar verme isteği hekim özerkliği olarak adlandırılır.",
+                                                     "question":  "Hekimlerin mesleki uygulamalarında bağımsız karar verme isteği hekim özerkliği olarak adlandırılır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hekimlik mesleği özerkliği yüksek ve yönetsel kısıtlamalarla çatışmaya meyilli bir meslektir."
+                                                 },
+                                                 {
+                                                     "statement":  "Karar verme, seçenekler arasından en uygun olanı seçme sürecidir.",
+                                                     "question":  "Karar verme, seçenekler arasından en uygun olanı seçme sürecidir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Karar verme, yönetim sürecinde alternatifler arasından tercih yapmaktır."
+                                                 }
+                                             ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "Planlama dinamik ve esnek bir süreç midir?",
+                                                 "question":  "Planlama dinamik ve esnek bir süreç midir?",
+                                                 "options":  [
+                                                                 "Evet (Sürekli revize edilebilir)",
+                                                                 "Hayır (Statiktir)"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "Planlama değişen iç ve dış çevre koşullarına göre sürekli güncellenir."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Sağlık hizmetlerinde hasta ile hekim arasındaki bilgi düzey farkından (bilgi asimetrisi) kaynaklanan ve hastanın gerçekte ihtiyacı olmasa bile hekimin koyduğu teşhisle ortaya çıkan talep türü aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Ahlaki tehlike",
+                                                                "Sunucu tarafından oluşturulan talep",
+                                                                "Ertelenmiş talep",
+                                                                "Tam esnek talep"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Bilgi asimetrisi nedeniyle sağlık hizmetini sunanlar (hekimler) hasta adına talep oluşturabilir."
+                                            },
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi sağlık kurumlarında yönetimin temel işlevlerinden biri değildir?",
+                                                "options":  [
+                                                                "Planlama",
+                                                                "Örgütleme",
+                                                                "Paternalist zorlama",
+                                                                "Denetleme"
+                                                            ],
+                                                "answer":  2,
+                                                "explanation":  "Yönetimin temel işlevleri durum saptama/ihtiyaç analizi, planlama, örgütleme, kadrolaşma, yönlendirme ve denetlemedir."
+                                            }
+                                        ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u3",
+                      "number":  3,
+                      "term":  1,
+                      "exam":  "1. Vize Sınavı Kapsamı",
+                      "name":  "3. Ünite: Sağlık Kurumlarında Kalite Yönetimi",
+                      "badge":  "🎖️ TKY \u0026 Akreditasyon Lideri",
+                      "color":  "indigo",
+                      "icon":  "fa-certificate",
+                      "boss":  {
+                                   "name":  "Süreç ve Standartlar Efendisi \u0027Kusursuz Akreditör\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚕️",
+                                   "introText":  "Donabedian\u0027ın Kalite Modelini (Yapı-Süreç-Çıktı), PUKÖ Döngüsünü ve Türkiye\u0027deki Akreditasyon (SKS, TÜSKA, JCI) Standartlarını kavramadan sınavı geçemezsin!",
+                                   "defeatText":  "Harika kalite lideri! Toplam Kalite Yönetimi (TKY) felsefesini, PUKÖ döngüsünü ve akreditasyon standartlarını mükemmel kavrayarak bölümü geçtin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 Kalite Kavramı, Donabedian Modeli ve Akreditasyon Standartları",
+                                          "summary":  "3. Ünitede bilinmesi gereken çekirdek kalite yönetimi kuralları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Sağlıkta Kalite ve Donabedian Modeli:\u003c/strong\u003e Avedis Donabedian kaliteyi \u0027Yapı\u0027 (fiziksel/insan kaynağı ortamı), \u0027Süreç\u0027 (teşhis/tedavi uygulamaları) ve \u0027Çıktı\u0027 (klinik sonuçlar ve hasta memnuniyeti) olarak 3 temel boyutta ele alır.",
+                                                         "\u003cstrong\u003e2. Toplam Kalite Yönetimi (TKY) ve PUKÖ Döngüsü:\u003c/strong\u003e TKY; müşteri odaklılık, sürekli iyileştirme ve paydaş katılımına dayanır. Kalite iyileştirme süreçleri Planla-Uygula-Kontrol Et-Önlem Al (PUKÖ) döngüsüyle yürütülür.",
+                                                         "\u003cstrong\u003e3. Kalite Boyutları (Donabedian \u0026 Sağlık Bakanlığı):\u003c/strong\u003e Etkenlik, etkililik, verimlilik, optimallik, kabul edilebilirlik, yasallık ve hakkaniyet Donabedian\u0027ın 7 temel kalite özelliğidir. Sağlık Bakanlığı da zamanlılık ve hasta odaklılık dâhil bu boyutları esas alır.",
+                                                         "\u003cstrong\u003e4. Akreditasyon ve Türkiye\u0027deki Sağlık Kalite Standartları:\u003c/strong\u003e Akreditasyon, sağlık kurumlarının bağımsız dış kuruluşlarca (Türkiye\u0027de TÜSKA/SKS, uluslararası alanda JCI) belirlenmiş standartlara uygunluğunun değerlendirilip onaylandığı gönüllü dış denetim sürecidir."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda Donabedian\u0027ın Yapı-Süreç-Çıktı üçlüsü, PUKÖ döngüsü adımları ve Türkiye\u0027de akreditasyonu yürüten TÜSKA kurumu sıklıkla sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Donabedian kalite modelinde hastanenin fiziksel mekânı, donanımı ve personel sayısı hangi boyutu oluşturur?",
+                                                             "options":  [
+                                                                             "Yapı",
+                                                                             "Süreç",
+                                                                             "Çıktı"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! Donabedian modelinde fiziki ve beşeri kaynaklar \u0027Yapı\u0027 kalitesidir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Donabedian\u0027ın Kalite Modelindeki 3 temel boyut nedir?",
+                                             "front":  "Donabedian\u0027ın Kalite Modelindeki 3 temel boyut nedir?",
+                                             "a":  "Yapı, Süreç ve Çıktı",
+                                             "back":  "Yapı, Süreç ve Çıktı",
+                                             "hint":  "Kalite değerlendirme sacayağı"
+                                         },
+                                         {
+                                             "q":  "PUKÖ döngüsünün açılımı nedir?",
+                                             "front":  "PUKÖ döngüsünün açılımı nedir?",
+                                             "a":  "Planla, Uygula, Kontrol Et, Önlem Al",
+                                             "back":  "Planla, Uygula, Kontrol Et, Önlem Al",
+                                             "hint":  "Sürekli iyileştirme döngüsü"
+                                         },
+                                         {
+                                             "q":  "Türkiye\u0027de sağlıkta akreditasyon standartlarını belirleyen ve uygulayan enstitü hangisidir?",
+                                             "front":  "Türkiye\u0027de sağlıkta akreditasyon standartlarını belirleyen ve uygulayan enstitü hangisidir?",
+                                             "a":  "TÜSKA (Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsü)",
+                                             "back":  "TÜSKA",
+                                             "hint":  "Sağlık Bakanlığı bağlantılı akreditasyon enstitüsü"
+                                         },
+                                         {
+                                             "q":  "Hataların ortaya çıkmadan önlenmesini ve ilk seferde doğru yapılmasını esas alan yönetim felsefesi nedir?",
+                                             "front":  "Hataların ortaya çıkmadan önlenmesini ve ilk seferde doğru yapılmasını esas alan yönetim felsefesi nedir?",
+                                             "a":  "Toplam Kalite Yönetimi (TKY)",
+                                             "back":  "Toplam Kalite Yönetimi (TKY)",
+                                             "hint":  "Müşteri odaklı sürekli gelişme anlayışı"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Yapı Kalitesi",
+                                                "left":  "Yapı Kalitesi",
+                                                "match":  "Hastanenin fiziki imkânları, teknolojik altyapısı ve personel niteliği",
+                                                "right":  "Hastanenin fiziki imkânları, teknolojik altyapısı ve personel niteliği",
+                                                "category":  "Donabedian Modeli"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Süreç Kalitesi",
+                                                "left":  "Süreç Kalitesi",
+                                                "match":  "Muayene, teşhis, tedavi ve bakım hizmetlerinin bilimsel ilkelere göre yürütülmesi",
+                                                "right":  "Muayene, teşhis, tedavi ve bakım hizmetlerinin bilimsel ilkelere göre yürütülmesi",
+                                                "category":  "Donabedian Modeli"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Çıktı Kalitesi",
+                                                "left":  "Çıktı Kalitesi",
+                                                "match":  "Tedavi başarısı, komplikasyon oranları ve hasta memnuniyeti sonuçları",
+                                                "right":  "Tedavi başarısı, komplikasyon oranları ve hasta memnuniyeti sonuçları",
+                                                "category":  "Donabedian Modeli"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Akreditasyon",
+                                                "left":  "Akreditasyon",
+                                                "match":  "Önceden belirlenmiş standartlara uygunluğun bağımsız bir dış kuruluşça onaylanması",
+                                                "right":  "Önceden belirlenmiş standartlara uygunluğun bağımsız bir dış kuruluşça onaylanması",
+                                                "category":  "Kalite Denetimi"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Donabedian modeline göre hastanenin tıbbi cihaz ve personel sayısı \u0027Yapı\u0027 boyutunu temsil eder.",
+                                                     "question":  "Donabedian modeline göre hastanenin tıbbi cihaz ve personel sayısı \u0027Yapı\u0027 boyutunu temsil eder.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hizmetin verildiği ortam, donanım ve personel \u0027Yapı\u0027 kalitesini oluşturur."
+                                                 },
+                                                 {
+                                                     "statement":  "Akreditasyon süreci, hastaneler için yasal olarak zorunlu tutulan bir ruhsatlandırma işlemidir.",
+                                                     "question":  "Akreditasyon süreci, hastaneler için yasal olarak zorunlu tutulan bir ruhsatlandırma işlemidir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Akreditasyon genellikle gönüllülük esasına dayanan bağımsız bir dış değerlendirme ve belgelendirme sürecidir."
+                                                 },
+                                                 {
+                                                     "statement":  "PUKÖ döngüsünde \u0027Önlem Al\u0027 adımı, süreçte tespit edilen sapmaların düzeltilmesi ve iyileştirilmesini ifade eder.",
+                                                     "question":  "PUKÖ döngüsünde \u0027Önlem Al\u0027 adımı, süreçte tespit edilen sapmaların düzeltilmesi ve iyileştirilmesini ifade eder.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Kontrol et aşamasından sonra ortaya çıkan aksaklıklar için önleyici ve düzeltici tedbirler alınır."
+                                                 }
+                                             ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "Akreditasyon gönüllü bir dış denetim süreci midir?",
+                                                 "question":  "Akreditasyon gönüllü bir dış denetim süreci midir?",
+                                                 "options":  [
+                                                                 "Evet (Gönüllü belgelendirme)",
+                                                                 "Hayır (Zorunlu ruhsattır)"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "Akreditasyon standartlara uyumu bağımsızca onaylayan gönüllü bir süreçtir."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Avedis Donabedian\u0027a göre sağlık hizmetinin verildiği fiziki ortam, araç-gereç donanımı ve insan gücü kalitenin hangi boyutunu oluşturur?",
+                                                "options":  [
+                                                                "Süreç",
+                                                                "Yapı",
+                                                                "Çıktı",
+                                                                "Girdi-Çıktı Dengesi"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Donabedian kalite modelinde fiziki imkânlar ve personel niteliği \u0027Yapı\u0027 boyutunda değerlendirilir."
+                                            },
+                                            {
+                                                "q":  "Sağlık kurumlarında sürekli kalite iyileştirme amacıyla kullanılan ve \u0027Planla - Uygula - Kontrol Et - Önlem Al\u0027 adımlarından oluşan yönetim aracı aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "SWOT Analizi",
+                                                                "PUKÖ Döngüsü",
+                                                                "VED Analizi",
+                                                                "CPM Yöntemi"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Sürekli kalite geliştirmede kullanılan bu yönteme PUKÖ döngüsü denir."
+                                            }
+                                        ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u4",
+                      "number":  4,
+                      "term":  1,
+                      "exam":  "1. Vize Sınavı Kapsamı",
+                      "name":  "4. Ünite: Sağlık Kurumlarında Pazarlama ve Yönetimi",
+                      "badge":  "🎯 7P \u0026 Sağlık Pazarlaması Mimarı",
+                      "color":  "indigo",
+                      "icon":  "fa-bullhorn",
+                      "boss":  {
+                                   "name":  "Pazar ve Algı Hakimi \u00277P Ustası\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚕️",
+                                   "introText":  "Hizmet pazarlamasının 7P bileşenini (Ürün, Fiyat, Dağıtım, Tutundurma, İnsanlar, Fiziksel Kanıt, Süreç) ve sağlık pazarlamasının güven/etik ilkelerini bilmeyen sınavda elenir!",
+                                   "defeatText":  "Tebrikler stratejist! Pazarlama karmasını, hizmetlerin 7P boyutunu ve müşteri güveni odaklı yönetim stratejilerini başarıyla tamamladın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 Sağlık Hizmetlerinde Pazarlama, 7P Karması ve Yönetim Süreci",
+                                          "summary":  "4. Ünitede bilinmesi gereken çekirdek pazarlama ve yönetim kural/ilkeleri:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Hizmet Pazarlaması Karması (7P):\u003c/strong\u003e Geleneksel 4P (Ürün, Fiyat, Dağıtım, Tutundurma) unsurlarına hizmet sektöründe 3 yeni bileşen (İnsanlar, Fiziksel Kanıt, Süreç) eklenerek 7P oluşturulmuştur.",
+                                                         "\u003cstrong\u003e2. Sağlık Pazarlamasının Özellikleri:\u003c/strong\u003e Sağlık hizmetleri soyut, heterojen ve ertelenemez niteliktedir; mülkiyet devri içermez. Temel amaç kısa vadeli kârdan ziyade güven ve hasta memnuniyeti algısını konumlandırmaktır.",
+                                                         "\u003cstrong\u003e3. Pazarlama İşlevleri ve Ayrılıklar:\u003c/strong\u003e Pazarlama; mekânsal, zaman, bilgi, değer ve mülkiyet ayrılıklarını ortadan kaldırır. Finansman, fiyatlandırma, sigorta gibi unsurlar kolaylaştırıcı fonksiyonlardır.",
+                                                         "\u003cstrong\u003e4. Pazarlama Yönetim Süreci:\u003c/strong\u003e Sağlık kurumlarında pazarlama yönetimi Durum Analizi (GZFT/SWOT), Amaç ve Hedeflerin Saptanması, Pazarlama Karmasının Oluşturulması, Uygulama ve Pazarlama Denetimi adımlarından oluşur."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda hizmet pazarlamasına eklenen 3P (İnsanlar, Fiziksel Kanıt, Süreç), sağlıkta temel unsurun \u0027güven\u0027 olması ve pazarlama denetiminin hedeflerle gerçekleşenleri kıyaslama işlevi sıkça sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Geleneksel 4P modeline hizmet sektöründe eklenen 3 unsur aşağıdakilerden hangisidir?",
+                                                             "options":  [
+                                                                             "İnsanlar, Fiziksel Kanıt, Süreç",
+                                                                             "Kalite, Fiyat, Kâr",
+                                                                             "Reklam, Kampanya, İndirim"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! Hizmet pazarlamasında 7P modeli; İnsanlar (People), Fiziksel Kanıt (Physical Evidence) ve Süreç (Process) eklenerek oluşur."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Geleneksel 4P pazarlama karmasına hizmet sektöründe eklenen 3 unsur (3P) hangileridir?",
+                                             "front":  "Geleneksel 4P pazarlama karmasına hizmet sektöründe eklenen 3 unsur (3P) hangileridir?",
+                                             "a":  "İnsanlar (People), Fiziksel Kanıt (Physical Evidence) ve Süreç (Process)",
+                                             "back":  "İnsanlar, Fiziksel Kanıt, Süreç (7P)",
+                                             "hint":  "Hizmet kalitesini belirleyen insan ve sunum adımları"
+                                         },
+                                         {
+                                             "q":  "Sağlık kurumlarının pazarlamadaki en temel ve öncelikli hedefi ne olmalıdır?",
+                                             "front":  "Sağlık kurumlarının pazarlamadaki en temel ve öncelikli hedefi ne olmalıdır?",
+                                             "a":  "Hasta ve yakınlarında güven algısı ve kurumsal itibar oluşturmak",
+                                             "back":  "Güven Algısı ve Kurumsal İtibar",
+                                             "hint":  "Kısa vadeli kazanç yerine uzun vadeli bağ"
+                                         },
+                                         {
+                                             "q":  "Sağlık kurumunun otoparkı, kurumsal renkleri, temizliği ve tasarımı hangi pazarlama karması unsurudur?",
+                                             "front":  "Sağlık kurumunun otoparkı, kurumsal renkleri, temizliği ve tasarımı hangi pazarlama karması unsurudur?",
+                                             "a":  "Fiziksel Kanıt (Physical Evidence)",
+                                             "back":  "Fiziksel Kanıt (Physical Evidence)",
+                                             "hint":  "Somut ve görsel çevre göstergeleri"
+                                         },
+                                         {
+                                             "q":  "Pazarlama yönetiminde kurumun güçlü/zayıf yönleri ile fırsat ve tehditlerinin incelendiği ilk adım hangisidir?",
+                                             "front":  "Pazarlama yönetiminde kurumun güçlü/zayıf yönleri ile fırsat ve tehditlerinin incelendiği ilk adım hangisidir?",
+                                             "a":  "Durum Analizi (GZFT / SWOT Analizi)",
+                                             "back":  "Durum Analizi (SWOT)",
+                                             "hint":  "Mevcut durumu tarafsız değerlendirme"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Fiziksel Kanıt",
+                                                "left":  "Fiziksel Kanıt",
+                                                "match":  "Hastanenin mimarisi, hijyeni, otoparkı, kurumsal renkleri ve logosu",
+                                                "right":  "Hastanenin mimarisi, hijyeni, otoparkı, kurumsal renkleri ve logosu",
+                                                "category":  "7P Unsuru"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Süreç (Process)",
+                                                "left":  "Süreç (Process)",
+                                                "match":  "Randevu almadan taburcu olmaya kadar hizmetin sunulduğu işlem adımları",
+                                                "right":  "Randevu almadan taburcu olmaya kadar hizmetin sunulduğu işlem adımları",
+                                                "category":  "7P Unsuru"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "İnsanlar (People)",
+                                                "left":  "İnsanlar (People)",
+                                                "match":  "Hizmeti sunan hekim, hemşire, idari personel ile hizmeti alan hastalar",
+                                                "right":  "Hizmeti sunan hekim, hemşire, idari personel ile hizmeti alan hastalar",
+                                                "category":  "7P Unsuru"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Pazarlama Denetimi",
+                                                "left":  "Pazarlama Denetimi",
+                                                "match":  "Planlanan pazarlama hedefleri ile gerçekleşen sonuçların karşılaştırılması",
+                                                "right":  "Planlanan pazarlama hedefleri ile gerçekleşen sonuçların karşılaştırılması",
+                                                "category":  "Pazarlama Adımı"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Sağlık hizmetlerinin pazarlanmasında mülkiyet devri gerçekleşir ve müşteri satın aldığı hizmetin mülkiyetine sahip olur.",
+                                                     "question":  "Sağlık hizmetlerinin pazarlanmasında mülkiyet devri gerçekleşir ve müşteri satın aldığı hizmetin mülkiyetine sahip olur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Hizmet pazarlaması soyuttur ve mülkiyet devri gerektirmez; sadece fayda sağlama amacı taşır."
+                                                 },
+                                                 {
+                                                     "statement":  "Sağlık kurumlarında pazarlama karması 4P bileşenine ek olarak İnsanlar, Fiziksel Kanıt ve Süreç unsurlarını kapsayan 7P modeline dayanır.",
+                                                     "question":  "Sağlık kurumlarında pazarlama karması 4P bileşenine ek olarak İnsanlar, Fiziksel Kanıt ve Süreç unsurlarını kapsayan 7P modeline dayanır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Booms ve Bitner tarafından geliştirilen hizmet pazarlaması karması 7P\u0027den oluşur."
+                                                 },
+                                                 {
+                                                     "statement":  "Fiyat, pazarlama karması unsurları arasında giderler üzerinden değil doğrudan gelire dönük planlama yapılan tek unsurdur.",
+                                                     "question":  "Fiyat, pazarlama karması unsurları arasında giderler üzerinden değil doğrudan gelire dönük planlama yapılan tek unsurdur.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Ürün, dağıtım ve tutundurma maliyet/gider oluştururken fiyat gelir sağlayan tek bileşendir."
+                                                 }
+                                             ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "Hizmet pazarlamasında mülkiyet devri var mıdır?",
+                                                 "question":  "Hizmet pazarlamasında mülkiyet devri var mıdır?",
+                                                 "options":  [
+                                                                 "Hayır (Hizmet soyuttur)",
+                                                                 "Evet (Mülkiyet devredilir)"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "Hizmetler tüketildiği anda biter, fiziki mülkiyet devri gerçekleşmez."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Booms ve Bitner tarafından geliştirilen ve geleneksel 4P pazarlama karmasına eklenerek hizmet pazarlamasını 7P modeline dönüştüren 3 yeni bileşen aşağıdakilerin hangisinde doğru verilmiştir?",
+                                                "options":  [
+                                                                "İnsanlar, Fiziksel Kanıt, Süreç",
+                                                                "İnovasyon, Finansman, Kalite",
+                                                                "Reklam, Fiyatlandırma, Dağıtım",
+                                                                "Planlama, Örgütleme, Denetim"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "Hizmet pazarlamasında 4P\u0027ye (Ürün, Fiyat, Dağıtım, Tutundurma) ek olarak İnsanlar (People), Fiziksel Kanıt (Physical Evidence) ve Süreç (Process) eklenmiştir."
+                                            },
+                                            {
+                                                "q":  "Sağlık kurumunun otelcilik hizmetleri, otopark olanağı, bina tasarımı, kurumsal renkleri ve hijyen standartları pazarlama karmasının hangi bileşeni kapsamında değerlendirilir?",
+                                                "options":  [
+                                                                "Tutundurma",
+                                                                "Fiziksel Kanıt",
+                                                                "Dağıtım",
+                                                                "Süreç"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Hizmet alanın algısını etkileyen fiziki ve görsel tüm imkânlar Fiziksel Kanıt (Physical Evidence) başlığı altındadır."
+                                            }
+                                        ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u5",
+                      "number":  5,
+                      "term":  2,
+                      "exam":  "2. Dönem / Final Sınavı Kapsamı",
+                      "name":  "5. Ünite: Sağlık Kurumlarında İnsan Kaynakları Yönetimi",
+                      "badge":  "👥 İKY \u0026 Liyakat Mimarı",
+                      "color":  "indigo",
+                      "icon":  "fa-user-tie",
+                      "boss":  {
+                                   "name":  "İnsan Gücü Mimarisi \u0027Liyakat ve Motivasyon Lordu\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚕️",
+                                   "introText":  "Sağlık hizmetlerinde emek-yoğun yapıyı, İKY ile geleneksel personel yönetimi farkını, iş analizini ve motivasyon kuramlarını bilmeyen bu birimi yönetemez!",
+                                   "defeatText":  "Tebrikler İK stratejisti! İş analizi, yetkinlik bazlı istihdam ve motivasyon kuramlarını (Maslow, Herzberg, Vroom, Porter-Lawler) ustalıkla uygulayarak ekibini zafere taşıdın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 İnsan Kaynakları Yönetimi (İKY), İş Analizi ve Motivasyon Kuramları",
+                                          "summary":  "5. Ünitede bilinmesi gereken çekirdek İKY ilkeleri ve süreçleri:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Personel Yönetimi vs. İKY:\u003c/strong\u003e Geleneksel personel yönetimi reaktif, kısa vadeli ve maliyet odaklıyken; İKY proaktif, stratejik, insanı yatırım unsuru gören ve tüm yöneticilerin paylaştığı bir sorumluluktur.",
+                                                         "\u003cstrong\u003e2. İş Analizi, İş Tanımı ve İş Gerekleri:\u003c/strong\u003e İş analizi bir işin doğasını belirleme sürecidir. Çıktılarından \u0027İş Tanımı\u0027 yapılacak işi/görevleri tanımlarken; \u0027İş Gerekleri\u0027 o işi yapacak kişide bulunması gereken nitelikleri (eğitim, beceri, deneyim) belirtir.",
+                                                         "\u003cstrong\u003e3. Motivasyon Kuramları (İçerik ve Süreç):\u003c/strong\u003e İçerik kuramları (Maslow İhtiyaçlar Hiyerarşisi, Herzberg Çift Faktör); Süreç kuramları (Vroom Beklenti Kuramı, Porter-Lawler Modeli). Herzberg\u0027de hijyen faktörleri yokluğunda doyumsuzluk yaratırken, motivasyon faktörleri (başarı, sorumluluk) doyum sağlar.",
+                                                         "\u003cstrong\u003e4. Sağlıkta İKY\u0027nin Önemi:\u003c/strong\u003e Sağlık hizmetleri ileri teknolojiye rağmen emek-yoğun yapıda olup giderlerin %50-75\u0027i personel ödemeleridir; hekimlik ve sağlık mesleklerindeki özerklik/çeşitlilik İKY\u0027yi kritik kılar."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda İKY ile Personel Yönetimi arasındaki farklar (proaktif/reaktif), İş Tanımı-İş Gerekleri ayrımı ve Herzberg\u0027in Hijyen-Motivasyon faktörleri çok sık sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "İşi yapacak personelin taşıması gereken eğitim, yabancı dil ve tecrübe gibi nitelikleri gösteren doküman hangisidir?",
+                                                             "options":  [
+                                                                             "İş Gerekleri (İş Nitelikleri)",
+                                                                             "İş Tanımı",
+                                                                             "Organizasyon Şeması"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! İşi yapacak insanda aranan özellikler \u0027İş Gerekleri\u0027 dokümanında tanımlanır."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Geleneksel personel yönetimi ile İKY arasındaki temel fark nedir?",
+                                             "front":  "Geleneksel personel yönetimi ile İKY arasındaki temel fark nedir?",
+                                             "a":  "Personel yönetimi reaktif ve maliyet odaklıyken, İKY proaktif ve stratejik bir yatırım anlayışına sahiptir.",
+                                             "back":  "İKY Proaktif \u0026 Yatırım Odaklıdır",
+                                             "hint":  "Proaktiflik ve stratejik bakış"
+                                         },
+                                         {
+                                             "q":  "İş analizi sonucunda ortaya çıkan ve işi yapacak personelin taşıması gereken nitelikleri (eğitim, tecrübe) gösteren doküman nedir?",
+                                             "front":  "İş analizi sonucunda ortaya çıkan ve işi yapacak personelin taşıması gereken nitelikleri (eğitim, tecrübe) gösteren doküman nedir?",
+                                             "a":  "İş Gerekleri (İş Nitelikleri)",
+                                             "back":  "İş Gerekleri (İş Nitelikleri)",
+                                             "hint":  "İşi yapacak insanda aranan özellikler"
+                                         },
+                                         {
+                                             "q":  "Herzberg\u0027in Çift Faktör Kuramında maaş, çalışma koşulları ve şirket politikası hangi faktör grubuna girer?",
+                                             "front":  "Herzberg\u0027in Çift Faktör Kuramında maaş, çalışma koşulları ve şirket politikası hangi faktör grubuna girer?",
+                                             "a":  "Hijyen Faktörleri (Yokluğunda doyumsuzluk yaratan faktörler)",
+                                             "back":  "Hijyen Faktörleri",
+                                             "hint":  "İşin çevresiyle ilgili temel unsurlar"
+                                         },
+                                         {
+                                             "q":  "Sağlık kurumlarında bütçe giderlerinin yaklaşık ne kadarı personel ödemelerinden (insan gücü maliyetinden) oluşur?",
+                                             "front":  "Sağlık kurumlarında bütçe giderlerinin yaklaşık ne kadarı personel ödemelerinden (insan gücü maliyetinden) oluşur?",
+                                             "a":  "%50 ile %75 arasında değişen oranda",
+                                             "back":  "%50 - %75 Arası (Emek-Yoğun)",
+                                             "hint":  "Emek-yoğun yapının mali göstergesi"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "İş Tanımı",
+                                                "left":  "İş Tanımı",
+                                                "match":  "İşin içeriğini, görev ve sorumluluklarını açıklayan doküman",
+                                                "right":  "İşin içeriğini, görev ve sorumluluklarını açıklayan doküman",
+                                                "category":  "İKY Dokümanı"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "İş Gerekleri",
+                                                "left":  "İş Gerekleri",
+                                                "match":  "İşi yapacak personelde bulunması gereken eğitim, beceri ve nitelikler",
+                                                "right":  "İşi yapacak personelde bulunması gereken eğitim, beceri ve nitelikler",
+                                                "category":  "İKY Dokümanı"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Hijyen Faktörleri",
+                                                "left":  "Hijyen Faktörleri",
+                                                "match":  "Eksikliğinde doyumsuzluk yaratan fakat tek başına yüksek motivasyon sağlamayan unsurlar",
+                                                "right":  "Eksikliğinde doyumsuzluk yaratan fakat tek başına yüksek motivasyon sağlamayan unsurlar",
+                                                "category":  "Herzberg Kuramı"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Proaktif Yaklaşım",
+                                                "left":  "Proaktif Yaklaşım",
+                                                "match":  "Olaylar gerçekleşmeden önce olasılıkları öngörüp planlı eyleme geçme",
+                                                "right":  "Olaylar gerçekleşmeden önce olasılıkları öngörüp planlı eyleme geçme",
+                                                "category":  "İKY Felsefesi"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Geleneksel personel yönetimi anlayışında insan bir \u0027maliyet unsuru\u0027 olarak görülürken, İKY anlayışında \u0027yatırım yapılan sermaye\u0027 olarak kabul edilir.",
+                                                     "question":  "Geleneksel personel yönetimi anlayışında insan bir \u0027maliyet unsuru\u0027 olarak görülürken, İKY anlayışında \u0027yatırım yapılan sermaye\u0027 olarak kabul edilir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! İKY insanı geliştirilmesi ve yatırım yapılması gereken stratejik bir varlık olarak ele alır."
+                                                 },
+                                                 {
+                                                     "statement":  "Herzberg\u0027in Çift Faktör Kuramına göre maaş ve fiziksel çalışma koşulları doğrudan yüksek içsel motivasyon sağlayan faktörlerdir.",
+                                                     "question":  "Herzberg\u0027in Çift Faktör Kuramına göre maaş ve fiziksel çalışma koşulları doğrudan yüksek içsel motivasyon sağlayan faktörlerdir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Maaş ve çalışma koşulları \u0027Hijyen Faktörleri\u0027dir; yoklukları doyumsuzluk yaratır ama varlıkları tek başına yüksek motivasyon sağlamaz."
+                                                 },
+                                                 {
+                                                     "statement":  "İş analizi çalışmaları sadece yeni eleman alımında kullanılır, eğitim ve performans değerlendirmede kullanılamaz.",
+                                                     "question":  "İş analizi çalışmaları sadece yeni eleman alımında kullanılır, eğitim ve performans değerlendirmede kullanılamaz.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İş analizi; eğitim ihtiyacı tespiti, performans değerlendirme, ücretlendirme ve kariyer planlamanın da temel altyapısını oluşturur."
+                                                 }
+                                             ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "İKY insan kaynağını maliyet yerine yatırım unsuru olarak mı görür?",
+                                                 "question":  "İKY insan kaynağını maliyet yerine yatırım unsuru olarak mı görür?",
+                                                 "options":  [
+                                                                 "Evet (Stratejik Sermaye)",
+                                                                 "Hayır (Maliyet unsurudur)"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "İKY insanı örgüte değer katan stratejik bir sermaye olarak görür."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi İnsan Kaynakları Yönetiminin (İKY) geleneksel Personel Yönetiminden (PY) ayrılan temel özelliklerinden biri değildir?",
+                                                "options":  [
+                                                                "İKY\u0027nin proaktif bir rol üstlenmesi",
+                                                                "İKY\u0027nin insan kaynağını bir maliyet unsuru olarak görmesi",
+                                                                "İKY sorumluluğunun tüm yöneticiler tarafından paylaşılması",
+                                                                "İKY\u0027nin örgütün stratejik planlarıyla entegre çalışması"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "İKY insan kaynağını maliyet değil yatırım yapılması gereken bir sermaye/varlık olarak görür; maliyet unsuru olarak gören geleneksel personel yönetimidir."
+                                            },
+                                            {
+                                                "q":  "Bir hastanede belirli bir pozisyonda görev yapacak personelin sahip olması gereken eğitim düzeyi, yabancı dil bilgisi, mesleki tecrübe ve özel yeteneklerin tanımlandığı form aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "İş Tanımı",
+                                                                "İş Gerekleri (Nitelikleri)",
+                                                                "İş Değerleme Formu",
+                                                                "Oryantasyon Planı"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "İşi yapacak personelin taşıması gereken kişisel özellik ve donanımlar \u0027İş Gerekleri\u0027 (İş Nitelikleri) kapsamında tanımlanır."
+                                            }
+                                        ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u6",
+                      "number":  6,
+                      "term":  2,
+                      "exam":  "2. Dönem / Final Sınavı Kapsamı",
+                      "name":  "6. Ünite: Sağlık Finansmanı ve Harcamaları",
+                      "badge":  "💳 Finansal Koruma \u0026 Bütçe Mimarı",
+                      "color":  "indigo",
+                      "icon":  "fa-wallet",
+                      "boss":  {
+                                   "name":  "Bütçe ve Risk Muhafızı \u0027Katastrofik Harcama Lordu\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚕️",
+                                   "introText":  "Bismarck ve Beveridge modellerini, GSS reformunu, katastrofik harcama riskini ve TİG geri ödeme yöntemlerini çözemeyen bu bütçeyi yönetemez!",
+                                   "defeatText":  "Tebrikler finans mimarı! Risk paylaşımını, kamu-özel sigorta dengesini ve stratejik geri ödeme yöntemlerini ustalıkla kurgulayarak finansal sürdürülebilirliği sağladın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 Sağlık Finansman Amaçları, Modelleri ve Geri Ödeme Yöntemleri",
+                                          "summary":  "6. Ünitede bilinmesi gereken çekirdek sağlık finansmanı ve harcama kuralları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Sağlık Finansmanının Temel Amaçları ve Hedefleri:\u003c/strong\u003e Amaçlar coğrafi ve mali ulaşılabilirlik, hakkaniyet (ihtiyaca göre eşitlik), risk paylaşımı (gençten yaşlıya/zenginden yoksula kaynak aktarımı) ve sürdürülebilirliktir. Hedefler ise finansal koruma, adalet, verimlilik ve yoksullaşmayı önlemektir.",
+                                                         "\u003cstrong\u003e2. Kamusal ve Özel Finansman Modelleri:\u003c/strong\u003e Kamu modelleri Vergi Tabanlı \u0027Beveridge Modeli\u0027 (İngiltere, Danimarka) ve Prim Tabanlı Sosyal Sağlık Sigortası \u0027Bismarck Modeli\u0027dir (Almanya, Fransa). Özel modeller ise özel sağlık sigortası, tıbbi tasarruf hesabı ve cepten ödemelerdir.",
+                                                         "\u003cstrong\u003e3. Türkiye\u0027de Sosyal Sağlık Sigortası ve GSS:\u003c/strong\u003e 2006\u0027da kabul edilen 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası (GSS) Kanunu ile SSK, Emekli Sandığı, BAĞ-KUR ve Yeşil Kart parçalı yapısı SGK çatısı altında birleştirilerek finansal koruyuculuk genişletilmiştir.",
+                                                         "\u003cstrong\u003e4. Geri Ödeme Yöntemleri ve Katastrofik Harcama:\u003c/strong\u003e Geri ödeme yöntemleri hizmet başına, gün başına, vaka başına, kişi başına (capitation), global bütçe ve Tanıyla İlişkili Gruplar (TİG/DRG) olarak uygulanır. Bireyleri yoksullaştıran yıkıcı sağlık harcamalarına \u0027Katastrofik Sağlık Harcaması\u0027 denir."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda Beveridge (vergi) vs. Bismarck (prim) modelleri, Katastrofik Sağlık Harcaması tanımı ve TİG/Global Bütçe gibi geri ödeme yöntemleri çok sık sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Hanehalkının ödeme gücünü aşarak yoksullaşmasına neden olan yıkıcı sağlık harcamalarına ne ad verilir?",
+                                                             "options":  [
+                                                                             "Katastrofik Sağlık Harcaması",
+                                                                             "Marjinal Tüketim",
+                                                                             "Rücu Gideri"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! Bireyleri yoksulluk sınırının altına düşüren yıkıcı sağlık masraflarına Katastrofik Harcama denir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Vergi tabanlı kamu sağlık finansman modeli kimin adıyla anılır?",
+                                             "front":  "Vergi tabanlı kamu sağlık finansman modeli kimin adıyla anılır?",
+                                             "a":  "Beveridge Modeli (İngiltere örneği)",
+                                             "back":  "Beveridge Modeli (Genel Vergi)",
+                                             "hint":  "Genel vergilerden finanse edilen kamusal model"
+                                         },
+                                         {
+                                             "q":  "Çalışan ve işverenden alınan primlerle devlet katkısına dayanan sosyal sağlık sigortası modeli nedir?",
+                                             "front":  "Çalışan ve işverenden alınan primlerle devlet katkısına dayanan sosyal sağlık sigortası modeli nedir?",
+                                             "a":  "Bismarck Modeli (Almanya örneği)",
+                                             "back":  "Bismarck Modeli (Sosyal Prim)",
+                                             "hint":  "Prim tabanlı kamu finansman modeli"
+                                         },
+                                         {
+                                             "q":  "Hanehalkının ödeme gücünü aşarak yoksullaşmasına neden olan yıkıcı sağlık harcamalarına ne ad verilir?",
+                                             "front":  "Hanehalkının ödeme gücünü aşarak yoksullaşmasına neden olan yıkıcı sağlık harcamalarına ne ad verilir?",
+                                             "a":  "Katastrofik Sağlık Harcaması",
+                                             "back":  "Katastrofik Sağlık Harcaması",
+                                             "hint":  "Finansal felakete yol açan harcama türü"
+                                         },
+                                         {
+                                             "q":  "Türkiye\u0027de parçalı sosyal güvenlik kurumlarını (SSK, BAĞ-KUR, Emekli Sandığı) tek çatı altında toplayan kanun hangisidir?",
+                                             "front":  "Türkiye\u0027de parçalı sosyal güvenlik kurumlarını (SSK, BAĞ-KUR, Emekli Sandığı) tek çatı altında toplayan kanun hangisidir?",
+                                             "a":  "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası (GSS) Kanunu",
+                                             "back":  "5510 Sayılı GSS Kanunu (2006)",
+                                             "hint":  "2006 yılında çıkarılan temel reform kanunu"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Beveridge Modeli",
+                                                "left":  "Beveridge Modeli",
+                                                "match":  "Genel vergilerle finanse edilen kamu sağlık sistemi",
+                                                "right":  "Genel vergilerle finanse edilen kamu sağlık sistemi",
+                                                "category":  "Finansman Modeli"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Bismarck Modeli",
+                                                "left":  "Bismarck Modeli",
+                                                "match":  "Çalışan ve işverenden toplanan primlere dayalı sosyal sağlık sigortası",
+                                                "right":  "Çalışan ve işverenden toplanan primlere dayalı sosyal sağlık sigortası",
+                                                "category":  "Finansman Modeli"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Katastrofik Harcama",
+                                                "left":  "Katastrofik Harcama",
+                                                "match":  "Birey ve aileleri yoksulluk sınırının altına düşüren yıkıcı sağlık gideri",
+                                                "right":  "Birey ve aileleri yoksulluk sınırının altına düşüren yıkıcı sağlık gideri",
+                                                "category":  "Sağlık Riski"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Risk Paylaşımı",
+                                                "left":  "Risk Paylaşımı",
+                                                "match":  "Sağlıklı/genç bireylerden hasta/yaşlı bireylere finansal kaynak aktarımı",
+                                                "right":  "Sağlıklı/genç bireylerden hasta/yaşlı bireylere finansal kaynak aktarımı",
+                                                "category":  "Finansman İlkesi"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Hakkaniyet kavramı sağlık finansmanında herkesin tamamen eşit tutar ödemesi anlamına gelir.",
+                                                     "question":  "Hakkaniyet kavramı sağlık finansmanında herkesin tamamen eşit tutar ödemesi anlamına gelir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Hakkaniyet eşit ödemeyi değil, ihtiyacı olanın ihtiyacı kadar hizmete erişmesini ve ödeme gücüne göre katkıda bulunmasını ifade eder."
+                                                 },
+                                                 {
+                                                     "statement":  "5510 sayılı Kanun ile Türkiye\u0027de Genel Sağlık Sigortası (GSS) kurularak toplumun büyük çoğunluğu kapsama alınmıştır.",
+                                                     "question":  "5510 sayılı Kanun ile Türkiye\u0027de Genel Sağlık Sigortası (GSS) kurularak toplumun büyük çoğunluğu kapsama alınmıştır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! GSS reformu ile parçalı sosyal güvenlik yapısı SGK çatısı altında birleştirilmiş ve kapsayıcılık artırılmıştır."
+                                                 },
+                                                 {
+                                                     "statement":  "Global bütçe ve vaka başına ödeme yöntemleri ileriye dönük (prospektif) geri ödeme mekanizmaları arasında yer alır.",
+                                                     "question":  "Global bütçe ve vaka başına ödeme yöntemleri ileriye dönük (prospektif) geri ödeme mekanizmaları arasında yer alır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hizmet sunulmadan önce miktar veya bütçe sınırının belirlendiği sistemler ileriye dönük ödeme sistemleridir."
+                                                 }
+                                             ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "Bismarck modelinde finansman genel vergilerden mi karşılanır?",
+                                                 "question":  "Bismarck modelinde finansman genel vergilerden mi karşılanır?",
+                                                 "options":  [
+                                                                 "Hayır (Sosyal primlerden)",
+                                                                 "Evet (Vergilerden)"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "Vergiden karşılanan model Beveridge\u0027dir; Bismarck modeli prim tabanlıdır."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi vergi tabanlı kamu sağlık finansman modeli olup ilk kez uygulandığı dönemin İngiliz Başbakanı\u0027nın adıyla anılan modeldir?",
+                                                "options":  [
+                                                                "Bismarck Modeli",
+                                                                "Beveridge Modeli",
+                                                                "Tıbbi Tasarruf Hesabı",
+                                                                "Semptom Tabanlı Model"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Vergi tabanlı kamu finansman modeli Beveridge Modeli olarak bilinmektedir."
+                                            },
+                                            {
+                                                "q":  "Bireylerin ve hanehalklarının finansal korumadan yoksun olarak ödeme güçlerini aşan, varlıklarını satmalarına ve yoksullaşmalarına yol açan sağlık harcamalarına ne ad verilir?",
+                                                "options":  [
+                                                                "Marjinal harcama",
+                                                                "Katastrofik sağlık harcaması",
+                                                                "Cari transfer harcaması",
+                                                                "Operasyonel sermaye gideri"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "Yıkıcı nitelikteki ve aileleri yoksulluğa sürükleyen bu harcamalara \u0027katastrofik sağlık harcaması\u0027 denir."
+                                            }
+                                        ]
+                  },
+                  {
+                      "id":  "onlisans-sky-u7",
+                      "number":  7,
+                      "term":  2,
+                      "exam":  "2. Dönem / Final Sınavı Kapsamı",
+                      "name":  "7. Ünite: Sağlık Kuruluşlarında Tedarik Zinciri ve Stok Yönetimi",
+                      "badge":  "📦 Tedarik Zinciri \u0026 Lojistik Uzmanı",
+                      "icon":  "fa-boxes-packing",
+                      "boss":  {
+                                   "name":  "Lojistik ve Stok Lordu \u0027Sıfır Hata Master\u0027",
+                                   "introText":  "Tedarik zincirinin 4 temel fonksiyonunu, ABC/VED analizlerini, İTS/ÜTS bilişim sistemlerini ve JIT stok yöntemini bilmeyen bu depoyu yönetemez!",
+                                   "defeatText":  "Tebrikler tedarik yöneticisi! Doğru zaman, doğru miktar ve doğru yer ilkeleriyle malzemeleri kesintisiz yönetip hastaneyi stok krizinden kurtardın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 Tedarik Zinciri Yönetimi, Stok Kontrol Yöntemleri ve Bilişim Sistemleri",
+                                          "summary":  "7. Ünitede bilinmesi gereken çekirdek tedarik zinciri ve stok yönetimi kuralları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Tedarik Zinciri Yönetiminin Amacı ve Özellikleri:\u003c/strong\u003e Doğru malzemenin doğru zamanda, doğru miktarda, doğru yerde ve en düşük maliyetle temin edilmesidir. Malzeme ve hizmet alımları hastane bütçelerinin %30-50\u0027sini oluşturur.",
+                                                         "\u003cstrong\u003e2. Stok Kontrol ve Sınıflandırma Yöntemleri:\u003c/strong\u003e ABC Analizi (parasal değere göre: A yüksek değerli/az miktar, C düşük değerli/bol miktar); VED Analizi (hayati öneme göre: Vital-Hayati, Essential-Gerekli, Desirable-Arzu edilen) ve Just in Time (JIT - sıfır stokla ihtiyaç anında tedarik).",
+                                                         "\u003cstrong\u003e3. Sağlıkta Bilişim ve Takip Sistemleri:\u003c/strong\u003e İTS (İlaç Takip Sistemi), ÜTS (Ürün Takip Sistemi), MKYS (Malzeme Kaynakları Yönetim Sistemi), Sağlık Market (DMO e-ihale) ve RFID / Karekod teknolojileri.",
+                                                         "\u003cstrong\u003e4. Satın Alma Mevzuatı ve Düzenleyici Kurumlar:\u003c/strong\u003e Kamu hastanelerinde 4734 sayılı Kamu İhale Kanunu ihale usulleri uygulanır; ödemeler ve ilaç/tıbbi malzeme fiyatlandırması SGK\u0027nın Sağlık Uygulama Tebliği (SUT) hükümlerine tabidir."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda ABC analizi (maliyet odaklı) ile VED analizi (hayati önem odaklı) arasındaki fark, İTS/ÜTS/MKYS bilişim sistemleri ve JIT (Tam Zamanında) stok yöntemi sıklıkla sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Sağlık kurumlarında stok kontrolünde malzemelerin parasal değerini değil, klinik veya hayati önemini temel alan analiz yöntemi hangisidir?",
+                                                             "options":  [
+                                                                             "ABC Analizi",
+                                                                             "VED Analizi",
+                                                                             "DMO Analizi",
+                                                                             "SUT Analizi"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "Vital, Essential, Desirable kelimelerinin baş harflerinden oluşur."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Stokta bulunan malzemeleri parasal tutarlarına ve maliyet yüklerine göre A, B, C olarak gruplandıran analiz yöntemi nedir?",
+                                             "a":  "ABC Analizi (Always Better Control)",
+                                             "hint":  "Parasal değere dayalı sınıflandırma"
+                                         },
+                                         {
+                                             "q":  "Malzemenin yokluğunda sağlık hizmetinin aksayacağı klinik hayati önemi esas alan stok analiz yöntemi nedir?",
+                                             "a":  "VED Analizi (Vital, Essential, Desirable)",
+                                             "hint":  "Hayati/klinik öneme dayalı sınıflandırma"
+                                         },
+                                         {
+                                             "q":  "Türkiye\u0027de ilaçların üretimden hastaya ulaşana kadar karekodla takibini sağlayan ve sahteciliği önleyen sistem nedir?",
+                                             "a":  "İTS (İlaç Takip Sistemi)",
+                                             "hint":  "TİTCK bünyesindeki ilaç izleme platformu"
+                                         },
+                                         {
+                                             "q":  "Sıfır stok maliyetiyle malzemenin tam ihtiyaç duyulduğu ve kullanılacağı anda tedarik edilmesini esas alan yöntem nedir?",
+                                             "a":  "Just in Time (JIT / Tam Zamanında Tedarik)",
+                                             "hint":  "Depolama maliyetini sıfırlayan yaklaşım"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "ABC Analizi",
+                                                "match":  "Stokların parasal değerlerine ve toplam maliyetteki oranlarına göre A, B, C olarak sınıflandırılması"
+                                            },
+                                            {
+                                                "term":  "VED Analizi",
+                                                "match":  "Stoktaki ilaç ve malzemelerin hayati önem derecelerine (Vital, Essential, Desirable) göre gruplandırılması"
+                                            },
+                                            {
+                                                "term":  "İTS (İlaç Takip Sistemi)",
+                                                "match":  "İlaçların üretim veya ithalatından hastaya uygulanmasına kadar karekodla izlenmesi"
+                                            },
+                                            {
+                                                "term":  "Just in Time (JIT)",
+                                                "match":  "Malzemenin stokta tutulmadan tam ameliyat veya işlem öncesinde tedarik edilmesi"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "ABC analizinde A grubu malzemeler stok çeşidinin çoğunluğunu oluştururken toplam maliyetin çok küçük bir kısmını kapsar.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! A grubu malzemeler stok çeşidinin %5-10\u0027u gibi küçük bir kısmını oluşturur ancak maliyetin %70-80\u0027ini temsil eder."
+                                                 },
+                                                 {
+                                                     "statement":  "VED analizinde \u0027Vital (V)\u0027 grubundaki bir malzemenin yokluğu hastanede hizmetin durmasına ve hayati kayıplara yol açabilir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Vital grubu yokluğunda sağlık hizmetinin verilemediği hayati malzemeleri ifade eder."
+                                                 },
+                                                 {
+                                                     "statement":  "Sağlık Bakanlığına bağlı hastanelerde stoktaki malzemelerin kaydı ve kontrolü Malzeme Kaynakları Yönetim Sistemi (MKYS) üzerinden yürütülür.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Kamu hastanelerinde stok ve malzeme verileri MKYS modülünde takip edilir."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi sağlık işletmelerinde stoktaki malzemelerin maliyet tutarından ziyade klinik/hayati önem derecesini ve işlevini esas alan stok kontrol ve sınıflandırma yöntemidir?",
+                                                "options":  [
+                                                                "ABC Analizi",
+                                                                "VED Analizi",
+                                                                "Sabit Sipariş Miktarı Yöntemi",
+                                                                "Regresyon Analizi"
+                                                            ],
+                                                "answer":  1,
+                                                "explanation":  "VED analizi (Vital, Essential, Desirable) malzemeleri fiyata göre değil klinik/hayati önemine göre gruplandırır."
+                                            },
+                                            {
+                                                "q":  "Türkiye\u0027de Sağlık Bakanlığı ve üniversite hastanelerinin ihtiyaç duyduğu ilaç, tıbbi sarf ve cihazların Devlet Malzeme Ofisi (DMO) üzerinden elektronik ihalelerle alınmasını sağlayan uygulama aşağıdakilerden hangisidir?",
+                                                "options":  [
+                                                                "Sağlık Market",
+                                                                "Tıbbi Tasarruf Hesabı",
+                                                                "TDMS",
+                                                                "SWOT Analizi"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "Sağlık Market, DMO bünyesinde yürütülen ve kamu sağlık tesislerinin elektronik alım yaptığı platformdur."
+                                            }
+                                        ]
+                  }
+              ],
+    "updatedAt":  "2026-11-26T16:30:03Z"
+}
