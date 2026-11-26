@@ -366,6 +366,126 @@
                                                 "explanation":  "Çalışan sayısı, satış hasılatı ve harcanan enerji nicel (sayısal) ölçütlerdir. Örgüt ve yönetim yapısı ise nitel (kalitatif) ölçüttür."
                                             }
                                         ]
+                  },
+                  {
+                      "id":  "onlisans-isi-u4",
+                      "number":  4,
+                      "term":  1,
+                      "exam":  "1. Dönem / Vize Sınavı Kapsamı",
+                      "name":  "4. Ünite: Sosyal Sorumluluk ve İş Ahlakı",
+                      "badge":  "⚖️ Etik \u0026 Sosyal Sorumluluk Lideri",
+                      "icon":  "fa-scale-balanced",
+                      "boss":  {
+                                   "name":  "Carroll \u0027Sosyal Sorumluluk Piramidi\u0027 Muhafızı",
+                                   "introText":  "Carroll\u0027ın 4 basamaklı piramidini, Friedman\u0027ın klasik yaklaşımı ile modern paydaş teorisini ve iş etiği konularını bilmeyen bu sınavı geçemez!",
+                                   "defeatText":  "Tebrikler! Ekonomik, yasal, ahlaki ve gönüllü sorumluluk dengesini kurarak 4. Ünite Boss\u0027unu alt ettin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "title":  "📖 Sosyal Sorumluluk Piramidi, Paydaş Teorisi ve İş Ahlakı",
+                                          "summary":  "4. Ünitede bilinmesi gereken temel sosyal sorumluluk boyutları, yaklaşımlar ve iş ahlakı konuları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Carroll\u0027ın Sosyal Sorumluluk Piramidi (4 Boyut):\u003c/strong\u003e En alt temel Ekonomik sorumluluklar (\u0027kârlı ol\u0027), ardından Yasal sorumluluklar (\u0027kanuna uy\u0027), Ahlaki sorumluluklar (\u0027adil ve doğru ol\u0027) ve en üstte Gönüllü/Filantropik sorumluluklar (\u0027iyi bir kurumsal vatandaş ol\u0027).",
+                                                         "\u003cstrong\u003e2. Klasik vs. Modern Yaklaşım:\u003c/strong\u003e Klasik yaklaşım (Milton Friedman) işletmenin tek sorumluluğunun \u0027kârı artırmak\u0027 ve ortaklara kazanç sağlamak olduğunu savunur. Modern yaklaşım ise işletmenin müşteriler, çalışanlar, çevre ve toplum gibi tüm paydaşlara karşı sorumlu olduğunu öne sürer.",
+                                                         "\u003cstrong\u003e3. Kurumsal Vatandaşlık ve Paydaş Teorisi:\u003c/strong\u003e Paydaşlar işletmeyi etkileyen veya işletmeden etkilenen tüm kesimlerdir. Paydaş teorisi Betimleyici (tanımlayıcı), Araçsal (verimlilik/kârlılık odaklı) ve Normatif (ahlaki ideali ve ödevleri esas alan) olmak üzere 3 boyutta incelenir.",
+                                                         "\u003cstrong\u003e4. Etik, Ahlak ve İş Ahlakı Ayrımı:\u003c/strong\u003e Etik, neyin doğru veya yanlış olduğunu inceleyen ahlak felsefesidir. Ahlak, toplumda kabul gören pratik davranış kurallarıdır. İş ahlakı ise genel ahlak ilkelerinin iş yaşamına ve işletme kararlarına uygulanmasıdır.",
+                                                         "\u003cstrong\u003e5. İş Ahlakı Konuları:\u003c/strong\u003e İşletme içi faktörler (Pazarlama, üretim, satın alma, finansman, muhasebe, Ar-Ge, İKY, halkla ilişkiler) ve işletme dışı faktörler (pazar/rekabet, doğal çevre, teknoloji, yasal düzenlemeler)."
+                                                     ],
+                                          "examTip":  "💡 Vize Sınav Tüyosu: Sınavlarda Carroll\u0027ın piramidindeki basamak sıralaması (tabanda Ekonomik sorumluluk vardır) ile Milton Friedman\u0027ın Klasik Yaklaşımı (kâr maksimizasyonu) çok sık sorulur!",
+                                          "quickCheck":  {
+                                                             "q":  "Carroll\u0027ın Sosyal Sorumluluk Piramidi\u0027nde piramidin en tabanında yer alan temel sorumluluk hangisidir?",
+                                                             "options":  [
+                                                                             "Yasal Sorumluluklar",
+                                                                             "Ekonomik Sorumluluklar",
+                                                                             "Gönüllü Sorumluluklar",
+                                                                             "Ahlaki Sorumluluklar"
+                                                                         ],
+                                                             "answer":  1,
+                                                             "hint":  "İşletmenin kârlı olma ve varlığını sürdürme gereksinimidir."
+                                                         }
+                                      }
+                                  ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Carroll\u0027ın sosyal sorumluluk piramidinin en alt (taban) basamağında hangi sorumluluk yer alır?",
+                                             "a":  "Ekonomik sorumluluklar (\u0027kârlı ol\u0027)",
+                                             "hint":  "İşletmenin varlığını sürdürmesi için en temel gereksinim"
+                                         },
+                                         {
+                                             "q":  "Milton Friedman\u0027ın öncülük ettiği Klasik Sosyal Sorumluluk Yaklaşımının temel iddiası nedir?",
+                                             "a":  "İşletmenin tek sosyal sorumluluğu sermayedarlara (ortaklara) kâr sağlamak ve kârı artırmaktır.",
+                                             "hint":  "Sadece ortaklara karşı kâr sorumluluğu"
+                                         },
+                                         {
+                                             "q":  "İşletmenin faaliyetlerinden doğrudan veya dolaylı olarak etkilenen ya da işletmeyi etkileyen grup ve bireylere ne ad verilir?",
+                                             "a":  "Paydaşlar (Stakeholders)",
+                                             "hint":  "Çıkar grupları ve ilişkili tüm aktörler"
+                                         },
+                                         {
+                                             "q":  "Ahlaki kararları doğrudan bireysel hak ve özgürlüklere dayandıran ahlak sistemi hangisidir?",
+                                             "a":  "Haklar yaklaşımı (Bireysel Hak ve Özgürlükler)",
+                                             "hint":  "Seçim özgürlüğü ve insan hakları odaklı"
+                                         }
+                                     ],
+                      "matchingPairs":  [
+                                            {
+                                                "term":  "Normatif Paydaş Teorisi",
+                                                "match":  "Ahlaki idealleri ve ödevleri esas alan, işletmeyi paydaşlar açısından ahlaken inceleyen teori"
+                                            },
+                                            {
+                                                "term":  "Gönüllü Sorumluluklar",
+                                                "match":  "Carroll piramidinin en üstünde yer alan, toplum yararına katkıda bulunma çabaları"
+                                            },
+                                            {
+                                                "term":  "Araçsal Paydaş Teorisi",
+                                                "match":  "Paydaş yönetiminin kârlılık, süreklilik ve büyüme performansını artırdığını savunan yaklaşım"
+                                            },
+                                            {
+                                                "term":  "İş Ahlakı",
+                                                "match":  "Genel ahlaki değerlerin ve normların iş yaşamındaki karar ve eylemlere uygulanması"
+                                            }
+                                        ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Carroll\u0027ın sosyal sorumluluk piramidinde yasal sorumluluklar en alt basamakta yer alır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Piramidin en alt (taban) basamağında Ekonomik sorumluluklar yer alır; yasal sorumluluklar ikinci basamaktadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Friedman\u0027ın Klasik Yaklaşımına göre işletme yöneticilerinin tek görevi ortakların kârını artırmaktır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Friedman 1970 makalesinde işletmenin tek amacının sermayedarlara kâr sağlamak olduğunu savunmuştur."
+                                                 },
+                                                 {
+                                                     "statement":  "İş etiği/ahlakı ile sosyal sorumluluk birebir aynı kavramlardır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İş ahlakı bireysel karar ve ilkelerle ilgiliyken; sosyal sorumluluk işletmenin tüm faaliyetlerinin toplum üzerindeki geniş etkilerini kapsar."
+                                                 }
+                                             ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Carroll (1991) tarafından geliştirilen Sosyal Sorumluluk Piramidi\u0027nde aşağıdakilerden hangisi tabandan tavana doğru DOĞRU sıralanmıştır?",
+                                                "options":  [
+                                                                "Ekonomik -\u003e Yasal -\u003e Ahlaki -\u003e Gönüllü",
+                                                                "Yasal -\u003e Ekonomik -\u003e Gönüllü -\u003e Ahlaki",
+                                                                "Gönüllü -\u003e Ahlaki -\u003e Yasal -\u003e Ekonomik",
+                                                                "Ahlaki -\u003e Ekonomik -\u003e Yasal -\u003e Gönüllü"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "Carroll piramidinde en altta Ekonomik sorumluluklar, ardından Yasal, sonra Ahlaki ve en üstte Gönüllü (Filantropik) sorumluluklar yer alır."
+                                            },
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi işletme İÇİ faktörlerle ilgili iş ahlakı konuları arasında gösterilemez?",
+                                                "options":  [
+                                                                "Pazarlamada aldatıcı reklamlar yapılması",
+                                                                "İnsan kaynaklarında işe alımda ayrımcılık yapılması",
+                                                                "Rakiplerin ürünlerinin satılmasının engellenmesi veya fiyat anlaşmaları yapılması",
+                                                                "Muhasebe kayıtlarının ve kârlılığın gerçeğe aykırı gösterilmesi"
+                                                            ],
+                                                "answer":  2,
+                                                "explanation":  "Rakiplerle yapılan fiyat anlaşmaları ve rekabet kısıtlamaları \u0027İşletme DIŞI\u0027 (pazar ve rekabet) faktörlerle ilgili iş ahlakı konusudur."
+                                            }
+                                        ]
                   }
               ]
 }
