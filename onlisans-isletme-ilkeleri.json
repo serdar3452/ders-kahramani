@@ -18,7 +18,8 @@
                       "boss":  {
                                    "name":  "Müteşebbis \u0027Kâr ve Risk\u0027 Canavarı",
                                    "introText":  "Üretim faktörlerini bir araya getiremeyen, girişimci ile yönetici arasındaki farkı bilmeyen ve işletmenin temel amaçlarını kavramayan bu sınavı geçemez!",
-                                   "defeatText":  "Tebrikler! Üretim faktörlerini mükemmel organize ettin, kâr ve risk dengesini kurarak 1. Ünite Boss\u0027unu mağlup ettin!"
+                                   "defeatText":  "Tebrikler! Üretim faktörlerini mükemmel organize ettin, kâr ve risk dengesini kurarak 1. Ünite Boss\u0027unu mağlup ettin!",
+                                   "avatar":  "💡"
                                },
                       "lessons":  [
                                       {
@@ -138,7 +139,8 @@
                       "boss":  {
                                    "name":  "Çevresel Belirsizlik Lordu \u0027Makro \u0026 Mikro\u0027 Ejderhası",
                                    "introText":  "İşletmenin dış çevresini (PEST/PESTEL), Porter\u0027ın 5 rekabet gücünü ve çevresel belirsizlik düzeylerini analiz edemeyen bu sınavı geçemez!",
-                                   "defeatText":  "Muazzam çevre analizi! Makro ve mikro çevre değişkenlerini analiz edip SWOT ve PEST teknikleriyle belirsizliği aşarak vizeyi kazandın!"
+                                   "defeatText":  "Muazzam çevre analizi! Makro ve mikro çevre değişkenlerini analiz edip SWOT ve PEST teknikleriyle belirsizliği aşarak vizeyi kazandın!",
+                                   "avatar":  "🧭"
                                },
                       "lessons":  [
                                       {
@@ -258,7 +260,8 @@
                       "boss":  {
                                    "name":  "Sınıflandırma Ustası \u0027Şirketler \u0026 KOBİ\u0027 Dev-i",
                                    "introText":  "Faaliyet alanlarına, mülkiyet yapısına, KOBİ büyüklük ölçütlerine ve hukuki formlara (Şahıs - Sermaye Şirketleri) hakim olmayan bu sınavdan geçemez!",
-                                   "defeatText":  "Muazzam sınıflandırma başarısı! KOBİ kriterlerinden şahıs ve sermaye şirketlerinin sorumluluk farklarına kadar tüm işletme türlerini kavrayıp 3. Ünite Boss\u0027unu yendin!"
+                                   "defeatText":  "Muazzam sınıflandırma başarısı! KOBİ kriterlerinden şahıs ve sermaye şirketlerinin sorumluluk farklarına kadar tüm işletme türlerini kavrayıp 3. Ünite Boss\u0027unu yendin!",
+                                   "avatar":  "🏢"
                                },
                       "lessons":  [
                                       {
@@ -378,7 +381,8 @@
                       "boss":  {
                                    "name":  "Carroll \u0027Sosyal Sorumluluk Piramidi\u0027 Muhafızı",
                                    "introText":  "Carroll\u0027ın 4 basamaklı piramidini, Friedman\u0027ın klasik yaklaşımı ile modern paydaş teorisini ve iş etiği konularını bilmeyen bu sınavı geçemez!",
-                                   "defeatText":  "Tebrikler! Ekonomik, yasal, ahlaki ve gönüllü sorumluluk dengesini kurarak 4. Ünite Boss\u0027unu alt ettin!"
+                                   "defeatText":  "Tebrikler! Ekonomik, yasal, ahlaki ve gönüllü sorumluluk dengesini kurarak 4. Ünite Boss\u0027unu alt ettin!",
+                                   "avatar":  "⚖️"
                                },
                       "lessons":  [
                                       {
@@ -498,7 +502,8 @@
                       "boss":  {
                                    "name":  "Fizibilite Lordu \u0027Optimal Kapasite \u0026 Kuruluş Yeri\u0027",
                                    "introText":  "Fizibilite araştırmasının boyutlarını (ekonomik, teknik, finansal), kuruluş yeri faktörlerini ve kapasite türlerini bilmeyen bu yatırım projesini hayata geçiremez!",
-                                   "defeatText":  "Harika yatırım analizi! Fizibilite raporunu başarıyla hazırlayıp optimal kuruluş yerini ve kapasiteyi seçerek 5. Ünite Boss\u0027unu yendin!"
+                                   "defeatText":  "Harika yatırım analizi! Fizibilite raporunu başarıyla hazırlayıp optimal kuruluş yerini ve kapasiteyi seçerek 5. Ünite Boss\u0027unu yendin!",
+                                   "avatar":  "📊"
                                },
                       "lessons":  [
                                       {
@@ -618,7 +623,8 @@
                       "boss":  {
                                    "name":  "Büyüme \u0026 Birleşme \u0027Ölçek Ekonomileri\u0027 Ejderi",
                                    "introText":  "İşletmelerin büyüme evrelerini, ölçek ekonomilerini, kartel, tröst, holding gibi iş birliklerini ve birleşme türlerini (yatay, dikey, çapraz) bilmeyen bu aşamayı geçemez!",
-                                   "defeatText":  "Harika stratejik büyüme hamlesi! İç ve dış büyüme yollarını, ölçek ekonomilerini ve şirket birleşmelerini kavramakla 6. Ünite Boss\u0027unu mağlup ettin!"
+                                   "defeatText":  "Harika stratejik büyüme hamlesi! İç ve dış büyüme yollarını, ölçek ekonomilerini ve şirket birleşmelerini kavramakla 6. Ünite Boss\u0027unu mağlup ettin!",
+                                   "avatar":  "📈"
                                },
                       "lessons":  [
                                       {
@@ -738,7 +744,8 @@
                       "boss":  {
                                    "name":  "Küreselleşme \u0026 Rekabet \u0027Porter Elması\u0027 Lordu",
                                    "introText":  "Uluslararası pazara giriş yöntemlerini (Lisans, Franchising, FDI), Hofstede\u0027in kültür boyutlarını ve Porter\u0027ın Elmas Modelini bilmeyen bu küresel arenada ayakta kalamaz!",
-                                   "defeatText":  "Muazzam küresel strateji! Dış pazara giriş yollarını, gümrük birliği seviyelerini ve uluslararası rekabet üstünlüğünü kavrayıp 7. Ünite Boss\u0027unu yendin!"
+                                   "defeatText":  "Muazzam küresel strateji! Dış pazara giriş yollarını, gümrük birliği seviyelerini ve uluslararası rekabet üstünlüğünü kavrayıp 7. Ünite Boss\u0027unu yendin!",
+                                   "avatar":  "🌐"
                                },
                       "lessons":  [
                                       {
@@ -858,7 +865,8 @@
                       "boss":  {
                                    "name":  "Sistem \u0026 Mimar \u0027İşletme Fonksiyonları\u0027 Üstadı",
                                    "introText":  "İşletmenin sistem yaklaşımını (girdi, süreç, çıktı, geri bildirim), genel fonksiyon olan yönetimi (planlama, örgütleme, yöneltme, denetim), temel (üretim, pazarlama) ve yardımcı fonksiyonlarını (finans, muhasebe, İKY, Ar-Ge, halkla ilişkiler) bilmeyen bu son sınavı geçemez!",
-                                   "defeatText":  "Muazzam bir orkestra şefi gibi! Genel, temel ve yardımcı fonksiyonların uyumunu kavrayıp işletme sistemini mükemmel kurarak 8. Ünite Boss\u0027unu mağlup ettin ve İşletme İlkeleri dersini başarıyla tamamladın!"
+                                   "defeatText":  "Muazzam bir orkestra şefi gibi! Genel, temel ve yardımcı fonksiyonların uyumunu kavrayıp işletme sistemini mükemmel kurarak 8. Ünite Boss\u0027unu mağlup ettin ve İşletme İlkeleri dersini başarıyla tamamladın!",
+                                   "avatar":  "⚙️"
                                },
                       "lessons":  [
                                       {
