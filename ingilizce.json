@@ -1,1 +1,1353 @@
-﻿{"id":"ingilizce","name":"İngilizce","icon":"🇬🇧","color":"sky","badge":"Dil Şampiyonu (English Master)","description":"Appearance, personality, past biographies, wild animals and celebrations!","title":"7. Sınıf İngilizce: Global Kaşif","subtitle":"Yazılıdan 100 Aldıran İngilizce Arenası","grade":"7. Sınıf","term":"1. ve 2. Dönem Yazılı Kapsamı","units":[{"id":"ing-unite-1","number":1,"term":1,"exam":"1. Yazılı","name":"Appearance and Personality","badge":"⭐ Karakter Dedektifi","color":"sky","icon":"fa-user","boss":{"name":"Grammar Phantom \u0027Mr. Comparative\u0027","hp":100,"avatar":"🎩","introText":"If you confuse personality with appearance or write \u0027gooder than\u0027, you will never defeat me!","defeatText":"Awesome! You mastered adjectives and comparative rules like a native speaker!"},"lessons":[{"step":1,"title":"👤 Physical Appearance vs Personality Adjectives","summary":"Dış görünüş ve kişilik sıfatlarını ayırt etme kuralı.","points":["\u003cstrong\u003ePhysical Appearance (Dış Görünüş):\u003c/strong\u003e Gözle görülebilen özellikler: \u003cem\u003etall (uzun), short (kısa), slim (zayıf/ince), plump (tombul), wavy hair (dalgalı saç), straight hair (düz saç), blue eyes, brown eyes, attractive, well-built (kaslı)\u003c/em\u003e.","\u003cstrong\u003ePersonality (Kişilik / Karakter Sıfatları):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eHonest (Dürüst):\u003c/em\u003e Always tells the truth, never tells lies (Richard \u0026 Sally).\u003cbr\u003e• \u003cem\u003eFriendly / Outgoing (Sosyal / Cana yakın):\u003c/em\u003e Likes meeting new people, has lots of friends (Sue \u0026 Harry).\u003cbr\u003e• \u003cem\u003eSelfish (Bencil):\u003c/em\u003e Only cares about himself/herself, doesn\u0027t like sharing toys (Dean \u0026 Amy).\u003cbr\u003e• \u003cem\u003eSuccessful / Hardworking (Başarılı / Çalışkan):\u003c/em\u003e Studies hard, always does homework, gets high marks (Frank \u0026 Gloria).\u003cbr\u003e• \u003cem\u003ePunctual (Dakik):\u003c/em\u003e Always on time, never late (Tom).\u003cbr\u003e• \u003cem\u003eGenerous (Cömert):\u003c/em\u003e Likes sharing and helping others (Mary).","\u003cstrong\u003eSoru Kalıpları:\u003c/strong\u003e\u003cbr\u003e• \u0027What does he look like?\u0027 ➔ Dış görünüşü sorar.\u003cbr\u003e• \u0027What is she like?\u0027 ➔ Kişilik ve karakterini sorar!"],"examTip":"Sınavda Sorulur: \u0027What is he like?\u0027 sorusuna \u0027He has brown hair\u0027 YAZILMAZ! Bu soru kişiliği sorar, \u0027He is generous and honest\u0027 denir!","quickCheck":{"q":"Aşağıdaki sıfatlardan hangisi bir kişinin \u0027Personality\u0027 (kişilik) özelliğini belirtir?","options":["Plump (tombul)","Stubborn (inatçı)","Tall (uzun)","Curly hair (kıvırcık saç)"],"correct":1,"explanation":"Stubborn (inatçı) bir karakter/kişilik sıfatıdır. Diğerleri dış görünüştür."}},{"step":2,"title":"📈 Making Comparisons (Karşılaştırma Cümleleri)","summary":"İki insanı veya nesneyi birbiriyle kıyaslama kuralları.","points":["\u003cstrong\u003eKısa Sıfatlar (1-2 hece):\u003c/strong\u003e Sıfatın sonuna \u003cstrong\u003e-er\u003c/strong\u003e ve ardından \u003cstrong\u003ethan\u003c/strong\u003e gelir:\u003cbr\u003e\u003cem\u003efast ➔ faster than, tall ➔ taller than, easy ➔ easier than\u003c/em\u003e.","\u003cstrong\u003eUzun Sıfatlar (3+ hece):\u003c/strong\u003e Sıfatın başına \u003cstrong\u003emore\u003c/strong\u003e gelir:\u003cbr\u003e\u003cem\u003emore generous than, more hardworking than, more outgoing than\u003c/em\u003e.","\u003cstrong\u003eDüzensizler (Irregular):\u003c/strong\u003e\u003cbr\u003e• good ➔ \u003cstrong\u003ebetter than\u003c/strong\u003e (asla gooder denmez!)\u003cbr\u003e• bad ➔ \u003cstrong\u003eworse than\u003c/strong\u003e\u003cbr\u003e• far ➔ \u003cstrong\u003efurther / farther than\u003c/strong\u003e"],"examTip":"Sınavda Sorulur: \u0027Gooder than\u0027 diye bir kural YOKTUR! \u0027Good\u0027 sıfatı \u0027better than\u0027, \u0027bad\u0027 sıfatı \u0027worse than\u0027 olur!","quickCheck":{"q":"\u0027Ali is ___________ than Mehmet.\u0027 cümlesinde \u0027hardworking\u0027 sıfatı nasıl kullanılmalıdır?","options":["hardworkinger","more hardworking","most hardworking","as hardworking"],"correct":1,"explanation":"Hardworking uzun bir sıfat olduğu için karşılaştırmada \u0027more hardworking\u0027 şeklinde kullanılır."}}],"trueFalseQuestions":[{"statement":"\u0027Punctual\u0027 means always coming on time (her zaman vaktinde gelen).","isTrue":true,"explanation":"Doğru! Punctual dakik anlamına gelir."},{"statement":"\u0027What is she like?\u0027 question asks about physical hair color.","isTrue":false,"explanation":"Yanlış! \u0027What is she like?\u0027 karakterini ve kişiliğini sorar."},{"statement":"The comparative form of \u0027good\u0027 is \u0027better than\u0027.","isTrue":true,"explanation":"Doğru! Good düzensiz bir sıfattır ve better\u0027a dönüşür."},{"statement":"A \u0027clumsy\u0027 person breaks things easily because of carelessness.","isTrue":true,"explanation":"Doğru! Clumsy sakar demektir."},{"statement":"Comparative of \u0027generous\u0027 is \u0027generouser\u0027.","isTrue":false,"explanation":"Yanlış! Uzun sıfatlarda \u0027more generous\u0027 kullanılır."},{"statement":"\u0027Selfish\u0027 people only think about themselves.","isTrue":true,"explanation":"Doğru! Selfish bencil demektir, sadece kendini düşünür."},{"statement":"\u0027Stubborn\u0027 means not changing your mind easily (inatçı).","isTrue":true,"explanation":"Doğru! Stubborn laf dinlemeyen, inatçı anlamına gelir."},{"statement":"\u0027Honest\u0027 people never tell lies and always tell the truth.","isTrue":true,"explanation":"Doğru! Dürüst insanlar daima doğruyu söyler."},{"statement":"\u0027What does he look like?\u0027 question asks about physical appearance (dış görünüş).","isTrue":true,"explanation":"Doğru! Boy, kilo, göz ve saç gibi dış özellikleri sorar."},{"statement":"The comparative form of \u0027easy\u0027 is \u0027more easy\u0027.","isTrue":false,"explanation":"Yanlış! Son iki harfi sessiz+y olduğu için \u0027easier\u0027 olur."},{"statement":"An \u0027outgoing\u0027 person is very shy and avoids meeting new people.","isTrue":false,"explanation":"Yanlış! Outgoing canayakın, sosyal ve dışa dönük demektir."},{"statement":"\u0027Slim\u0027 and \u0027well-built\u0027 describe a person\u0027s physical appearance.","isTrue":true,"explanation":"Doğru! Zayıf ve kaslı/yapılı fiziksel tanımlardır."},{"statement":"\u0027Talkative\u0027 people talk a lot and love chatting.","isTrue":true,"explanation":"Doğru! Konuşkan kimseler için kullanılır."},{"statement":"The comparative form of \u0027bad\u0027 is \u0027bader\u0027.","isTrue":false,"explanation":"Yanlış! \u0027Bad\u0027 düzensiz sıfattır ve \u0027worse than\u0027 olur."},{"statement":"\u0027Generous\u0027 people love sharing and buying presents for their friends.","isTrue":true,"explanation":"Doğru! Cömert kimseler paylaşmayı sever."}],"matchingPairs":[{"id":1,"term":"Generous","match":"Loves sharing and buying gifts (Cömert)","category":"Personality"},{"id":2,"term":"Stubborn","match":"Never changes his mind (İnatçı)","category":"Personality"},{"id":3,"term":"Punctual","match":"Always on time, never late (Dakik)","category":"Personality"},{"id":4,"term":"Outgoing","match":"Enjoys meeting new people (Sosyal)","category":"Personality"},{"id":5,"term":"Honest","match":"Always tells the truth (Dürüst)","category":"Personality"},{"id":6,"term":"Clumsy","match":"Drops and breaks things (Sakar)","category":"Personality"},{"id":7,"term":"Better than","match":"Comparative of \u0027Good\u0027","category":"Grammar"}],"flashcards":[{"q":"\u0027Generous\u0027 ne anlama gelir?","a":"Cömert (Paylaşmayı ve hediye vermeyi seven)","hint":"Personality"},{"q":"\u0027What does he look like?\u0027 neyi sorar?","a":"Dış görünüşünü (Boy, kilo, saç, göz rengi)","hint":"Physical appearance"},{"q":"\u0027What is she like?\u0027 neyi sorar?","a":"Kişiliğini ve karakterini (Dürüst, sosyal vb.)","hint":"Personality"},{"q":"Bad sıfatının comparative hali nedir?","a":"Worse than (Daha kötü)","hint":"Düzensiz sıfat"},{"q":"\u0027Punctual\u0027 bir insan ne yapar?","a":"Randevularına ve derslerine asla geç kalmaz (Dakik)","hint":"On time"}],"quizQuestions":[{"q":"Ayşe never arrives late to school and does everything on time. She is _________.","options":["stubborn","punctual","clumsy","selfish"],"correct":1,"explanation":"Asla geç kalmayan ve zamanında yapan kişiye \u0027punctual\u0027 (dakik) denir."},{"q":"This book is ___________ than that movie.","options":["interesting","more interesting","interestinger","most interesting"],"correct":1,"explanation":"Uzun sıfatların karşılaştırmasında başına \u0027more\u0027 eklenir: more interesting than."},{"q":"Jack is very ____________. He only thinks about himself and never shares his toys.","options":["generous","selfish","outgoing","easy-going"],"correct":1,"explanation":"Sadece kendini düşünen ve paylaşmayan kişiye \u0027selfish\u0027 (bencil) denir."},{"q":"\u0027What does your English teacher look like?\u0027 sorusuna verilecek en uygun yanıt hangisidir?","options":["She is honest and polite.","She is tall and has blonde hair.","She likes reading books.","She is very punctual."],"correct":1,"explanation":"\u0027What does she look like?\u0027 dış görünüşü sorar: She is tall and has blonde hair."},{"q":"My brother gets higher grades than me. He is ___________ student than me.","options":["gooder","better","more good","best"],"correct":1,"explanation":"Good sıfatının comparative hali \u0027better\u0027dır."}],"openEndedQuestions":[{"id":"meb-ing-1","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.1.R1. Understand simple text about appearances, personalities, and comparisons.","question":"Look at the grid below and write down the correct person / number for each question:\n\n1. Frank always does his homework and gets high marks.\n2. Sally never tells lies, so you can count on her.\n3. Mary helps others when they have a problem.\n4. Tom is always on time. He is never late.\n5. Gloria studies hard, and she is the first in the class.\n6. Sue likes meeting new people.\n7. Harry has lots of friends and enjoys spending time with them.\n8. Dean doesn’t like sharing his toys, and he cares about only himself.\n9. Richard always tells the truth, so he is reliable.\n\na. Who is honest?\nb. Who is friendly?\nc. Who is selfish?\nd. Who is successful?\ne. Who is punctual?","keywords":["sally","richard","sue","harry","mary","dean","frank","gloria","tom","honest","friendly","selfish","successful","punctual"],"sampleAnswer":"Answers:\na. Who is honest? ➔ Sally (2) and Richard (9) (They never tell lies and always tell the truth).\nb. Who is friendly? ➔ Sue (6) and Harry (7) (or Mary - 3) (They like meeting new people and spending time with friends).\nc. Who is selfish? ➔ Dean (8) (He doesn\u0027t share toys and only cares about himself).\nd. Who is successful? ➔ Frank (1) and Gloria (5) (They get high marks and study hard).\ne. Who is punctual? ➔ Tom (4) (He is always on time and never late).","rubric":[{"criterion":"a şıkkı: Sally / Richard (honest) doğru yazılmış","points":2},{"criterion":"b şıkkı: Sue / Harry (friendly) doğru yazılmış","points":2},{"criterion":"c şıkkı: Dean (selfish) doğru yazılmış","points":2},{"criterion":"d şıkkı: Frank / Gloria (successful) doğru yazılmış","points":2},{"criterion":"e şıkkı: Tom (punctual) doğru yazılmış","points":2}]},{"id":"meb-ing-2","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.1.R1. Understand simple text about appearances, personalities, and comparisons.","question":"Read the text below, correct the mistakes, and rewrite the sentences:\n\n\"Amy is 10 years old, and Emily, her sister, is 12 years old. Amy is 1.55 m, and Emily is 1.62 m. Amy has long, wavy hair, and blue eyes. Emily has short, straight hair, and brown eyes. Amy is so energetic and enjoys spending time with her friends, but Emily is relaxed and prefers staying at home to play video games or read stories. Amy usually cares about only herself, but Emily cares about other people’s feelings. They have different personalities and styles, but they are good friends and enjoy playing games together.\"\n\na. Emily is younger than Amy.\nb. Emily is more outgoing than Amy.\nc. Amy is kinder than Emily.\nd. Amy is taller than Emily.\ne. Amy and Emily can’t get on well with each other.","keywords":["older than","more outgoing","kinder","taller","shorter","get on well","good friends"],"sampleAnswer":"Corrected Sentences:\na. Emily is older than Amy. (or: Amy is younger than Emily.)\nb. Amy is more outgoing than Emily. (or: Emily is less outgoing than Amy / prefers staying at home.)\nc. Emily is kinder than Amy. (or: Amy is more selfish than Emily.)\nd. Emily is taller than Amy. (or: Amy is shorter than Emily.)\ne. Amy and Emily get on well with each other. (They are good friends and enjoy playing games together).","rubric":[{"criterion":"a şıkkı: Yaş karşılaştırması düzeltilmiş (Emily is older than Amy)","points":2},{"criterion":"b şıkkı: Sosyallik karşılaştırması düzeltilmiş (Amy is more outgoing than Emily)","points":2},{"criterion":"c şıkkı: Karakter/bencillik düzeltilmiş (Emily is kinder than Amy)","points":2},{"criterion":"d şıkkı: Boy karşılaştırması düzeltilmiş (Emily is taller than Amy)","points":2},{"criterion":"e şıkkı: İlişki düzeltilmiş (Amy and Emily get on well with each other)","points":2}]},{"id":"meb-ing-3","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.1.W1. Students will be able to write simple pieces to compare people.","question":"Compare two Turkish paralympic swimmers by age, height, and weight. Complete the statements with the comparative forms of the correct adjectives:\n\n• Sümeyye BOYACI: Age: 21 | Height: 1.58 m | Weight: 49 kg\n• Sevilay ÖZTÜRK: Age: 20 | Height: 1.45 m | Weight: 34 kg\n\na. Sevilay is ___________________________________ Sümeyye (age).\nb. Sümeyye is _________________________________ Sevilay (height).\nc. Sevilay is ___________________________________ Sümeyye (weight).","keywords":["younger than","taller than","slimmer than","lighter than","thinner than","older than","shorter than","heavier than"],"sampleAnswer":"Answers:\na. Sevilay is younger than Sümeyye. (20 \u003c 21)\nb. Sümeyye is taller than Sevilay. (1.58 m \u003e 1.45 m)\nc. Sevilay is slimmer than Sümeyye. (or: lighter than / thinner than Sümeyye - 34 kg \u003c 49 kg)","rubric":[{"criterion":"a şıkkı: \u0027younger than\u0027 doğru yazılmış","points":3},{"criterion":"b şıkkı: \u0027taller than\u0027 doğru yazılmış","points":3},{"criterion":"c şıkkı: \u0027slimmer than\u0027 / \u0027lighter than\u0027 doğru yazılmış","points":4}]},{"id":"ing-oe-1","question":"Write 2 English sentences describing your best friend: one about physical appearance and one about personality.","keywords":["tall","slim","hair","eyes","honest","generous","punctual","kind","is","has"],"sampleAnswer":"1. Physical Appearance: He is tall and slim with curly black hair.\n2. Personality: She is very generous and honest because she always tells the truth and shares her books.","rubric":[{"criterion":"One grammatically correct physical appearance sentence","points":5},{"criterion":"One grammatically correct personality adjective sentence","points":5}]},{"id":"ing-oe-2","question":"Compare a plane and a bus using the adjective \u0027FAST\u0027, and compare a book and a comic using \u0027EXPENSIVE\u0027. (Write 2 comparative sentences).","keywords":["faster than","more expensive than","plane","bus"],"sampleAnswer":"1. A plane is faster than a bus.\n2. A book is more expensive than a comic.","rubric":[{"criterion":"Correct use of short adjective comparative (-er than)","points":5},{"criterion":"Correct use of long adjective comparative (more ... than)","points":5}]}]},{"id":"ing-unite-2","number":2,"term":1,"exam":"1. Yazılı","name":"Sports \u0026 Daily Routines","badge":"🏅 Spor Şampiyonu","color":"emerald","icon":"fa-volleyball","boss":{"name":"Titanium Coach \u0027Mr. Champion\u0027","hp":100,"avatar":"🏋️‍♂️","introText":"If you don\u0027t know sports equipment or frequency adverbs, you can\u0027t join the champions league!","defeatText":"Incredible! From bossaball to adverbs of frequency, you mastered every sports rule! You win the gold medal!"},"lessons":[{"step":1,"title":"🏅 Types of Sports \u0026 Essential Equipment","summary":"Bireysel ve takım sporları, açık/kapalı alan sporları ve spor malzemeleri.","points":["\u003cstrong\u003eIndividual Sports (Bireysel Sporlar):\u003c/strong\u003e Tek başına yapılan sporlar: \u003cem\u003ecycling (bisiklet), archery (okçuluk), swimming (yüzme), skateboarding\u003c/em\u003e.","\u003cstrong\u003eTeam Sports (Takım Sporları):\u003c/strong\u003e İki veya daha fazla takımla yapılan sporlar: \u003cem\u003efootball, basketball, volleyball, baseball, bossaball\u003c/em\u003e.","\u003cstrong\u003eSports Equipment (Spor Ekipmanları):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eTennis:\u003c/em\u003e a racket, a ball, a net, trainers.\u003cbr\u003e• \u003cem\u003eBaseball:\u003c/em\u003e a small ball, a bat, gloves, comfortable clothes.\u003cbr\u003e• \u003cem\u003eCycling:\u003c/em\u003e a bicycle and a helmet.\u003cbr\u003e• \u003cem\u003eBossaball:\u003c/em\u003e Voleybol, futbol ve jimnastiği birleştiren, trambolin (trampoline) ve file (net) üzerinde topla oynanan eğlenceli bir takım sporudur. Oyuncular topa el, ayak veya başla vurabilir.","\u003cstrong\u003eIndoor vs Outdoor:\u003c/strong\u003e Kapalı salonda yapılan sporlara \u003cem\u003eindoor\u003c/em\u003e, açık havada yapılan sporlara \u003cem\u003eoutdoor\u003c/em\u003e denir."],"examTip":"Sınav İpucu: \u0027Racket ve net\u0027 tenisi, \u0027bat ve gloves\u0027 beyzbolu, \u0027bicycle ve helmet\u0027 bisiklet sporunu gösterir!","quickCheck":{"q":"You need a racket, a ball, trainers and a net to play this sport. Which sport is it?","options":["Baseball","Tennis","Cycling","Motorcycling"],"correct":1,"explanation":"Raket, file, ayakkabı ve topla oynanan spor tenistir."}},{"step":2,"title":"⏱️ Adverbs of Frequency \u0026 Daily Routines","summary":"Eylemlerin yapılma sıklığını anlatan sıklık zarfları ve kullanım kuralları.","points":["\u003cstrong\u003eSıklık Zarfları ve Anlamları (Frequency Adverbs):\u003c/strong\u003e\u003cbr\u003e• \u003cstrong\u003eAlways (%100):\u003c/strong\u003e Her zaman / Daima (\u0027every day\u0027 ➔ always).\u003cbr\u003e• \u003cstrong\u003eUsually (%80):\u003c/strong\u003e Genellikle.\u003cbr\u003e• \u003cstrong\u003eOften (%60):\u003c/strong\u003e Sık sık.\u003cbr\u003e• \u003cstrong\u003eSometimes (%40):\u003c/strong\u003e Bazen / Ara sıra.\u003cbr\u003e• \u003cstrong\u003eRarely / Seldom (%20):\u003c/strong\u003e Nadiren (\u0027once a month\u0027 ➔ rarely).\u003cbr\u003e• \u003cstrong\u003eNever (%0):\u003c/strong\u003e Asla / Hiçbir zaman (\u0027doesn\u0027t wake up late\u0027 ➔ never wakes up late).","\u003cstrong\u003eCümledeki Yeri:\u003c/strong\u003e Sıklık zarfları ana fiilden ÖNCE gelir: \u003cem\u003eSubject + Adverb + Verb\u003c/em\u003e.\u003cbr\u003e• \u0027Yağız Kaan \u003cstrong\u003ealways\u003c/strong\u003e trains hard for chess.\u0027\u003cbr\u003e• \u0027Şahika \u003cstrong\u003erarely\u003c/strong\u003e has fast food.\u0027\u003cbr\u003e• \u0027Mete \u003cstrong\u003enever\u003c/strong\u003e gets up late on weekdays.\u0027","\u003cstrong\u003e\u0027To Be\u0027 (am/is/are) İstisnası:\u003c/strong\u003e \u0027am/is/are\u0027 fiillerinden SONRA gelir: \u003cem\u003eTom is \u003cstrong\u003ealways\u003c/strong\u003e on time.\u003c/em\u003e"],"examTip":"Sınavda Kesin Çıkar: \u0027Never\u0027 cümleye zaten \u0027asla/hiç\u0027 olumsuzluğu katar, bu yüzden fiil olumlu çekimlenir: \u0027He never gets up late\u0027 denir!","quickCheck":{"q":"Yağız Kaan trains for chess every day, 7 days a week. Which frequency adverb should we use?","options":["rarely","sometimes","never","always"],"correct":3,"explanation":"Her gün yapılan eylemler için \u0027always\u0027 (%100) kullanılır."}}],"trueFalseQuestions":[{"statement":"Tennis requires a racket, a net, and a ball.","isTrue":true,"explanation":"Doğru! Tenis için raket, file ve top gerekir."},{"statement":"Baseball is an individual sport.","isTrue":false,"explanation":"Yanlış! Beyzbol takım sporudur (team sport)."},{"statement":"Bossaball is played on a trampoline with a net and ball.","isTrue":true,"explanation":"Doğru! Bossaball trambolin üzerinde oynanır."},{"statement":"Cycling requires a bicycle and a helmet.","isTrue":true,"explanation":"Doğru! Bisiklet sporu için kask ve bisiklet gerekir."},{"statement":"\u0027Never\u0027 means doing something 100% of the time.","isTrue":false,"explanation":"Yanlış! Never \u0027asla/hiç\u0027 (%0) demektir."},{"statement":"\u0027Archery\u0027 is an individual sport played with a bow and arrows.","isTrue":true,"explanation":"Doğru! Okçuluk yay ve ok ile yapılan bireysel spordur."},{"statement":"Football, basketball, and volleyball are team sports.","isTrue":true,"explanation":"Doğru! Birden fazla oyuncunun birlikte oynadığı takım sporlarıdır."},{"statement":"\u0027Always\u0027 frequency adverb expresses 100% regularity (daima).","isTrue":true,"explanation":"Doğru! Always en yüksek sıklıktaki sıklı zarfıdır (%100)."},{"statement":"Goggles and a swimsuit are essential equipment for swimming.","isTrue":true,"explanation":"Doğru! Yüzme gözlüğü ve mayo yüzmenin temel ekipmanıdır."},{"statement":"In boxing, athletes wear special boxing gloves and punch a punching bag.","isTrue":true,"explanation":"Doğru! Boks sporu eldivenle yapılır."},{"statement":"\u0027Spectator\u0027 is a person who plays the sport on the court.","isTrue":false,"explanation":"Yanlış! Spectator sporcu değil, maçı izleyen seyircidir."},{"statement":"\u0027How often\u0027 question asks about the frequency of an activity.","isTrue":true,"explanation":"Doğru! \u0027Ne sıklıkla\u0027 sorusudur."},{"statement":"Skiing is an outdoor water sport.","isTrue":false,"explanation":"Yanlış! Kayak kış ve kar sporudur, su sporu değildir."},{"statement":"\u0027Train\u0027 or \u0027practice\u0027 means doing exercise to improve sports skills.","isTrue":true,"explanation":"Doğru! Antrenman yapmak anlamına gelir."},{"statement":"Roller skating requires roller skates, knee pads, and a helmet.","isTrue":true,"explanation":"Doğru! Paten, dizlik ve kask güvenli paten için şarttır."}],"matchingPairs":[{"id":1,"term":"Racket \u0026 Net","match":"Tennis Equipment","category":"Equipment"},{"id":2,"term":"Bat \u0026 Gloves","match":"Baseball Equipment","category":"Equipment"},{"id":3,"term":"Bicycle \u0026 Helmet","match":"Cycling Equipment","category":"Equipment"},{"id":4,"term":"Always","match":"100% (Every day)","category":"Adverb"},{"id":5,"term":"Rarely","match":"20% (Once a month)","category":"Adverb"},{"id":6,"term":"Never","match":"0% (Not at all)","category":"Adverb"}],"flashcards":[{"q":"Tennis için gereken temel malzemeler nelerdir?","a":"Racket, ball, net ve trainers.","hint":"Equipment"},{"q":"Baseball için gereken malzemeler nelerdir?","a":"Bat (sopa), gloves (eldiven), small ball.","hint":"Equipment"},{"q":"\u0027Once a month\u0027 hangi sıklık zarfına karşılık gelir?","a":"Rarely (Nadiren).","hint":"Frequency adverb"},{"q":"Bossaball nedir?","a":"Trambolin üzerinde voleybol, futbol ve jimnastiği birleştiren takım sporu.","hint":"Trampoline \u0026 net"}],"quizQuestions":[{"q":"You need a small ball, a bat, gloves, and comfortable clothes. Which sport is it?","options":["Tennis","Baseball","Cycling","Swimming"],"correct":1,"explanation":"Sopa (bat), eldiven ve küçük topla oynanan spor beyzboldur."},{"q":"Mete Gazoz wakes up early every morning and doesn\u0027t wake up late. He _________ gets up late.","options":["always","rarely","never","usually"],"correct":2,"explanation":"Geç uyanmadığı için \u0027never\u0027 (asla) kullanılır."}],"openEndedQuestions":[{"id":"meb-ing-4","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.2.R1. Students will be able to understand short and simple texts on sports.","question":"Read the text below and answer the questions:\n\n\"Bossaball brings together volleyball, soccer, and gymnastics. Two teams play against each other in this game. They play the game on a trampoline. Players jump high and hit the ball over the net. They can hit the ball with any body part, such as the head, hands, and feet. Each team works together and tries to beat the other team.\"\n\na. Is bossaball an individual sport?\nb. Which equipment do you need for bossaball?\nc. What is the aim of bossaball?","keywords":["no","team sport","trampoline","ball","net","hit the ball","beat the other team","over the net"],"sampleAnswer":"Answers:\na. No, it isn\u0027t. (It is a team sport; two teams play against each other).\nb. You need a trampoline, a ball, and a net.\nc. The aim is to hit the ball over the net and beat the other team (score points).","rubric":[{"criterion":"a şıkkı: \u0027No, it isn\u0027t / It is a team sport\u0027 doğru cevaplanmış","points":3},{"criterion":"b şıkkı: Ekipmanlar (trampoline, ball, net) doğru yazılmış","points":3},{"criterion":"c şıkkı: Oyunun amacı (hit the ball over the net / beat the other team) doğru açıklanmış","points":4}]},{"id":"meb-ing-5","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.2.R1. Students will be able to understand short and simple texts on sports.","question":"Adam and Defne are playing the \u0027Guess what it is\u0027 game. Read the cards and answer the questions below:\n\n• Card A:\n  \"You need a racket, a pair of trainers, a ball, and a net. Two people play it.\"\n  Adam: Volleyball | Defne: Tennis\n\n• Card B:\n  \"You need a small ball, a bat, gloves, and comfortable clothes. It is a team sport.\"\n  Adam: Basketball | Defne: Football\n\n• Card C:\n  \"You need a bicycle and a helmet. You can do this sport individually.\"\n  Adam: Motorcycling | Defne: Cycling\n\nQuestions:\na. Whose answer is correct for Card A?\nb. For which card do both Defne and Adam write an incorrect answer? Write down the correct sport.\nc. Who answers more questions correctly?","keywords":["defne","tennis","card b","baseball","cricket","more questions","card a","card c"],"sampleAnswer":"Answers:\na. Defne\u0027s answer is correct for Card A (It is Tennis).\nb. Both Defne and Adam write an incorrect answer for Card B. The correct sport is Baseball (or Cricket / Softball).\nc. Defne answers more questions correctly (Defne answered 2 cards correctly: Card A - Tennis and Card C - Cycling).","rubric":[{"criterion":"a şıkkı: Card A için Defne\u0027nin doğru bildiği yazılmış","points":3},{"criterion":"b şıkkı: Card B\u0027nin yanlış bilindiği ve doğrusunun Baseball olduğu yazılmış","points":4},{"criterion":"c şıkkı: Defne\u0027nin daha çok soruya doğru yanıt verdiği yazılmış","points":3}]},{"id":"meb-ing-6","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.2.W1. Students will be able to write pieces about routines/daily activities by using frequency adverbs.","question":"Rewrite the sentences using a different frequency adverb for each sentence:\nOptions: [rarely, always, never]\n\na. Yağız Kaan Erdoğmuş trains hard for chess every day.\n--------------------------------------------------------------------------------\nb. Şahika Ercümen generally prefers healthy food, but she has fast food once a month.\n--------------------------------------------------------------------------------\nc. Mete Gazoz doesn’t get up late on weekdays. He wakes up at 7 am every morning.\n--------------------------------------------------------------------------------","keywords":["always","rarely","never","trains","fast food","gets up late"],"sampleAnswer":"Answers:\na. Yağız Kaan Erdoğmuş always trains hard for chess. (\u0027every day\u0027 ➔ always)\nb. Şahika Ercümen rarely has fast food. (or: She rarely eats fast food - \u0027once a month\u0027 ➔ rarely)\nc. Mete Gazoz never gets up late on weekdays. (\u0027doesn\u0027t get up late\u0027 ➔ never)","rubric":[{"criterion":"a şıkkı: \u0027always trains hard\u0027 şeklinde doğru yazılmış","points":3},{"criterion":"b şıkkı: \u0027rarely has fast food\u0027 şeklinde doğru yazılmış","points":3},{"criterion":"c şıkkı: \u0027never gets up late\u0027 şeklinde doğru yazılmış","points":4}]},{"id":"meb-ing-7","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"E7.2.W1. Students will be able to write pieces about routines/daily activities by using frequency adverbs.","question":"Look at the visual of Emma\u0027s daily routine and the star ratings for frequency adverbs:\n★★★★★ = Always | ★★★★☆ = Usually | ★★★☆☆ = Often | ★★☆☆☆ = Sometimes | ★☆☆☆☆ = Rarely | ☆☆☆☆☆ = Never\n\nEmma\u0027s Activities and Stars:\n• Breakfast in the kitchen: ★☆☆☆☆\n• Making her bed: ☆☆☆☆☆\n• Working out / gym: ★★★★☆\n• Reading books on the couch: ★★★★★\n• Cycling in the park: ★★★☆☆\n• Meeting friends at a café: ★★☆☆☆\n\nWrite down at least four (4) sentences about Emma’s daily routine using frequency adverbs.","keywords":["always","usually","often","sometimes","rarely","never","reads","exercises","cycles","rides","breakfast","bed","friends"],"sampleAnswer":"Sample Sentences (Choose any 4):\n1. Emma always reads books on the couch. (★★★★★)\n2. Emma usually exercises / works out at the gym. (★★★★☆)\n3. Emma often rides a bicycle / cycles in the park. (★★★☆☆)\n4. Emma sometimes meets her friends at a café. (★★☆☆☆)\n5. Emma rarely has breakfast. (★☆☆☆☆)\n6. Emma never makes her bed. (☆☆☆☆☆)","rubric":[{"criterion":"1. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış","points":2.5},{"criterion":"2. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış","points":2.5},{"criterion":"3. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış","points":2.5},{"criterion":"4. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış","points":2.5}]}]},{"id":"ing-unite-3","number":3,"term":1,"exam":"2. Yazılı (Ortak)","name":"Biographies (Past Events)","badge":"📜 Tarih Anlatıcısı","color":"amber","icon":"fa-book-open","boss":{"name":"Chronos \u0027The Past Master\u0027","hp":100,"avatar":"⏳","introText":"Can you talk about past lives and milestones without mixing up was, were, and irregular verbs?","defeatText":"Incredible! You narrated history and biographies with flawless past tense!"},"lessons":[{"step":1,"title":"⏳ Simple Past Tense: Was / Were \u0026 Life Events","summary":"Geçmişte yaşanan hayat olaylarını ve doğum/ölüm tarihlerini anlatma.","points":["\u003cstrong\u003eWas / Were Kullanımı:\u003c/strong\u003e\u003cbr\u003e• I, He, She, It ➔ \u003cstrong\u003ewas\u003c/strong\u003e (He was born in 1881).\u003cbr\u003e• You, We, They ➔ \u003cstrong\u003ewere\u003c/strong\u003e (They were at school yesterday).","\u003cstrong\u003eLife Milestones (Hayat Dönüm Noktaları):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003ewas born\u003c/em\u003e (doğdu)\u003cbr\u003e• \u003cem\u003egrew up\u003c/em\u003e (büyüdü)\u003cbr\u003e• \u003cem\u003egraduated from university\u003c/em\u003e (üniversiteden mezun oldu)\u003cbr\u003e• \u003cem\u003egot married\u003c/em\u003e (evlendi)\u003cbr\u003e• \u003cem\u003ewon an award / Nobel Prize\u003c/em\u003e (ödül kazandı)\u003cbr\u003e• \u003cem\u003edied\u003c/em\u003e (vefat etti).","\u003cstrong\u003eZaman Edatları:\u003c/strong\u003e Yıllar ve aylardan önce \u003cstrong\u003ein\u003c/strong\u003e (in 1923, in May); tam günlerden önce \u003cstrong\u003eon\u003c/strong\u003e (on 19th May 1919) kullanılır."],"examTip":"Sınavda Sorulur: \u0027He was born IN 1881\u0027 (Yıllardan önce \u0027in\u0027 edatı kullanılır).","quickCheck":{"q":"\u0027Mustafa Kemal Atatürk _________ born in Salonika in 1881.\u0027 cümlesindeki boşluğa ne gelmelidir?","options":["were","was","is","are"],"correct":1,"explanation":"Tekil özne (Atatürk / He) ile geçmiş zamanda \u0027was\u0027 kullanılır."}},{"step":2,"title":"✍️ Regular \u0026 Irregular Verbs (Düzenli ve Düzensiz Fiiller)","summary":"Geçmiş zamanda olumlu cümle kurarken fiillerin 2. hali (V2) kullanılır.","points":["\u003cstrong\u003eRegular Verbs (Düzenli Fiiller):\u003c/strong\u003e Sonuna \u003cstrong\u003e-ed\u003c/strong\u003e alır:\u003cbr\u003e\u003cem\u003einvent ➔ invented, discover ➔ discovered, die ➔ died, live ➔ lived\u003c/em\u003e.","\u003cstrong\u003eIrregular Verbs (Düzensiz Fiiller):\u003c/strong\u003e Kökten değişir, ezberlenmesi gerekir:\u003cbr\u003e• go ➔ \u003cstrong\u003ewent\u003c/strong\u003e\u003cbr\u003e• write ➔ \u003cstrong\u003ewrote\u003c/strong\u003e\u003cbr\u003e• win ➔ \u003cstrong\u003ewon\u003c/strong\u003e\u003cbr\u003e• have ➔ \u003cstrong\u003ehad\u003c/strong\u003e\u003cbr\u003e• become ➔ \u003cstrong\u003ebecame\u003c/strong\u003e."],"examTip":"Sınav Sorusu: Aziz Sancar won the Nobel Prize in Chemistry in 2015. (\u0027Win\u0027 fiili \u0027won\u0027 olur!).","quickCheck":{"q":"\u0027Marie Curie _________ two Nobel Prizes.\u0027 cümlesinde \u0027win\u0027 fiilinin past hali hangisidir?","options":["winned","won","wins","winning"],"correct":1,"explanation":"Win fiili düzensizdir ve 2. hali \u0027won\u0027dur."}}],"trueFalseQuestions":[{"statement":"We use \u0027was\u0027 with He, She, It and I in past tense.","isTrue":true,"explanation":"Doğru! Tekil öznelerde was kullanılır."},{"statement":"The past form of \u0027go\u0027 is \u0027goed\u0027.","isTrue":false,"explanation":"Yanlış! \u0027Go\u0027 düzensiz fiildir, geçmiş hali \u0027went\u0027 olur."},{"statement":"We use \u0027in\u0027 before years (e.g., in 1923).","isTrue":true,"explanation":"Doğru! Yıllardan önce \u0027in\u0027 edatı gelir."},{"statement":"\u0027Graduate\u0027 means to finish school or university.","isTrue":true,"explanation":"Doğru! Mezun olmak demektir."},{"statement":"The past form of \u0027invent\u0027 is \u0027invented\u0027.","isTrue":true,"explanation":"Doğru! Düzenli fiil olduğu için -ed alır."},{"statement":"The past form of \u0027buy\u0027 is \u0027bought\u0027.","isTrue":true,"explanation":"Doğru! Buy düzensiz bir fiildir (buy -\u003e bought)."},{"statement":"We use \u0027were\u0027 with You, We, and They in Simple Past Tense.","isTrue":true,"explanation":"Doğru! Çoğul öznelerde were kullanılır."},{"statement":"\u0027Win an award\u0027 means to receive a prize or medal for an achievement.","isTrue":true,"explanation":"Doğru! Ödül kazanmak anlamına gelir."},{"statement":"The past form of \u0027write\u0027 is \u0027writed\u0027.","isTrue":false,"explanation":"Yanlış! Write düzensizdir, geçmiş hali \u0027wrote\u0027 olur."},{"statement":"\u0027Grow up\u0027 means to spend childhood and become an adult.","isTrue":true,"explanation":"Doğru! Büyümek, yetişmek demektir."},{"statement":"Aziz Sancar won the Nobel Prize in Chemistry in 2015.","isTrue":true,"explanation":"Doğru! 2015 yılında Nobel Kimya Ödülü\u0027nü kazanmıştır."},{"statement":"Regular verbs in English take \u0027-ed\u0027 in the past form (e.g., play -\u003e played).","isTrue":true,"explanation":"Doğru! Düzenli fiillere -ed takısı gelir."}],"matchingPairs":[{"id":1,"term":"Graduate","match":"Finish university (Mezun olmak)","category":"Milestone"},{"id":2,"term":"Invent","match":"Create something new (İcat etmek)","category":"Action"},{"id":3,"term":"Die","match":"End of life (Vefat etmek)","category":"Milestone"},{"id":4,"term":"Win ➔ Won","match":"Irregular Past Verb (Kazanmak)","category":"Grammar"},{"id":5,"term":"Go ➔ Went","match":"Irregular Past Verb (Gitmek)","category":"Grammar"}],"flashcards":[{"q":"Atatürk ne zaman ve nerede doğdu?","a":"He was born in 1881 in Salonika.","hint":"Was born"},{"q":"\u0027Become\u0027 fiilinin Simple Past hali nedir?","a":"Became","hint":"Düzensiz fiil"},{"q":"Yıllardan önce hangi edat kullanılır?","a":"in (Örn: in 2015)","hint":"Time preposition"},{"q":"\u0027Discover\u0027 ile \u0027invent\u0027 farkı nedir?","a":"Discover = Zaten var olanı keşfetmek, Invent = Yeni bir alet icat etmek","hint":"Sınav sorusu"}],"quizQuestions":[{"q":"Alexander Graham Bell _________ the telephone in 1876.","options":["invents","invented","was invented","inventing"],"correct":1,"explanation":"Geçmişte tamamlanmış bir eylem için düzenli fiile -ed eklenir: invented."},{"q":"Prof. Aziz Sancar _________ the Nobel Prize in Chemistry in 2015.","options":["won","winned","wins","win"],"correct":0,"explanation":"Win düzensiz fiildir, past hali \u0027won\u0027dur."},{"q":"Where _________ you born?","options":["was","were","are","did"],"correct":1,"explanation":"\u0027You\u0027 öznesi ile geçmiş zamanda \u0027were\u0027 kullanılır: Where were you born?"}],"openEndedQuestions":[{"id":"ing-oe-3","question":"Write 2 biographical sentences in past tense about a famous scientist or leader (mention birth year and an achievement).","keywords":["was born","in","invented","discovered","won"],"sampleAnswer":"1. Thomas Edison was born in 1847.\n2. He invented the electric light bulb in 1879.","rubric":[{"criterion":"Correct past tense birth sentence with \u0027was born in\u0027","points":5},{"criterion":"Correct past tense achievement sentence with regular/irregular V2 verb","points":5}]}]},{"id":"ing-unite-4","number":4,"term":2,"exam":"1. ve 2. Yazılı","name":"Wild Animals \u0026 Protection","badge":"🦁 Doğa Koruyucusu","color":"emerald","icon":"fa-paw","boss":{"name":"Poacher Shadow \u0027Kafesçi\u0027","hp":100,"avatar":"🦹‍♂️","introText":"I hunt wild animals for their fur and tusks! You can\u0027t stop me without wildlife rules!","defeatText":"Brilliant! You protected endangered habitats and stopped animal extinction!"},"lessons":[{"step":1,"title":"🐾 Animal Habitats, Diets \u0026 Extinction","summary":"Vahşi hayvan türleri, beslenme şekilleri ve nesli tükenen canlılar.","points":["\u003cstrong\u003eDiets (Beslenme Türleri):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eCarnivore:\u003c/em\u003e Etobur (lion, tiger, eagle).\u003cbr\u003e• \u003cem\u003eHerbivore:\u003c/em\u003e Otobur (elephant, giraffe, deer).\u003cbr\u003e• \u003cem\u003eOmnivore:\u003c/em\u003e Hem otçul hem etçil (bear, monkey).","\u003cstrong\u003eExtinct vs Endangered:\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eExtinct:\u003c/em\u003e Nesli tamamen tükenmiş canlılar (Dinosaurs, Mammoths, Dodo bird).\u003cbr\u003e• \u003cem\u003eEndangered:\u003c/em\u003e Nesli tükenme tehlikesi altında olanlar (Pandas, Polar bears, Bengal tigers).","\u003cstrong\u003eAnimal Body Parts:\u003c/strong\u003e \u003cem\u003etusk (fildişi), fur (kürk), claw (pençe), wing (kanat), tail (kuyruk)\u003c/em\u003e."],"examTip":"Sınavda Sorulur: Dinazorlar \u0027Extinct\u0027tir (tükenmiş), pandalar ise \u0027Endangered\u0027dır (tehlikede).","quickCheck":{"q":"Mammoths and Dodo birds no longer exist today. They are ___________ animals.","options":["endangered","extinct","carnivore","domestic"],"correct":1,"explanation":"Nesli tamamen tükenmiş hayvanlara \u0027extinct\u0027 denir."}},{"step":2,"title":"🛡️ Giving Advice to Protect Wildlife: Should / Shouldn\u0027t","summary":"Doğayı ve vahşi yaşamı korumak için öneri cümleleri.","points":["\u003cstrong\u003eWe SHOULD (Yapmalıyız):\u003c/strong\u003e\u003cbr\u003e• We should protect natural habitats (doğal yaşam alanlarını korumalıyız).\u003cbr\u003e• We should plant more trees.\u003cbr\u003e• We should stop illegal hunting.","\u003cstrong\u003eWe SHOULDN\u0027T (Yapmamalıyız):\u003c/strong\u003e\u003cbr\u003e• We shouldn\u0027t hunt animals for their fur and tusks (kürk ve fildişi için avlamamalıyız).\u003cbr\u003e• We shouldn\u0027t pollute rivers and oceans.\u003cbr\u003e• We shouldn\u0027t destroy forests."],"examTip":"Sınav Sorusu: \u0027We shouldn\u0027t hunt animals for their fur\u0027 (Hayvanları kürkü için avlamamalıyız).","quickCheck":{"q":"We _________ destroy rainforests because animals lose their habitats.","options":["should","shouldn\u0027t","must","can"],"correct":1,"explanation":"Ormanları yok etmemeliyiz anlamında \u0027shouldn\u0027t\u0027 kullanılır."}}],"trueFalseQuestions":[{"statement":"Dinosaurs are extinct animals.","isTrue":true,"explanation":"Doğru! Nesilleri tamamen tükenmiştir."},{"statement":"Herbivores eat meat.","isTrue":false,"explanation":"Yanlış! Herbivore otobur demektir, bitki yer. Etobur olan carnivore\u0027dur."},{"statement":"We should hunt endangered animals for their tusks.","isTrue":false,"explanation":"Yanlış! Asla avlamamalıyız (We shouldn\u0027t hunt)."},{"statement":"Pandas are endangered species.","isTrue":true,"explanation":"Doğru! Pandaların nesli tükenme tehlikesindedir."}],"matchingPairs":[{"id":1,"term":"Carnivore","match":"Meat-eating animal (Etobur)","category":"Animal"},{"id":2,"term":"Herbivore","match":"Plant-eating animal (Otobur)","category":"Animal"},{"id":3,"term":"Extinct","match":"Died out completely (Nesli tükenmiş)","category":"Status"},{"id":4,"term":"Endangered","match":"In danger of extinction (Tehlikede)","category":"Status"},{"id":5,"term":"Habitat","match":"Natural home of an animal","category":"Nature"}],"flashcards":[{"q":"\u0027Carnivore\u0027 ne demektir?","a":"Etobur (Etle beslenen hayvan)","hint":"Örn: Aslan"},{"q":"Extinct ile Endangered farkı nedir?","a":"Extinct = Nesli tükenmiş, Endangered = Tükenme tehlikesi olan","hint":"Sınav klasiği"},{"q":"Doğal yaşamı korumak için ne yapmalıyız?","a":"We should protect natural habitats and stop illegal hunting.","hint":"Should"}],"quizQuestions":[{"q":"Lions and tigers eat only meat. They are _________.","options":["herbivores","carnivores","omnivores","reptiles"],"correct":1,"explanation":"Sadece et yiyen hayvanlar \u0027carnivore\u0027 (etobur) olarak adlandırılır."},{"q":"We _________ cut down trees and destroy natural habitats.","options":["should","shouldn\u0027t","must","are"],"correct":1,"explanation":"Doğal yaşam alanlarını yok etmemeliyiz: shouldn\u0027t."}],"openEndedQuestions":[{"id":"ing-oe-4","question":"Write 2 sentences giving advice on how to protect wild animals (use \u0027should\u0027 and \u0027shouldn\u0027t\u0027).","keywords":["should","shouldn\u0027t","protect","hunt","habitat"],"sampleAnswer":"1. We should protect natural habitats and forests.\n2. We shouldn\u0027t hunt endangered animals for their fur and tusks.","rubric":[{"criterion":"One correct advice sentence using \u0027should\u0027","points":5},{"criterion":"One correct warning sentence using \u0027shouldn\u0027t\u0027","points":5}]}]}]}
+{
+    "id":  "ingilizce",
+    "name":  "İngilizce",
+    "icon":  "🇬🇧",
+    "color":  "sky",
+    "badge":  "Dil Şampiyonu (English Master)",
+    "description":  "Appearance, personality, past biographies, wild animals and celebrations!",
+    "title":  "7. Sınıf İngilizce: Global Kaşif",
+    "subtitle":  "Yazılıdan 100 Aldıran İngilizce Arenası",
+    "grade":  "7. Sınıf",
+    "term":  "1. ve 2. Dönem Yazılı Kapsamı",
+    "units":  [
+                  {
+                      "id":  "ing-unite-1",
+                      "number":  1,
+                      "term":  1,
+                      "exam":  "1. Yazılı",
+                      "name":  "Appearance and Personality",
+                      "badge":  "⭐ Karakter Dedektifi",
+                      "color":  "sky",
+                      "icon":  "fa-user",
+                      "boss":  {
+                                   "name":  "Grammar Phantom \u0027Mr. Comparative\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🎩",
+                                   "introText":  "If you confuse personality with appearance or write \u0027gooder than\u0027, you will never defeat me!",
+                                   "defeatText":  "Awesome! You mastered adjectives and comparative rules like a native speaker!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "👤 Physical Appearance vs Personality Adjectives",
+                                          "summary":  "Dış görünüş ve kişilik sıfatlarını ayırt etme kuralı.",
+                                          "points":  [
+                                                         "\u003cstrong\u003ePhysical Appearance (Dış Görünüş):\u003c/strong\u003e Gözle görülebilen özellikler: \u003cem\u003etall (uzun), short (kısa), slim (zayıf/ince), plump (tombul), wavy hair (dalgalı saç), straight hair (düz saç), blue eyes, brown eyes, attractive, well-built (kaslı)\u003c/em\u003e.",
+                                                         "\u003cstrong\u003ePersonality (Kişilik / Karakter Sıfatları):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eHonest (Dürüst):\u003c/em\u003e Always tells the truth, never tells lies (Richard \u0026 Sally).\u003cbr\u003e• \u003cem\u003eFriendly / Outgoing (Sosyal / Cana yakın):\u003c/em\u003e Likes meeting new people, has lots of friends (Sue \u0026 Harry).\u003cbr\u003e• \u003cem\u003eSelfish (Bencil):\u003c/em\u003e Only cares about himself/herself, doesn\u0027t like sharing toys (Dean \u0026 Amy).\u003cbr\u003e• \u003cem\u003eSuccessful / Hardworking (Başarılı / Çalışkan):\u003c/em\u003e Studies hard, always does homework, gets high marks (Frank \u0026 Gloria).\u003cbr\u003e• \u003cem\u003ePunctual (Dakik):\u003c/em\u003e Always on time, never late (Tom).\u003cbr\u003e• \u003cem\u003eGenerous (Cömert):\u003c/em\u003e Likes sharing and helping others (Mary).",
+                                                         "\u003cstrong\u003eSoru Kalıpları:\u003c/strong\u003e\u003cbr\u003e• \u0027What does he look like?\u0027 ➔ Dış görünüşü sorar.\u003cbr\u003e• \u0027What is she like?\u0027 ➔ Kişilik ve karakterini sorar!"
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: \u0027What is he like?\u0027 sorusuna \u0027He has brown hair\u0027 YAZILMAZ! Bu soru kişiliği sorar, \u0027He is generous and honest\u0027 denir!",
+                                          "quickCheck":  {
+                                                             "q":  "Aşağıdaki sıfatlardan hangisi bir kişinin \u0027Personality\u0027 (kişilik) özelliğini belirtir?",
+                                                             "options":  [
+                                                                             "Plump (tombul)",
+                                                                             "Stubborn (inatçı)",
+                                                                             "Tall (uzun)",
+                                                                             "Curly hair (kıvırcık saç)"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Stubborn (inatçı) bir karakter/kişilik sıfatıdır. Diğerleri dış görünüştür."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "📸",
+                                                                     "title":  "Fotoğrafta Gördüğün Her Şey (Appearance)",
+                                                                     "text":  "Birinin fotoğrafına bakıp söyleyebileceğin özellikler (tall, slim, wavy hair, blue eyes) Physical Appearance\u0027tır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "💎",
+                                                                     "title":  "Tanıdıkça Gördüğün İç Dünya (Personality)",
+                                                                     "text":  "Fotoğrafta görünmez; konuşup arkadaş oldukça anlarsın: honest (dürüst), punctual (dakik), generous (cömert), selfish (bencil)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔑",
+                                                                     "title":  "\u0027Look\u0027 Varsa Gözle Bak, Yoksa Kalbe Bak!",
+                                                                     "text":  "\u0027What does he LOOK like?\u0027 içinde LOOK (bakmak) olduğu için dış görünüşü sorar! \u0027What is she like?\u0027 ise karakterini sorar."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "📈 Making Comparisons (Karşılaştırma Cümleleri)",
+                                          "summary":  "İki insanı veya nesneyi birbiriyle kıyaslama kuralları.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eKısa Sıfatlar (1-2 hece):\u003c/strong\u003e Sıfatın sonuna \u003cstrong\u003e-er\u003c/strong\u003e ve ardından \u003cstrong\u003ethan\u003c/strong\u003e gelir:\u003cbr\u003e\u003cem\u003efast ➔ faster than, tall ➔ taller than, easy ➔ easier than\u003c/em\u003e.",
+                                                         "\u003cstrong\u003eUzun Sıfatlar (3+ hece):\u003c/strong\u003e Sıfatın başına \u003cstrong\u003emore\u003c/strong\u003e gelir:\u003cbr\u003e\u003cem\u003emore generous than, more hardworking than, more outgoing than\u003c/em\u003e.",
+                                                         "\u003cstrong\u003eDüzensizler (Irregular):\u003c/strong\u003e\u003cbr\u003e• good ➔ \u003cstrong\u003ebetter than\u003c/strong\u003e (asla gooder denmez!)\u003cbr\u003e• bad ➔ \u003cstrong\u003eworse than\u003c/strong\u003e\u003cbr\u003e• far ➔ \u003cstrong\u003efurther / farther than\u003c/strong\u003e"
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: \u0027Gooder than\u0027 diye bir kural YOKTUR! \u0027Good\u0027 sıfatı \u0027better than\u0027, \u0027bad\u0027 sıfatı \u0027worse than\u0027 olur!",
+                                          "quickCheck":  {
+                                                             "q":  "\u0027Ali is ___________ than Mehmet.\u0027 cümlesinde \u0027hardworking\u0027 sıfatı nasıl kullanılmalıdır?",
+                                                             "options":  [
+                                                                             "hardworkinger",
+                                                                             "more hardworking",
+                                                                             "most hardworking",
+                                                                             "as hardworking"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Hardworking uzun bir sıfat olduğu için karşılaştırmada \u0027more hardworking\u0027 şeklinde kullanılır."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🚀",
+                                                                     "title":  "Kısa Kelimeye Turbo Kuyruk: -er + than",
+                                                                     "text":  "Tek-iki heceli kısa sıfatlar sonuna \u0027-er\u0027 kuyruğu takar: tall → taller than, fast → faster than."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚂",
+                                                                     "title":  "Uzun Kelimeyi Baştan Çeken Lokomotif: MORE",
+                                                                     "text":  "Zaten uzun olan kelimenin sonuna ek koyma, başına \u0027more\u0027 getir: more hardworking than, more generous than."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚠️",
+                                                                     "title":  "Kural Tanımayan 3 Asi Kelime",
+                                                                     "text":  "Asla \u0027gooder\u0027 veya \u0027badder\u0027 deme! good → better, bad → worse, far → further/farther olur."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "\u0027Punctual\u0027 means always coming on time (her zaman vaktinde gelen).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Punctual dakik anlamına gelir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027What is she like?\u0027 question asks about physical hair color.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! \u0027What is she like?\u0027 karakterini ve kişiliğini sorar."
+                                                 },
+                                                 {
+                                                     "statement":  "The comparative form of \u0027good\u0027 is \u0027better than\u0027.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Good düzensiz bir sıfattır ve better\u0027a dönüşür."
+                                                 },
+                                                 {
+                                                     "statement":  "A \u0027clumsy\u0027 person breaks things easily because of carelessness.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Clumsy sakar demektir."
+                                                 },
+                                                 {
+                                                     "statement":  "Comparative of \u0027generous\u0027 is \u0027generouser\u0027.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Uzun sıfatlarda \u0027more generous\u0027 kullanılır."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Selfish\u0027 people only think about themselves.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Selfish bencil demektir, sadece kendini düşünür."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Stubborn\u0027 means not changing your mind easily (inatçı).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Stubborn laf dinlemeyen, inatçı anlamına gelir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Honest\u0027 people never tell lies and always tell the truth.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Dürüst insanlar daima doğruyu söyler."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027What does he look like?\u0027 question asks about physical appearance (dış görünüş).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Boy, kilo, göz ve saç gibi dış özellikleri sorar."
+                                                 },
+                                                 {
+                                                     "statement":  "The comparative form of \u0027easy\u0027 is \u0027more easy\u0027.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Son iki harfi sessiz+y olduğu için \u0027easier\u0027 olur."
+                                                 },
+                                                 {
+                                                     "statement":  "An \u0027outgoing\u0027 person is very shy and avoids meeting new people.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Outgoing canayakın, sosyal ve dışa dönük demektir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Slim\u0027 and \u0027well-built\u0027 describe a person\u0027s physical appearance.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Zayıf ve kaslı/yapılı fiziksel tanımlardır."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Talkative\u0027 people talk a lot and love chatting.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Konuşkan kimseler için kullanılır."
+                                                 },
+                                                 {
+                                                     "statement":  "The comparative form of \u0027bad\u0027 is \u0027bader\u0027.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! \u0027Bad\u0027 düzensiz sıfattır ve \u0027worse than\u0027 olur."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Generous\u0027 people love sharing and buying presents for their friends.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Cömert kimseler paylaşmayı sever."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Generous",
+                                                "match":  "Loves sharing and buying gifts (Cömert)",
+                                                "category":  "Personality"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Stubborn",
+                                                "match":  "Never changes his mind (İnatçı)",
+                                                "category":  "Personality"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Punctual",
+                                                "match":  "Always on time, never late (Dakik)",
+                                                "category":  "Personality"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Outgoing",
+                                                "match":  "Enjoys meeting new people (Sosyal)",
+                                                "category":  "Personality"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "Honest",
+                                                "match":  "Always tells the truth (Dürüst)",
+                                                "category":  "Personality"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "Clumsy",
+                                                "match":  "Drops and breaks things (Sakar)",
+                                                "category":  "Personality"
+                                            },
+                                            {
+                                                "id":  7,
+                                                "term":  "Better than",
+                                                "match":  "Comparative of \u0027Good\u0027",
+                                                "category":  "Grammar"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "\u0027Generous\u0027 ne anlama gelir?",
+                                             "a":  "Cömert (Paylaşmayı ve hediye vermeyi seven)",
+                                             "hint":  "Personality"
+                                         },
+                                         {
+                                             "q":  "\u0027What does he look like?\u0027 neyi sorar?",
+                                             "a":  "Dış görünüşünü (Boy, kilo, saç, göz rengi)",
+                                             "hint":  "Physical appearance"
+                                         },
+                                         {
+                                             "q":  "\u0027What is she like?\u0027 neyi sorar?",
+                                             "a":  "Kişiliğini ve karakterini (Dürüst, sosyal vb.)",
+                                             "hint":  "Personality"
+                                         },
+                                         {
+                                             "q":  "Bad sıfatının comparative hali nedir?",
+                                             "a":  "Worse than (Daha kötü)",
+                                             "hint":  "Düzensiz sıfat"
+                                         },
+                                         {
+                                             "q":  "\u0027Punctual\u0027 bir insan ne yapar?",
+                                             "a":  "Randevularına ve derslerine asla geç kalmaz (Dakik)",
+                                             "hint":  "On time"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Ayşe never arrives late to school and does everything on time. She is _________.",
+                                                "options":  [
+                                                                "stubborn",
+                                                                "punctual",
+                                                                "clumsy",
+                                                                "selfish"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Asla geç kalmayan ve zamanında yapan kişiye \u0027punctual\u0027 (dakik) denir."
+                                            },
+                                            {
+                                                "q":  "This book is ___________ than that movie.",
+                                                "options":  [
+                                                                "interesting",
+                                                                "more interesting",
+                                                                "interestinger",
+                                                                "most interesting"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Uzun sıfatların karşılaştırmasında başına \u0027more\u0027 eklenir: more interesting than."
+                                            },
+                                            {
+                                                "q":  "Jack is very ____________. He only thinks about himself and never shares his toys.",
+                                                "options":  [
+                                                                "generous",
+                                                                "selfish",
+                                                                "outgoing",
+                                                                "easy-going"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Sadece kendini düşünen ve paylaşmayan kişiye \u0027selfish\u0027 (bencil) denir."
+                                            },
+                                            {
+                                                "q":  "\u0027What does your English teacher look like?\u0027 sorusuna verilecek en uygun yanıt hangisidir?",
+                                                "options":  [
+                                                                "She is honest and polite.",
+                                                                "She is tall and has blonde hair.",
+                                                                "She likes reading books.",
+                                                                "She is very punctual."
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "\u0027What does she look like?\u0027 dış görünüşü sorar: She is tall and has blonde hair."
+                                            },
+                                            {
+                                                "q":  "My brother gets higher grades than me. He is ___________ student than me.",
+                                                "options":  [
+                                                                "gooder",
+                                                                "better",
+                                                                "more good",
+                                                                "best"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Good sıfatının comparative hali \u0027better\u0027dır."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-ing-1",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.1.R1. Understand simple text about appearances, personalities, and comparisons.",
+                                                     "question":  "Look at the grid below and write down the correct person / number for each question:\n\n1. Frank always does his homework and gets high marks.\n2. Sally never tells lies, so you can count on her.\n3. Mary helps others when they have a problem.\n4. Tom is always on time. He is never late.\n5. Gloria studies hard, and she is the first in the class.\n6. Sue likes meeting new people.\n7. Harry has lots of friends and enjoys spending time with them.\n8. Dean doesn’t like sharing his toys, and he cares about only himself.\n9. Richard always tells the truth, so he is reliable.\n\na. Who is honest?\nb. Who is friendly?\nc. Who is selfish?\nd. Who is successful?\ne. Who is punctual?",
+                                                     "keywords":  [
+                                                                      "sally",
+                                                                      "richard",
+                                                                      "sue",
+                                                                      "harry",
+                                                                      "mary",
+                                                                      "dean",
+                                                                      "frank",
+                                                                      "gloria",
+                                                                      "tom",
+                                                                      "honest",
+                                                                      "friendly",
+                                                                      "selfish",
+                                                                      "successful",
+                                                                      "punctual"
+                                                                  ],
+                                                     "sampleAnswer":  "Answers:\na. Who is honest? ➔ Sally (2) and Richard (9) (They never tell lies and always tell the truth).\nb. Who is friendly? ➔ Sue (6) and Harry (7) (or Mary - 3) (They like meeting new people and spending time with friends).\nc. Who is selfish? ➔ Dean (8) (He doesn\u0027t share toys and only cares about himself).\nd. Who is successful? ➔ Frank (1) and Gloria (5) (They get high marks and study hard).\ne. Who is punctual? ➔ Tom (4) (He is always on time and never late).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: Sally / Richard (honest) doğru yazılmış",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: Sue / Harry (friendly) doğru yazılmış",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: Dean (selfish) doğru yazılmış",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "d şıkkı: Frank / Gloria (successful) doğru yazılmış",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "e şıkkı: Tom (punctual) doğru yazılmış",
+                                                                        "points":  2
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ing-2",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.1.R1. Understand simple text about appearances, personalities, and comparisons.",
+                                                     "question":  "Read the text below, correct the mistakes, and rewrite the sentences:\n\n\"Amy is 10 years old, and Emily, her sister, is 12 years old. Amy is 1.55 m, and Emily is 1.62 m. Amy has long, wavy hair, and blue eyes. Emily has short, straight hair, and brown eyes. Amy is so energetic and enjoys spending time with her friends, but Emily is relaxed and prefers staying at home to play video games or read stories. Amy usually cares about only herself, but Emily cares about other people’s feelings. They have different personalities and styles, but they are good friends and enjoy playing games together.\"\n\na. Emily is younger than Amy.\nb. Emily is more outgoing than Amy.\nc. Amy is kinder than Emily.\nd. Amy is taller than Emily.\ne. Amy and Emily can’t get on well with each other.",
+                                                     "keywords":  [
+                                                                      "older than",
+                                                                      "more outgoing",
+                                                                      "kinder",
+                                                                      "taller",
+                                                                      "shorter",
+                                                                      "get on well",
+                                                                      "good friends"
+                                                                  ],
+                                                     "sampleAnswer":  "Corrected Sentences:\na. Emily is older than Amy. (or: Amy is younger than Emily.)\nb. Amy is more outgoing than Emily. (or: Emily is less outgoing than Amy / prefers staying at home.)\nc. Emily is kinder than Amy. (or: Amy is more selfish than Emily.)\nd. Emily is taller than Amy. (or: Amy is shorter than Emily.)\ne. Amy and Emily get on well with each other. (They are good friends and enjoy playing games together).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: Yaş karşılaştırması düzeltilmiş (Emily is older than Amy)",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: Sosyallik karşılaştırması düzeltilmiş (Amy is more outgoing than Emily)",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: Karakter/bencillik düzeltilmiş (Emily is kinder than Amy)",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "d şıkkı: Boy karşılaştırması düzeltilmiş (Emily is taller than Amy)",
+                                                                        "points":  2
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "e şıkkı: İlişki düzeltilmiş (Amy and Emily get on well with each other)",
+                                                                        "points":  2
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ing-3",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.1.W1. Students will be able to write simple pieces to compare people.",
+                                                     "question":  "Compare two Turkish paralympic swimmers by age, height, and weight. Complete the statements with the comparative forms of the correct adjectives:\n\n• Sümeyye BOYACI: Age: 21 | Height: 1.58 m | Weight: 49 kg\n• Sevilay ÖZTÜRK: Age: 20 | Height: 1.45 m | Weight: 34 kg\n\na. Sevilay is ___________________________________ Sümeyye (age).\nb. Sümeyye is _________________________________ Sevilay (height).\nc. Sevilay is ___________________________________ Sümeyye (weight).",
+                                                     "keywords":  [
+                                                                      "younger than",
+                                                                      "taller than",
+                                                                      "slimmer than",
+                                                                      "lighter than",
+                                                                      "thinner than",
+                                                                      "older than",
+                                                                      "shorter than",
+                                                                      "heavier than"
+                                                                  ],
+                                                     "sampleAnswer":  "Answers:\na. Sevilay is younger than Sümeyye. (20 \u003c 21)\nb. Sümeyye is taller than Sevilay. (1.58 m \u003e 1.45 m)\nc. Sevilay is slimmer than Sümeyye. (or: lighter than / thinner than Sümeyye - 34 kg \u003c 49 kg)",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: \u0027younger than\u0027 doğru yazılmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: \u0027taller than\u0027 doğru yazılmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: \u0027slimmer than\u0027 / \u0027lighter than\u0027 doğru yazılmış",
+                                                                        "points":  4
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "ing-oe-1",
+                                                     "question":  "Write 2 English sentences describing your best friend: one about physical appearance and one about personality.",
+                                                     "keywords":  [
+                                                                      "tall",
+                                                                      "slim",
+                                                                      "hair",
+                                                                      "eyes",
+                                                                      "honest",
+                                                                      "generous",
+                                                                      "punctual",
+                                                                      "kind",
+                                                                      "is",
+                                                                      "has"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Physical Appearance: He is tall and slim with curly black hair.\n2. Personality: She is very generous and honest because she always tells the truth and shares her books.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "One grammatically correct physical appearance sentence",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "One grammatically correct personality adjective sentence",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "ing-oe-2",
+                                                     "question":  "Compare a plane and a bus using the adjective \u0027FAST\u0027, and compare a book and a comic using \u0027EXPENSIVE\u0027. (Write 2 comparative sentences).",
+                                                     "keywords":  [
+                                                                      "faster than",
+                                                                      "more expensive than",
+                                                                      "plane",
+                                                                      "bus"
+                                                                  ],
+                                                     "sampleAnswer":  "1. A plane is faster than a bus.\n2. A book is more expensive than a comic.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Correct use of short adjective comparative (-er than)",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Correct use of long adjective comparative (more ... than)",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "ing-unite-2",
+                      "number":  2,
+                      "term":  1,
+                      "exam":  "1. Yazılı",
+                      "name":  "Sports \u0026 Daily Routines",
+                      "badge":  "🏅 Spor Şampiyonu",
+                      "color":  "emerald",
+                      "icon":  "fa-volleyball",
+                      "boss":  {
+                                   "name":  "Titanium Coach \u0027Mr. Champion\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🏋️‍♂️",
+                                   "introText":  "If you don\u0027t know sports equipment or frequency adverbs, you can\u0027t join the champions league!",
+                                   "defeatText":  "Incredible! From bossaball to adverbs of frequency, you mastered every sports rule! You win the gold medal!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "🏅 Types of Sports \u0026 Essential Equipment",
+                                          "summary":  "Bireysel ve takım sporları, açık/kapalı alan sporları ve spor malzemeleri.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eIndividual Sports (Bireysel Sporlar):\u003c/strong\u003e Tek başına yapılan sporlar: \u003cem\u003ecycling (bisiklet), archery (okçuluk), swimming (yüzme), skateboarding\u003c/em\u003e.",
+                                                         "\u003cstrong\u003eTeam Sports (Takım Sporları):\u003c/strong\u003e İki veya daha fazla takımla yapılan sporlar: \u003cem\u003efootball, basketball, volleyball, baseball, bossaball\u003c/em\u003e.",
+                                                         "\u003cstrong\u003eSports Equipment (Spor Ekipmanları):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eTennis:\u003c/em\u003e a racket, a ball, a net, trainers.\u003cbr\u003e• \u003cem\u003eBaseball:\u003c/em\u003e a small ball, a bat, gloves, comfortable clothes.\u003cbr\u003e• \u003cem\u003eCycling:\u003c/em\u003e a bicycle and a helmet.\u003cbr\u003e• \u003cem\u003eBossaball:\u003c/em\u003e Voleybol, futbol ve jimnastiği birleştiren, trambolin (trampoline) ve file (net) üzerinde topla oynanan eğlenceli bir takım sporudur. Oyuncular topa el, ayak veya başla vurabilir.",
+                                                         "\u003cstrong\u003eIndoor vs Outdoor:\u003c/strong\u003e Kapalı salonda yapılan sporlara \u003cem\u003eindoor\u003c/em\u003e, açık havada yapılan sporlara \u003cem\u003eoutdoor\u003c/em\u003e denir."
+                                                     ],
+                                          "examTip":  "Sınav İpucu: \u0027Racket ve net\u0027 tenisi, \u0027bat ve gloves\u0027 beyzbolu, \u0027bicycle ve helmet\u0027 bisiklet sporunu gösterir!",
+                                          "quickCheck":  {
+                                                             "q":  "You need a racket, a ball, trainers and a net to play this sport. Which sport is it?",
+                                                             "options":  [
+                                                                             "Baseball",
+                                                                             "Tennis",
+                                                                             "Cycling",
+                                                                             "Motorcycling"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Raket, file, ayakkabı ve topla oynanan spor tenistir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🚴",
+                                                                     "title":  "Tek Kişilik Sahne (Individual Sports)",
+                                                                     "text":  "Kendi başına yarıştığın yüzme, okçuluk ve bisiklet Individual (bireysel) sporlardır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚽",
+                                                                     "title":  "Paslaşan Ekip (Team Sports)",
+                                                                     "text":  "Takım arkadaşlarıyla birlikte oynanan futbol, basketbol, voleybol ve bossaball Team Sports\u0027tur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎒",
+                                                                     "title":  "Her Sporun Kendi Çantası (Equipment)",
+                                                                     "text":  "Teniste racket/net, bisiklette helmet, Bossaball\u0027da ise trambolin + file + top (voleybol + futbol + jimnastik birleşimi) bulunur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏠",
+                                                                     "title":  "Çatı Altı (Indoor) vs. Açık Gökyüzü (Outdoor)",
+                                                                     "text":  "İçeride (IN-door) spor salonunda oynananlar indoor, dışarıda (OUT-door) açık havada oynananlar outdoor sporlardır."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "⏱️ Adverbs of Frequency \u0026 Daily Routines",
+                                          "summary":  "Eylemlerin yapılma sıklığını anlatan sıklık zarfları ve kullanım kuralları.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eSıklık Zarfları ve Anlamları (Frequency Adverbs):\u003c/strong\u003e\u003cbr\u003e• \u003cstrong\u003eAlways (%100):\u003c/strong\u003e Her zaman / Daima (\u0027every day\u0027 ➔ always).\u003cbr\u003e• \u003cstrong\u003eUsually (%80):\u003c/strong\u003e Genellikle.\u003cbr\u003e• \u003cstrong\u003eOften (%60):\u003c/strong\u003e Sık sık.\u003cbr\u003e• \u003cstrong\u003eSometimes (%40):\u003c/strong\u003e Bazen / Ara sıra.\u003cbr\u003e• \u003cstrong\u003eRarely / Seldom (%20):\u003c/strong\u003e Nadiren (\u0027once a month\u0027 ➔ rarely).\u003cbr\u003e• \u003cstrong\u003eNever (%0):\u003c/strong\u003e Asla / Hiçbir zaman (\u0027doesn\u0027t wake up late\u0027 ➔ never wakes up late).",
+                                                         "\u003cstrong\u003eCümledeki Yeri:\u003c/strong\u003e Sıklık zarfları ana fiilden ÖNCE gelir: \u003cem\u003eSubject + Adverb + Verb\u003c/em\u003e.\u003cbr\u003e• \u0027Yağız Kaan \u003cstrong\u003ealways\u003c/strong\u003e trains hard for chess.\u0027\u003cbr\u003e• \u0027Şahika \u003cstrong\u003erarely\u003c/strong\u003e has fast food.\u0027\u003cbr\u003e• \u0027Mete \u003cstrong\u003enever\u003c/strong\u003e gets up late on weekdays.\u0027",
+                                                         "\u003cstrong\u003e\u0027To Be\u0027 (am/is/are) İstisnası:\u003c/strong\u003e \u0027am/is/are\u0027 fiillerinden SONRA gelir: \u003cem\u003eTom is \u003cstrong\u003ealways\u003c/strong\u003e on time.\u003c/em\u003e"
+                                                     ],
+                                          "examTip":  "Sınavda Kesin Çıkar: \u0027Never\u0027 cümleye zaten \u0027asla/hiç\u0027 olumsuzluğu katar, bu yüzden fiil olumlu çekimlenir: \u0027He never gets up late\u0027 denir!",
+                                          "quickCheck":  {
+                                                             "q":  "Yağız Kaan trains for chess every day, 7 days a week. Which frequency adverb should we use?",
+                                                             "options":  [
+                                                                             "rarely",
+                                                                             "sometimes",
+                                                                             "never",
+                                                                             "always"
+                                                                         ],
+                                                             "correct":  3,
+                                                             "explanation":  "Her gün yapılan eylemler için \u0027always\u0027 (%100) kullanılır."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🔋",
+                                                                     "title":  "Pil Yüzdesi Gibi Sıklık Zarfları",
+                                                                     "text":  "Always %100 dolu pil, Usually %80, Often %60, Sometimes %40, Rarely %20, Never ise %0 boş pil demektir!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚦",
+                                                                     "title":  "Ana Fiilin Hemen Önündeki Öncü",
+                                                                     "text":  "Normal fiillerde sıklık zarfı fiilden ÖNCE gelir: \u0027Mete NEVER gets up late\u0027."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "👑",
+                                                                     "title":  "am / is / are Önden Geçer!",
+                                                                     "text":  "am/is/are VIP fiildir; sıklık zarfı onların arkasına geçer: \u0027Tom IS always on time\u0027."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Tennis requires a racket, a net, and a ball.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Tenis için raket, file ve top gerekir."
+                                                 },
+                                                 {
+                                                     "statement":  "Baseball is an individual sport.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Beyzbol takım sporudur (team sport)."
+                                                 },
+                                                 {
+                                                     "statement":  "Bossaball is played on a trampoline with a net and ball.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Bossaball trambolin üzerinde oynanır."
+                                                 },
+                                                 {
+                                                     "statement":  "Cycling requires a bicycle and a helmet.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Bisiklet sporu için kask ve bisiklet gerekir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Never\u0027 means doing something 100% of the time.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Never \u0027asla/hiç\u0027 (%0) demektir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Archery\u0027 is an individual sport played with a bow and arrows.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Okçuluk yay ve ok ile yapılan bireysel spordur."
+                                                 },
+                                                 {
+                                                     "statement":  "Football, basketball, and volleyball are team sports.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Birden fazla oyuncunun birlikte oynadığı takım sporlarıdır."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Always\u0027 frequency adverb expresses 100% regularity (daima).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Always en yüksek sıklıktaki sıklı zarfıdır (%100)."
+                                                 },
+                                                 {
+                                                     "statement":  "Goggles and a swimsuit are essential equipment for swimming.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Yüzme gözlüğü ve mayo yüzmenin temel ekipmanıdır."
+                                                 },
+                                                 {
+                                                     "statement":  "In boxing, athletes wear special boxing gloves and punch a punching bag.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Boks sporu eldivenle yapılır."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Spectator\u0027 is a person who plays the sport on the court.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Spectator sporcu değil, maçı izleyen seyircidir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027How often\u0027 question asks about the frequency of an activity.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! \u0027Ne sıklıkla\u0027 sorusudur."
+                                                 },
+                                                 {
+                                                     "statement":  "Skiing is an outdoor water sport.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Kayak kış ve kar sporudur, su sporu değildir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Train\u0027 or \u0027practice\u0027 means doing exercise to improve sports skills.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Antrenman yapmak anlamına gelir."
+                                                 },
+                                                 {
+                                                     "statement":  "Roller skating requires roller skates, knee pads, and a helmet.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Paten, dizlik ve kask güvenli paten için şarttır."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Racket \u0026 Net",
+                                                "match":  "Tennis Equipment",
+                                                "category":  "Equipment"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Bat \u0026 Gloves",
+                                                "match":  "Baseball Equipment",
+                                                "category":  "Equipment"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Bicycle \u0026 Helmet",
+                                                "match":  "Cycling Equipment",
+                                                "category":  "Equipment"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Always",
+                                                "match":  "100% (Every day)",
+                                                "category":  "Adverb"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "Rarely",
+                                                "match":  "20% (Once a month)",
+                                                "category":  "Adverb"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "Never",
+                                                "match":  "0% (Not at all)",
+                                                "category":  "Adverb"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Tennis için gereken temel malzemeler nelerdir?",
+                                             "a":  "Racket, ball, net ve trainers.",
+                                             "hint":  "Equipment"
+                                         },
+                                         {
+                                             "q":  "Baseball için gereken malzemeler nelerdir?",
+                                             "a":  "Bat (sopa), gloves (eldiven), small ball.",
+                                             "hint":  "Equipment"
+                                         },
+                                         {
+                                             "q":  "\u0027Once a month\u0027 hangi sıklık zarfına karşılık gelir?",
+                                             "a":  "Rarely (Nadiren).",
+                                             "hint":  "Frequency adverb"
+                                         },
+                                         {
+                                             "q":  "Bossaball nedir?",
+                                             "a":  "Trambolin üzerinde voleybol, futbol ve jimnastiği birleştiren takım sporu.",
+                                             "hint":  "Trampoline \u0026 net"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "You need a small ball, a bat, gloves, and comfortable clothes. Which sport is it?",
+                                                "options":  [
+                                                                "Tennis",
+                                                                "Baseball",
+                                                                "Cycling",
+                                                                "Swimming"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Sopa (bat), eldiven ve küçük topla oynanan spor beyzboldur."
+                                            },
+                                            {
+                                                "q":  "Mete Gazoz wakes up early every morning and doesn\u0027t wake up late. He _________ gets up late.",
+                                                "options":  [
+                                                                "always",
+                                                                "rarely",
+                                                                "never",
+                                                                "usually"
+                                                            ],
+                                                "correct":  2,
+                                                "explanation":  "Geç uyanmadığı için \u0027never\u0027 (asla) kullanılır."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-ing-4",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.2.R1. Students will be able to understand short and simple texts on sports.",
+                                                     "question":  "Read the text below and answer the questions:\n\n\"Bossaball brings together volleyball, soccer, and gymnastics. Two teams play against each other in this game. They play the game on a trampoline. Players jump high and hit the ball over the net. They can hit the ball with any body part, such as the head, hands, and feet. Each team works together and tries to beat the other team.\"\n\na. Is bossaball an individual sport?\nb. Which equipment do you need for bossaball?\nc. What is the aim of bossaball?",
+                                                     "keywords":  [
+                                                                      "no",
+                                                                      "team sport",
+                                                                      "trampoline",
+                                                                      "ball",
+                                                                      "net",
+                                                                      "hit the ball",
+                                                                      "beat the other team",
+                                                                      "over the net"
+                                                                  ],
+                                                     "sampleAnswer":  "Answers:\na. No, it isn\u0027t. (It is a team sport; two teams play against each other).\nb. You need a trampoline, a ball, and a net.\nc. The aim is to hit the ball over the net and beat the other team (score points).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: \u0027No, it isn\u0027t / It is a team sport\u0027 doğru cevaplanmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: Ekipmanlar (trampoline, ball, net) doğru yazılmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: Oyunun amacı (hit the ball over the net / beat the other team) doğru açıklanmış",
+                                                                        "points":  4
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ing-5",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.2.R1. Students will be able to understand short and simple texts on sports.",
+                                                     "question":  "Adam and Defne are playing the \u0027Guess what it is\u0027 game. Read the cards and answer the questions below:\n\n• Card A:\n  \"You need a racket, a pair of trainers, a ball, and a net. Two people play it.\"\n  Adam: Volleyball | Defne: Tennis\n\n• Card B:\n  \"You need a small ball, a bat, gloves, and comfortable clothes. It is a team sport.\"\n  Adam: Basketball | Defne: Football\n\n• Card C:\n  \"You need a bicycle and a helmet. You can do this sport individually.\"\n  Adam: Motorcycling | Defne: Cycling\n\nQuestions:\na. Whose answer is correct for Card A?\nb. For which card do both Defne and Adam write an incorrect answer? Write down the correct sport.\nc. Who answers more questions correctly?",
+                                                     "keywords":  [
+                                                                      "defne",
+                                                                      "tennis",
+                                                                      "card b",
+                                                                      "baseball",
+                                                                      "cricket",
+                                                                      "more questions",
+                                                                      "card a",
+                                                                      "card c"
+                                                                  ],
+                                                     "sampleAnswer":  "Answers:\na. Defne\u0027s answer is correct for Card A (It is Tennis).\nb. Both Defne and Adam write an incorrect answer for Card B. The correct sport is Baseball (or Cricket / Softball).\nc. Defne answers more questions correctly (Defne answered 2 cards correctly: Card A - Tennis and Card C - Cycling).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: Card A için Defne\u0027nin doğru bildiği yazılmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: Card B\u0027nin yanlış bilindiği ve doğrusunun Baseball olduğu yazılmış",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: Defne\u0027nin daha çok soruya doğru yanıt verdiği yazılmış",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ing-6",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.2.W1. Students will be able to write pieces about routines/daily activities by using frequency adverbs.",
+                                                     "question":  "Rewrite the sentences using a different frequency adverb for each sentence:\nOptions: [rarely, always, never]\n\na. Yağız Kaan Erdoğmuş trains hard for chess every day.\n--------------------------------------------------------------------------------\nb. Şahika Ercümen generally prefers healthy food, but she has fast food once a month.\n--------------------------------------------------------------------------------\nc. Mete Gazoz doesn’t get up late on weekdays. He wakes up at 7 am every morning.\n--------------------------------------------------------------------------------",
+                                                     "keywords":  [
+                                                                      "always",
+                                                                      "rarely",
+                                                                      "never",
+                                                                      "trains",
+                                                                      "fast food",
+                                                                      "gets up late"
+                                                                  ],
+                                                     "sampleAnswer":  "Answers:\na. Yağız Kaan Erdoğmuş always trains hard for chess. (\u0027every day\u0027 ➔ always)\nb. Şahika Ercümen rarely has fast food. (or: She rarely eats fast food - \u0027once a month\u0027 ➔ rarely)\nc. Mete Gazoz never gets up late on weekdays. (\u0027doesn\u0027t get up late\u0027 ➔ never)",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: \u0027always trains hard\u0027 şeklinde doğru yazılmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: \u0027rarely has fast food\u0027 şeklinde doğru yazılmış",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: \u0027never gets up late\u0027 şeklinde doğru yazılmış",
+                                                                        "points":  4
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ing-7",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "E7.2.W1. Students will be able to write pieces about routines/daily activities by using frequency adverbs.",
+                                                     "question":  "Look at the visual of Emma\u0027s daily routine and the star ratings for frequency adverbs:\n★★★★★ = Always | ★★★★☆ = Usually | ★★★☆☆ = Often | ★★☆☆☆ = Sometimes | ★☆☆☆☆ = Rarely | ☆☆☆☆☆ = Never\n\nEmma\u0027s Activities and Stars:\n• Breakfast in the kitchen: ★☆☆☆☆\n• Making her bed: ☆☆☆☆☆\n• Working out / gym: ★★★★☆\n• Reading books on the couch: ★★★★★\n• Cycling in the park: ★★★☆☆\n• Meeting friends at a café: ★★☆☆☆\n\nWrite down at least four (4) sentences about Emma’s daily routine using frequency adverbs.",
+                                                     "keywords":  [
+                                                                      "always",
+                                                                      "usually",
+                                                                      "often",
+                                                                      "sometimes",
+                                                                      "rarely",
+                                                                      "never",
+                                                                      "reads",
+                                                                      "exercises",
+                                                                      "cycles",
+                                                                      "rides",
+                                                                      "breakfast",
+                                                                      "bed",
+                                                                      "friends"
+                                                                  ],
+                                                     "sampleAnswer":  "Sample Sentences (Choose any 4):\n1. Emma always reads books on the couch. (★★★★★)\n2. Emma usually exercises / works out at the gym. (★★★★☆)\n3. Emma often rides a bicycle / cycles in the park. (★★★☆☆)\n4. Emma sometimes meets her friends at a café. (★★☆☆☆)\n5. Emma rarely has breakfast. (★☆☆☆☆)\n6. Emma never makes her bed. (☆☆☆☆☆)",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "1. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış",
+                                                                        "points":  2.5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "2. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış",
+                                                                        "points":  2.5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "3. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış",
+                                                                        "points":  2.5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "4. kurala uygun sıklık zarfı ve geniş zaman cümlesi yazılmış",
+                                                                        "points":  2.5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "ing-unite-3",
+                      "number":  3,
+                      "term":  1,
+                      "exam":  "2. Yazılı (Ortak)",
+                      "name":  "Biographies (Past Events)",
+                      "badge":  "📜 Tarih Anlatıcısı",
+                      "color":  "amber",
+                      "icon":  "fa-book-open",
+                      "boss":  {
+                                   "name":  "Chronos \u0027The Past Master\u0027",
+                                   "hp":  100,
+                                   "avatar":  "⏳",
+                                   "introText":  "Can you talk about past lives and milestones without mixing up was, were, and irregular verbs?",
+                                   "defeatText":  "Incredible! You narrated history and biographies with flawless past tense!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "⏳ Simple Past Tense: Was / Were \u0026 Life Events",
+                                          "summary":  "Geçmişte yaşanan hayat olaylarını ve doğum/ölüm tarihlerini anlatma.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eWas / Were Kullanımı:\u003c/strong\u003e\u003cbr\u003e• I, He, She, It ➔ \u003cstrong\u003ewas\u003c/strong\u003e (He was born in 1881).\u003cbr\u003e• You, We, They ➔ \u003cstrong\u003ewere\u003c/strong\u003e (They were at school yesterday).",
+                                                         "\u003cstrong\u003eLife Milestones (Hayat Dönüm Noktaları):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003ewas born\u003c/em\u003e (doğdu)\u003cbr\u003e• \u003cem\u003egrew up\u003c/em\u003e (büyüdü)\u003cbr\u003e• \u003cem\u003egraduated from university\u003c/em\u003e (üniversiteden mezun oldu)\u003cbr\u003e• \u003cem\u003egot married\u003c/em\u003e (evlendi)\u003cbr\u003e• \u003cem\u003ewon an award / Nobel Prize\u003c/em\u003e (ödül kazandı)\u003cbr\u003e• \u003cem\u003edied\u003c/em\u003e (vefat etti).",
+                                                         "\u003cstrong\u003eZaman Edatları:\u003c/strong\u003e Yıllar ve aylardan önce \u003cstrong\u003ein\u003c/strong\u003e (in 1923, in May); tam günlerden önce \u003cstrong\u003eon\u003c/strong\u003e (on 19th May 1919) kullanılır."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: \u0027He was born IN 1881\u0027 (Yıllardan önce \u0027in\u0027 edatı kullanılır).",
+                                          "quickCheck":  {
+                                                             "q":  "\u0027Mustafa Kemal Atatürk _________ born in Salonika in 1881.\u0027 cümlesindeki boşluğa ne gelmelidir?",
+                                                             "options":  [
+                                                                             "were",
+                                                                             "was",
+                                                                             "is",
+                                                                             "are"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Tekil özne (Atatürk / He) ile geçmiş zamanda \u0027was\u0027 kullanılır."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🕰️",
+                                                                     "title":  "Tekil \u0027was\u0027, Çoğul \u0027were\u0027 (Geçmişin İki Anahtarı)",
+                                                                     "text":  "I/He/She/It tek kişi olduğu için kısa olan \u0027was\u0027 alır; You/We/They çoğul olduğu için uzun olan \u0027were\u0027 alır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📖",
+                                                                     "title":  "Bir Hayatın Fotoğraf Albümü (Milestones)",
+                                                                     "text":  "Doğdu (was born) → büyüdü (grew up) → mezun oldu (graduated) → evlendi (got married) → ödül kazandı (won an award)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📅",
+                                                                     "title":  "Geniş Zaman \u0027in\u0027, Nokta Atışı Gün \u0027on\u0027",
+                                                                     "text":  "Yıllar ve aylar geniş kutudur → IN (in 1923, in May). Tek bir takvim günü ise nokta atışıdır → ON (on 19th May)."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "✍️ Regular \u0026 Irregular Verbs (Düzenli ve Düzensiz Fiiller)",
+                                          "summary":  "Geçmiş zamanda olumlu cümle kurarken fiillerin 2. hali (V2) kullanılır.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eRegular Verbs (Düzenli Fiiller):\u003c/strong\u003e Sonuna \u003cstrong\u003e-ed\u003c/strong\u003e alır:\u003cbr\u003e\u003cem\u003einvent ➔ invented, discover ➔ discovered, die ➔ died, live ➔ lived\u003c/em\u003e.",
+                                                         "\u003cstrong\u003eIrregular Verbs (Düzensiz Fiiller):\u003c/strong\u003e Kökten değişir, ezberlenmesi gerekir:\u003cbr\u003e• go ➔ \u003cstrong\u003ewent\u003c/strong\u003e\u003cbr\u003e• write ➔ \u003cstrong\u003ewrote\u003c/strong\u003e\u003cbr\u003e• win ➔ \u003cstrong\u003ewon\u003c/strong\u003e\u003cbr\u003e• have ➔ \u003cstrong\u003ehad\u003c/strong\u003e\u003cbr\u003e• become ➔ \u003cstrong\u003ebecame\u003c/strong\u003e."
+                                                     ],
+                                          "examTip":  "Sınav Sorusu: Aziz Sancar won the Nobel Prize in Chemistry in 2015. (\u0027Win\u0027 fiili \u0027won\u0027 olur!).",
+                                          "quickCheck":  {
+                                                             "q":  "\u0027Marie Curie _________ two Nobel Prizes.\u0027 cümlesinde \u0027win\u0027 fiilinin past hali hangisidir?",
+                                                             "options":  [
+                                                                             "winned",
+                                                                             "won",
+                                                                             "wins",
+                                                                             "winning"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Win fiili düzensizdir ve 2. hali \u0027won\u0027dur."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🏷️",
+                                                                     "title":  "Uslu Fiillere \u0027-ed\u0027 Etiketi (Regular)",
+                                                                     "text":  "Düzenli fiiller kurala uyar, sonuna sadece \u0027-ed\u0027 ekler: invent → invented, live → lived."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🦋",
+                                                                     "title":  "Kılık Değiştiren Fiiller (Irregular)",
+                                                                     "text":  "Düzensiz fiiller tırtılın kelebeğe dönüşmesi gibi tamamen değişir: go → went, write → wrote, win → won."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "We use \u0027was\u0027 with He, She, It and I in past tense.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Tekil öznelerde was kullanılır."
+                                                 },
+                                                 {
+                                                     "statement":  "The past form of \u0027go\u0027 is \u0027goed\u0027.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! \u0027Go\u0027 düzensiz fiildir, geçmiş hali \u0027went\u0027 olur."
+                                                 },
+                                                 {
+                                                     "statement":  "We use \u0027in\u0027 before years (e.g., in 1923).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Yıllardan önce \u0027in\u0027 edatı gelir."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Graduate\u0027 means to finish school or university.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Mezun olmak demektir."
+                                                 },
+                                                 {
+                                                     "statement":  "The past form of \u0027invent\u0027 is \u0027invented\u0027.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Düzenli fiil olduğu için -ed alır."
+                                                 },
+                                                 {
+                                                     "statement":  "The past form of \u0027buy\u0027 is \u0027bought\u0027.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Buy düzensiz bir fiildir (buy -\u003e bought)."
+                                                 },
+                                                 {
+                                                     "statement":  "We use \u0027were\u0027 with You, We, and They in Simple Past Tense.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Çoğul öznelerde were kullanılır."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Win an award\u0027 means to receive a prize or medal for an achievement.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Ödül kazanmak anlamına gelir."
+                                                 },
+                                                 {
+                                                     "statement":  "The past form of \u0027write\u0027 is \u0027writed\u0027.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Write düzensizdir, geçmiş hali \u0027wrote\u0027 olur."
+                                                 },
+                                                 {
+                                                     "statement":  "\u0027Grow up\u0027 means to spend childhood and become an adult.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Büyümek, yetişmek demektir."
+                                                 },
+                                                 {
+                                                     "statement":  "Aziz Sancar won the Nobel Prize in Chemistry in 2015.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! 2015 yılında Nobel Kimya Ödülü\u0027nü kazanmıştır."
+                                                 },
+                                                 {
+                                                     "statement":  "Regular verbs in English take \u0027-ed\u0027 in the past form (e.g., play -\u003e played).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Düzenli fiillere -ed takısı gelir."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Graduate",
+                                                "match":  "Finish university (Mezun olmak)",
+                                                "category":  "Milestone"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Invent",
+                                                "match":  "Create something new (İcat etmek)",
+                                                "category":  "Action"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Die",
+                                                "match":  "End of life (Vefat etmek)",
+                                                "category":  "Milestone"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Win ➔ Won",
+                                                "match":  "Irregular Past Verb (Kazanmak)",
+                                                "category":  "Grammar"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "Go ➔ Went",
+                                                "match":  "Irregular Past Verb (Gitmek)",
+                                                "category":  "Grammar"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Atatürk ne zaman ve nerede doğdu?",
+                                             "a":  "He was born in 1881 in Salonika.",
+                                             "hint":  "Was born"
+                                         },
+                                         {
+                                             "q":  "\u0027Become\u0027 fiilinin Simple Past hali nedir?",
+                                             "a":  "Became",
+                                             "hint":  "Düzensiz fiil"
+                                         },
+                                         {
+                                             "q":  "Yıllardan önce hangi edat kullanılır?",
+                                             "a":  "in (Örn: in 2015)",
+                                             "hint":  "Time preposition"
+                                         },
+                                         {
+                                             "q":  "\u0027Discover\u0027 ile \u0027invent\u0027 farkı nedir?",
+                                             "a":  "Discover = Zaten var olanı keşfetmek, Invent = Yeni bir alet icat etmek",
+                                             "hint":  "Sınav sorusu"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Alexander Graham Bell _________ the telephone in 1876.",
+                                                "options":  [
+                                                                "invents",
+                                                                "invented",
+                                                                "was invented",
+                                                                "inventing"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Geçmişte tamamlanmış bir eylem için düzenli fiile -ed eklenir: invented."
+                                            },
+                                            {
+                                                "q":  "Prof. Aziz Sancar _________ the Nobel Prize in Chemistry in 2015.",
+                                                "options":  [
+                                                                "won",
+                                                                "winned",
+                                                                "wins",
+                                                                "win"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Win düzensiz fiildir, past hali \u0027won\u0027dur."
+                                            },
+                                            {
+                                                "q":  "Where _________ you born?",
+                                                "options":  [
+                                                                "was",
+                                                                "were",
+                                                                "are",
+                                                                "did"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "\u0027You\u0027 öznesi ile geçmiş zamanda \u0027were\u0027 kullanılır: Where were you born?"
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "ing-oe-3",
+                                                     "question":  "Write 2 biographical sentences in past tense about a famous scientist or leader (mention birth year and an achievement).",
+                                                     "keywords":  [
+                                                                      "was born",
+                                                                      "in",
+                                                                      "invented",
+                                                                      "discovered",
+                                                                      "won"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Thomas Edison was born in 1847.\n2. He invented the electric light bulb in 1879.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Correct past tense birth sentence with \u0027was born in\u0027",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Correct past tense achievement sentence with regular/irregular V2 verb",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "ing-unite-4",
+                      "number":  4,
+                      "term":  2,
+                      "exam":  "1. ve 2. Yazılı",
+                      "name":  "Wild Animals \u0026 Protection",
+                      "badge":  "🦁 Doğa Koruyucusu",
+                      "color":  "emerald",
+                      "icon":  "fa-paw",
+                      "boss":  {
+                                   "name":  "Poacher Shadow \u0027Kafesçi\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🦹‍♂️",
+                                   "introText":  "I hunt wild animals for their fur and tusks! You can\u0027t stop me without wildlife rules!",
+                                   "defeatText":  "Brilliant! You protected endangered habitats and stopped animal extinction!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "🐾 Animal Habitats, Diets \u0026 Extinction",
+                                          "summary":  "Vahşi hayvan türleri, beslenme şekilleri ve nesli tükenen canlılar.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eDiets (Beslenme Türleri):\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eCarnivore:\u003c/em\u003e Etobur (lion, tiger, eagle).\u003cbr\u003e• \u003cem\u003eHerbivore:\u003c/em\u003e Otobur (elephant, giraffe, deer).\u003cbr\u003e• \u003cem\u003eOmnivore:\u003c/em\u003e Hem otçul hem etçil (bear, monkey).",
+                                                         "\u003cstrong\u003eExtinct vs Endangered:\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eExtinct:\u003c/em\u003e Nesli tamamen tükenmiş canlılar (Dinosaurs, Mammoths, Dodo bird).\u003cbr\u003e• \u003cem\u003eEndangered:\u003c/em\u003e Nesli tükenme tehlikesi altında olanlar (Pandas, Polar bears, Bengal tigers).",
+                                                         "\u003cstrong\u003eAnimal Body Parts:\u003c/strong\u003e \u003cem\u003etusk (fildişi), fur (kürk), claw (pençe), wing (kanat), tail (kuyruk)\u003c/em\u003e."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: Dinazorlar \u0027Extinct\u0027tir (tükenmiş), pandalar ise \u0027Endangered\u0027dır (tehlikede).",
+                                          "quickCheck":  {
+                                                             "q":  "Mammoths and Dodo birds no longer exist today. They are ___________ animals.",
+                                                             "options":  [
+                                                                             "endangered",
+                                                                             "extinct",
+                                                                             "carnivore",
+                                                                             "domestic"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Nesli tamamen tükenmiş hayvanlara \u0027extinct\u0027 denir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🦁",
+                                                                     "title":  "Doğanın 3 Menü Seçeneği",
+                                                                     "text":  "Carnivore et menüsü (aslan), Herbivore salata menüsü (zürafa), Omnivore ise karışık menü (ayı, maymun) yer!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🦕",
+                                                                     "title":  "Artık Yok (Extinct) vs. Tehlikede (Endangered)",
+                                                                     "text":  "Dinozorlar tamamen yok oldu (Extinct). Pandalar ve kutup ayıları hâlâ yaşıyor ama korumazsak yok olacaklar (Endangered)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🐾",
+                                                                     "title":  "Hayvanların Süper Ekipmanları",
+                                                                     "text":  "Filin dişi \u0027tusk\u0027, ayının sıcak ceketi \u0027fur\u0027, kartalın kanadı \u0027wing\u0027, aslanın pençesi \u0027claw\u0027dır."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "🛡️ Giving Advice to Protect Wildlife: Should / Shouldn\u0027t",
+                                          "summary":  "Doğayı ve vahşi yaşamı korumak için öneri cümleleri.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eWe SHOULD (Yapmalıyız):\u003c/strong\u003e\u003cbr\u003e• We should protect natural habitats (doğal yaşam alanlarını korumalıyız).\u003cbr\u003e• We should plant more trees.\u003cbr\u003e• We should stop illegal hunting.",
+                                                         "\u003cstrong\u003eWe SHOULDN\u0027T (Yapmamalıyız):\u003c/strong\u003e\u003cbr\u003e• We shouldn\u0027t hunt animals for their fur and tusks (kürk ve fildişi için avlamamalıyız).\u003cbr\u003e• We shouldn\u0027t pollute rivers and oceans.\u003cbr\u003e• We shouldn\u0027t destroy forests."
+                                                     ],
+                                          "examTip":  "Sınav Sorusu: \u0027We shouldn\u0027t hunt animals for their fur\u0027 (Hayvanları kürkü için avlamamalıyız).",
+                                          "quickCheck":  {
+                                                             "q":  "We _________ destroy rainforests because animals lose their habitats.",
+                                                             "options":  [
+                                                                             "should",
+                                                                             "shouldn\u0027t",
+                                                                             "must",
+                                                                             "can"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Ormanları yok etmemeliyiz anlamında \u0027shouldn\u0027t\u0027 kullanılır."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "✅",
+                                                                     "title":  "Doğanın Dostu Ol (SHOULD)",
+                                                                     "text":  "Should \u0027yapmalıyız\u0027 demektir: Ağaç dikmeli (plant trees), yaşam alanlarını korumalıyız (protect habitats)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚫",
+                                                                     "title":  "Doğaya Zarar Verme (SHOULDN\u0027T)",
+                                                                     "text":  "Shouldn\u0027t \u0027yapmamalıyız\u0027 demektir: Kürk/fildişi için avlamamalı (shouldn\u0027t hunt), ormanları yok etmemeliyiz."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Dinosaurs are extinct animals.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Nesilleri tamamen tükenmiştir."
+                                                 },
+                                                 {
+                                                     "statement":  "Herbivores eat meat.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Herbivore otobur demektir, bitki yer. Etobur olan carnivore\u0027dur."
+                                                 },
+                                                 {
+                                                     "statement":  "We should hunt endangered animals for their tusks.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Asla avlamamalıyız (We shouldn\u0027t hunt)."
+                                                 },
+                                                 {
+                                                     "statement":  "Pandas are endangered species.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Pandaların nesli tükenme tehlikesindedir."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Carnivore",
+                                                "match":  "Meat-eating animal (Etobur)",
+                                                "category":  "Animal"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Herbivore",
+                                                "match":  "Plant-eating animal (Otobur)",
+                                                "category":  "Animal"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Extinct",
+                                                "match":  "Died out completely (Nesli tükenmiş)",
+                                                "category":  "Status"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Endangered",
+                                                "match":  "In danger of extinction (Tehlikede)",
+                                                "category":  "Status"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "Habitat",
+                                                "match":  "Natural home of an animal",
+                                                "category":  "Nature"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "\u0027Carnivore\u0027 ne demektir?",
+                                             "a":  "Etobur (Etle beslenen hayvan)",
+                                             "hint":  "Örn: Aslan"
+                                         },
+                                         {
+                                             "q":  "Extinct ile Endangered farkı nedir?",
+                                             "a":  "Extinct = Nesli tükenmiş, Endangered = Tükenme tehlikesi olan",
+                                             "hint":  "Sınav klasiği"
+                                         },
+                                         {
+                                             "q":  "Doğal yaşamı korumak için ne yapmalıyız?",
+                                             "a":  "We should protect natural habitats and stop illegal hunting.",
+                                             "hint":  "Should"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Lions and tigers eat only meat. They are _________.",
+                                                "options":  [
+                                                                "herbivores",
+                                                                "carnivores",
+                                                                "omnivores",
+                                                                "reptiles"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Sadece et yiyen hayvanlar \u0027carnivore\u0027 (etobur) olarak adlandırılır."
+                                            },
+                                            {
+                                                "q":  "We _________ cut down trees and destroy natural habitats.",
+                                                "options":  [
+                                                                "should",
+                                                                "shouldn\u0027t",
+                                                                "must",
+                                                                "are"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Doğal yaşam alanlarını yok etmemeliyiz: shouldn\u0027t."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "ing-oe-4",
+                                                     "question":  "Write 2 sentences giving advice on how to protect wild animals (use \u0027should\u0027 and \u0027shouldn\u0027t\u0027).",
+                                                     "keywords":  [
+                                                                      "should",
+                                                                      "shouldn\u0027t",
+                                                                      "protect",
+                                                                      "hunt",
+                                                                      "habitat"
+                                                                  ],
+                                                     "sampleAnswer":  "1. We should protect natural habitats and forests.\n2. We shouldn\u0027t hunt endangered animals for their fur and tusks.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "One correct advice sentence using \u0027should\u0027",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "One correct warning sentence using \u0027shouldn\u0027t\u0027",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  }
+              ]
+}
