@@ -1,1 +1,153 @@
-﻿{"id":"onlisans-adalet-hukuk","name":"Temel Hukuk Bilgisi","icon":"⚖️","color":"amber","badge":"Hukuk Uzmanı","description":"Sosyal Düzen Kuralları, Normlar Hiyerarşisi, Haklar, Ehliyetler ve Yargı Örgütü!","title":"Ön Lisans / Adalet: Temel Hukuk Zirvesi","subtitle":"AÖF, Vize-Final Sınavları \u0026 DGS Çıkmış Soru Analizleri","grade":"Ön Lisans (Adalet)","term":"Güz ve Bahar Dönemi Kapsamı","units":[{"id":"onlisans-hukuk-u1","number":1,"term":1,"exam":"Vize \u0026 Final Kapsamı","name":"1. Ünite: Sosyal Düzen Kuralları ve Normlar Hiyerarşisi","badge":"🏛️ Normlar Fatihi","color":"amber","icon":"fa-balance-scale","boss":{"name":"Vize Sınavı Heyeti \u0027Hukuki İhtilaf\u0027","hp":100,"avatar":"👨‍⚖️","introText":"Kelsen\u0027in normlar hiyerarşisini ve maddi yaptırımlı tek düzen kuralının hukuk olduğunu bilmeyen vizeden geçemez!","defeatText":"Mükemmel savunma! Hukukun kaynakları ve yaptırım türlerini hatasız çözerek vizeyi 100 ile geçtin!"},"lessons":[{"step":1,"title":"📖 Sosyal Düzen Kuralları ve Hukukun Yaptırımı","summary":"Temel Hukuk Kitabı 1. Ünite Damıtılmış Çekirdek Notları:","points":["\u003cstrong\u003e1. Sosyal Düzen Kuralları:\u003c/strong\u003e Din, Ahlak, Görgü (Örf-Âdet) ve Hukuk kurallarıdır. Hukuk kurallarını diğerlerinden ayıran \u003cstrong\u003een temel fark: Maddi (Devlet Gücüyle Desteklenen) Müeyyideye (Yaptırıma)\u003c/strong\u003e sahip olmasıdır.","\u003cstrong\u003e2. Hukuki Yaptırım (Müeyyide) Türleri:\u003c/strong\u003e \u003cem\u003eCeza\u003c/em\u003e (Hapis/Adli Para), \u003cem\u003eCebri İcra\u003c/em\u003e (Borcun zorla tahsili), \u003cem\u003eTazminat\u003c/em\u003e (Maddi/Manevi zararın giderilmesi), \u003cem\u003eHükümsüzlük / Butlan\u003c/em\u003e (Geçersizlik) ve \u003cem\u003eİptal\u003c/em\u003e (Hukuka aykırı idari işlemin yargı kararıyla silinmesi).","\u003cstrong\u003e3. Kelsen\u0027in Normlar Hiyerarşisi (Üstten Alta):\u003c/strong\u003e Anayasa $\\rightarrow$ Kanun = Milletlerarası Andlaşmalar = Cumhurbaşkanlığı Kararnameleri $\\rightarrow$ Yönetmelikler $\\rightarrow$ Genelgeler. Hiçbir alt norm, üst norma aykırı olamaz!","\u003cstrong\u003e4. Hukukun Kaynakları:\u003c/strong\u003e \u003cem\u003eYazılı Kaynaklar\u003c/em\u003e (Bağlayıcı), \u003cem\u003eYazısız Kaynaklar\u003c/em\u003e (Örf ve Âdet hukuku - Bağlayıcı), \u003cem\u003eYardımcı Kaynaklar\u003c/em\u003e (İçtihatlar ve Doktrin/Öğreti - Bağlayıcı değildir, hakime yol gösterir)."],"examTip":"💡 Vize/Final Sınav Tüyosu: Doktrin (bilimsel görüşler) ve mahkeme içtihatları hakim için BAĞLAYICI DEĞİLDİR (istisna: Yargıtay İçtihadı Birleştirme Kararları bağlayıcıdır)!","quickCheck":{"q":"Hukuk kurallarını din, ahlak ve görgü kurallarından ayıran temel fark nedir?","options":["Devlet gücüyle desteklenen \u0027maddi yaptırıma\u0027 sahip olması","Yazılı olmaları","Sadece mahkemelerde uygulanması","Tarihsel geçmişlerinin eski olması"],"correct":0,"explanation":"Tebrikler! Din, ahlak ve görgü manevi yaptırımlıyken; hukuk kuralları devlet destekli cebri (maddi) yaptırıma sahiptir."}}],"trueFalseQuestions":[{"statement":"Bir yönetmelik, dayandığı kanuna aykırı hükümler içeremez.","question":"Bir yönetmelik, dayandığı kanuna aykırı hükümler içeremez.","isTrue":true,"explanation":"Doğru! Normlar hiyerarşisi gereği alt norm üst norma aykırı olamaz."},{"statement":"Doktrin (öğreti) ve mahkeme kararları hakim için mutlak bağlayıcı birincil kaynaktır.","question":"Doktrin (öğreti) ve mahkeme kararları hakim için mutlak bağlayıcı birincil kaynaktır.","isTrue":false,"explanation":"Yanlış! Yardımcı kaynaklar bağlayıcı değildir."}],"matchingPairs":[{"id":1,"term":"Cebri İcra","left":"Cebri İcra","match":"Borcun devlet zoruyla tahsili","right":"Borcun devlet zoruyla tahsili","category":"Yaptırım Türü"},{"id":2,"term":"İptal","left":"İptal","match":"Hukuka aykırı idari işlemin yok edilmesi","right":"Hukuka aykırı idari işlemin yok edilmesi","category":"Yaptırım Türü"},{"id":3,"term":"Tazminat","left":"Tazminat","match":"Verilen zararın nakden karşılanması","right":"Verilen zararın nakden karşılanması","category":"Yaptırım Türü"}],"flashcards":[{"q":"Normlar hiyerarşisinin en tepesinde hangi norm bulunur?","front":"Normlar hiyerarşisinin en tepesinde hangi norm bulunur?","a":"Anayasa (Madde 11: Anayasa hükümleri yasama, yürütme ve yargı organlarını bağlayan temel hukuk kurallarıdır).","back":"Anayasa","hint":"En üst norm"}],"speedQuestions":[{"statement":"Maddi yaptırımlı tek sosyal düzen kuralı hukuk mudur?","question":"Maddi yaptırımlı tek sosyal düzen kuralı hukuk mudur?","options":["Evet","Hayır"],"answer":0,"isTrue":true,"explanation":"Yalnızca hukuk devlet gücüyle zorla uygulatılır."}],"quizQuestions":[{"q":"Aşağıdakilerden hangisi hukukun bağlayıcı olmayan \u0027yardımcı\u0027 kaynaklarından biridir?","options":["Öğreti (Doktrin / Bilimsel Görüşler)","Kanun","Anayasa","Cumhurbaşkanlığı Kararnamesi"],"answer":0,"explanation":"Doktrin ve yargı kararları yardımcı kaynak olup bağlayıcı değildir."}]}]}
+{
+    "id":  "onlisans-adalet-hukuk",
+    "name":  "Temel Hukuk Bilgisi",
+    "icon":  "⚖️",
+    "color":  "amber",
+    "badge":  "Hukuk Uzmanı",
+    "description":  "Sosyal Düzen Kuralları, Normlar Hiyerarşisi, Haklar, Ehliyetler ve Yargı Örgütü!",
+    "title":  "Ön Lisans / Adalet: Temel Hukuk Zirvesi",
+    "subtitle":  "AÖF, Vize-Final Sınavları \u0026 DGS Çıkmış Soru Analizleri",
+    "grade":  "Ön Lisans (Adalet)",
+    "term":  "Güz ve Bahar Dönemi Kapsamı",
+    "units":  [
+                  {
+                      "id":  "onlisans-hukuk-u1",
+                      "number":  1,
+                      "term":  1,
+                      "exam":  "Vize \u0026 Final Kapsamı",
+                      "name":  "1. Ünite: Sosyal Düzen Kuralları ve Normlar Hiyerarşisi",
+                      "badge":  "🏛️ Normlar Fatihi",
+                      "color":  "amber",
+                      "icon":  "fa-balance-scale",
+                      "boss":  {
+                                   "name":  "Vize Sınavı Heyeti \u0027Hukuki İhtilaf\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👨‍⚖️",
+                                   "introText":  "Kelsen\u0027in normlar hiyerarşisini ve maddi yaptırımlı tek düzen kuralının hukuk olduğunu bilmeyen vizeden geçemez!",
+                                   "defeatText":  "Mükemmel savunma! Hukukun kaynakları ve yaptırım türlerini hatasız çözerek vizeyi 100 ile geçtin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📖 Sosyal Düzen Kuralları ve Hukukun Yaptırımı",
+                                          "summary":  "Temel Hukuk Kitabı 1. Ünite Damıtılmış Çekirdek Notları:",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Sosyal Düzen Kuralları:\u003c/strong\u003e Din, Ahlak, Görgü (Örf-Âdet) ve Hukuk kurallarıdır. Hukuk kurallarını diğerlerinden ayıran \u003cstrong\u003een temel fark: Maddi (Devlet Gücüyle Desteklenen) Müeyyideye (Yaptırıma)\u003c/strong\u003e sahip olmasıdır.",
+                                                         "\u003cstrong\u003e2. Hukuki Yaptırım (Müeyyide) Türleri:\u003c/strong\u003e \u003cem\u003eCeza\u003c/em\u003e (Hapis/Adli Para), \u003cem\u003eCebri İcra\u003c/em\u003e (Borcun zorla tahsili), \u003cem\u003eTazminat\u003c/em\u003e (Maddi/Manevi zararın giderilmesi), \u003cem\u003eHükümsüzlük / Butlan\u003c/em\u003e (Geçersizlik) ve \u003cem\u003eİptal\u003c/em\u003e (Hukuka aykırı idari işlemin yargı kararıyla silinmesi).",
+                                                         "\u003cstrong\u003e3. Kelsen\u0027in Normlar Hiyerarşisi (Üstten Alta):\u003c/strong\u003e Anayasa $\\rightarrow$ Kanun = Milletlerarası Andlaşmalar = Cumhurbaşkanlığı Kararnameleri $\\rightarrow$ Yönetmelikler $\\rightarrow$ Genelgeler. Hiçbir alt norm, üst norma aykırı olamaz!",
+                                                         "\u003cstrong\u003e4. Hukukun Kaynakları:\u003c/strong\u003e \u003cem\u003eYazılı Kaynaklar\u003c/em\u003e (Bağlayıcı), \u003cem\u003eYazısız Kaynaklar\u003c/em\u003e (Örf ve Âdet hukuku - Bağlayıcı), \u003cem\u003eYardımcı Kaynaklar\u003c/em\u003e (İçtihatlar ve Doktrin/Öğreti - Bağlayıcı değildir, hakime yol gösterir)."
+                                                     ],
+                                          "examTip":  "💡 Vize/Final Sınav Tüyosu: Doktrin (bilimsel görüşler) ve mahkeme içtihatları hakim için BAĞLAYICI DEĞİLDİR (istisna: Yargıtay İçtihadı Birleştirme Kararları bağlayıcıdır)!",
+                                          "quickCheck":  {
+                                                             "q":  "Hukuk kurallarını din, ahlak ve görgü kurallarından ayıran temel fark nedir?",
+                                                             "options":  [
+                                                                             "Devlet gücüyle desteklenen \u0027maddi yaptırıma\u0027 sahip olması",
+                                                                             "Yazılı olmaları",
+                                                                             "Sadece mahkemelerde uygulanması",
+                                                                             "Tarihsel geçmişlerinin eski olması"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Tebrikler! Din, ahlak ve görgü manevi yaptırımlıyken; hukuk kuralları devlet destekli cebri (maddi) yaptırıma sahiptir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "👮",
+                                                                     "title":  "Ayıplamak vs. Devletin Kapıyı Çalması",
+                                                                     "text":  "Görgü veya ahlak kuralını çiğnersen çevre seni ayıplar (manevi yaptırım). Ama hukuk kuralını çiğnersen polis, mahkeme ve icra gibi devlet gücü devreye girer (maddi yaptırım)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚖️",
+                                                                     "title":  "5 Farklı Hukuk İlacı",
+                                                                     "text":  "Suç işleyene Ceza, borcunu ödemeyene zorla tahsilat (Cebri İcra), zarar verene ödeme (Tazminat), baştan sakat sözleşmeye geçersizlik (Butlan), hatalı devlet kararına silme (İptal) uygulanır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏛️",
+                                                                     "title":  "Apartman Yönetim Piramidi (Normlar Hiyerarşisi)",
+                                                                     "text":  "En üst katta Anayasa oturur; altında Kanunlar, onların altında Yönetmelikler ve en altta Genelgeler vardır. Alt katta alınan hiçbir karar üst kattaki ana kuralla çelişemez."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧭",
+                                                                     "title":  "Zorunlu Trafik Levhası vs. Yol Gösteren Pusula",
+                                                                     "text":  "Kanunlar ve yazılı kurallar hakimin uymak zorunda olduğu trafik levhasıdır (bağlayıcı). Mahkeme içtihatları ve akademisyen görüşleri (doktrin) ise hakime yön gösteren pusuladır (yardımcı kaynak)."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Bir yönetmelik, dayandığı kanuna aykırı hükümler içeremez.",
+                                                     "question":  "Bir yönetmelik, dayandığı kanuna aykırı hükümler içeremez.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Normlar hiyerarşisi gereği alt norm üst norma aykırı olamaz."
+                                                 },
+                                                 {
+                                                     "statement":  "Doktrin (öğreti) ve mahkeme kararları hakim için mutlak bağlayıcı birincil kaynaktır.",
+                                                     "question":  "Doktrin (öğreti) ve mahkeme kararları hakim için mutlak bağlayıcı birincil kaynaktır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Yardımcı kaynaklar bağlayıcı değildir."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Cebri İcra",
+                                                "left":  "Cebri İcra",
+                                                "match":  "Borcun devlet zoruyla tahsili",
+                                                "right":  "Borcun devlet zoruyla tahsili",
+                                                "category":  "Yaptırım Türü"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "İptal",
+                                                "left":  "İptal",
+                                                "match":  "Hukuka aykırı idari işlemin yok edilmesi",
+                                                "right":  "Hukuka aykırı idari işlemin yok edilmesi",
+                                                "category":  "Yaptırım Türü"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Tazminat",
+                                                "left":  "Tazminat",
+                                                "match":  "Verilen zararın nakden karşılanması",
+                                                "right":  "Verilen zararın nakden karşılanması",
+                                                "category":  "Yaptırım Türü"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Normlar hiyerarşisinin en tepesinde hangi norm bulunur?",
+                                             "front":  "Normlar hiyerarşisinin en tepesinde hangi norm bulunur?",
+                                             "a":  "Anayasa (Madde 11: Anayasa hükümleri yasama, yürütme ve yargı organlarını bağlayan temel hukuk kurallarıdır).",
+                                             "back":  "Anayasa",
+                                             "hint":  "En üst norm"
+                                         }
+                                     ],
+                      "speedQuestions":  [
+                                             {
+                                                 "statement":  "Maddi yaptırımlı tek sosyal düzen kuralı hukuk mudur?",
+                                                 "question":  "Maddi yaptırımlı tek sosyal düzen kuralı hukuk mudur?",
+                                                 "options":  [
+                                                                 "Evet",
+                                                                 "Hayır"
+                                                             ],
+                                                 "answer":  0,
+                                                 "isTrue":  true,
+                                                 "explanation":  "Yalnızca hukuk devlet gücüyle zorla uygulatılır."
+                                             }
+                                         ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi hukukun bağlayıcı olmayan \u0027yardımcı\u0027 kaynaklarından biridir?",
+                                                "options":  [
+                                                                "Öğreti (Doktrin / Bilimsel Görüşler)",
+                                                                "Kanun",
+                                                                "Anayasa",
+                                                                "Cumhurbaşkanlığı Kararnamesi"
+                                                            ],
+                                                "answer":  0,
+                                                "explanation":  "Doktrin ve yargı kararları yardımcı kaynak olup bağlayıcı değildir."
+                                            }
+                                        ]
+                  }
+              ]
+}
