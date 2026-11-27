@@ -12,10 +12,14 @@ Bu dosya, projenin mimari bütünlüğünü korumak, performansı optimize etmek
 ---
 
 ## 2. İÇERİK EKLEME VE DAĞITIM PROTOKOLÜ (DEPLOYMENT)
-Yeni bir ders veya ünite eklendiğinde sırasıyla şu adımlar işletilmek ZORUNDADIR:
-1. **Kaynak Veri:** İlgili müfredat dosyasına (`data/curriculum/higher-ed.js` vb.) standart şemaya uygun olarak eklenir.
-2. **CDN JSON Üretimi:** `.\export-cdn-courses.ps1` betiği (Headless Chrome) çalıştırılarak `data/cdn-courses/<courseId>.json` ve kök `<courseId>.json` üretilir.
-3. **GitHub Push (Zorunlu):** Kullanıcı Git CLI kullanmadığı için oluşturulan JSON dosyaları MUTLAKA `tools\push-to-github.ps1 -FilePath "<courseId>.json"` çalıştırılarak GitHub'a yüklenir. GitHub'a push edilmeyen içerik Blogger'da görünmez!
+Yeni bir ders veya ünite eklendiğinde **Tek Kaynak JSON + Tek Komut** akışı işletilir (Headless Chrome gerekmez):
+1. **Tek Gerçek Kaynak:** Ders verisi doğrudan `data/cdn-courses/<courseId>.json` dosyasına standart UTF-8 (BOM'suz) JSON olarak yazılır/güncellenir.
+2. **Tek Komutlu Doğrulama + Manifest + Atomik Yayın:**
+   ```powershell
+   .\publish.ps1 -Course <courseId>
+   ```
+   Bu komut sırasıyla `tools/validate-courses.ps1` (mojibake + şema + cevap bütünlüğü), `manifest.json` SHA-256 sürüm güncellemesi ve GitHub'a **atomik tek commit** gönderimini yapar. Token Windows ortam değişkeninden (`DK_GITHUB_TOKEN`) okunur; betiklere asla token yazılmaz.
+3. *(Eski JS müfredat dosyaları düzenlenirse önce `.\export-cdn-courses.ps1`, ardından `.\publish.ps1 -Course <courseId>` çalıştırılır.)*
 
 ---
 
