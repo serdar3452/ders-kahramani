@@ -1,1 +1,1194 @@
-﻿{"id":"fen-bilimleri","name":"Fen Bilimleri","icon":"🔬","color":"indigo","badge":"Fen Dehası","description":"Uzay araştırmaları, gök cisimleri ve hücre bölünmeleri!","title":"7. Sınıf Fen Bilimleri: Sınav Fatihi","subtitle":"Yazılıdan 100 Aldıran İnteraktif Macera Kitabı","grade":"7. Sınıf","term":"1. Dönem Tam Kapsam","units":[{"id":"fen-unite-1","number":1,"term":1,"exam":"1. Yazılı","name":"Uzay Araştırmaları","badge":"🚀 Uzay Kaşifi","color":"indigo","icon":"fa-rocket","boss":{"name":"Kozmik Karadelik \u0027Çeldirici\u0027","hp":100,"avatar":"👾","introText":"Uzay sorularında öğrencileri yanıltmaya bayılırım! Bakalım beni yenebilecek misin?","defeatText":"Olamaz! Bütün teleskop türlerini ve yapay uyduları ezberlemişsin! Yıldızlara savruldum!"},"lessons":[{"step":1,"title":"🔭 Teleskoplar ve Gökyüzü Gözlemi","summary":"Gök cisimlerini incelemek için kullanılan ilk teknolojik araç teleskoptur.","points":["İlk teleskobu Hollandalı gözlükçü \u003cstrong\u003eHans Lippershey\u003c/strong\u003e icat etmiştir (1608).","Gökyüzünü incelemek için teleskobu ilk kez kullanan bilim insanı \u003cstrong\u003eGalileo Galilei\u003c/strong\u003e\u0027dir (1609).","Aynalı (yansıtmalı) teleskopları \u003cstrong\u003eIsaac Newton\u003c/strong\u003e geliştirmiştir.","\u003cstrong\u003eUzay Teleskopları (Hubble \u0026 James Webb):\u003c/strong\u003e Yeryüzündeki ışık kirliliği, hava olayları ve atmosferin olumsuz etkilerinden kurtulmak için Dünya yörüngesine yerleştirilmiştir.","\u003cstrong\u003eGözlemevi (Rasathane) Yeri Seçim Kriterleri:\u003c/strong\u003e 1. Bulutsuz açık gece sayısının fazla olması. 2. Şehir merkezinden ve yapay ışık kirliliğinden uzak olması. 3. Hassas aynaların bozulmaması için deprem kuşaklarından uzak olması. 4. Temiz ve nemsiz hava için deniz seviyesinden yüksekte (dağ tepelerinde) olması gerekir."],"examTip":"Sınavda Sorulur: \u0027Teleskobu ilk Galileo icat etti\u0027 cümlesi YANLIŞTIR! İcat eden Lippershey, gökyüzünü inceleyen ilk kişi Galileo\u0027dur.","quickCheck":{"q":"Hubble ve James Webb gibi teleskopların yeryüzü yerine uzaya fırlatılmasının temel sebebi nedir?","options":["Daha ucuza mal edilmeleri","Dünya atmosferinin ışığı soğurmasını ve hava olaylarının görüşü bozmasını engellemek","Güneş\u0027e daha yakın olup ısınmak","Dünya\u0027da yer kalmaması"],"correct":1,"explanation":"Atmosferdeki hava hareketleri, tozlar ve ışık kirliliği net gözlemi engellediği için teleskoplar uzaya gönderilir."}},{"step":2,"title":"🇹🇷 Türkiye\u0027nin Uzaydaki Gözleri (Uydularımız)","summary":"Ülkemizin uzayda aktif haberleşme ve yüksek çözünürlüklü gözlem uyduları bulunmaktadır.","points":["\u003cstrong\u003eHaberleşme Uyduları:\u003c/strong\u003e Türksat 3A, Türksat 4A, Türksat 4B, Türksat 5A, Türksat 5B, Türksat 6A (İlk yerli haberleşme uydumuz).","\u003cstrong\u003eGözlem Uyduları:\u003c/strong\u003e Göktürk-1, Göktürk-2 ve \u003cstrong\u003eİMECE\u003c/strong\u003e (Türkiye\u0027nin ilk yerli ve millî yüksek çözünürlüklü yer gözlem uydusu).","\u003cstrong\u003eGörevi Biten Uydular:\u003c/strong\u003e BİLSAT ve RASAT aktif görev sürelerini başarıyla tamamlamıştır."],"examTip":"Sınavda Sorulur: RASAT ve BİLSAT hâlâ aktif çalışan uydularımız DEĞİLDİR; görevlerini tamamlamışlardır!","quickCheck":{"q":"Aşağıdakilerden hangisi Türkiye\u0027nin aktif olarak görev yapan YER GÖZLEM uydusudur?","options":["Türksat 4A","BİLSAT","İMECE","Türksat 5B"],"correct":2,"explanation":"İMECE, Göktürk-1 ve Göktürk-2 ile birlikte aktif yer gözlem uydularımızdandır."}},{"step":3,"title":"🗑️ Uzay Kirliliği ve Doğal Gök Cisimleri","summary":"İnsan kaynaklı çöpler uzayda tehlikeli bir enkaz kuşağı oluşturur.","points":["Dünya çevresinde dolanan işlevi bitmiş roket parçaları, patlayan yakıt tankları ve ömrünü tamamlamış yapay uydular \u003cstrong\u003euzay kirliliği\u003c/strong\u003e oluşturur.","Uzay kirliliği, gelecekteki uzay görevlerini ve çalışan uyduları çarpışma riskiyle tehdit eder.","\u003cstrong\u003eMeteorlar, kuyruklu yıldızlar ve asteroitler\u003c/strong\u003e doğal gök cisimleridir; ASLA uzay kirliliği sayılmazlar!"],"examTip":"Yazılıda Çıkan En Büyük Tuzak: Sınavda \u0027Meteorlar uzay kirliliğine neden olur\u0027 denirse YANLIŞ diyeceksin! Sadece insan yapımı çöpler kirliliktir.","quickCheck":{"q":"Aşağıdakilerden hangisi uzay kirliliğine sebep olan unsurlardan biri DEĞİLDİR?","options":["Ömrünü tamamlamış yapay uydular","Fırlatma sırasında uzaya bırakılan roket kademeleri","Atmosfere giren doğal gök taşları (meteorlar)","Uzay araçlarından kopan güneş panelleri"],"correct":2,"explanation":"Gök taşları (meteorlar) doğal gök cismidir; uzay kirliliği yalnızca insan atıklarıyla oluşur."}}],"trueFalseQuestions":[{"statement":"Meteorlar ve kuyruklu yıldızlar doğal oldukları için uzay kirliliği SAYILMAZ.","isTrue":true,"explanation":"Doğru! Uzay kirliliği sadece insan kaynaklı roket, uydu ve araç parçalarından oluşur."},{"statement":"Işık yılı, zamanı ölçmek için kullanılan bir birimdir.","isTrue":false,"explanation":"Yanlış! Işık yılı ZAMAN değil, UZAKLIK (mesafe) birimidir. Işığın 1 yılda aldığı mesafedir."},{"statement":"Teleskobu ilk icat eden kişi Galileo Galilei\u0027dir.","isTrue":false,"explanation":"Yanlış! İlk teleskobu Hans Lippershey icat etmiş, Galileo ise gökyüzünü incelemek için ilk kez kullanmıştır."},{"statement":"İMECE, Türkiye\u0027nin ilk yerli üretim yüksek çözünürlüklü yer gözlem uydusudur.","isTrue":true,"explanation":"Doğru! İMECE ülkemizin ilk yerli ve millî yüksek çözünürlüklü gözlem uydusudur."},{"statement":"Rasathaneler (gözlemevleri) şehir merkezlerine ve ışıklı alanlara kurulmalıdır.","isTrue":false,"explanation":"Yanlış! Rasathaneler ışık kirliliğinden uzak, yüksek, bulutsuz ve nemsiz dağ tepelerine kurulur."},{"statement":"BİLSAT ve RASAT ülkemizin görevini tamamlamış yer gözlem uydularındandır.","isTrue":true,"explanation":"Doğru! BİLSAT ve RASAT aktif görev sürelerini başarıyla tamamlamıştır."},{"statement":"Uzay sondaları içinde astronot bulunduran insanlı uzay araçlarıdır.","isTrue":false,"explanation":"Yanlış! Uzay sondaları uzaktan kumanda edilen, mürettebatsız (insansız) robotik araçlardır."},{"statement":"Hubble ve James Webb uzay teleskopları atmosferin olumsuz etkilerinden etkilenmez.","isTrue":true,"explanation":"Doğru! Atmosfer dışında uzayda yer aldıkları için çok daha net görüntüler elde ederler."},{"statement":"Türksat 3A, 4A ve 5A Türkiye\u0027nin aktif haberleşme ve iletişim uydularıdır.","isTrue":true,"explanation":"Doğru! Ülkemizin televizyon yayını ve haberleşme hizmetlerini sağlayan aktif uydulardır."},{"statement":"Ali Kuşçu, İstanbul\u0027da rasathane müdürlüğü yapmış ve Ay\u0027ın ilk haritasını çıkarmış ünlü Türk-İslam gökbilimcisidir.","isTrue":true,"explanation":"Doğru! Fatih Sultan Mehmet döneminde İstanbul\u0027a gelerek önemli gökbilim çalışmaları yapmıştır."},{"statement":"Işık kirliliği gök cisimlerinin teleskopla gözlemlenmesini kolaylaştırır.","isTrue":false,"explanation":"Yanlış! Şehir ışıkları gökyüzünü aydınlatarak gök cisimlerinin görülmesini zorlaştırır ve engeller."},{"statement":"Aynalı teleskoplarda ışığı toplayıp odaklamak için çukur ayna kullanılır.","isTrue":true,"explanation":"Doğru! Aynalı teleskoplarda ana ışık toplayıcı eleman çukur aynadır."},{"statement":"Uzay istasyonları astronotların uzayda kalıp uzun süreli bilimsel deneyler yaptığı yerlerdir.","isTrue":true,"explanation":"Doğru! Uluslararası Uzay İstasyonu (ISS) astronotların araştırma yaptığı dev yapay uydudur."},{"statement":"Uzay kirliliği Dünya yörüngesindeki aktif uydular için çarpışma tehlikesi oluşturur.","isTrue":true,"explanation":"Doğru! Saatte binlerce kilometre hızla dönen uzay çöpleri çalışan uydulara büyük zarar verebilir."},{"statement":"Yapay uyduların fırlatılmasında roketler kullanılır.","isTrue":true,"explanation":"Doğru! Uydular güçlü roketlerle Dünya yerçekimini aşarak yörüngeye yerleştirilir."}],"matchingPairs":[{"id":1,"term":"Hans Lippershey","match":"İlk teleskobun mucidi","category":"Kişi"},{"id":2,"term":"Galileo Galilei","match":"Teleskopla ilk gökyüzü gözlemi","category":"Kişi"},{"id":3,"term":"Hubble \u0026 Webb","match":"Uzay teleskopları","category":"Teknoloji"},{"id":4,"term":"İMECE \u0026 Göktürk","match":"Aktif yer gözlem uydularımız","category":"Uydu"},{"id":5,"term":"Işık Yılı","match":"Evrendeki uzaklık birimi","category":"Kavram"},{"id":6,"term":"RASAT","match":"Görevini tamamlamış yer gözlem uydumuz","category":"Uydu"}],"flashcards":[{"q":"İlk gökbilim teleskobunu kim kullanmıştır?","a":"Galileo Galilei (1609)","hint":"İtalyan bilim insanı"},{"q":"Işık yılı ne birimidir?","a":"UZAKLIK birimidir! (Zaman birimi DEĞİLDİR)","hint":"En büyük sınav çeldiricisi!"},{"q":"Rasathane (Gözlemevi) nereye kurulmalıdır?","a":"Şehir ışıklarından uzak, yüksek, bulutsuz ve nemsiz dağ tepelerine.","hint":"Işık kirliliğinden kaçış"},{"q":"Aktif yer gözlem uydularımız hangileridir?","a":"Göktürk-1, Göktürk-2 ve İMECE.","hint":"Türkiye\u0027nin gözü göklerde"}],"quizQuestions":[{"q":"Aşağıdakilerden hangisi uzay kirliliğine NEDEN OLMAZ?","options":["İşlevi biten yapay uydular","Yakıt tankı parçaları","Atmosfere giren gök taşları (meteorlar)","Uzay araçlarının kopan panelleri"],"correct":2,"explanation":"Gök taşları doğal oluşumlardır. Uzay kirliliği yalnızca insan yapımı atıklarla meydana gelir."},{"q":"Işık yılı kavramı ile ilgili verilen bilgilerden hangisi DOĞRUDUR?","options":["Zamanı ölçmek için kullanılan bir birimdir.","Işığın boşlukta 1 yılda aldığı mesafedir (uzaklık birimidir).","Sadece Güneş Sistemi içindeki gezegenler arası kullanılır.","Güneş\u0027in ömrünü hesaplayan bir ölçüttür."],"correct":1,"explanation":"Işık yılı bir mesafe (uzaklık) birimidir. Işığın 1 yılda kat ettiği yaklaşık 9.46 trilyon kilometreyi ifade eder."},{"q":"Hubble ve James Webb gibi teleskopların yeryüzü yerine uzaya yerleştirilmesinin en önemli gerekçesi nedir?","options":["Daha ucuza üretilmeleri","Dünya atmosferinin ışık soğurması ve hava olaylarının görüşü bozmasını engellemek","Güneş enerjisine daha yakın olmaları","Dünya\u0027da yer kalmaması"],"correct":1,"explanation":"Atmosferdeki gazlar, tozlar, hava hareketleri ve ışık kirliliği yeryüzünden net görüntü almayı engeller."},{"q":"Türkiye\u0027nin uzaya fırlattığı ilk yerli ve millî yüksek çözünürlüklü gözlem uydusu hangisidir?","options":["Türksat 5A","RASAT","İMECE","Göktürk-1"],"correct":2,"explanation":"İMECE, Türkiye\u0027nin ilk yerli üretim yüksek çözünürlüklü elektro-optik yer gözlem uydusudur."}],"openEndedQuestions":[{"id":"meb-fen-1","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"F.7.1.1.2. Uzay kirliliğinin nedenlerini ifade ederek bu kirliliğin yol açabileceği olası sonuçları tahmin eder.","question":"1957\u0027den günümüze kadar Dünya\u0027yı çevreleyen insan yapımı nesnelerin (işlevi bitmiş uydular, roket parçaları vb.) sayısının giderek arttığı bilinmektedir.\n\nUzayda meydana gelen bu problemi belirleyerek, bu problemin yol açabileceği olası sonuçları yazınız.","keywords":["uzay kirliliği","çarpışma","çalışan uydular","uzay araçları","haberleşme","astronotlar","tehlike","enkaz"],"sampleAnswer":"1. Belirlenen Problem: Uzay kirliliğidir (Ömrünü tamamlamış yapay uyduların, yakıt tanklarının ve roket parçalarının Dünya yörüngesinde birikmesi).\n\n2. Yol Açabileceği Olası Sonuçlar:\n• Yörüngede başıboş ve saatte on binlerce kilometre hızla dönen bu enkaz parçaları aktif olarak çalışan uydulara ve uzay araçlarına çarparak parçalayabilir.\n• Çarpışmalar sonucunda haberleşme, navigasyon (GPS), meteoroloji ve güvenlik uyduları devre dışı kalarak dünya çapında iletişim krizine yol açabilir.\n• Uluslararası Uzay İstasyonu\u0027ndaki astronotların hayatını tehlikeye atabilir ve gelecekte yapılacak yeni uzay seyahatlerini veya roket fırlatmalarını çok riskli hale getirebilir.","rubric":[{"criterion":"Problemin \u0027Uzay Kirliliği\u0027 olduğunu doğru tespit etme","points":4},{"criterion":"Aktif çalışan uydulara/araçlara çarpma ve haberleşme kesintisi riskini belirtme","points":3},{"criterion":"Astronotların hayatı veya gelecekteki uzay görevlerinin tehlikeye girmesini belirtme","points":3}]},{"id":"meb-fen-2","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"F.7.1.1.5. Teleskobun gök bilimin gelişimindeki önemine yönelik çıkarımda bulunur.","question":"Farklı şehirlerde bulunan K, L, M ve N konumlarından birine gözlemevi (rasathane) kurulacaktır.\nBu konumlara ait veriler şöyledir:\n• Bulutlu Gece Sayısı: L ve M\u0027de çok az, K\u0027de çok fazla, N\u0027de orta.\n• Şehir Merkezine Uzaklık: L ve M merkeze en uzak, K ve N yakın.\n• Deprem Görülme Sıklığı: M konumunda çok yüksek, K ve N orta, L konumunda en düşük.\n• Deniz Seviyesinden Yükseklik: M en yüksek, L yüksek, K ve N alçak.\n\nBuna göre gözlemevi kurmak için EN UYGUN olan konum hangisidir? Nedenini tüm kriterleri dikkate alarak açıklayınız.","keywords":["L konumu","L","bulutlu gece sayısı az","açık gece","ışık kirliliği","şehirden uzak","deprem sıklığı az","yükseklik"],"sampleAnswer":"En uygun konum: L KONUMUDUR.\n\nNedenleri:\n1. Bulutlu Gece Sayısı: L konumunda bulutlu gece sayısı çok azdır (yani açık ve berrak gece sayısı fazladır); bu da yıl boyunca kesintisiz gözlem imkanı sağlar.\n2. Şehir Merkezine Uzaklık: Şehir merkezine en uzak noktalardan biridir; böylece yapay ışık kirliliğinden etkilenmez ve gökyüzü karanlık kalır.\n3. Deprem Görülme Sıklığı: Deprem riski en düşük konumdur; böylece hassas, kalibre edilmiş ve pahalı dev teleskop aynaları ve optik cihazlar sarsıntıdan zarar görmez.\n4. Deniz Seviyesinden Yükseklik: Yüksek bir rakımda bulunduğu için atmosferin yoğun, nemli ve kirli tabakalarının üzerinde yer alır.\n\n(Not: M konumu da yüksek ve şehre uzak olsa da, deprem görülme sıklığı çok yüksek olduğundan teleskop güvenliği açısından uygun değildir).","rubric":[{"criterion":"En uygun konumun \u0027L\u0027 olduğunu doğru tespit etme","points":4},{"criterion":"Bulutsuzluk, ışık kirliliğinden uzaklık ve yükseklik avantajlarını açıklama","points":3},{"criterion":"Deprem riskinin en düşük olmasının optik cihaz güvenliği için önemini açıklama","points":3}]},{"id":"fen-oe-1","question":"Hubble ve James Webb gibi gelişmiş teleskopların yeryüzü yerine uzay boşluğuna yerleştirilmesinin iki önemli gerekçesini yazınız.","keywords":["atmosfer","ışık kirliliği","hava olayları","net görüntü","soğurma"],"sampleAnswer":"1. Dünya atmosferindeki toz, bulut, nem ve hava hareketlerinin görüntüyü bozmasını engellemek.\n2. Yeryüzündeki şehir ışık kirliliğinden kurtularak uzayın derinliklerini daha net gözlemleyebilmek.","rubric":[{"criterion":"Atmosferin olumsuz etkileri (hava olayları/soğurma) belirtilmiş","points":5},{"criterion":"Işık kirliliği veya net görüntü ihtiyacı belirtilmiş","points":5}]},{"id":"fen-oe-2","question":"Uzay kirliliğine neden olan faktörlere 2 örnek veriniz. Doğal gök cisimlerinin (meteorlar vb.) neden uzay kirliliği sayılmadığını açıklayınız.","keywords":["yapay uydu","roket","insan yapımı","doğal"],"sampleAnswer":"Örnekler: Ömrü biten yapay uydular ve uzaya fırlatılan roketlerin yakıt tankları/kademeleri.\nAçıklama: Uzay kirliliği yalnızca insan faaliyetleri sonucu oluşan atıklardır. Meteorlar doğal gök cismi olduğu için kirlilik sayılmaz.","rubric":[{"criterion":"İnsan yapımı 2 atık örneği verilmiş","points":5},{"criterion":"Doğallık ve insan kaynaklı olma ayrımı doğru açıklanmış","points":5}]}]},{"id":"fen-unite-2","number":2,"term":1,"exam":"1. Yazılı","name":"Güneş Sistemi ve Ötesi: Gök Cisimleri","badge":"✨ Yıldız Ustası","color":"purple","icon":"fa-star","boss":{"name":"Nebula Ejderhası \u0027Yıldız Yutan\u0027","hp":100,"avatar":"🐉","introText":"Yıldızların ömrünü, süpernovaları ve galaksileri bilmeyen bu geçidi aşamaz!","defeatText":"Aman tanrım! Yıldızların doğumundan kara deliklere kadar her sırrı çözdün! 100 puan senin!"},"lessons":[{"step":1,"title":"🌟 Yıldızların Doğumu ve Yaşam Döngüsü","summary":"Yıldızlar da canlılar gibi doğar, yaşar ve ölürler.","points":["Yıldızların doğum yeri \u003cstrong\u003eBulutsu (Nebula)\u003c/strong\u003e adı verilen devasa gaz ve toz bulutlarıdır (Örn: Orion bulutsusu).","\u003cstrong\u003eKüçük/Orta Kütleli Yıldızlar (Güneş gibi):\u003c/strong\u003e Ömrünün sonunda Kızıl Dev\u0027e, ardından \u003cstrong\u003eBeyaz Cüce\u003c/strong\u003e\u0027ye dönüşerek söner.","\u003cstrong\u003eBüyük Kütleli Yıldızlar:\u003c/strong\u003e Şiddetli bir \u003cstrong\u003eSüpernova Patlaması\u003c/strong\u003e geçirerek Nötron Yıldızı (Pulsar) veya \u003cstrong\u003eKara Delik\u003c/strong\u003e\u0027e dönüşür."],"examTip":"Sınavda Sorulur: Güneş küçük-orta kütlelidir; ömrünün sonunda ASLA kara delik olmaz, Beyaz Cüce olur!","quickCheck":{"q":"Güneş ömrünü tamamladığında aşağıdakilerden hangisine dönüşecektir?","options":["Kara Delik","Nötron Yıldızı","Beyaz Cüce","Kuyruklu Yıldız"],"correct":2,"explanation":"Güneş orta kütleli bir yıldızdır, süpernova patlaması geçirmez ve beyaz cüce olarak ömrünü tamamlar."}},{"step":2,"title":"🔥 Yıldızların Sıcaklıkları ve Renkleri","summary":"Yıldızların rengi yüzey sıcaklıkları hakkında bilgi verir.","points":["\u003cstrong\u003eMavi ve Beyaz Renkli Yıldızlar:\u003c/strong\u003e En sıcak yıldızlardır.","\u003cstrong\u003eSarı Renkli Yıldızlar:\u003c/strong\u003e Orta sıcaklıktaki yıldızlardır (Güneşimiz sarı renklidir).","\u003cstrong\u003eKırmızı Renkli Yıldızlar:\u003c/strong\u003e En soğuk yıldızlardır."],"examTip":"Ters Mantık Tuzağı: Günlük hayatta kırmızı sıcak algılanır ama yıldızlarda EN SOĞUK yıldızlar kırmızı, EN SICAK yıldızlar mavidir!","quickCheck":{"q":"Yüzey sıcaklığı en yüksek olan yıldız hangi renkte ışık saçar?","options":["Kırmızı","Sarı","Mavi / Beyaz","Turuncu"],"correct":2,"explanation":"Yıldızlarda mavi ve beyaz en sıcak, sarı orta, kırmızı ise en soğuk renktir."}},{"step":3,"title":"🌌 Galaksiler (Gök Adaları) ve Samanyolu","summary":"Milyarlarca yıldız, gaz ve toz bulutundan oluşan dev sistemlerdir.","points":["Galaksiler biçimlerine göre üçe ayrılır: \u003cstrong\u003eSarmal, Eliptik ve Düzensiz\u003c/strong\u003e.","İçinde bulunduğumuz \u003cstrong\u003eSamanyolu Galaksisi\u003c/strong\u003e ve komşumuz \u003cstrong\u003eAndromeda\u003c/strong\u003e sarmal galaksidir.","Güneş Sistemi, Samanyolu galaksisinin \u003cstrong\u003eAvcı (Orion) kolunda\u003c/strong\u003e yer alır."],"examTip":"Sınavda Sorulur: Samanyolu Galaksisi \u0027Sarmal\u0027 yapıdadır ve Güneş Sistemi bu galaksinin \u0027Avcı (Orion)\u0027 kolundadır.","quickCheck":{"q":"Güneş Sistemi Samanyolu Galaksisi\u0027nin hangi kolunda bulunur?","options":["Perseus Kolu","Avcı (Orion) Kolu","Yay Kolu","Kuğu Kolu"],"correct":1,"explanation":"Güneş Sistemimiz Samanyolu\u0027nun Avcı (Orion) kolunda yer almaktadır."}}],"trueFalseQuestions":[{"statement":"En sıcak yıldızlar kırmızı renkli yıldızlardır.","isTrue":false,"explanation":"Yanlış! En sıcak yıldızlar mavi ve beyazdır; kırmızı yıldızlar en soğuk olanlardır."},{"statement":"Yıldızların doğum yeri bulutsu (nebula) adı verilen gaz ve toz bulutlarıdır.","isTrue":true,"explanation":"Doğru! Tüm yıldızlar bulutsularda doğar."},{"statement":"Güneş ömrü bittiğinde şiddetli bir süpernova ile kara deliğe dönüşür.","isTrue":false,"explanation":"Yanlış! Güneş orta kütlelidir, kara delik olamaz; beyaz cüce olur."},{"statement":"Samanyolu ve Andromeda galaksileri sarmal biçimli galaksilerdir.","isTrue":true,"explanation":"Doğru! Her iki galaksi de sarmal kollara sahiptir."},{"statement":"Yıldızlar kendi enerjisini üreten, etrafa ısı ve ışık yayan doğal gök cisimleridir.","isTrue":true,"explanation":"Doğru! Çekirdeklerinde gerçekleşen nükleer tepkimelerle ışık ve ısı üretirler."},{"statement":"Gezegenler yıldızlar gibi yanıp sönen ışık saçarlar.","isTrue":false,"explanation":"Yanlış! Gezegenler ışık kaynağı değildir; yıldızlardan aldıkları ışığı yansıtırlar ve ışıkları kesintisizdir."},{"statement":"Güneş, orta kütleli ve orta sıcaklıkta (sarı renkli) bir yıldızdır.","isTrue":true,"explanation":"Doğru! Güneş sarı renkte orta büyüklükte bir anakol yıldızıdır."},{"statement":"Büyük kütleli yıldızların ömrü süpernova patlaması ile sona erer ve kara delik ya da nötron yıldızına dönüşür.","isTrue":true,"explanation":"Doğru! Süpernova patlaması sonrası geriye süper yoğun nötron yıldızı veya kara delik kalır."},{"statement":"Kutup Yıldızı (Polaris) daima güney yönünü gösterir.","isTrue":false,"explanation":"Yanlış! Kutup Yıldızı daima Kuzey\u0027i gösterir ve yön bulmada kullanılır."},{"statement":"Orion (Avcı) ve Kartal bulutsuları yıldız oluşumunun gözlendiği en bilinen gaz ve toz bulutlarındandır.","isTrue":true,"explanation":"Doğru! Bu bulutsularda sürekli yeni yıldızlar doğmaktadır."},{"statement":"Güneş Sistemi, Samanyolu Galaksisi\u0027nin Avcı (Orion) Kolu üzerinde yer alır.","isTrue":true,"explanation":"Doğru! Güneş sistemimiz Samanyolu\u0027nun Avcı Kolu\u0027ndadır."},{"statement":"Evren; Dünya ve Dünya dışındaki tüm uzayı içine alan sonsuz boşluk ve gök cisimleridir.","isTrue":true,"explanation":"Doğru! Uzay sadece Dünya dışıyken, Evren Dünya dahil her şeyi kapsar."},{"statement":"Galaksiler şekillerine göre sarmal, eliptik ve düzensiz olmak üzere gruplandırılır.","isTrue":true,"explanation":"Doğru! Üç ana gökada biçimi bulunmaktadır."},{"statement":"Kara deliklerin yerçekimi o kadar güçlüdür ki ışık bile çekiminden kaçamaz.","isTrue":true,"explanation":"Doğru! Çekim kuvvetleri sonsuza yakın yoğunluktadır."},{"statement":"Büyükayı ve Küçükayı birer galaksi çeşididir.","isTrue":false,"explanation":"Yanlış! Büyükayı ve Küçükayı birer takımyıldızıdır (yıldız kümesidir), galaksi değildir."}],"matchingPairs":[{"id":1,"term":"Bulutsu (Nebula)","match":"Yıldızların doğum yeri","category":"Gök Cismi"},{"id":2,"term":"Mavi Yıldız","match":"En yüksek sıcaklıktaki yıldız","category":"Yıldız"},{"id":3,"term":"Kırmızı Yıldız","match":"En düşük sıcaklıktaki yıldız","category":"Yıldız"},{"id":4,"term":"Beyaz Cüce","match":"Güneş\u0027in ömrünün son hali","category":"Evre"},{"id":5,"term":"Süpernova","match":"Büyük kütleli yıldızın patlaması","category":"Olay"},{"id":6,"term":"Avcı (Orion) Kolu","match":"Güneş Sistemi\u0027nin bulunduğu kol","category":"Konum"}],"flashcards":[{"q":"Yıldızların doğum yeri neresidir?","a":"Bulutsu (Nebula)","hint":"Örnek: Orion Bulutsusu"},{"q":"En sıcak yıldızlar hangi renkte ışık saçar?","a":"Mavi ve Beyaz (En soğuklar: Kırmızı, Orta: Sarı)","hint":"Güneş sarı renktedir!"},{"q":"Güneş ömrünü tamamlayınca neye dönüşecek?","a":"Kızıl Dev ve sonrasında Beyaz Cüce","hint":"Asla kara delik olmaz!"},{"q":"Güneş Sistemi hangi galakside yer alır?","a":"Samanyolu Galaksisi (Avcı Kolu)","hint":"Sarmal yapıdadır"}],"quizQuestions":[{"q":"Yıldızların sıcaklıklarına göre renkleri ile ilgili eşleştirmelerden hangisi DOĞRUDUR?","options":["En Sıcak: Kırmızı / Orta: Sarı / En Soğuk: Mavi","En Sıcak: Mavi / Orta: Sarı / En Soğuk: Kırmızı","En Sıcak: Beyaz / Orta: Mavi / En Soğuk: Sarı","Bütün yıldızların yüzey sıcaklığı aynıdır."],"correct":1,"explanation":"Mavi ve beyaz yıldızlar en sıcak, sarı yıldızlar orta, kırmızı yıldızlar ise en soğuk yıldızlardır."},{"q":"Büyük kütleli bir yıldızın hayatının sonunda geçirdiği devasa patlamaya ne ad verilir?","options":["Süpernova Patlaması","Büyük Patlama (Big Bang)","Güneş Tutulması","Meteor Yağmuru"],"correct":0,"explanation":"Büyük kütleli yıldızlar ömürlerinin sonunda süpernova patlaması ile yok olur ve geriye nötron yıldızı veya kara delik bırakır."}],"openEndedQuestions":[{"id":"meb-fen-3","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"F.7.1.2.1. Yıldız oluşum sürecinin farkına varır.","question":"Güneş ömrünü tamamladığında kara delik oluşturabilir mi? Düşüncenizin nedenini yıldızların yaşam döngüsü kurallarına göre açıklayınız.","keywords":["oluşturamaz","hayır","küçük kütleli","orta kütleli","süpernova","beyaz cüce","kızıl dev","büyük kütleli"],"sampleAnswer":"Cevap: Hayır, oluşturamaz.\n\nNedeni:\nBir yıldızın hayatının sonunda kara delik veya nötron yıldızı oluşturabilmesi için \u0027BÜYÜK KÜTLELİ\u0027 bir yıldız olması ve şiddetli bir \u0027Süpernova Patlaması\u0027 geçirmesi gerekir.\nOysa Güneş, KÜÇÜK (ORTA) KÜTLELİ bir yıldızdır. Küçük kütleli yıldızlar ömürlerinin sonunda süpernova patlaması geçirmezler; sırasıyla Kızıl Dev ➔ Gezegenimsi Bulutsu aşamalarından geçerek BEYAZ CÜCE (ve ardından siyah cüce) olarak ömürlerini tamamlarlar.","rubric":[{"criterion":"Kara delik oluşturamayacağını (\u0027Hayır\u0027) net olarak ifade etme","points":3},{"criterion":"Güneş\u0027in küçük/orta kütleli bir yıldız olduğunu ve Beyaz Cüceye dönüşeceğini açıklama","points":4},{"criterion":"Kara delik oluşumu için büyük kütle ve süpernova patlaması gerektiğini belirtme","points":3}]}]},{"id":"fen-unite-3","number":3,"term":1,"exam":"2. Yazılı (Ortak)","name":"Hücre ve Bölünmeler","badge":"🧬 Biyoloji Şampiyonu","color":"emerald","icon":"fa-dna","boss":{"name":"Mikro Canavar \u0027Bölünen Amip\u0027","hp":100,"avatar":"🦠","introText":"Mitoz bölünmenin evrelerini ve organellerin görevlerini bilmeden yazılıdan 100 alamazsın!","defeatText":"Tebrikler! Mitokondriden kloroplata, sentrozomdan ribozoma her şeyi kusursuz kavradın! Şampiyonsun!"},"lessons":[{"step":1,"title":"🔬 Temel Organeller ve Yaşamsal Görevleri","summary":"Hücre içinde belirli görevleri yerine getiren yapılara organel denir.","points":["\u003cstrong\u003eMitokondri:\u003c/strong\u003e Hücrenin enerji santralidir. Besin ve oksijeni yakarak enerji (ATP) üretir.","\u003cstrong\u003eRibozom:\u003c/strong\u003e En küçük organeldir, zarsızdır ve tüm canlı hücrelerde bulunur; protein sentezler.","\u003cstrong\u003eKloroplast:\u003c/strong\u003e Sadece bitki hücrelerinde bulunur; fotosentez yaparak besin ve oksijen üretir.","\u003cstrong\u003eSentrozom:\u003c/strong\u003e Sadece hayvan hücrelerinde bulunur; hücre bölünmesinde iğ ipliklerini organize eder.","\u003cstrong\u003eKoful:\u003c/strong\u003e Atık madde ve besin depolar (Bitkide büyük ve az; hayvanda küçük ve çoktur)."],"examTip":"Sınavda Sorulur: Kas hücreleri gibi çok çalışan hücrelerde en çok Mitokondri sayısı artar!","quickCheck":{"q":"Yoğun egzersiz yapan bir sporcunun kas hücrelerinde enerji üretmek için hangi organel daha fazla sayıda bulunur?","options":["Lizozom","Mitokondri","Golgi Aygıtı","Koful"],"correct":1,"explanation":"Mitokondri enerji üreten organeldir; enerji tüketen dokularda sayısı çok yüksektir."}},{"step":2,"title":"🌱 Bitki ve Hayvan Hücresi Farkları","summary":"Yazılı sınavların vazgeçilmez klasik karşılaştırma konusudur.","points":["\u003cstrong\u003e1. Şekil:\u003c/strong\u003e Bitki hücresi köşeli, hayvan hücresi yuvarlaktır.","\u003cstrong\u003e2. Hücre Duvarı (Çeperi):\u003c/strong\u003e Bitkide vardır, hayvan hücresinde YOKTUR.","\u003cstrong\u003e3. Kloroplast:\u003c/strong\u003e Bitkide vardır, hayvan hücresinde YOKTUR.","\u003cstrong\u003e4. Sentrozom:\u003c/strong\u003e Hayvan hücresinde vardır, gelişmiş bitkide YOKTUR."],"examTip":"Sınavda Sorulur: Hücre zarı her iki hücrede de vardır, ancak Hücre Duvarı sadece bitkidedir!","quickCheck":{"q":"Mikroskop altında köşeli şekle sahip ve hücre duvarı bulunan bir hücre inceleniyorsa bu hücre hangisidir?","options":["İnsan epitel hücresi","Kurbağa kan hücresi","Soğan zarı hücresi","Kedi kas hücresi"],"correct":2,"explanation":"Köşeli yapı ve hücre duvarı bitki hücrelerine özgüdür. Soğan zarı bir bitki hücresidir."}},{"step":3,"title":"⚡ Mitoz Bölünmenin Altın Kuralları ve Evreleri","summary":"Vücut hücrelerimizde gerçekleşen bölünme evreleri ve bitki-hayvan farkları.","points":["1. \u003cstrong\u003eVücut hücrelerinde\u003c/strong\u003e gerçekleşir, kromozom sayısı değişmez (2n ➔ 2n) ve birbirinin tıpatıp aynısı \u003cstrong\u003e2 yeni hücre\u003c/strong\u003e oluşur.","2. \u003cstrong\u003eMitozun Birbirini Takip Eden Aşamaları:\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003e1. Aşama (Hazırlık):\u003c/em\u003e DNA eşlenir ve kalıtım maddesi 2 katına çıkar.\u003cbr\u003e• \u003cem\u003e2. Aşama (Profaz):\u003c/em\u003e Kromatin iplikler kısalıp kalınlaşarak kromozomları oluşturur. Çekirdek zarı erir, iğ iplikleri belirir.\u003cbr\u003e• \u003cem\u003e3. Aşama (Metafaz):\u003c/em\u003e Kromozomlar hücrenin tam ortasına (ekvatoral düzlemine) tek sıra halinde dizilir (kromozomların en net görüldüğü evredir).\u003cbr\u003e• \u003cem\u003e4. Aşama (Anafaz):\u003c/em\u003e Kardeş kromatitler ayrılarak iğ iplikleri yardımıyla zıt kutuplara çekilir.\u003cbr\u003e• \u003cem\u003e5. Aşama (Telofaz):\u003c/em\u003e Kutuplarda çekirdek zarı yeniden oluşur, iğ iplikleri kaybolur.\u003cbr\u003e• \u003cem\u003e6. Aşama (Sitokinez):\u003c/em\u003e Sitoplazma bölünür.","3. \u003cstrong\u003eHayvan ve Bitki Hücresinde Bölünme Farkları:\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eİğ İplikleri:\u003c/em\u003e Hayvan hücresinde sentrozom (sentriyoller) organize eder; gelişmiş bitki hücresinde sentrozom olmadığı için sitoplazmadaki özel protein lifleri oluşturur.\u003cbr\u003e• \u003cem\u003eSitoplazma Bölünmesi:\u003c/em\u003e Hayvan hücresi dıştan içe doğru \u003cstrong\u003eBOĞUMLANARAK\u003c/strong\u003e bölünür. Bitki hücresinde ise sert hücre duvarı (çeperi) olduğu için boğumlanma olamaz; hücre ortasında içten dışa \u003cstrong\u003eARA LAMEL (Hücre Plağı)\u003c/strong\u003e oluşturularak bölünür!"],"examTip":"Sınavda Kesin Çıkar: Kromozomlar hücre ortasına METAFZ\u0027da dizilir, zıt kutuplara ANAFAZ\u0027da çekilir. Bitkide ara lamel, hayvanda boğumlanma görülür!","quickCheck":{"q":"2n = 46 kromozomlu bir insan deri hücresi mitoz bölünme geçirdiğinde ne oluşur?","options":["2 hücre, 46 kromozom","4 hücre, 23 kromozom","2 hücre, 23 kromozom","4 hücre, 46 kromozom"],"correct":0,"explanation":"Mitozda 2 hücre oluşur ve kromozom sayısı değişmez (46 kalır)."}}],"trueFalseQuestions":[{"statement":"Mitoz bölünme sonucunda kromozom sayısı yarıya iner.","isTrue":false,"explanation":"Yanlış! Mitozda kromozom sayısı sabit kalır; yarıya indiği bölünme mayozdur."},{"statement":"Bitki hücresi köşeli, hayvan hücresi yuvarlak şekle sahiptir.","isTrue":true,"explanation":"Doğru! Hücre duvarı bitkiye köşeli bir form verir."},{"statement":"Yaraların iyileşmesi ve saçlarımızın uzaması mitoz bölünme sayesindedir.","isTrue":true,"explanation":"Doğru! Çok hücrelilerde büyüme ve onarım mitozla sağlanır."},{"statement":"Hücre zarı seçici geçirgen ve canlı bir yapıya sahiptir.","isTrue":true,"explanation":"Doğru! Hücre zarı madde giriş çıkışını kontrol eder ve canlıdır."},{"statement":"Ribozom organeli sadece hayvan hücrelerinde bulunur.","isTrue":false,"explanation":"Yanlış! Ribozom tüm canlı hücrelerde (bitki, hayvan, bakteri) bulunur ve protein üretir."},{"statement":"Kloroplast organeli hem bitki hem de hayvan hücrelerinde fotosentez yapar.","isTrue":false,"explanation":"Yanlış! Kloroplast sadece bitki hücrelerinde bulunur; hayvan hücrelerinde bulunmaz."},{"statement":"Mitokondri hücrenin enerji üretim (oksijenli solunum) merkezidir.","isTrue":true,"explanation":"Doğru! Hücrenin gereksinim duyduğu ATP enerjisini mitokondri üretir."},{"statement":"Hücre çeperi (duvarı) hayvan hücrelerini dış etkenlerden korur.","isTrue":false,"explanation":"Yanlış! Hücre çeperi sadece bitki hücrelerinde bulunur; hayvan hücresinde hücre çeperi yoktur."},{"statement":"Bitki hücrelerinde kofullar büyük ve az sayıdadır.","isTrue":true,"explanation":"Doğru! Bitkilerde büyük ve az, hayvan hücrelerinde ise küçük ve çok sayıdadır."},{"statement":"Mitoz bölünme tek hücreli canlılarda (örneğin amipte) üremeyi sağlar.","isTrue":true,"explanation":"Doğru! Tek hücreliler mitozla bölünerek çoğalır."},{"statement":"Mitoz bölünme sonucunda ana hücreden kalıtsal özellikleri farklı 4 yeni hücre oluşur.","isTrue":false,"explanation":"Yanlış! Mitozda ana hücreyle genetik olarak tıpatıp aynı 2 hücre oluşur."},{"statement":"Çekirdek, hücrenin yönetim ve kalıtım merkezidir.","isTrue":true,"explanation":"Doğru! DNA\u0027yı barındırır ve tüm yaşamsal faaliyetleri yönetir."},{"statement":"Sentrozom (sentriyoller) bitki hücrelerinde iğ ipliklerini oluşturur.","isTrue":false,"explanation":"Yanlış! Sentrozom sadece hayvan hücrelerinde bulunur (gelişmiş bitkilerde bulunmaz)."},{"statement":"Mitoz bölünme başlamadan önce hücre DNA\u0027sını eşler (kendini kopyalar).","isTrue":true,"explanation":"Doğru! Hazırlık evresinde DNA kendini eşleyerek iki katına çıkar."},{"statement":"Canlıların canlılık özelliği gösteren en küçük yapı ve görev birimine hücre denir.","isTrue":true,"explanation":"Doğru! Hücre canlının temel yapı taşıdır."}],"matchingPairs":[{"id":1,"term":"Mitokondri","match":"Enerji santrali (ATP üretimi)","category":"Organel"},{"id":2,"term":"Ribozom","match":"Protein sentezi (tüm canlılarda)","category":"Organel"},{"id":3,"term":"Kloroplast","match":"Fotosentez ve besin üretimi","category":"Organel"},{"id":4,"term":"Mitoz","match":"Kromozom sayısı değişmeden 2 hücre oluşumu","category":"Bölünme"}],"flashcards":[{"q":"Hücrenin enerji santrali hangi organeldir?","a":"Mitokondri","hint":"Oksijenli solunum"},{"q":"Bitki hücresinde olup hayvanda olmayan yapı?","a":"Hücre Duvarı ve Kloroplast","hint":"Köşeli yapı"},{"q":"Mitoz bölünmede kaç hücre oluşur?","a":"2 hücre (kromozom sayısı sabit)","hint":"Klon gibi aynı"}],"quizQuestions":[{"q":"Hücre bölünmesinde görev alan ve yalnızca hayvan hücrelerinde bulunan organel hangisidir?","options":["Sentrozom (Sentriyoller)","Kloroplast","Koful","Ribozom"],"correct":0,"explanation":"Sentrozom organeli hücre bölünmesinde iğ ipliklerini organize eder ve gelişmiş bitkilerde bulunmaz."}],"openEndedQuestions":[{"id":"meb-fen-4","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"F.7.2.1.1. Hayvan ve bitki hücrelerini, temel kısımları ve görevleri açısından karşılaştırır.","question":"Aşağıda verilen hücre modellerinde geometrik şekiller organelleri temsil etmektedir:\n• I. Model: Yuvarlak şekillidir; daire, üçgen, dikdörtgen ve YILDIZ şekli içermektedir.\n• II. Model: Köşeli şekillidir ve hücre duvarı vardır; daire, üçgen, dikdörtgen ve ALTIGEN şekli içermektedir.\n\na. Modellenen hücreler hangi canlılara ait olabilir? Cevabınızı nedeniyle birlikte açıklayınız.\nb. Yapılan modellemede bazı geometrik şekiller her iki modelde de aynı iken bazıları farklıdır. Bunun nedenini açıklayınız.\nc. Modellemede kullanılan farklı geometrik şekillerin (yıldız ve altıgen) temsil ettiği organellerin adlarını ve görevlerini yazınız.","keywords":["hayvan hücresi","bitki hücresi","yuvarlak","köşeli","hücre duvarı","ortak organeller","sentrozom","kloroplast","iğ iplikleri","fotosentez"],"sampleAnswer":"a. Canlı Türü ve Nedeni:\n• I. Model: Hayvan hücresine aittir; çünkü yuvarlak şekillidir ve hücre duvarı yoktur.\n• II. Model: Bitki hücresine aittir; çünkü köşeli bir yapıya ve etrafında koruyucu hücre duvarına (çeperine) sahiptir.\n\nb. Aynı ve Farklı Şekillerin Nedeni:\n• Aynı şekiller (daire, üçgen, dikdörtgen): Hem bitki hem de hayvan hücresinde ortak olarak bulunan organelleri (mitokondri, ribozom, endoplazmik retikulum, golgi vb.) temsil eder.\n• Farklı şekiller: Sadece bitkiye veya sadece hayvana özgü olan organelleri temsil eder.\n\nc. Farklı Organellerin Adları ve Görevleri:\n• Yıldız (Hayvan hücresine özgü): Sentrozom (Sentriyoller) organelidir. Görevi: Hücre bölünmesinde iğ ipliklerini oluşturarak kromozomların kutuplara çekilmesini sağlar.\n• Altıgen (Bitki hücresine özgü): Kloroplast organelidir. Görevi: Fotosentez yaparak güneş enerjisi ile besin (glikoz) ve oksijen üretir.","rubric":[{"criterion":"a şıkkı: I. modelin hayvan (yuvarlak), II. modelin bitki (köşeli/duvarlı) olduğunu doğru açıklama","points":3},{"criterion":"b şıkkı: Ortak organeller ile hücreye özgü organellerin ayrımını açıklama","points":3},{"criterion":"c şıkkı: Yıldızın Sentrozom (bölünme/iğ iplikleri), Altıgenin Kloroplast (fotosentez/besin üretimi) olduğunu ve görevlerini yazma","points":4}]},{"id":"meb-fen-5","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"F.7.2.1.1. Hayvan ve bitki hücrelerini, temel kısımları ve görevleri açısından karşılaştırır.","question":"Hücreyi oluşturan yapılar ve bu yapıların görevleri 1, 2, 3, 4, 5 numaralı kartlara yazılmıştır.\nNumaralı kartlar hayvan ve gelişmiş bitki hücresi olarak gruplandırılmak istendiğinde:\n• 1. Grup: 1 ve 5\n• 2. Grup: 2 ve 4\nolarak ayrılmış, ancak 3 numaralı kartın grubu belirlenememiştir.\n4 numaralı kartta \u0027Hücre bölünmesinde görevlidir.\u0027 yazılıdır.\n\na. 3 numaralı kartın grubu neden belirlenememiştir? Açıklayınız.\nb. 1, 2, 4 ve 5 numaralı kartların hangi yapılara ait olabileceğini belirleyerek bu yapıların görevlerini yazınız.","keywords":["ortak yapı","mitokondri","ribozom","sentrozom","hücre bölünmesi","kloroplast","hücre duvarı","lizozom","bitki hücresi","hayvan hücresi"],"sampleAnswer":"a. 3 Numaralı Kartın Belirlenememe Nedeni:\n3 numaralı karttaki yapı veya organel, hem hayvan hem de gelişmiş bitki hücresinde ORTAK olarak bulunan bir yapıdır (Örneğin: Ribozom, Mitokondri, Hücre Zarı, Sitoplazma veya Çekirdek). Her iki hücrede de bulunduğu için sadece bir gruba yazılamamıştır.\n\nb. Kartların Ait Olduğu Yapılar ve Görevleri:\n4 numaralı kartta \u0027Hücre bölünmesinde görevlidir\u0027 yazdığı ve gelişmiş bitkilerde sentrozom olmadığı için 2. Grup HAYVAN HÜCRESİ, 1. Grup BİTKİ HÜCRESİDİR.\n\n• 2. Grup (Hayvan Hücresine Özgü):\n  - 4 Numaralı Kart: Sentrozom (Sentriyoller) - Hücre bölünmesinde iğ ipliklerini oluşturur.\n  - 2 Numaralı Kart: Lizozom (veya küçük-çok sayıda koful) - Hücre içi sindirim yapar, maddeleri parçalar.\n\n• 1. Grup (Bitki Hücresine Özgü):\n  - 1 Numaralı Kart: Hücre Duvarı (Çeperi) - Hücreye sertlik, koruma ve köşeli form kazandırır.\n  - 5 Numaralı Kart: Kloroplast (veya büyük-az sayıda koful) - Fotosentez yaparak besin ve oksijen üretir.","rubric":[{"criterion":"a şıkkı: 3 numaralı kartın her iki hücre türünde de ortak bulunduğu için ayrılamadığını açıklama","points":4},{"criterion":"b şıkkı: 4\u0027ün Sentrozom, 2\u0027nin Lizozom olduğunu ve görevlerini yazma","points":3},{"criterion":"b şıkkı: 1 ve 5\u0027in Hücre Duvarı ve Kloroplast olduğunu ve görevlerini yazma","points":3}]},{"id":"meb-fen-6","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"F.7.2.2.2. Mitozun birbirini takip eden farklı evrelerden oluştuğunu açıklar.","question":"Bir hayvan hücresinde gerçekleşen hücre bölünmesinin aşamaları sıralı bir şekilde şemada verilmiştir:\n• 1. Aşama: DNA eşlenerek sayısı iki katına çıkar.\n• 2. Aşama: Kromatin iplikler kısalıp kalınlaşarak kromozomları oluşturur. Çekirdekçik ve çekirdek zarı erimeye, sentriyoller arası iğ iplikleri oluşmaya başlar.\n• 3. Aşama: ?\n• 4. Aşama: ?\n• 5. Aşama: Hücrenin her iki kutbunda çekirdekçik ve çekirdek zarı tekrar oluşur. İğ iplikleri kaybolur.\n• 6. Aşama: Sitoplazma boğumlanarak bölünür.\n\na. Buna göre 3 ve 4. aşamada gerçekleşen olayları yazınız.\nb. Şema bir bitkiye ait olsaydı bu şemanın hangi aşamalarında değişiklik yapmak gerekirdi? Nedenini açıklayınız.","keywords":["3. aşama","ekvatoral düzlem","ortaya dizilme","metafaz","4. aşama","kardeş kromatitler","kutuplara çekilme","anafaz","2. aşama sentrozom yok","6. aşama ara lamel","hücre plağı","boğumlanma olmaz"],"sampleAnswer":"a. 3 ve 4. Aşamada Gerçekleşen Olaylar:\n• 3. Aşama (Metafaz): Kromozomlar hücrenin tam ortasına (ekvator düzlemine) tek sıra halinde yan yana dizilir. (Kromozomların en net görüldüğü ve incelendiği evredir).\n• 4. Aşama (Anafaz): Kardeş kromatitler birbirinden ayrılarak iğ iplikleri ile zıt kutuplara çekilir.\n\nb. Bitki Hücresi Olsaydı Değiştirilmesi Gereken Aşamalar ve Nedenleri:\n1. 2. Aşamada Değişiklik Gerekirdi: Gelişmiş bitki hücrelerinde sentriyoller (sentrozom) bulunmaz. İğ iplikleri sentriyoller tarafından değil, sitoplazmadaki özel protein lifleri tarafından oluşturulur.\n2. 6. Aşamada Değişiklik Gerekirdi: Bitki hücrelerinin etrafında sert ve cansız hücre duvarı (çeperi) bulunduğu için sitoplazma boğumlanamaz. Boğumlanma yerine hücrenin ortasında \u0027Ara Lamel\u0027 (hücre plağı) oluşarak sitoplazma bölünür.","rubric":[{"criterion":"a şıkkı: 3. aşamada kromozomların ortaya dizildiğini, 4. aşamada kardeş kromatitlerin zıt kutuplara çekildiğini yazma","points":5},{"criterion":"b şıkkı: 2. aşamada sentriyol bulunmadığını ve 6. aşamada boğumlanma yerine ara lamel oluşacağını açıklama","points":5}]},{"id":"fen-oe-3","question":"Bitki hücresi ile hayvan hücresi arasındaki 3 temel farkı yazınız.","keywords":["hücre duvarı","kloroplast","sentrozom","köşeli","yuvarlak"],"sampleAnswer":"1. Şekil: Bitki hücresi köşeli, hayvan hücresi yuvarlaktır.\n2. Hücre Duvarı: Bitkide var, hayvanda yoktur.\n3. Kloroplast: Bitkide var, hayvanda yoktur (Sentrozom ise hayvanda var, gelişmiş bitkide yoktur).","rubric":[{"criterion":"Hücre şekli farkı doğru belirtilmiş","points":3},{"criterion":"Hücre duvarı / kloroplast varlığı doğru belirtilmiş","points":4},{"criterion":"Sentrozom veya koful farkı doğru belirtilmiş","points":3}]}]}]}
+{
+    "id":  "fen-bilimleri",
+    "name":  "Fen Bilimleri",
+    "icon":  "🔬",
+    "color":  "indigo",
+    "badge":  "Fen Dehası",
+    "description":  "Uzay araştırmaları, gök cisimleri ve hücre bölünmeleri!",
+    "title":  "7. Sınıf Fen Bilimleri: Sınav Fatihi",
+    "subtitle":  "Yazılıdan 100 Aldıran İnteraktif Macera Kitabı",
+    "grade":  "7. Sınıf",
+    "term":  "1. Dönem Tam Kapsam",
+    "units":  [
+                  {
+                      "id":  "fen-unite-1",
+                      "number":  1,
+                      "term":  1,
+                      "exam":  "1. Yazılı",
+                      "name":  "Uzay Araştırmaları",
+                      "badge":  "🚀 Uzay Kaşifi",
+                      "color":  "indigo",
+                      "icon":  "fa-rocket",
+                      "boss":  {
+                                   "name":  "Kozmik Karadelik \u0027Çeldirici\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👾",
+                                   "introText":  "Uzay sorularında öğrencileri yanıltmaya bayılırım! Bakalım beni yenebilecek misin?",
+                                   "defeatText":  "Olamaz! Bütün teleskop türlerini ve yapay uyduları ezberlemişsin! Yıldızlara savruldum!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "🔭 Teleskoplar ve Gökyüzü Gözlemi",
+                                          "summary":  "Gök cisimlerini incelemek için kullanılan ilk teknolojik araç teleskoptur.",
+                                          "points":  [
+                                                         "İlk teleskobu Hollandalı gözlükçü \u003cstrong\u003eHans Lippershey\u003c/strong\u003e icat etmiştir (1608).",
+                                                         "Gökyüzünü incelemek için teleskobu ilk kez kullanan bilim insanı \u003cstrong\u003eGalileo Galilei\u003c/strong\u003e\u0027dir (1609).",
+                                                         "Aynalı (yansıtmalı) teleskopları \u003cstrong\u003eIsaac Newton\u003c/strong\u003e geliştirmiştir.",
+                                                         "\u003cstrong\u003eUzay Teleskopları (Hubble \u0026 James Webb):\u003c/strong\u003e Yeryüzündeki ışık kirliliği, hava olayları ve atmosferin olumsuz etkilerinden kurtulmak için Dünya yörüngesine yerleştirilmiştir.",
+                                                         "\u003cstrong\u003eGözlemevi (Rasathane) Yeri Seçim Kriterleri:\u003c/strong\u003e 1. Bulutsuz açık gece sayısının fazla olması. 2. Şehir merkezinden ve yapay ışık kirliliğinden uzak olması. 3. Hassas aynaların bozulmaması için deprem kuşaklarından uzak olması. 4. Temiz ve nemsiz hava için deniz seviyesinden yüksekte (dağ tepelerinde) olması gerekir."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: \u0027Teleskobu ilk Galileo icat etti\u0027 cümlesi YANLIŞTIR! İcat eden Lippershey, gökyüzünü inceleyen ilk kişi Galileo\u0027dur.",
+                                          "quickCheck":  {
+                                                             "q":  "Hubble ve James Webb gibi teleskopların yeryüzü yerine uzaya fırlatılmasının temel sebebi nedir?",
+                                                             "options":  [
+                                                                             "Daha ucuza mal edilmeleri",
+                                                                             "Dünya atmosferinin ışığı soğurmasını ve hava olaylarının görüşü bozmasını engellemek",
+                                                                             "Güneş\u0027e daha yakın olup ısınmak",
+                                                                             "Dünya\u0027da yer kalmaması"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Atmosferdeki hava hareketleri, tozlar ve ışık kirliliği net gözlemi engellediği için teleskoplar uzaya gönderilir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "👓",
+                                                                     "title":  "İki Gözlük Camını Arka Arkaya Tutmak",
+                                                                     "text":  "Hans Lippershey gözlükçüydü; iki merceği arka arkaya tutunca uzaktaki kilise kulesini yakında gördü — tıpkı dürbünün ilk doğuşu gibi!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🌌",
+                                                                     "title":  "Dürbünü İlk Kez Gökyüzüne Çeviren Kaşif",
+                                                                     "text":  "Lippershey teleskobu icat etti, ama onu sokaktaki binalara değil de ilk kez yıldızlara ve Jüpiter\u0027in uydularına çeviren kişi Galileo oldu."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🪞",
+                                                                     "title":  "Mercek Yerine Dev Ayna Kullanmak",
+                                                                     "text":  "Newton, ışık kırılmasını azaltmak için cam mercek yerine ışığı toplayan kavisli bir ayna kullandı; bugünkü dev teleskopların atası böyle doğdu."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛰️",
+                                                                     "title":  "Bulutların Üstündeki Balkon",
+                                                                     "text":  "Şehir ışıkları ve bulutlar gökyüzünü gizler. Hubble ve James Webb\u0027i uzaya göndermek, fotoğrafı sisli pencereden değil tertemiz balkondan çekmeye benzer."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⛰️",
+                                                                     "title":  "Yıldız İzlemek İçin En İyi Kamp Yeri",
+                                                                     "text":  "Gözlemevi kurmak karanlık bir dağ tepesinde kamp yapmaya benzer: Şehir ışığı yok, bulut az, hava kuru ve sarsıntısız (deprem hattından uzak) olmalı."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "🇹🇷 Türkiye\u0027nin Uzaydaki Gözleri (Uydularımız)",
+                                          "summary":  "Ülkemizin uzayda aktif haberleşme ve yüksek çözünürlüklü gözlem uyduları bulunmaktadır.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eHaberleşme Uyduları:\u003c/strong\u003e Türksat 3A, Türksat 4A, Türksat 4B, Türksat 5A, Türksat 5B, Türksat 6A (İlk yerli haberleşme uydumuz).",
+                                                         "\u003cstrong\u003eGözlem Uyduları:\u003c/strong\u003e Göktürk-1, Göktürk-2 ve \u003cstrong\u003eİMECE\u003c/strong\u003e (Türkiye\u0027nin ilk yerli ve millî yüksek çözünürlüklü yer gözlem uydusu).",
+                                                         "\u003cstrong\u003eGörevi Biten Uydular:\u003c/strong\u003e BİLSAT ve RASAT aktif görev sürelerini başarıyla tamamlamıştır."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: RASAT ve BİLSAT hâlâ aktif çalışan uydularımız DEĞİLDİR; görevlerini tamamlamışlardır!",
+                                          "quickCheck":  {
+                                                             "q":  "Aşağıdakilerden hangisi Türkiye\u0027nin aktif olarak görev yapan YER GÖZLEM uydusudur?",
+                                                             "options":  [
+                                                                             "Türksat 4A",
+                                                                             "BİLSAT",
+                                                                             "İMECE",
+                                                                             "Türksat 5B"
+                                                                         ],
+                                                             "correct":  2,
+                                                             "explanation":  "İMECE, Göktürk-1 ve Göktürk-2 ile birlikte aktif yer gözlem uydularımızdandır."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "📡",
+                                                                     "title":  "Uzaydaki Dev Wi-Fi ve TV Vericileri",
+                                                                     "text":  "Türksat uyduları gökyüzünde asılı duran dev baz istasyonları gibidir; TV yayınlarını ve interneti Türkiye\u0027nin her köşesine ulaştırır. Türksat 6A ise tamamen kendi ürettiğimiz ilk yerli vericimiz!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📸",
+                                                                     "title":  "Uzaydan Kuş Bakışı Fotoğraf Çeken Drone",
+                                                                     "text":  "Göktürk-1, Göktürk-2 ve ilk yerli İMECE, uzaydan dünyayı yüksek çözünürlükle fotoğraflayan dev birer gözlem kamerası gibidir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎖️",
+                                                                     "title":  "Emekliye Ayrılan İlk Kahramanlar",
+                                                                     "text":  "BİLSAT ve RASAT görevlerini başarıyla tamamlayıp emekli olmuş ilk öncü uydularımızdır."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  3,
+                                          "title":  "🗑️ Uzay Kirliliği ve Doğal Gök Cisimleri",
+                                          "summary":  "İnsan kaynaklı çöpler uzayda tehlikeli bir enkaz kuşağı oluşturur.",
+                                          "points":  [
+                                                         "Dünya çevresinde dolanan işlevi bitmiş roket parçaları, patlayan yakıt tankları ve ömrünü tamamlamış yapay uydular \u003cstrong\u003euzay kirliliği\u003c/strong\u003e oluşturur.",
+                                                         "Uzay kirliliği, gelecekteki uzay görevlerini ve çalışan uyduları çarpışma riskiyle tehdit eder.",
+                                                         "\u003cstrong\u003eMeteorlar, kuyruklu yıldızlar ve asteroitler\u003c/strong\u003e doğal gök cisimleridir; ASLA uzay kirliliği sayılmazlar!"
+                                                     ],
+                                          "examTip":  "Yazılıda Çıkan En Büyük Tuzak: Sınavda \u0027Meteorlar uzay kirliliğine neden olur\u0027 denirse YANLIŞ diyeceksin! Sadece insan yapımı çöpler kirliliktir.",
+                                          "quickCheck":  {
+                                                             "q":  "Aşağıdakilerden hangisi uzay kirliliğine sebep olan unsurlardan biri DEĞİLDİR?",
+                                                             "options":  [
+                                                                             "Ömrünü tamamlamış yapay uydular",
+                                                                             "Fırlatma sırasında uzaya bırakılan roket kademeleri",
+                                                                             "Atmosfere giren doğal gök taşları (meteorlar)",
+                                                                             "Uzay araçlarından kopan güneş panelleri"
+                                                                         ],
+                                                             "correct":  2,
+                                                             "explanation":  "Gök taşları (meteorlar) doğal gök cismidir; uzay kirliliği yalnızca insan atıklarıyla oluşur."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🗑️",
+                                                                     "title":  "Dünya Etrafındaki Uzay Çöplüğü",
+                                                                     "text":  "Bozulan uydular ve kopan roket parçaları okyanustaki plastik çöpler gibi Dünya etrafında hızla dönerek uzay kirliliği yaratır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "💥",
+                                                                     "title":  "Otobandaki Küçük Bir Taşın Camı Kırması",
+                                                                     "text":  "Uzayda bir cıvata bile kurşundan 10 kat hızlı döner; küçücük bir çöp parçası bile çalışan bir uyduya çarpıp onu bozabilir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "☄️",
+                                                                     "title":  "Ormandaki Yaprak Çöp Değildir!",
+                                                                     "text":  "Ormana düşen yaprak doğal olduğu için çöp sayılmaz. Meteorlar, asteroitler ve kuyruklu yıldızlar da uzayın doğal parçasıdır; ASLA uzay kirliliği değildir!"
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Meteorlar ve kuyruklu yıldızlar doğal oldukları için uzay kirliliği SAYILMAZ.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Uzay kirliliği sadece insan kaynaklı roket, uydu ve araç parçalarından oluşur."
+                                                 },
+                                                 {
+                                                     "statement":  "Işık yılı, zamanı ölçmek için kullanılan bir birimdir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Işık yılı ZAMAN değil, UZAKLIK (mesafe) birimidir. Işığın 1 yılda aldığı mesafedir."
+                                                 },
+                                                 {
+                                                     "statement":  "Teleskobu ilk icat eden kişi Galileo Galilei\u0027dir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İlk teleskobu Hans Lippershey icat etmiş, Galileo ise gökyüzünü incelemek için ilk kez kullanmıştır."
+                                                 },
+                                                 {
+                                                     "statement":  "İMECE, Türkiye\u0027nin ilk yerli üretim yüksek çözünürlüklü yer gözlem uydusudur.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! İMECE ülkemizin ilk yerli ve millî yüksek çözünürlüklü gözlem uydusudur."
+                                                 },
+                                                 {
+                                                     "statement":  "Rasathaneler (gözlemevleri) şehir merkezlerine ve ışıklı alanlara kurulmalıdır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Rasathaneler ışık kirliliğinden uzak, yüksek, bulutsuz ve nemsiz dağ tepelerine kurulur."
+                                                 },
+                                                 {
+                                                     "statement":  "BİLSAT ve RASAT ülkemizin görevini tamamlamış yer gözlem uydularındandır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! BİLSAT ve RASAT aktif görev sürelerini başarıyla tamamlamıştır."
+                                                 },
+                                                 {
+                                                     "statement":  "Uzay sondaları içinde astronot bulunduran insanlı uzay araçlarıdır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Uzay sondaları uzaktan kumanda edilen, mürettebatsız (insansız) robotik araçlardır."
+                                                 },
+                                                 {
+                                                     "statement":  "Hubble ve James Webb uzay teleskopları atmosferin olumsuz etkilerinden etkilenmez.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Atmosfer dışında uzayda yer aldıkları için çok daha net görüntüler elde ederler."
+                                                 },
+                                                 {
+                                                     "statement":  "Türksat 3A, 4A ve 5A Türkiye\u0027nin aktif haberleşme ve iletişim uydularıdır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Ülkemizin televizyon yayını ve haberleşme hizmetlerini sağlayan aktif uydulardır."
+                                                 },
+                                                 {
+                                                     "statement":  "Ali Kuşçu, İstanbul\u0027da rasathane müdürlüğü yapmış ve Ay\u0027ın ilk haritasını çıkarmış ünlü Türk-İslam gökbilimcisidir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Fatih Sultan Mehmet döneminde İstanbul\u0027a gelerek önemli gökbilim çalışmaları yapmıştır."
+                                                 },
+                                                 {
+                                                     "statement":  "Işık kirliliği gök cisimlerinin teleskopla gözlemlenmesini kolaylaştırır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Şehir ışıkları gökyüzünü aydınlatarak gök cisimlerinin görülmesini zorlaştırır ve engeller."
+                                                 },
+                                                 {
+                                                     "statement":  "Aynalı teleskoplarda ışığı toplayıp odaklamak için çukur ayna kullanılır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Aynalı teleskoplarda ana ışık toplayıcı eleman çukur aynadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Uzay istasyonları astronotların uzayda kalıp uzun süreli bilimsel deneyler yaptığı yerlerdir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Uluslararası Uzay İstasyonu (ISS) astronotların araştırma yaptığı dev yapay uydudur."
+                                                 },
+                                                 {
+                                                     "statement":  "Uzay kirliliği Dünya yörüngesindeki aktif uydular için çarpışma tehlikesi oluşturur.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Saatte binlerce kilometre hızla dönen uzay çöpleri çalışan uydulara büyük zarar verebilir."
+                                                 },
+                                                 {
+                                                     "statement":  "Yapay uyduların fırlatılmasında roketler kullanılır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Uydular güçlü roketlerle Dünya yerçekimini aşarak yörüngeye yerleştirilir."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Hans Lippershey",
+                                                "match":  "İlk teleskobun mucidi",
+                                                "category":  "Kişi"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Galileo Galilei",
+                                                "match":  "Teleskopla ilk gökyüzü gözlemi",
+                                                "category":  "Kişi"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Hubble \u0026 Webb",
+                                                "match":  "Uzay teleskopları",
+                                                "category":  "Teknoloji"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "İMECE \u0026 Göktürk",
+                                                "match":  "Aktif yer gözlem uydularımız",
+                                                "category":  "Uydu"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "Işık Yılı",
+                                                "match":  "Evrendeki uzaklık birimi",
+                                                "category":  "Kavram"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "RASAT",
+                                                "match":  "Görevini tamamlamış yer gözlem uydumuz",
+                                                "category":  "Uydu"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "İlk gökbilim teleskobunu kim kullanmıştır?",
+                                             "a":  "Galileo Galilei (1609)",
+                                             "hint":  "İtalyan bilim insanı"
+                                         },
+                                         {
+                                             "q":  "Işık yılı ne birimidir?",
+                                             "a":  "UZAKLIK birimidir! (Zaman birimi DEĞİLDİR)",
+                                             "hint":  "En büyük sınav çeldiricisi!"
+                                         },
+                                         {
+                                             "q":  "Rasathane (Gözlemevi) nereye kurulmalıdır?",
+                                             "a":  "Şehir ışıklarından uzak, yüksek, bulutsuz ve nemsiz dağ tepelerine.",
+                                             "hint":  "Işık kirliliğinden kaçış"
+                                         },
+                                         {
+                                             "q":  "Aktif yer gözlem uydularımız hangileridir?",
+                                             "a":  "Göktürk-1, Göktürk-2 ve İMECE.",
+                                             "hint":  "Türkiye\u0027nin gözü göklerde"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Aşağıdakilerden hangisi uzay kirliliğine NEDEN OLMAZ?",
+                                                "options":  [
+                                                                "İşlevi biten yapay uydular",
+                                                                "Yakıt tankı parçaları",
+                                                                "Atmosfere giren gök taşları (meteorlar)",
+                                                                "Uzay araçlarının kopan panelleri"
+                                                            ],
+                                                "correct":  2,
+                                                "explanation":  "Gök taşları doğal oluşumlardır. Uzay kirliliği yalnızca insan yapımı atıklarla meydana gelir."
+                                            },
+                                            {
+                                                "q":  "Işık yılı kavramı ile ilgili verilen bilgilerden hangisi DOĞRUDUR?",
+                                                "options":  [
+                                                                "Zamanı ölçmek için kullanılan bir birimdir.",
+                                                                "Işığın boşlukta 1 yılda aldığı mesafedir (uzaklık birimidir).",
+                                                                "Sadece Güneş Sistemi içindeki gezegenler arası kullanılır.",
+                                                                "Güneş\u0027in ömrünü hesaplayan bir ölçüttür."
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Işık yılı bir mesafe (uzaklık) birimidir. Işığın 1 yılda kat ettiği yaklaşık 9.46 trilyon kilometreyi ifade eder."
+                                            },
+                                            {
+                                                "q":  "Hubble ve James Webb gibi teleskopların yeryüzü yerine uzaya yerleştirilmesinin en önemli gerekçesi nedir?",
+                                                "options":  [
+                                                                "Daha ucuza üretilmeleri",
+                                                                "Dünya atmosferinin ışık soğurması ve hava olaylarının görüşü bozmasını engellemek",
+                                                                "Güneş enerjisine daha yakın olmaları",
+                                                                "Dünya\u0027da yer kalmaması"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Atmosferdeki gazlar, tozlar, hava hareketleri ve ışık kirliliği yeryüzünden net görüntü almayı engeller."
+                                            },
+                                            {
+                                                "q":  "Türkiye\u0027nin uzaya fırlattığı ilk yerli ve millî yüksek çözünürlüklü gözlem uydusu hangisidir?",
+                                                "options":  [
+                                                                "Türksat 5A",
+                                                                "RASAT",
+                                                                "İMECE",
+                                                                "Göktürk-1"
+                                                            ],
+                                                "correct":  2,
+                                                "explanation":  "İMECE, Türkiye\u0027nin ilk yerli üretim yüksek çözünürlüklü elektro-optik yer gözlem uydusudur."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-fen-1",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "F.7.1.1.2. Uzay kirliliğinin nedenlerini ifade ederek bu kirliliğin yol açabileceği olası sonuçları tahmin eder.",
+                                                     "question":  "1957\u0027den günümüze kadar Dünya\u0027yı çevreleyen insan yapımı nesnelerin (işlevi bitmiş uydular, roket parçaları vb.) sayısının giderek arttığı bilinmektedir.\n\nUzayda meydana gelen bu problemi belirleyerek, bu problemin yol açabileceği olası sonuçları yazınız.",
+                                                     "keywords":  [
+                                                                      "uzay kirliliği",
+                                                                      "çarpışma",
+                                                                      "çalışan uydular",
+                                                                      "uzay araçları",
+                                                                      "haberleşme",
+                                                                      "astronotlar",
+                                                                      "tehlike",
+                                                                      "enkaz"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Belirlenen Problem: Uzay kirliliğidir (Ömrünü tamamlamış yapay uyduların, yakıt tanklarının ve roket parçalarının Dünya yörüngesinde birikmesi).\n\n2. Yol Açabileceği Olası Sonuçlar:\n• Yörüngede başıboş ve saatte on binlerce kilometre hızla dönen bu enkaz parçaları aktif olarak çalışan uydulara ve uzay araçlarına çarparak parçalayabilir.\n• Çarpışmalar sonucunda haberleşme, navigasyon (GPS), meteoroloji ve güvenlik uyduları devre dışı kalarak dünya çapında iletişim krizine yol açabilir.\n• Uluslararası Uzay İstasyonu\u0027ndaki astronotların hayatını tehlikeye atabilir ve gelecekte yapılacak yeni uzay seyahatlerini veya roket fırlatmalarını çok riskli hale getirebilir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Problemin \u0027Uzay Kirliliği\u0027 olduğunu doğru tespit etme",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Aktif çalışan uydulara/araçlara çarpma ve haberleşme kesintisi riskini belirtme",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Astronotların hayatı veya gelecekteki uzay görevlerinin tehlikeye girmesini belirtme",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-fen-2",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "F.7.1.1.5. Teleskobun gök bilimin gelişimindeki önemine yönelik çıkarımda bulunur.",
+                                                     "question":  "Farklı şehirlerde bulunan K, L, M ve N konumlarından birine gözlemevi (rasathane) kurulacaktır.\nBu konumlara ait veriler şöyledir:\n• Bulutlu Gece Sayısı: L ve M\u0027de çok az, K\u0027de çok fazla, N\u0027de orta.\n• Şehir Merkezine Uzaklık: L ve M merkeze en uzak, K ve N yakın.\n• Deprem Görülme Sıklığı: M konumunda çok yüksek, K ve N orta, L konumunda en düşük.\n• Deniz Seviyesinden Yükseklik: M en yüksek, L yüksek, K ve N alçak.\n\nBuna göre gözlemevi kurmak için EN UYGUN olan konum hangisidir? Nedenini tüm kriterleri dikkate alarak açıklayınız.",
+                                                     "keywords":  [
+                                                                      "L konumu",
+                                                                      "L",
+                                                                      "bulutlu gece sayısı az",
+                                                                      "açık gece",
+                                                                      "ışık kirliliği",
+                                                                      "şehirden uzak",
+                                                                      "deprem sıklığı az",
+                                                                      "yükseklik"
+                                                                  ],
+                                                     "sampleAnswer":  "En uygun konum: L KONUMUDUR.\n\nNedenleri:\n1. Bulutlu Gece Sayısı: L konumunda bulutlu gece sayısı çok azdır (yani açık ve berrak gece sayısı fazladır); bu da yıl boyunca kesintisiz gözlem imkanı sağlar.\n2. Şehir Merkezine Uzaklık: Şehir merkezine en uzak noktalardan biridir; böylece yapay ışık kirliliğinden etkilenmez ve gökyüzü karanlık kalır.\n3. Deprem Görülme Sıklığı: Deprem riski en düşük konumdur; böylece hassas, kalibre edilmiş ve pahalı dev teleskop aynaları ve optik cihazlar sarsıntıdan zarar görmez.\n4. Deniz Seviyesinden Yükseklik: Yüksek bir rakımda bulunduğu için atmosferin yoğun, nemli ve kirli tabakalarının üzerinde yer alır.\n\n(Not: M konumu da yüksek ve şehre uzak olsa da, deprem görülme sıklığı çok yüksek olduğundan teleskop güvenliği açısından uygun değildir).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "En uygun konumun \u0027L\u0027 olduğunu doğru tespit etme",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Bulutsuzluk, ışık kirliliğinden uzaklık ve yükseklik avantajlarını açıklama",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Deprem riskinin en düşük olmasının optik cihaz güvenliği için önemini açıklama",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "fen-oe-1",
+                                                     "question":  "Hubble ve James Webb gibi gelişmiş teleskopların yeryüzü yerine uzay boşluğuna yerleştirilmesinin iki önemli gerekçesini yazınız.",
+                                                     "keywords":  [
+                                                                      "atmosfer",
+                                                                      "ışık kirliliği",
+                                                                      "hava olayları",
+                                                                      "net görüntü",
+                                                                      "soğurma"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Dünya atmosferindeki toz, bulut, nem ve hava hareketlerinin görüntüyü bozmasını engellemek.\n2. Yeryüzündeki şehir ışık kirliliğinden kurtularak uzayın derinliklerini daha net gözlemleyebilmek.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Atmosferin olumsuz etkileri (hava olayları/soğurma) belirtilmiş",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Işık kirliliği veya net görüntü ihtiyacı belirtilmiş",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "fen-oe-2",
+                                                     "question":  "Uzay kirliliğine neden olan faktörlere 2 örnek veriniz. Doğal gök cisimlerinin (meteorlar vb.) neden uzay kirliliği sayılmadığını açıklayınız.",
+                                                     "keywords":  [
+                                                                      "yapay uydu",
+                                                                      "roket",
+                                                                      "insan yapımı",
+                                                                      "doğal"
+                                                                  ],
+                                                     "sampleAnswer":  "Örnekler: Ömrü biten yapay uydular ve uzaya fırlatılan roketlerin yakıt tankları/kademeleri.\nAçıklama: Uzay kirliliği yalnızca insan faaliyetleri sonucu oluşan atıklardır. Meteorlar doğal gök cismi olduğu için kirlilik sayılmaz.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "İnsan yapımı 2 atık örneği verilmiş",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Doğallık ve insan kaynaklı olma ayrımı doğru açıklanmış",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "fen-unite-2",
+                      "number":  2,
+                      "term":  1,
+                      "exam":  "1. Yazılı",
+                      "name":  "Güneş Sistemi ve Ötesi: Gök Cisimleri",
+                      "badge":  "✨ Yıldız Ustası",
+                      "color":  "purple",
+                      "icon":  "fa-star",
+                      "boss":  {
+                                   "name":  "Nebula Ejderhası \u0027Yıldız Yutan\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🐉",
+                                   "introText":  "Yıldızların ömrünü, süpernovaları ve galaksileri bilmeyen bu geçidi aşamaz!",
+                                   "defeatText":  "Aman tanrım! Yıldızların doğumundan kara deliklere kadar her sırrı çözdün! 100 puan senin!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "🌟 Yıldızların Doğumu ve Yaşam Döngüsü",
+                                          "summary":  "Yıldızlar da canlılar gibi doğar, yaşar ve ölürler.",
+                                          "points":  [
+                                                         "Yıldızların doğum yeri \u003cstrong\u003eBulutsu (Nebula)\u003c/strong\u003e adı verilen devasa gaz ve toz bulutlarıdır (Örn: Orion bulutsusu).",
+                                                         "\u003cstrong\u003eKüçük/Orta Kütleli Yıldızlar (Güneş gibi):\u003c/strong\u003e Ömrünün sonunda Kızıl Dev\u0027e, ardından \u003cstrong\u003eBeyaz Cüce\u003c/strong\u003e\u0027ye dönüşerek söner.",
+                                                         "\u003cstrong\u003eBüyük Kütleli Yıldızlar:\u003c/strong\u003e Şiddetli bir \u003cstrong\u003eSüpernova Patlaması\u003c/strong\u003e geçirerek Nötron Yıldızı (Pulsar) veya \u003cstrong\u003eKara Delik\u003c/strong\u003e\u0027e dönüşür."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: Güneş küçük-orta kütlelidir; ömrünün sonunda ASLA kara delik olmaz, Beyaz Cüce olur!",
+                                          "quickCheck":  {
+                                                             "q":  "Güneş ömrünü tamamladığında aşağıdakilerden hangisine dönüşecektir?",
+                                                             "options":  [
+                                                                             "Kara Delik",
+                                                                             "Nötron Yıldızı",
+                                                                             "Beyaz Cüce",
+                                                                             "Kuyruklu Yıldız"
+                                                                         ],
+                                                             "correct":  2,
+                                                             "explanation":  "Güneş orta kütleli bir yıldızdır, süpernova patlaması geçirmez ve beyaz cüce olarak ömrünü tamamlar."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "☁️",
+                                                                     "title":  "Yıldızların Doğum Hastanesi (Bulutsu)",
+                                                                     "text":  "Bulutsu (Nebula), yıldızların gaz ve tozdan doğup büyüdüğü dev bir uzay beşiğidir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🕯️",
+                                                                     "title":  "Küçük Mumun Sakin Sönüşü",
+                                                                     "text":  "Güneş gibi orta kütleli yıldızlar patlamaz; ömürlerinin sonunda önce şişip Kızıl Dev olur, sonra sönük bir köz gibi Beyaz Cüce\u0027ye dönüşür."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎆",
+                                                                     "title":  "Dev Havai Fişek Patlaması (Süpernova)",
+                                                                     "text":  "Çok büyük yıldızlar ömrünü sakin bitirmez; dev bir Süpernova patlamasıyla parlar ve geride çok yoğun bir Nötron Yıldızı ya da ışığı bile yutan Kara Delik bırakır."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "🔥 Yıldızların Sıcaklıkları ve Renkleri",
+                                          "summary":  "Yıldızların rengi yüzey sıcaklıkları hakkında bilgi verir.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eMavi ve Beyaz Renkli Yıldızlar:\u003c/strong\u003e En sıcak yıldızlardır.",
+                                                         "\u003cstrong\u003eSarı Renkli Yıldızlar:\u003c/strong\u003e Orta sıcaklıktaki yıldızlardır (Güneşimiz sarı renklidir).",
+                                                         "\u003cstrong\u003eKırmızı Renkli Yıldızlar:\u003c/strong\u003e En soğuk yıldızlardır."
+                                                     ],
+                                          "examTip":  "Ters Mantık Tuzağı: Günlük hayatta kırmızı sıcak algılanır ama yıldızlarda EN SOĞUK yıldızlar kırmızı, EN SICAK yıldızlar mavidir!",
+                                          "quickCheck":  {
+                                                             "q":  "Yüzey sıcaklığı en yüksek olan yıldız hangi renkte ışık saçar?",
+                                                             "options":  [
+                                                                             "Kırmızı",
+                                                                             "Sarı",
+                                                                             "Mavi / Beyaz",
+                                                                             "Turuncu"
+                                                                         ],
+                                                             "correct":  2,
+                                                             "explanation":  "Yıldızlarda mavi ve beyaz en sıcak, sarı orta, kırmızı ise en soğuk renktir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🔵",
+                                                                     "title":  "Ocak Alevinin Mavi Kısmı En Sıcaktır!",
+                                                                     "text":  "Evdeki doğalgaz ocağına bak: En sıcak alev kırmızı değil, MAVİ-BEYAZ olandır. Yıldızlarda da mavi-beyaz en sıcaktır!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "☀️",
+                                                                     "title":  "Ilık Orta Alev (Sarı Yıldız)",
+                                                                     "text":  "Sarı yıldızlar ne en sıcak ne en soğuktur; Güneşimiz de tam bu dengeli orta sıcaklık sınıfındadır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔴",
+                                                                     "title":  "Sönmeye Yakın Kırmızı Köz",
+                                                                     "text":  "Mangalda alev bitip kırmızı köz kaldığında ısı düşmüştür. Kırmızı yıldızlar da en soğuk yıldızlardır."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  3,
+                                          "title":  "🌌 Galaksiler (Gök Adaları) ve Samanyolu",
+                                          "summary":  "Milyarlarca yıldız, gaz ve toz bulutundan oluşan dev sistemlerdir.",
+                                          "points":  [
+                                                         "Galaksiler biçimlerine göre üçe ayrılır: \u003cstrong\u003eSarmal, Eliptik ve Düzensiz\u003c/strong\u003e.",
+                                                         "İçinde bulunduğumuz \u003cstrong\u003eSamanyolu Galaksisi\u003c/strong\u003e ve komşumuz \u003cstrong\u003eAndromeda\u003c/strong\u003e sarmal galaksidir.",
+                                                         "Güneş Sistemi, Samanyolu galaksisinin \u003cstrong\u003eAvcı (Orion) kolunda\u003c/strong\u003e yer alır."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: Samanyolu Galaksisi \u0027Sarmal\u0027 yapıdadır ve Güneş Sistemi bu galaksinin \u0027Avcı (Orion)\u0027 kolundadır.",
+                                          "quickCheck":  {
+                                                             "q":  "Güneş Sistemi Samanyolu Galaksisi\u0027nin hangi kolunda bulunur?",
+                                                             "options":  [
+                                                                             "Perseus Kolu",
+                                                                             "Avcı (Orion) Kolu",
+                                                                             "Yay Kolu",
+                                                                             "Kuğu Kolu"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Güneş Sistemimiz Samanyolu\u0027nun Avcı (Orion) kolunda yer almaktadır."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🌀",
+                                                                     "title":  "Rüzgâr Gülü, Yumurta ve Bulut Şekli",
+                                                                     "text":  "Galaksiler 3 şekildedir: Rüzgâr gülü gibi dönen Sarmal, yumurta gibi oval Eliptik ve belirli şekli olmayan bulut gibi Düzensiz."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🌌",
+                                                                     "title":  "İki Komşu Rüzgâr Gülü: Samanyolu \u0026 Andromeda",
+                                                                     "text":  "Bizim yaşadığımız Samanyolu da en yakın dev komşumuz Andromeda da kolları dönen birer Sarmal galaksidir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📍",
+                                                                     "title":  "Uzaydaki Ev Adresimiz",
+                                                                     "text":  "Ev adresin nasıl \u0027Şehir → Mahalle → Sokak\u0027 ise uzay adresimiz de \u0027Samanyolu Galaksisi → Avcı (Orion) Kolu → Güneş Sistemi\u0027dir."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "En sıcak yıldızlar kırmızı renkli yıldızlardır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! En sıcak yıldızlar mavi ve beyazdır; kırmızı yıldızlar en soğuk olanlardır."
+                                                 },
+                                                 {
+                                                     "statement":  "Yıldızların doğum yeri bulutsu (nebula) adı verilen gaz ve toz bulutlarıdır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Tüm yıldızlar bulutsularda doğar."
+                                                 },
+                                                 {
+                                                     "statement":  "Güneş ömrü bittiğinde şiddetli bir süpernova ile kara deliğe dönüşür.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Güneş orta kütlelidir, kara delik olamaz; beyaz cüce olur."
+                                                 },
+                                                 {
+                                                     "statement":  "Samanyolu ve Andromeda galaksileri sarmal biçimli galaksilerdir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Her iki galaksi de sarmal kollara sahiptir."
+                                                 },
+                                                 {
+                                                     "statement":  "Yıldızlar kendi enerjisini üreten, etrafa ısı ve ışık yayan doğal gök cisimleridir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Çekirdeklerinde gerçekleşen nükleer tepkimelerle ışık ve ısı üretirler."
+                                                 },
+                                                 {
+                                                     "statement":  "Gezegenler yıldızlar gibi yanıp sönen ışık saçarlar.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Gezegenler ışık kaynağı değildir; yıldızlardan aldıkları ışığı yansıtırlar ve ışıkları kesintisizdir."
+                                                 },
+                                                 {
+                                                     "statement":  "Güneş, orta kütleli ve orta sıcaklıkta (sarı renkli) bir yıldızdır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Güneş sarı renkte orta büyüklükte bir anakol yıldızıdır."
+                                                 },
+                                                 {
+                                                     "statement":  "Büyük kütleli yıldızların ömrü süpernova patlaması ile sona erer ve kara delik ya da nötron yıldızına dönüşür.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Süpernova patlaması sonrası geriye süper yoğun nötron yıldızı veya kara delik kalır."
+                                                 },
+                                                 {
+                                                     "statement":  "Kutup Yıldızı (Polaris) daima güney yönünü gösterir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Kutup Yıldızı daima Kuzey\u0027i gösterir ve yön bulmada kullanılır."
+                                                 },
+                                                 {
+                                                     "statement":  "Orion (Avcı) ve Kartal bulutsuları yıldız oluşumunun gözlendiği en bilinen gaz ve toz bulutlarındandır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Bu bulutsularda sürekli yeni yıldızlar doğmaktadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Güneş Sistemi, Samanyolu Galaksisi\u0027nin Avcı (Orion) Kolu üzerinde yer alır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Güneş sistemimiz Samanyolu\u0027nun Avcı Kolu\u0027ndadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Evren; Dünya ve Dünya dışındaki tüm uzayı içine alan sonsuz boşluk ve gök cisimleridir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Uzay sadece Dünya dışıyken, Evren Dünya dahil her şeyi kapsar."
+                                                 },
+                                                 {
+                                                     "statement":  "Galaksiler şekillerine göre sarmal, eliptik ve düzensiz olmak üzere gruplandırılır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Üç ana gökada biçimi bulunmaktadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Kara deliklerin yerçekimi o kadar güçlüdür ki ışık bile çekiminden kaçamaz.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Çekim kuvvetleri sonsuza yakın yoğunluktadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Büyükayı ve Küçükayı birer galaksi çeşididir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Büyükayı ve Küçükayı birer takımyıldızıdır (yıldız kümesidir), galaksi değildir."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Bulutsu (Nebula)",
+                                                "match":  "Yıldızların doğum yeri",
+                                                "category":  "Gök Cismi"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Mavi Yıldız",
+                                                "match":  "En yüksek sıcaklıktaki yıldız",
+                                                "category":  "Yıldız"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Kırmızı Yıldız",
+                                                "match":  "En düşük sıcaklıktaki yıldız",
+                                                "category":  "Yıldız"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Beyaz Cüce",
+                                                "match":  "Güneş\u0027in ömrünün son hali",
+                                                "category":  "Evre"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "Süpernova",
+                                                "match":  "Büyük kütleli yıldızın patlaması",
+                                                "category":  "Olay"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "Avcı (Orion) Kolu",
+                                                "match":  "Güneş Sistemi\u0027nin bulunduğu kol",
+                                                "category":  "Konum"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Yıldızların doğum yeri neresidir?",
+                                             "a":  "Bulutsu (Nebula)",
+                                             "hint":  "Örnek: Orion Bulutsusu"
+                                         },
+                                         {
+                                             "q":  "En sıcak yıldızlar hangi renkte ışık saçar?",
+                                             "a":  "Mavi ve Beyaz (En soğuklar: Kırmızı, Orta: Sarı)",
+                                             "hint":  "Güneş sarı renktedir!"
+                                         },
+                                         {
+                                             "q":  "Güneş ömrünü tamamlayınca neye dönüşecek?",
+                                             "a":  "Kızıl Dev ve sonrasında Beyaz Cüce",
+                                             "hint":  "Asla kara delik olmaz!"
+                                         },
+                                         {
+                                             "q":  "Güneş Sistemi hangi galakside yer alır?",
+                                             "a":  "Samanyolu Galaksisi (Avcı Kolu)",
+                                             "hint":  "Sarmal yapıdadır"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Yıldızların sıcaklıklarına göre renkleri ile ilgili eşleştirmelerden hangisi DOĞRUDUR?",
+                                                "options":  [
+                                                                "En Sıcak: Kırmızı / Orta: Sarı / En Soğuk: Mavi",
+                                                                "En Sıcak: Mavi / Orta: Sarı / En Soğuk: Kırmızı",
+                                                                "En Sıcak: Beyaz / Orta: Mavi / En Soğuk: Sarı",
+                                                                "Bütün yıldızların yüzey sıcaklığı aynıdır."
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "Mavi ve beyaz yıldızlar en sıcak, sarı yıldızlar orta, kırmızı yıldızlar ise en soğuk yıldızlardır."
+                                            },
+                                            {
+                                                "q":  "Büyük kütleli bir yıldızın hayatının sonunda geçirdiği devasa patlamaya ne ad verilir?",
+                                                "options":  [
+                                                                "Süpernova Patlaması",
+                                                                "Büyük Patlama (Big Bang)",
+                                                                "Güneş Tutulması",
+                                                                "Meteor Yağmuru"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Büyük kütleli yıldızlar ömürlerinin sonunda süpernova patlaması ile yok olur ve geriye nötron yıldızı veya kara delik bırakır."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-fen-3",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "F.7.1.2.1. Yıldız oluşum sürecinin farkına varır.",
+                                                     "question":  "Güneş ömrünü tamamladığında kara delik oluşturabilir mi? Düşüncenizin nedenini yıldızların yaşam döngüsü kurallarına göre açıklayınız.",
+                                                     "keywords":  [
+                                                                      "oluşturamaz",
+                                                                      "hayır",
+                                                                      "küçük kütleli",
+                                                                      "orta kütleli",
+                                                                      "süpernova",
+                                                                      "beyaz cüce",
+                                                                      "kızıl dev",
+                                                                      "büyük kütleli"
+                                                                  ],
+                                                     "sampleAnswer":  "Cevap: Hayır, oluşturamaz.\n\nNedeni:\nBir yıldızın hayatının sonunda kara delik veya nötron yıldızı oluşturabilmesi için \u0027BÜYÜK KÜTLELİ\u0027 bir yıldız olması ve şiddetli bir \u0027Süpernova Patlaması\u0027 geçirmesi gerekir.\nOysa Güneş, KÜÇÜK (ORTA) KÜTLELİ bir yıldızdır. Küçük kütleli yıldızlar ömürlerinin sonunda süpernova patlaması geçirmezler; sırasıyla Kızıl Dev ➔ Gezegenimsi Bulutsu aşamalarından geçerek BEYAZ CÜCE (ve ardından siyah cüce) olarak ömürlerini tamamlarlar.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Kara delik oluşturamayacağını (\u0027Hayır\u0027) net olarak ifade etme",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Güneş\u0027in küçük/orta kütleli bir yıldız olduğunu ve Beyaz Cüceye dönüşeceğini açıklama",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Kara delik oluşumu için büyük kütle ve süpernova patlaması gerektiğini belirtme",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "fen-unite-3",
+                      "number":  3,
+                      "term":  1,
+                      "exam":  "2. Yazılı (Ortak)",
+                      "name":  "Hücre ve Bölünmeler",
+                      "badge":  "🧬 Biyoloji Şampiyonu",
+                      "color":  "emerald",
+                      "icon":  "fa-dna",
+                      "boss":  {
+                                   "name":  "Mikro Canavar \u0027Bölünen Amip\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🦠",
+                                   "introText":  "Mitoz bölünmenin evrelerini ve organellerin görevlerini bilmeden yazılıdan 100 alamazsın!",
+                                   "defeatText":  "Tebrikler! Mitokondriden kloroplata, sentrozomdan ribozoma her şeyi kusursuz kavradın! Şampiyonsun!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "🔬 Temel Organeller ve Yaşamsal Görevleri",
+                                          "summary":  "Hücre içinde belirli görevleri yerine getiren yapılara organel denir.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eMitokondri:\u003c/strong\u003e Hücrenin enerji santralidir. Besin ve oksijeni yakarak enerji (ATP) üretir.",
+                                                         "\u003cstrong\u003eRibozom:\u003c/strong\u003e En küçük organeldir, zarsızdır ve tüm canlı hücrelerde bulunur; protein sentezler.",
+                                                         "\u003cstrong\u003eKloroplast:\u003c/strong\u003e Sadece bitki hücrelerinde bulunur; fotosentez yaparak besin ve oksijen üretir.",
+                                                         "\u003cstrong\u003eSentrozom:\u003c/strong\u003e Sadece hayvan hücrelerinde bulunur; hücre bölünmesinde iğ ipliklerini organize eder.",
+                                                         "\u003cstrong\u003eKoful:\u003c/strong\u003e Atık madde ve besin depolar (Bitkide büyük ve az; hayvanda küçük ve çoktur)."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: Kas hücreleri gibi çok çalışan hücrelerde en çok Mitokondri sayısı artar!",
+                                          "quickCheck":  {
+                                                             "q":  "Yoğun egzersiz yapan bir sporcunun kas hücrelerinde enerji üretmek için hangi organel daha fazla sayıda bulunur?",
+                                                             "options":  [
+                                                                             "Lizozom",
+                                                                             "Mitokondri",
+                                                                             "Golgi Aygıtı",
+                                                                             "Koful"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Mitokondri enerji üreten organeldir; enerji tüketen dokularda sayısı çok yüksektir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "⚡",
+                                                                     "title":  "Hücrenin Powerbank\u0027i (Mitokondri)",
+                                                                     "text":  "Telefonun pilsiz çalışmadığı gibi hücre de enerjisiz çalışamaz. Mitokondri besin ve oksijeni yakıp hücrenin tüm enerjisini (ATP) üreten powerbank\u0027tir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧱",
+                                                                     "title":  "Minik Protein Ustası (Ribozom)",
+                                                                     "text":  "Ribozom hücrenin en küçük ama en çalışkan tuğla ustasıdır; zarsızdır ve tüm canlılarda ortak olarak protein üretir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "☀️",
+                                                                     "title":  "Bitkinin Güneş Paneli (Kloroplast)",
+                                                                     "text":  "Kloroplast sadece bitkilerde bulunan yeşil bir güneş paneli ve mutfaktır; güneş ışığını kullanarak kendi besinini ve oksijeni üretir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧶",
+                                                                     "title":  "Bölünmede Halat Çeken Ekip (Sentrozom)",
+                                                                     "text":  "Hayvan hücresi bölünürken kromozomları iki tarafa çeken iğ ipliklerini organize eden vinç operatörü Sentrozomdur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎒",
+                                                                     "title":  "Hücrenin Sırt Çantası / Deposu (Koful)",
+                                                                     "text":  "Koful su, besin ve atıkları saklayan depodur. Bitki su biriktirdiği için kocaman tek valiz (büyük ve az), hayvan ise küçük çok sayıda cep (küçük ve çok) taşır."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "🌱 Bitki ve Hayvan Hücresi Farkları",
+                                          "summary":  "Yazılı sınavların vazgeçilmez klasik karşılaştırma konusudur.",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Şekil:\u003c/strong\u003e Bitki hücresi köşeli, hayvan hücresi yuvarlaktır.",
+                                                         "\u003cstrong\u003e2. Hücre Duvarı (Çeperi):\u003c/strong\u003e Bitkide vardır, hayvan hücresinde YOKTUR.",
+                                                         "\u003cstrong\u003e3. Kloroplast:\u003c/strong\u003e Bitkide vardır, hayvan hücresinde YOKTUR.",
+                                                         "\u003cstrong\u003e4. Sentrozom:\u003c/strong\u003e Hayvan hücresinde vardır, gelişmiş bitkide YOKTUR."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: Hücre zarı her iki hücrede de vardır, ancak Hücre Duvarı sadece bitkidedir!",
+                                          "quickCheck":  {
+                                                             "q":  "Mikroskop altında köşeli şekle sahip ve hücre duvarı bulunan bir hücre inceleniyorsa bu hücre hangisidir?",
+                                                             "options":  [
+                                                                             "İnsan epitel hücresi",
+                                                                             "Kurbağa kan hücresi",
+                                                                             "Soğan zarı hücresi",
+                                                                             "Kedi kas hücresi"
+                                                                         ],
+                                                             "correct":  2,
+                                                             "explanation":  "Köşeli yapı ve hücre duvarı bitki hücrelerine özgüdür. Soğan zarı bir bitki hücresidir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🧱",
+                                                                     "title":  "Tuğla Kutu vs. Yumuşak Balon",
+                                                                     "text":  "Bitki hücresi sert duvarlı bir tuğla kutu gibi köşelidir; hayvan hücresi ise esnek bir su balonu gibi yuvarlaktır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏰",
+                                                                     "title":  "Kale Surları (Hücre Duvarı)",
+                                                                     "text":  "Bitkiler kaçıp saklanamadığı için dışında sert bir kale duvarı (hücre çeperi) taşır; hayvan hücresinde bu sert duvar yoktur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🥗",
+                                                                     "title":  "Kendi Yemeğini Pişiren Mutfak",
+                                                                     "text":  "Bitki markete gidemediği için mutfağını (Kloroplast) içinde taşır; hayvan besinini dışarıdan yediği için kloroplasta ihtiyaç duymaz."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚓",
+                                                                     "title":  "Hayvan Hücresine Özel Vinç (Sentrozom)",
+                                                                     "text":  "Sentrozom hayvan hücresine özel bölünme yardımcısıdır; gelişmiş bitki hücresinde bulunmaz."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  3,
+                                          "title":  "⚡ Mitoz Bölünmenin Altın Kuralları ve Evreleri",
+                                          "summary":  "Vücut hücrelerimizde gerçekleşen bölünme evreleri ve bitki-hayvan farkları.",
+                                          "points":  [
+                                                         "1. \u003cstrong\u003eVücut hücrelerinde\u003c/strong\u003e gerçekleşir, kromozom sayısı değişmez (2n ➔ 2n) ve birbirinin tıpatıp aynısı \u003cstrong\u003e2 yeni hücre\u003c/strong\u003e oluşur.",
+                                                         "2. \u003cstrong\u003eMitozun Birbirini Takip Eden Aşamaları:\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003e1. Aşama (Hazırlık):\u003c/em\u003e DNA eşlenir ve kalıtım maddesi 2 katına çıkar.\u003cbr\u003e• \u003cem\u003e2. Aşama (Profaz):\u003c/em\u003e Kromatin iplikler kısalıp kalınlaşarak kromozomları oluşturur. Çekirdek zarı erir, iğ iplikleri belirir.\u003cbr\u003e• \u003cem\u003e3. Aşama (Metafaz):\u003c/em\u003e Kromozomlar hücrenin tam ortasına (ekvatoral düzlemine) tek sıra halinde dizilir (kromozomların en net görüldüğü evredir).\u003cbr\u003e• \u003cem\u003e4. Aşama (Anafaz):\u003c/em\u003e Kardeş kromatitler ayrılarak iğ iplikleri yardımıyla zıt kutuplara çekilir.\u003cbr\u003e• \u003cem\u003e5. Aşama (Telofaz):\u003c/em\u003e Kutuplarda çekirdek zarı yeniden oluşur, iğ iplikleri kaybolur.\u003cbr\u003e• \u003cem\u003e6. Aşama (Sitokinez):\u003c/em\u003e Sitoplazma bölünür.",
+                                                         "3. \u003cstrong\u003eHayvan ve Bitki Hücresinde Bölünme Farkları:\u003c/strong\u003e\u003cbr\u003e• \u003cem\u003eİğ İplikleri:\u003c/em\u003e Hayvan hücresinde sentrozom (sentriyoller) organize eder; gelişmiş bitki hücresinde sentrozom olmadığı için sitoplazmadaki özel protein lifleri oluşturur.\u003cbr\u003e• \u003cem\u003eSitoplazma Bölünmesi:\u003c/em\u003e Hayvan hücresi dıştan içe doğru \u003cstrong\u003eBOĞUMLANARAK\u003c/strong\u003e bölünür. Bitki hücresinde ise sert hücre duvarı (çeperi) olduğu için boğumlanma olamaz; hücre ortasında içten dışa \u003cstrong\u003eARA LAMEL (Hücre Plağı)\u003c/strong\u003e oluşturularak bölünür!"
+                                                     ],
+                                          "examTip":  "Sınavda Kesin Çıkar: Kromozomlar hücre ortasına METAFZ\u0027da dizilir, zıt kutuplara ANAFAZ\u0027da çekilir. Bitkide ara lamel, hayvanda boğumlanma görülür!",
+                                          "quickCheck":  {
+                                                             "q":  "2n = 46 kromozomlu bir insan deri hücresi mitoz bölünme geçirdiğinde ne oluşur?",
+                                                             "options":  [
+                                                                             "2 hücre, 46 kromozom",
+                                                                             "4 hücre, 23 kromozom",
+                                                                             "2 hücre, 23 kromozom",
+                                                                             "4 hücre, 46 kromozom"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "Mitozda 2 hücre oluşur ve kromozom sayısı değişmez (46 kalır)."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🖨️",
+                                                                     "title":  "Fotokopi Makinesi Gibi Bölünme (Mitoz)",
+                                                                     "text":  "Mitoz, bir sayfayı fotokopi makinesinden çekip tıpatıp aynısı 2 sayfa çıkarmak gibidir: Kromozom sayısı değişmez (2n → 2n) ve kalıtsal çeşitlilik olmaz."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🕺",
+                                                                     "title":  "İPMAT Dans Sırası (Mitoz Evreleri)",
+                                                                     "text":  "Sırayı \u0027İPMAT\u0027 diye kodla: İnterfaz (DNA fotokopisi), Profaz (Paketle), Metafaz (Merkezde tek sıra diz), Anafaz (Ayrılıp kutuplara çek), Telofaz (Tekrar iki çekirdek kur) ve Sitokinez (Sitoplazmayı ikiye böl)!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎈",
+                                                                     "title":  "Balonu Ortadan Sıkmak vs. Odaya Duvar Örmek",
+                                                                     "text":  "Yumuşak hayvan hücresi bir balonu ortadan sıkıp ikiye ayırır gibi BOĞUMLANARAK bölünür. Sert duvarlı bitki hücresi bükülmediği için ortasına ARA LAMEL adında yeni bir duvar örerek ikiye ayrılır!"
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "Mitoz bölünme sonucunda kromozom sayısı yarıya iner.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Mitozda kromozom sayısı sabit kalır; yarıya indiği bölünme mayozdur."
+                                                 },
+                                                 {
+                                                     "statement":  "Bitki hücresi köşeli, hayvan hücresi yuvarlak şekle sahiptir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hücre duvarı bitkiye köşeli bir form verir."
+                                                 },
+                                                 {
+                                                     "statement":  "Yaraların iyileşmesi ve saçlarımızın uzaması mitoz bölünme sayesindedir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Çok hücrelilerde büyüme ve onarım mitozla sağlanır."
+                                                 },
+                                                 {
+                                                     "statement":  "Hücre zarı seçici geçirgen ve canlı bir yapıya sahiptir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hücre zarı madde giriş çıkışını kontrol eder ve canlıdır."
+                                                 },
+                                                 {
+                                                     "statement":  "Ribozom organeli sadece hayvan hücrelerinde bulunur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Ribozom tüm canlı hücrelerde (bitki, hayvan, bakteri) bulunur ve protein üretir."
+                                                 },
+                                                 {
+                                                     "statement":  "Kloroplast organeli hem bitki hem de hayvan hücrelerinde fotosentez yapar.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Kloroplast sadece bitki hücrelerinde bulunur; hayvan hücrelerinde bulunmaz."
+                                                 },
+                                                 {
+                                                     "statement":  "Mitokondri hücrenin enerji üretim (oksijenli solunum) merkezidir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hücrenin gereksinim duyduğu ATP enerjisini mitokondri üretir."
+                                                 },
+                                                 {
+                                                     "statement":  "Hücre çeperi (duvarı) hayvan hücrelerini dış etkenlerden korur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Hücre çeperi sadece bitki hücrelerinde bulunur; hayvan hücresinde hücre çeperi yoktur."
+                                                 },
+                                                 {
+                                                     "statement":  "Bitki hücrelerinde kofullar büyük ve az sayıdadır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Bitkilerde büyük ve az, hayvan hücrelerinde ise küçük ve çok sayıdadır."
+                                                 },
+                                                 {
+                                                     "statement":  "Mitoz bölünme tek hücreli canlılarda (örneğin amipte) üremeyi sağlar.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Tek hücreliler mitozla bölünerek çoğalır."
+                                                 },
+                                                 {
+                                                     "statement":  "Mitoz bölünme sonucunda ana hücreden kalıtsal özellikleri farklı 4 yeni hücre oluşur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Mitozda ana hücreyle genetik olarak tıpatıp aynı 2 hücre oluşur."
+                                                 },
+                                                 {
+                                                     "statement":  "Çekirdek, hücrenin yönetim ve kalıtım merkezidir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! DNA\u0027yı barındırır ve tüm yaşamsal faaliyetleri yönetir."
+                                                 },
+                                                 {
+                                                     "statement":  "Sentrozom (sentriyoller) bitki hücrelerinde iğ ipliklerini oluşturur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Sentrozom sadece hayvan hücrelerinde bulunur (gelişmiş bitkilerde bulunmaz)."
+                                                 },
+                                                 {
+                                                     "statement":  "Mitoz bölünme başlamadan önce hücre DNA\u0027sını eşler (kendini kopyalar).",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hazırlık evresinde DNA kendini eşleyerek iki katına çıkar."
+                                                 },
+                                                 {
+                                                     "statement":  "Canlıların canlılık özelliği gösteren en küçük yapı ve görev birimine hücre denir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Hücre canlının temel yapı taşıdır."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "Mitokondri",
+                                                "match":  "Enerji santrali (ATP üretimi)",
+                                                "category":  "Organel"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "Ribozom",
+                                                "match":  "Protein sentezi (tüm canlılarda)",
+                                                "category":  "Organel"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Kloroplast",
+                                                "match":  "Fotosentez ve besin üretimi",
+                                                "category":  "Organel"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "Mitoz",
+                                                "match":  "Kromozom sayısı değişmeden 2 hücre oluşumu",
+                                                "category":  "Bölünme"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Hücrenin enerji santrali hangi organeldir?",
+                                             "a":  "Mitokondri",
+                                             "hint":  "Oksijenli solunum"
+                                         },
+                                         {
+                                             "q":  "Bitki hücresinde olup hayvanda olmayan yapı?",
+                                             "a":  "Hücre Duvarı ve Kloroplast",
+                                             "hint":  "Köşeli yapı"
+                                         },
+                                         {
+                                             "q":  "Mitoz bölünmede kaç hücre oluşur?",
+                                             "a":  "2 hücre (kromozom sayısı sabit)",
+                                             "hint":  "Klon gibi aynı"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "Hücre bölünmesinde görev alan ve yalnızca hayvan hücrelerinde bulunan organel hangisidir?",
+                                                "options":  [
+                                                                "Sentrozom (Sentriyoller)",
+                                                                "Kloroplast",
+                                                                "Koful",
+                                                                "Ribozom"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Sentrozom organeli hücre bölünmesinde iğ ipliklerini organize eder ve gelişmiş bitkilerde bulunmaz."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-fen-4",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "F.7.2.1.1. Hayvan ve bitki hücrelerini, temel kısımları ve görevleri açısından karşılaştırır.",
+                                                     "question":  "Aşağıda verilen hücre modellerinde geometrik şekiller organelleri temsil etmektedir:\n• I. Model: Yuvarlak şekillidir; daire, üçgen, dikdörtgen ve YILDIZ şekli içermektedir.\n• II. Model: Köşeli şekillidir ve hücre duvarı vardır; daire, üçgen, dikdörtgen ve ALTIGEN şekli içermektedir.\n\na. Modellenen hücreler hangi canlılara ait olabilir? Cevabınızı nedeniyle birlikte açıklayınız.\nb. Yapılan modellemede bazı geometrik şekiller her iki modelde de aynı iken bazıları farklıdır. Bunun nedenini açıklayınız.\nc. Modellemede kullanılan farklı geometrik şekillerin (yıldız ve altıgen) temsil ettiği organellerin adlarını ve görevlerini yazınız.",
+                                                     "keywords":  [
+                                                                      "hayvan hücresi",
+                                                                      "bitki hücresi",
+                                                                      "yuvarlak",
+                                                                      "köşeli",
+                                                                      "hücre duvarı",
+                                                                      "ortak organeller",
+                                                                      "sentrozom",
+                                                                      "kloroplast",
+                                                                      "iğ iplikleri",
+                                                                      "fotosentez"
+                                                                  ],
+                                                     "sampleAnswer":  "a. Canlı Türü ve Nedeni:\n• I. Model: Hayvan hücresine aittir; çünkü yuvarlak şekillidir ve hücre duvarı yoktur.\n• II. Model: Bitki hücresine aittir; çünkü köşeli bir yapıya ve etrafında koruyucu hücre duvarına (çeperine) sahiptir.\n\nb. Aynı ve Farklı Şekillerin Nedeni:\n• Aynı şekiller (daire, üçgen, dikdörtgen): Hem bitki hem de hayvan hücresinde ortak olarak bulunan organelleri (mitokondri, ribozom, endoplazmik retikulum, golgi vb.) temsil eder.\n• Farklı şekiller: Sadece bitkiye veya sadece hayvana özgü olan organelleri temsil eder.\n\nc. Farklı Organellerin Adları ve Görevleri:\n• Yıldız (Hayvan hücresine özgü): Sentrozom (Sentriyoller) organelidir. Görevi: Hücre bölünmesinde iğ ipliklerini oluşturarak kromozomların kutuplara çekilmesini sağlar.\n• Altıgen (Bitki hücresine özgü): Kloroplast organelidir. Görevi: Fotosentez yaparak güneş enerjisi ile besin (glikoz) ve oksijen üretir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: I. modelin hayvan (yuvarlak), II. modelin bitki (köşeli/duvarlı) olduğunu doğru açıklama",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: Ortak organeller ile hücreye özgü organellerin ayrımını açıklama",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "c şıkkı: Yıldızın Sentrozom (bölünme/iğ iplikleri), Altıgenin Kloroplast (fotosentez/besin üretimi) olduğunu ve görevlerini yazma",
+                                                                        "points":  4
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-fen-5",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "F.7.2.1.1. Hayvan ve bitki hücrelerini, temel kısımları ve görevleri açısından karşılaştırır.",
+                                                     "question":  "Hücreyi oluşturan yapılar ve bu yapıların görevleri 1, 2, 3, 4, 5 numaralı kartlara yazılmıştır.\nNumaralı kartlar hayvan ve gelişmiş bitki hücresi olarak gruplandırılmak istendiğinde:\n• 1. Grup: 1 ve 5\n• 2. Grup: 2 ve 4\nolarak ayrılmış, ancak 3 numaralı kartın grubu belirlenememiştir.\n4 numaralı kartta \u0027Hücre bölünmesinde görevlidir.\u0027 yazılıdır.\n\na. 3 numaralı kartın grubu neden belirlenememiştir? Açıklayınız.\nb. 1, 2, 4 ve 5 numaralı kartların hangi yapılara ait olabileceğini belirleyerek bu yapıların görevlerini yazınız.",
+                                                     "keywords":  [
+                                                                      "ortak yapı",
+                                                                      "mitokondri",
+                                                                      "ribozom",
+                                                                      "sentrozom",
+                                                                      "hücre bölünmesi",
+                                                                      "kloroplast",
+                                                                      "hücre duvarı",
+                                                                      "lizozom",
+                                                                      "bitki hücresi",
+                                                                      "hayvan hücresi"
+                                                                  ],
+                                                     "sampleAnswer":  "a. 3 Numaralı Kartın Belirlenememe Nedeni:\n3 numaralı karttaki yapı veya organel, hem hayvan hem de gelişmiş bitki hücresinde ORTAK olarak bulunan bir yapıdır (Örneğin: Ribozom, Mitokondri, Hücre Zarı, Sitoplazma veya Çekirdek). Her iki hücrede de bulunduğu için sadece bir gruba yazılamamıştır.\n\nb. Kartların Ait Olduğu Yapılar ve Görevleri:\n4 numaralı kartta \u0027Hücre bölünmesinde görevlidir\u0027 yazdığı ve gelişmiş bitkilerde sentrozom olmadığı için 2. Grup HAYVAN HÜCRESİ, 1. Grup BİTKİ HÜCRESİDİR.\n\n• 2. Grup (Hayvan Hücresine Özgü):\n  - 4 Numaralı Kart: Sentrozom (Sentriyoller) - Hücre bölünmesinde iğ ipliklerini oluşturur.\n  - 2 Numaralı Kart: Lizozom (veya küçük-çok sayıda koful) - Hücre içi sindirim yapar, maddeleri parçalar.\n\n• 1. Grup (Bitki Hücresine Özgü):\n  - 1 Numaralı Kart: Hücre Duvarı (Çeperi) - Hücreye sertlik, koruma ve köşeli form kazandırır.\n  - 5 Numaralı Kart: Kloroplast (veya büyük-az sayıda koful) - Fotosentez yaparak besin ve oksijen üretir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: 3 numaralı kartın her iki hücre türünde de ortak bulunduğu için ayrılamadığını açıklama",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: 4\u0027ün Sentrozom, 2\u0027nin Lizozom olduğunu ve görevlerini yazma",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: 1 ve 5\u0027in Hücre Duvarı ve Kloroplast olduğunu ve görevlerini yazma",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-fen-6",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "F.7.2.2.2. Mitozun birbirini takip eden farklı evrelerden oluştuğunu açıklar.",
+                                                     "question":  "Bir hayvan hücresinde gerçekleşen hücre bölünmesinin aşamaları sıralı bir şekilde şemada verilmiştir:\n• 1. Aşama: DNA eşlenerek sayısı iki katına çıkar.\n• 2. Aşama: Kromatin iplikler kısalıp kalınlaşarak kromozomları oluşturur. Çekirdekçik ve çekirdek zarı erimeye, sentriyoller arası iğ iplikleri oluşmaya başlar.\n• 3. Aşama: ?\n• 4. Aşama: ?\n• 5. Aşama: Hücrenin her iki kutbunda çekirdekçik ve çekirdek zarı tekrar oluşur. İğ iplikleri kaybolur.\n• 6. Aşama: Sitoplazma boğumlanarak bölünür.\n\na. Buna göre 3 ve 4. aşamada gerçekleşen olayları yazınız.\nb. Şema bir bitkiye ait olsaydı bu şemanın hangi aşamalarında değişiklik yapmak gerekirdi? Nedenini açıklayınız.",
+                                                     "keywords":  [
+                                                                      "3. aşama",
+                                                                      "ekvatoral düzlem",
+                                                                      "ortaya dizilme",
+                                                                      "metafaz",
+                                                                      "4. aşama",
+                                                                      "kardeş kromatitler",
+                                                                      "kutuplara çekilme",
+                                                                      "anafaz",
+                                                                      "2. aşama sentrozom yok",
+                                                                      "6. aşama ara lamel",
+                                                                      "hücre plağı",
+                                                                      "boğumlanma olmaz"
+                                                                  ],
+                                                     "sampleAnswer":  "a. 3 ve 4. Aşamada Gerçekleşen Olaylar:\n• 3. Aşama (Metafaz): Kromozomlar hücrenin tam ortasına (ekvator düzlemine) tek sıra halinde yan yana dizilir. (Kromozomların en net görüldüğü ve incelendiği evredir).\n• 4. Aşama (Anafaz): Kardeş kromatitler birbirinden ayrılarak iğ iplikleri ile zıt kutuplara çekilir.\n\nb. Bitki Hücresi Olsaydı Değiştirilmesi Gereken Aşamalar ve Nedenleri:\n1. 2. Aşamada Değişiklik Gerekirdi: Gelişmiş bitki hücrelerinde sentriyoller (sentrozom) bulunmaz. İğ iplikleri sentriyoller tarafından değil, sitoplazmadaki özel protein lifleri tarafından oluşturulur.\n2. 6. Aşamada Değişiklik Gerekirdi: Bitki hücrelerinin etrafında sert ve cansız hücre duvarı (çeperi) bulunduğu için sitoplazma boğumlanamaz. Boğumlanma yerine hücrenin ortasında \u0027Ara Lamel\u0027 (hücre plağı) oluşarak sitoplazma bölünür.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "a şıkkı: 3. aşamada kromozomların ortaya dizildiğini, 4. aşamada kardeş kromatitlerin zıt kutuplara çekildiğini yazma",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "b şıkkı: 2. aşamada sentriyol bulunmadığını ve 6. aşamada boğumlanma yerine ara lamel oluşacağını açıklama",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "fen-oe-3",
+                                                     "question":  "Bitki hücresi ile hayvan hücresi arasındaki 3 temel farkı yazınız.",
+                                                     "keywords":  [
+                                                                      "hücre duvarı",
+                                                                      "kloroplast",
+                                                                      "sentrozom",
+                                                                      "köşeli",
+                                                                      "yuvarlak"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Şekil: Bitki hücresi köşeli, hayvan hücresi yuvarlaktır.\n2. Hücre Duvarı: Bitkide var, hayvanda yoktur.\n3. Kloroplast: Bitkide var, hayvanda yoktur (Sentrozom ise hayvanda var, gelişmiş bitkide yoktur).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Hücre şekli farkı doğru belirtilmiş",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Hücre duvarı / kloroplast varlığı doğru belirtilmiş",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Sentrozom veya koful farkı doğru belirtilmiş",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  }
+              ]
+}
