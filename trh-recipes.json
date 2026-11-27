@@ -1,0 +1,453 @@
+[
+  {
+    "id": "gm-azalan-bakiyeler-y2",
+    "courseId": "onlisans-genel-muhasebe",
+    "unitId": "onlisans-muhasebe-u4",
+    "title": "Azalan Bakiyeler — 2. Yıl Amortisman Hesabı",
+    "category": "Genel Muhasebe · Duran Varlıklar",
+    "difficulty": 3,
+    "isParametric": true,
+    "triggerRuleHint": "Soruda 'Azalan bakiyeler' + '2. yıl' ifadelerini gördüğünde oranı 2'yle çarp (%50 tavanı unutma) ve 2. yılı kalan bakiyeden hesapla!",
+    "problemTemplate": "Maliyet bedeli {{cost_fmt}} TL, normal amortisman oranı %{{rate}} olan demirbaş için azalan bakiyeler yöntemine göre 2. yıl amortismanı kaç TL'dir?",
+    "paramSpec": {
+      "vars": {
+        "cost": [20000, 30000, 40000, 50000, 60000, 80000],
+        "rate": [10, 20, 25]
+      }
+    },
+    "triggers": [
+      { "text": "azalan bakiyeler", "isCorrect": true, "hint": "Azalan bakiyeler = normal oranın 2 katı (en fazla %50) kullanılır." },
+      { "text": "2. yıl", "isCorrect": true, "hint": "2. yıl amortismanı maliyetten değil, 1. yıl sonrası kalan net değerden hesaplanır." },
+      { "text": "%{{rate}}", "isCorrect": true, "hint": "Normal amortisman oranı ikiyle çarpılarak azalan bakiyeler oranına dönüştürülür." },
+      { "text": "demirbaş", "isCorrect": false, "hint": "Varlığın türü (demirbaş/makine) amortisman formülünü değiştirmez." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Azalan bakiyeler oranını bul: Normal oranı 2'yle çarp (%50'yi geçme)",
+        "formulaHint": "min(rate × 2, 50)",
+        "compute": "min(rate * 2, 50)",
+        "unit": "%",
+        "diagnosticTip": "1. Adım Hatası: Normal amortisman oranını 2 ile çarpmalı, sonuç %50'yi geçerse %50'de sınırlamalısın."
+      },
+      {
+        "order": 2,
+        "label": "1. yıl amortismanını maliyetten düşerek yıl sonu kalan bakiyeyi bul",
+        "formulaHint": "cost - (cost × oran / 100)",
+        "compute": "cost - (cost * min(rate * 2, 50) / 100)",
+        "unit": "TL",
+        "diagnosticTip": "2. Adım Hatası: 1. yıl amortismanını bulduktan sonra bunu başlangıç maliyetinden çıkarmayı unutma! Kalan değer 2. yılın matrahıdır."
+      },
+      {
+        "order": 3,
+        "label": "2. yıl amortismanını kalan bakiye üzerinden hesapla",
+        "formulaHint": "kalan × oran / 100",
+        "compute": "(cost - (cost * min(rate * 2, 50) / 100)) * min(rate * 2, 50) / 100",
+        "unit": "TL",
+        "diagnosticTip": "3. Adım Hatası: 2. yıl amortismanında ilk maliyeti değil, 2. adımda bulduğun kalan bakiyeyi yeni oranla çarpmalısın."
+      }
+    ]
+  },
+  {
+    "id": "gm-bilanco-borc",
+    "courseId": "onlisans-genel-muhasebe",
+    "unitId": "onlisans-muhasebe-u1",
+    "title": "Kuruluş Bilançosunda Borç Bulma (Aktif = Pasif)",
+    "category": "Genel Muhasebe · Bilanço Eşitliği",
+    "difficulty": 1,
+    "isParametric": true,
+    "triggerRuleHint": "Varlık kalemleri + Sermaye verilip 'Borçlar kaç TL'dir?' sorulduğunda Aktif = Borçlar + Sermaye eşitliğini kur!",
+    "problemTemplate": "Bir işletmenin Kasa {{kasa_fmt}} TL, Taşıt {{tasit_fmt}} TL, Bina {{bina_fmt}} TL ve Sermaye {{sermaye_fmt}} TL ise toplam Borçlar kaç TL'dir?",
+    "paramSpec": {
+      "vars": {
+        "kasa": [30000, 40000, 50000, 60000],
+        "tasit": [80000, 100000, 120000],
+        "bina": [250000, 300000, 350000],
+        "sermaye": [250000, 300000, 350000]
+      },
+      "constraint": "kasa + tasit + bina - sermaye > 0"
+    },
+    "triggers": [
+      { "text": "Kasa {{kasa_fmt}} TL", "isCorrect": true, "hint": "Kasa bir Aktif (Varlık) kalemidir." },
+      { "text": "Sermaye {{sermaye_fmt}} TL", "isCorrect": true, "hint": "Sermaye Pasif (Öz Kaynak) tarafındadır." },
+      { "text": "Borçlar kaç TL'dir?", "isCorrect": true, "hint": "Bilinmeyen Borçlar = Toplam Varlıklar − Sermaye." },
+      { "text": "Bir işletmenin", "isCorrect": false, "hint": "Bu ifade hesaplamaya doğrudan etki eden bir tetikleyici değildir." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Tüm Varlık (Aktif) kalemlerini topla (Kasa + Taşıt + Bina)",
+        "formulaHint": "Kasa + Taşıt + Bina",
+        "compute": "kasa + tasit + bina",
+        "unit": "TL",
+        "diagnosticTip": "1. Adım Hatası: Kasa, Taşıt ve Bina varlık kalemlerinin üçünü birden eksiksiz toplamalısın."
+      },
+      {
+        "order": 2,
+        "label": "Temel bilanço eşitliğine göre Pasif toplamını (Aktif'e eşit) belirle",
+        "formulaHint": "Pasif Toplamı = Aktif Toplamı",
+        "compute": "kasa + tasit + bina",
+        "unit": "TL",
+        "diagnosticTip": "2. Adım Hatası: Aktif = Pasif kuralı gereği Pasif toplamı daima 1. adımda bulduğun Aktif toplamına eşittir."
+      },
+      {
+        "order": 3,
+        "label": "Toplam Varlıklardan Sermayeyi çıkararak Borçları bul",
+        "formulaHint": "Toplam Varlık − Sermaye",
+        "compute": "kasa + tasit + bina - sermaye",
+        "unit": "TL",
+        "diagnosticTip": "3. Adım Hatası: Borçlar = Toplam Aktif − Sermaye işlemini kontrol et."
+      }
+    ]
+  },
+  {
+    "id": "gm-stmm",
+    "courseId": "onlisans-genel-muhasebe",
+    "unitId": "onlisans-muhasebe-u3",
+    "title": "Satılan Ticari Mallar Maliyeti (STMM) Hesabı",
+    "category": "Genel Muhasebe · Stoklar",
+    "difficulty": 2,
+    "isParametric": true,
+    "triggerRuleHint": "Dönem başı stok + Alışlar + Dönem sonu stok verildiğinde önce satılabilir malı topla, sonra rafta kalanı düş!",
+    "problemTemplate": "Dönem başı mal mevcudu {{db_fmt}} TL, dönem içi alışlar {{alis_fmt}} TL ve dönem sonu stok {{ds_fmt}} TL ise Satılan Ticari Mallar Maliyeti (STMM) kaç TL'dir?",
+    "paramSpec": {
+      "vars": {
+        "db": [20000, 30000, 40000, 50000],
+        "alis": [60000, 70000, 80000, 90000],
+        "ds": [15000, 25000, 30000, 35000]
+      },
+      "constraint": "db + alis - ds > 0"
+    },
+    "triggers": [
+      { "text": "Dönem başı mal mevcudu", "isCorrect": true, "hint": "Depoda yıl başında hazır bulunan mal tutarıdır." },
+      { "text": "dönem içi alışlar", "isCorrect": true, "hint": "Dönem başı stoğa eklenerek satılabilir mal toplamını oluşturur." },
+      { "text": "dönem sonu stok", "isCorrect": true, "hint": "Satılmadan rafta kalan maldır; toplamdan düşülür." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Satılabilir toplam malı bul (Dönem Başı + Alışlar)",
+        "formulaHint": "Dönem Başı + Alışlar",
+        "compute": "db + alis",
+        "unit": "TL",
+        "diagnosticTip": "1. Adım Hatası: Önce dönem başı stok ile dönem içi alışları toplamalısın."
+      },
+      {
+        "order": 2,
+        "label": "Rafta kalan dönem sonu stoğu belirle (Düşülecek tutar)",
+        "formulaHint": "Dönem Sonu Stok",
+        "compute": "ds",
+        "unit": "TL",
+        "diagnosticTip": "2. Adım Hatası: Dönem sonu stok satılmayan maldır; doğrudan soruda verilen tutardır."
+      },
+      {
+        "order": 3,
+        "label": "Satılabilir toplamdan dönem sonu stoğu çıkararak STMM'yi bul",
+        "formulaHint": "(Dönem Başı + Alışlar) − Dönem Sonu",
+        "compute": "db + alis - ds",
+        "unit": "TL",
+        "diagnosticTip": "3. Adım Hatası: 1. adımda bulduğun toplamdan dönem sonu stoğu çıkarmalısın (toplamamalısın!)."
+      }
+    ]
+  },
+  {
+    "id": "gm-duran-varlik-satis",
+    "courseId": "onlisans-genel-muhasebe",
+    "unitId": "onlisans-muhasebe-u4",
+    "title": "Duran Varlık Satış Kârı veya Zararı",
+    "category": "Genel Muhasebe · Duran Varlıklar",
+    "difficulty": 2,
+    "isParametric": true,
+    "triggerRuleHint": "Maliyet + Birikmiş Amortisman + Satış Bedeli verildiğinde önce Net Defter Değerini bul, sonra Satış − Net Değer yap!",
+    "problemTemplate": "Maliyeti {{maliyet_fmt}} TL, birikmiş amortismanı {{birikmis_fmt}} TL olan bir makine {{satis_fmt}} TL'ye satılırsa satış kârı (+) veya zararı (−) kaç TL'dir?",
+    "paramSpec": {
+      "vars": {
+        "maliyet": [36000, 48000, 60000, 80000],
+        "birikmis": [9000, 12000, 18000, 24000],
+        "satis": [25000, 32000, 45000, 55000]
+      },
+      "constraint": "maliyet - birikmis > 0"
+    },
+    "triggers": [
+      { "text": "Maliyeti {{maliyet_fmt}} TL", "isCorrect": true, "hint": "Makinenin kayıtlı alış maliyetidir." },
+      { "text": "birikmiş amortismanı {{birikmis_fmt}} TL", "isCorrect": true, "hint": "Maliyetten düşülerek net defter değerini verir." },
+      { "text": "{{satis_fmt}} TL'ye satılırsa", "isCorrect": true, "hint": "Net defter değeriyle karşılaştırılacak satış bedelidir." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Net Defter Değerini bul (Maliyet − Birikmiş Amortisman)",
+        "formulaHint": "Maliyet − Birikmiş Amortisman",
+        "compute": "maliyet - birikmis",
+        "unit": "TL",
+        "diagnosticTip": "1. Adım Hatası: Birikmiş amortisman maliyeti azaltır; Maliyet − Birikmiş Amortisman işlemini yap."
+      },
+      {
+        "order": 2,
+        "label": "Satış bedelini net değerle kıyasla (Satış Bedeli − Net Değer)",
+        "formulaHint": "Satış − Net Defter Değeri",
+        "compute": "satis - (maliyet - birikmis)",
+        "unit": "TL",
+        "diagnosticTip": "2. Adım Hatası: İşaretin yönüne dikkat! Satış Bedeli − Net Değer yap (eksi çıkarsa zarar, artı çıkarsa kârdır)."
+      },
+      {
+        "order": 3,
+        "label": "Kâr/Zarar mutlak tutarını doğrula (Pozitif: Kâr, Negatif: Zarar)",
+        "formulaHint": "abs(Satış − Net Değer)",
+        "compute": "abs(satis - (maliyet - birikmis))",
+        "unit": "TL",
+        "diagnosticTip": "3. Adım Hatası: 2. adımdaki farkın mutlak (pozitif) büyüklüğünü yazmalısın."
+      }
+    ]
+  },
+  {
+    "id": "gm-mali-kar",
+    "courseId": "onlisans-genel-muhasebe",
+    "unitId": "onlisans-muhasebe-u7",
+    "title": "Ticari Kârdan Mali Kâra (Vergi Matrahına) Geçiş",
+    "category": "Genel Muhasebe · Dönem Sonu",
+    "difficulty": 2,
+    "isParametric": true,
+    "triggerRuleHint": "Ticari kârdan Mali Kâra geçerken: Vergiden Muaf Geliri DÜŞ, Kanunen Kabul Edilmeyen Gideri (KKEG) EKLE!",
+    "problemTemplate": "Bir işletmenin ticari kârı {{ticari_fmt}} TL, vergiden muaf geliri {{muaf_fmt}} TL ve kanunen kabul edilmeyen gideri (KKEG) {{kkeg_fmt}} TL ise Mali Kâr kaç TL'dir?",
+    "paramSpec": {
+      "vars": {
+        "ticari": [200000, 300000, 400000, 500000],
+        "muaf": [40000, 60000, 80000],
+        "kkeg": [25000, 35000, 45000, 50000]
+      }
+    },
+    "triggers": [
+      { "text": "ticari kârı", "isCorrect": true, "hint": "Başlangıç matrahıdır." },
+      { "text": "vergiden muaf geliri", "isCorrect": true, "hint": "Vergiden muaf olduğu için ticari kârdan ÇIKARILIR." },
+      { "text": "KKEG", "isCorrect": true, "hint": "Kanunen kabul edilmeyen gider vergi matrahına EKLENİR." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Ticari kârdan vergiden muaf geliri düş",
+        "formulaHint": "Ticari Kâr − Muaf Gelir",
+        "compute": "ticari - muaf",
+        "unit": "TL",
+        "diagnosticTip": "1. Adım Hatası: Vergiden muaf gelir matrahı azaltır; Ticari Kâr'dan çıkarmalısın."
+      },
+      {
+        "order": 2,
+        "label": "Kanunen kabul edilmeyen gideri (KKEG) eklenmek üzere ayır",
+        "formulaHint": "+KKEG",
+        "compute": "kkeg",
+        "unit": "TL",
+        "diagnosticTip": "2. Adım Hatası: KKEG vergi kanununca gider sayılmadığı için matraha geri eklenir."
+      },
+      {
+        "order": 3,
+        "label": "Mali Kârı (Vergi Matrahını) hesapla",
+        "formulaHint": "Ticari Kâr − Muaf Gelir + KKEG",
+        "compute": "ticari - muaf + kkeg",
+        "unit": "TL",
+        "diagnosticTip": "3. Adım Hatası: 1. adımdaki ara sonuca KKEG tutarını eklemelisin (çıkarmamalısın!)."
+      }
+    ]
+  },
+  {
+    "id": "gm-yedek-akce",
+    "courseId": "onlisans-genel-muhasebe",
+    "unitId": "onlisans-muhasebe-u6",
+    "title": "I. Tertip Yasal Yedek Akçe & %20 Üst Sınır",
+    "category": "Genel Muhasebe · Öz Kaynaklar",
+    "difficulty": 3,
+    "isParametric": true,
+    "triggerRuleHint": "Ödenmiş sermayenin %20 tavanını bul, önceki yedeği düşüp kalan boşluğu %5'lik yıllık payla kıyasla!",
+    "problemTemplate": "Sermaye {{sermaye_fmt}} TL, Ödenmemiş Sermaye {{odenmemis_fmt}} TL, Önceki I. Tertip Yedek {{onceki_fmt}} TL ve Dönem Net Kârı {{kar_fmt}} TL ise bu yıl kaç TL I. Tertip Yedek Akçe ayrılır?",
+    "paramSpec": {
+      "vars": {
+        "sermaye": [400000, 500000, 600000],
+        "odenmemis": [100000, 200000],
+        "onceki": [45000, 50000, 55000],
+        "kar": [300000, 400000, 500000]
+      },
+      "constraint": "(sermaye - odenmemis) * 0.20 - onceki > 0"
+    },
+    "triggers": [
+      { "text": "Ödenmemiş Sermaye", "isCorrect": true, "hint": "Tavan hesabında Ödenmiş Sermaye = Sermaye − Ödenmemiş Sermaye kullanılır." },
+      { "text": "Önceki I. Tertip Yedek", "isCorrect": true, "hint": "%20 tavanından önceki yedek çıkarılarak kalan boşluk bulunur." },
+      { "text": "Dönem Net Kârı", "isCorrect": true, "hint": "Normal yıllık I. Tertip oranı Dönem Net Kârının %5'idir." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Ödenmiş sermayenin %20 üst sınır (tavan) tutarını bul",
+        "formulaHint": "(Sermaye − Ödenmemiş) × 0,20",
+        "compute": "(sermaye - odenmemis) * 0.20",
+        "unit": "TL",
+        "diagnosticTip": "1. Adım Hatası: Önce Ödenmemiş Sermayeyi çıkarıp Ödenmiş Sermayeyi bul, sonra %20'sini al."
+      },
+      {
+        "order": 2,
+        "label": "Dönem Net Kârının yıllık %5 yasal yedek tutarını hesapla",
+        "formulaHint": "Dönem Net Kârı × 0,05",
+        "compute": "kar * 0.05",
+        "unit": "TL",
+        "diagnosticTip": "2. Adım Hatası: I. Tertip yasal yedek oranı Dönem Net Kârının %5'idir."
+      },
+      {
+        "order": 3,
+        "label": "Kalan boşluk (Tavan − Önceki) ile %5'lik paydan KÜÇÜK olanı ayır",
+        "formulaHint": "min(Tavan − Önceki, Kâr × %5)",
+        "compute": "min((sermaye - odenmemis) * 0.20 - onceki, kar * 0.05)",
+        "unit": "TL",
+        "diagnosticTip": "3. Adım Hatası: %20 tavanı aşılamaz! Kalan boşluk yıllık %5'ten küçükse sadece kalan boşluk kadar ayrılır."
+      }
+    ]
+  },
+  {
+    "id": "mat-tam-sayi-cikarma",
+    "courseId": "matematik",
+    "unitId": "mat-unite-1",
+    "title": "Tam Sayılarda Çıkarma & İki Eksi Dönüşümü",
+    "category": "7. Sınıf Matematik · Tam Sayılar",
+    "difficulty": 1,
+    "isParametric": true,
+    "triggerRuleHint": "Yan yana iki eksi '- (-b)' gördüğünde ikisini tek bir ARTI (+) işaretine dönüştür!",
+    "problemTemplate": "(-{{a}}) - (-{{b}}) işleminin sonucu kaçtır?",
+    "paramSpec": {
+      "vars": {
+        "a": [5, 8, 11, 14, 17],
+        "b": [9, 12, 15, 20, 24]
+      }
+    },
+    "triggers": [
+      { "text": "- (-{{b}})", "isCorrect": true, "hint": "Yan yana iki eksi işareti çarpışarak ARTI (+b) olur!" },
+      { "text": "(-{{a}})", "isCorrect": true, "hint": "İlk sayı negatif olduğu için işareti korunur." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Yan yana gelen iki eksiyi artıya çevir: - (-b) = +b",
+        "formulaHint": "+b",
+        "compute": "b",
+        "unit": "",
+        "diagnosticTip": "1. Adım Hatası: - (-b) ifadesi pozitif +b sayısına dönüşür."
+      },
+      {
+        "order": 2,
+        "label": "İki sayının mutlak değer farkını kur (Büyükten küçüğü çıkar)",
+        "formulaHint": "abs(b - a)",
+        "compute": "abs(b - a)",
+        "unit": "",
+        "diagnosticTip": "2. Adım Hatası: Zıt işaretli iki tam sayı toplanırken büyükten küçük çıkarılır."
+      },
+      {
+        "order": 3,
+        "label": "Büyüğün işaretini vererek kesin sonucu yaz: -a + b",
+        "formulaHint": "-a + b",
+        "compute": "b - a",
+        "unit": "",
+        "diagnosticTip": "3. Adım Hatası: -a + b işleminde mutlak değeri büyük olan sayının işaretini koymayı unutma."
+      }
+    ]
+  },
+  {
+    "id": "mat-islem-onceligi",
+    "courseId": "matematik",
+    "unitId": "mat-unite-1",
+    "title": "İşlem Önceliği (Parantez → Üs → Çarpma → Toplama)",
+    "category": "7. Sınıf Matematik · İşlem Önceliği",
+    "difficulty": 2,
+    "isParametric": true,
+    "triggerRuleHint": "Önce parantez içi, sonra üs, sonra çarpma, en son toplama yapılır!",
+    "problemTemplate": "{{a}} + {{b}} · ({{c}} - {{d}})² işleminin sonucu kaçtır?",
+    "paramSpec": {
+      "vars": {
+        "a": [2, 4, 5, 7],
+        "b": [2, 3, 4],
+        "c": [5, 6, 7],
+        "d": [2, 3]
+      },
+      "constraint": "c - d >= 2"
+    },
+    "triggers": [
+      { "text": "({{c}} - {{d}})²", "isCorrect": true, "hint": "Önce parantez içi bulunur, hemen ardından karesi alınır." },
+      { "text": "{{b}} ·", "isCorrect": true, "hint": "Çarpma işlemi toplamadan önce yapılır!" },
+      { "text": "{{a}} +", "isCorrect": false, "hint": "Toplama en son adımda yapılır; ilk hamle değildir!" }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Önce parantez içindeki çıkarmayı yap: (c - d)",
+        "formulaHint": "c - d",
+        "compute": "c - d",
+        "unit": "",
+        "diagnosticTip": "1. Adım Hatası: Önce sadece parantez içini (c - d) hesapla."
+      },
+      {
+        "order": 2,
+        "label": "Bulduğun sonucun karesini al ve b ile çarp: b · (c - d)²",
+        "formulaHint": "b × (parantez)²",
+        "compute": "b * (c - d) ^ 2",
+        "unit": "",
+        "diagnosticTip": "2. Adım Hatası: Önce üssü (karesini) al, sonra b ile çarp. (Önce b ile çarpıp karesini alma!)"
+      },
+      {
+        "order": 3,
+        "label": "En son baştaki a sayısını ekle",
+        "formulaHint": "a + çarpım",
+        "compute": "a + b * (c - d) ^ 2",
+        "unit": "",
+        "diagnosticTip": "3. Adım Hatası: 2. adımda bulduğun sonuca baştaki a sayısını ekle."
+      }
+    ]
+  },
+  {
+    "id": "mat-denklem-x",
+    "courseId": "matematik",
+    "unitId": "mat-unite-3",
+    "title": "1. Dereceden Denklemde x'i Yalnız Bırakma",
+    "category": "7. Sınıf Matematik · Denklemler",
+    "difficulty": 2,
+    "isParametric": true,
+    "triggerRuleHint": "Eşittir (=) köprüsünden geçen eksi sayı ARTI (+), çarpım durumundaki katsayı BÖLME olur!",
+    "problemTemplate": "{{a}}x - {{b}} = {{rhs}} denkleminde x kaçtır?",
+    "paramSpec": {
+      "vars": {
+        "a": [2, 3, 4, 5],
+        "xVal": [3, 4, 5, 6, 7, 8],
+        "b": [4, 5, 7, 9]
+      },
+      "derived": {
+        "rhs": "a * xVal - b"
+      }
+    },
+    "triggers": [
+      { "text": "- {{b}}", "isCorrect": true, "hint": "Eşittir köprüsünden karşıya +{{b}} olarak geçer." },
+      { "text": "{{a}}x", "isCorrect": true, "hint": "Çarpım durumundaki {{a}} katsayısı son adımda karşıya bölme olarak geçer." },
+      { "text": "= {{rhs}}", "isCorrect": true, "hint": "Denklemin sağ tarafındaki sabit değerdir." }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "label": "Sabit sayıyı (-b) karşıya +b olarak geçir ve topla",
+        "formulaHint": "rhs + b",
+        "compute": "rhs + b",
+        "unit": "",
+        "diagnosticTip": "1. Adım Hatası: -b sayısı eşitliğin diğer tarafına +b diye geçer; rhs + b toplamasını kontrol et."
+      },
+      {
+        "order": 2,
+        "label": "x'in katsayısını (bölünecek sayıyı) belirle",
+        "formulaHint": "a",
+        "compute": "a",
+        "unit": "",
+        "diagnosticTip": "2. Adım Hatası: x'in önündeki çarpım katsayısı a sayısıdır."
+      },
+      {
+        "order": 3,
+        "label": "Toplamı x'in katsayısına bölerek x'i bul",
+        "formulaHint": "(rhs + b) / a",
+        "compute": "(rhs + b) / a",
+        "unit": "",
+        "diagnosticTip": "3. Adım Hatası: 1. adımdaki toplamı 2. adımdaki katsayıya bölerek x'i bulmalısın."
+      }
+    ]
+  }
+]
