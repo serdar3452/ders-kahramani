@@ -64,6 +64,18 @@
                                                                      "title":  "İki Eksi Çarpışınca Artıya Dönüşür",
                                                                      "text":  "Bir borcu silmek (eksi borç çıkarmak) seni zenginleştirir! O yüzden a - (-b) = a + b olur."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Tam Sayılarda Çıkarma \u0026 İşaret Dönüşümü",
+                                                                     "trigger":  "Soruda iki eksi işareti yan yana \u0027a - (-b)\u0027 gelirse!",
+                                                                     "problem":  "(-8) - (-12) işleminin sonucu kaçtır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Yan Yana İki Eksiyi Artıya Çevir): - (-12) ➔ +12 olur",
+                                                                                   "2. Adım (Yeni İşlemi Yaz): -8 + 12",
+                                                                                   "3. Adım (Büyükten Küçüğü Çıkar, Büyüğün İşaretini Al): 12 − 8 = +4 ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       },
                                       {
@@ -108,6 +120,18 @@
                                                                      "icon":  "👑",
                                                                      "title":  "Sıfırıncı Kuvvet Her Şeyi 1 Yapar (Paranteze Dikkat!)",
                                                                      "text":  "Sıfır hariç herhangi bir sayının 0. kuvveti 1\u0027dir. Parantez varsa (-5)⁰ = +1, parantez yoksa -5⁰ = -1 olur."
+                                                                 }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Negatif Üslü İfadede Parantez Kontrolü",
+                                                                     "trigger":  "Soruda (-3)² ile -3² aynı işlemde yan yana çıkarsa!",
+                                                                     "problem":  "(-3)² + (-3²) işleminin sonucu kaçtır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Parantez Dışında Çift Üs): (-3)² = (-3)·(-3) = +9",
+                                                                                   "2. Adım (Parantez Yok / Üs İçeride): -3² = -(3·3) = -9",
+                                                                                   "3. Adım (Topla): +9 + (-9) = 0 ✅"
+                                                                               ]
                                                                  }
                                                              ]
                                       },
@@ -159,6 +183,18 @@
                                                                      "icon":  "🎁",
                                                                      "title":  "Kapıdaki Misafirin Herkesle Tokalaşması (Dağılma)",
                                                                      "text":  "a · (b + c) işleminde dışarıdaki \u0027a\u0027, parantez içindeki hem \u0027b\u0027 ile hem \u0027c\u0027 ile tek tek çarpılır — evdeki herkesle tokalaşmak gibi!"
+                                                                 }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "İşlem Önceliği (Üs → Parantez → Çarp/Böl → Topla/Çıkar)",
+                                                                     "trigger":  "Soruda hem üs, hem parantez, hem çarpma-toplama bir arada varsa!",
+                                                                     "problem":  "2 + 3 · (4 - 2)² işleminin sonucu kaçtır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Önce Parantez İçi): (4 - 2) = 2 ➔ 2 + 3 · 2²",
+                                                                                   "2. Adım (Sonra Üs ve Çarpma): 2² = 4 ➔ 3 · 4 = 12",
+                                                                                   "3. Adım (En Son Toplama): 2 + 12 = 14 ✅"
+                                                                               ]
                                                                  }
                                                              ]
                                       }
@@ -673,6 +709,18 @@
                                                                      "title":  "Yarı Şapkalı Örnek: 0,25̄",
                                                                      "text":  "Tüm sayı 25, şapkasız kısım 2 → (25-2) = 23. Virgülden sonra 1 şapkalı (9) ve 1 şapkasız (0) olduğu için alta 90 gelir → 23/90."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Devirli Ondalık Sayıyı Kesre Çevirme",
+                                                                     "trigger":  "Soruda üzerinde çizgi (şapka) olan 0,25̄ gibi devirli sayı görürsen!",
+                                                                     "problem":  "0,25̄ (sadece 5 devrediyor) sayısını rasyonel sayıya çeviriniz.",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Payı Bul — Hepsi Eksi Şapkasız): 25 − 2 = 23",
+                                                                                   "2. Adım (Paydayı Bul — Virgülden Sonra Şapkalı=9, Şapkasız=0): 1 şapkalı (9) + 1 şapkasız (0) = 90",
+                                                                                   "3. Adım (Birleştir): 23 / 90 ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       },
                                       {
@@ -717,6 +765,18 @@
                                                                      "icon":  "🪜",
                                                                      "title":  "Merdiveni En Alttan Çıkmaya Başla",
                                                                      "text":  "Merdivenli kesirlerde en uzun ana çizgiyi bul; en küçük/en iç basamaktan başlayıp basamak basamak yukarı çık."
+                                                                 }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Rasyonel Sayılarda Bölme (Takla Kuralı)",
+                                                                     "trigger":  "İki kesir arasında bölme (÷) veya ana kesir çizgisi varsa!",
+                                                                     "problem":  "(2/3) ÷ (4/9) işleminin sonucu kaçtır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Birinci Kesri Aynen Yaz): 2/3",
+                                                                                   "2. Adım (İkinci Kesre Takla Attırıp Çarp): (2/3) · (9/4)",
+                                                                                   "3. Adım (Çapraz Sadeleştir \u0026 Çarp): 18 / 12 = 3/2 ✅"
+                                                                               ]
                                                                  }
                                                              ]
                                       }
@@ -1110,6 +1170,18 @@
                                                                      "title":  "Parantez Önündeki Eksi Ters Ayna Gibidir",
                                                                      "text":  "-(2x - 3) ifadesindeki eksi işareti içeri girince her şeyi tersine çevirir: +2x olur -2x, -3 olur +3!"
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Parantez Önündeki Eksiyi Dağıtma",
+                                                                     "trigger":  "Soruda parantez önünde eksi \u0027-(2x - 3)\u0027 görürsen!",
+                                                                     "problem":  "5x - (2x - 3) cebirsel ifadesinin en sade hali nedir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Eksiyi İçerideki Her Terime Dağıt): -(2x - 3) = -2x + 3",
+                                                                                   "2. Adım (Benzer Terimleri Yan Yana Getir): 5x - 2x + 3",
+                                                                                   "3. Adım (Katsayıları Çıkar): 3x + 3 ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       },
                                       {
@@ -1148,6 +1220,18 @@
                                                                      "icon":  "🔓",
                                                                      "title":  "Adım Adım Kilit Açma: 3x - 5 = 16",
                                                                      "text":  "Önce -5 köprüden +5 diye geçer (3x = 21), sonra 3 çarpma olduğu için karşıya bölme olarak geçer (x = 21/3 = 7)."
+                                                                 }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "1. Dereceden Denklemde x\u0027i Yalnız Bırakma",
+                                                                     "trigger":  "Soruda \u0027= \u0027 işaretinin iki yanında sayılar ve x varsa!",
+                                                                     "problem":  "3x - 5 = 16 denkleminde x kaçtır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (-5\u0027i Köprüden +5 Diye Geçir): 3x = 16 + 5 ➔ 3x = 21",
+                                                                                   "2. Adım (Çarpım Durumundaki 3\u0027ü Karşıya Bölme Olarak Geçir): x = 21 / 3",
+                                                                                   "3. Adım (Sonucu Bul): x = 7 ✅"
+                                                                               ]
                                                                  }
                                                              ]
                                       }
