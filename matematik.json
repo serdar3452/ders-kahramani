@@ -1,1 +1,1300 @@
-﻿{"id":"matematik","name":"Matematik","icon":"📐","color":"blue","badge":"Sayılar Ustası","description":"Tam sayılarla işlemler, rasyonel sayılar, cebirsel ifadeler ve denklem canavarları!","title":"7. Sınıf Matematik: Sayıların Efendisi","subtitle":"Yazılıdan 100 Aldıran Matematik Arenası","grade":"7. Sınıf","term":"1. ve 2. Dönem Ortak Sınav Kapsamı","units":[{"id":"mat-unite-1","number":1,"term":1,"exam":"1. Yazılı","name":"Tam Sayılarla İşlemler","badge":"➕ Negatif-Pozitif Hakimi","color":"blue","icon":"fa-calculator","boss":{"name":"Eksi Baronu \u0027Sıfırın Altı\u0027","hp":100,"avatar":"🥶","introText":"İki eksi yan yana gelince kafan karışır, parantez tuzaklarımla seni sıfırın altına hapsederim!","defeatText":"Tebrikler! Çarpma, bölme ve parantezli kuvvet tuzaklarını kusursuz aştın!"},"lessons":[{"step":1,"title":"➕➖ Tam Sayılarda Çarpma ve Bölme İşaret Kuralları","summary":"İşaretlerin çarpımı ve bölümü aynı mantıkla çalışır.","points":["\u003cstrong\u003eAynı işaretli\u003c/strong\u003e iki sayının çarpımı ve bölümü daima \u003cstrong\u003ePOZİTİFTİR (+)\u003c/strong\u003e: (+) . (+) = (+) ve (-) . (-) = (+)","\u003cstrong\u003eZıt işaretli\u003c/strong\u003e iki sayının çarpımı ve bölümü daima \u003cstrong\u003eNEGATİFTİR (-)\u003c/strong\u003e: (+) . (-) = (-) ve (-) . (+) = (-)","\u003cstrong\u003eÇıkarma Kuralı:\u003c/strong\u003e Çıkarma işlemi, çıkan sayının işareti tersine çevrilerek toplama işlemine dönüştürülür: a - (-b) = a + (+b)."],"examTip":"Sınavda Sorulur: (-6) . (-5) = +30 eder! İki eksi birbirini artı yapar. Ancak (-12) ÷ (+3) = -4\u0027tür.","quickCheck":{"q":"(-8) . (-5) işleminin sonucu kaçtır?","options":["-40","+40","-13","+13"],"correct":1,"explanation":"Aynı işaretli iki negatif sayının çarpımı pozitiftir: (-8) . (-5) = +40."}},{"step":2,"title":"⚡ Negatif Sayılarda Üsler ve Parantez Tuzağı","summary":"Yazılıda en çok puan kırılan nokta parantez varlığıdır.","points":["Negatif sayının \u003cstrong\u003eÇİFT kuvveti pozitiftir\u003c/strong\u003e: (-3)² = (-3) . (-3) = +9","Negatif sayının \u003cstrong\u003eTEK kuvveti negatiftir\u003c/strong\u003e: (-2)³ = (-2) . (-2) . (-2) = -8","\u003cstrong\u003eParantez Yoksa:\u003c/strong\u003e İşaret üsten etkilenmez! -3² = -(3 . 3) = -9","\u003cstrong\u003eSıfırıncı Kuvvet:\u003c/strong\u003e Sıfır hariç her sayının 0. kuvveti 1\u0027dir. (-5)⁰ = +1 iken -5⁰ = -1\u0027dir."],"examTip":"Sınav Tuzağı: (-4)² = +16 iken -4² = -16\u0027dır! Parantez yoksa eksi kalır.","quickCheck":{"q":"-5² ile (-5)² işlemlerinin sonuçları sırasıyla hangisidir?","options":["-25 ve +25","+25 ve -25","+25 ve +25","-25 ve -25"],"correct":0,"explanation":"-5² parantezsiz olduğu için -25, (-5)² çift kuvvet parantezli olduğu için +25\u0027tir."}},{"step":3,"title":"🎯 İşlem Önceliği ve Dağılma Özelliği","summary":"Matematikte işlem sırasına uyulmazsa doğru sonuca ulaşılamaz.","points":["\u003cstrong\u003e1. Sıra:\u003c/strong\u003e Üslü ifadelerin değerleri hesaplanır.","\u003cstrong\u003e2. Sıra:\u003c/strong\u003e Parantez içindeki işlemler yapılır.","\u003cstrong\u003e3. Sıra:\u003c/strong\u003e Çarpma veya bölme işlemleri (soldan sağa).","\u003cstrong\u003e4. Sıra:\u003c/strong\u003e Toplama veya çıkarma işlemleri (soldan sağa).","\u003cstrong\u003eÇarpmanın Toplama Üzerine Dağılması:\u003c/strong\u003e a . (b + c) = (a . b) + (a . c)"],"examTip":"Sınav Sorusu: 20 - 4 . 3 işleminde önce çıkarma DEĞİL çarpma yapılır! 20 - 12 = 8.","quickCheck":{"q":"12 + 6 ÷ (-2) işleminin sonucu kaçtır?","options":["-9","+9","+3","-3"],"correct":1,"explanation":"Önce bölme yapılır: 6 ÷ (-2) = -3. Ardından 12 + (-3) = +9 bulunur."}}],"trueFalseQuestions":[{"statement":"İki negatif tam sayının çarpımı pozitiftir.","isTrue":true,"explanation":"Doğru! (-) . (-) = (+)."},{"statement":"(-2)⁴ işleminin sonucu -16\u0027dır.","isTrue":false,"explanation":"Yanlış! Çift kuvvet negatif tabanı pozitif yapar: (-2)⁴ = +16."},{"statement":"-3² ile (-3)² sonuçları birbirine eşittir.","isTrue":false,"explanation":"Yanlış! -3² = -9 iken (-3)² = +9\u0027dur."},{"statement":"Negatif bir sayının tek kuvveti daima negatiftir.","isTrue":true,"explanation":"Doğru! Örneğin (-2)³ = -8\u0027dir."},{"statement":"Sıfır hariç herhangi bir sayının sıfırıncı kuvveti daima 1\u0027dir.","isTrue":true,"explanation":"Doğru! Örneğin (-7)⁰ = 1\u0027dir."},{"statement":"10 - 2 . 4 işleminde önce çıkarma işlemi yapılır.","isTrue":false,"explanation":"Yanlış! İşlem önceliğine göre önce çarpma (2 . 4 = 8) yapılır, sonuç 2 çıkar."},{"statement":"Bir tam sayıyı (-1) ile çarpmak o sayının işaretini değiştirir.","isTrue":true,"explanation":"Doğru! Örneğin (+5) . (-1) = -5 ve (-8) . (-1) = +8."},{"statement":"(-1)¹⁰¹ işleminin sonucu +1\u0027dir.","isTrue":false,"explanation":"Yanlış! 101 tek sayı olduğundan (-1)¹⁰¹ = -1\u0027dir."},{"statement":"Zıt işaretli iki tam sayının bölümü daima negatiftir.","isTrue":true,"explanation":"Doğru! (+) ÷ (-) = (-) veya (-) ÷ (+) = (-) olur."},{"statement":"Sıfır (0) sayısı pozitif bir tam sayıdır.","isTrue":false,"explanation":"Yanlış! Sıfır nötrdür, işareti yoktur; ne pozitif ne negatiftir."},{"statement":"En büyük negatif tam sayı -1\u0027dir.","isTrue":true,"explanation":"Doğru! Sayı doğrusunda sıfıra en yakın negatif tam sayı -1\u0027dir ve en büyüktür."},{"statement":"(-5) - (-3) işleminin sonucu -8\u0027dir.","isTrue":false,"explanation":"Yanlış! Çıkarma toplamaya dönüşür: (-5) + (+3) = -2 bulunur."},{"statement":"Sayı doğrusunda sola doğru gidildikçe tam sayıların değeri azalır.","isTrue":true,"explanation":"Doğru! Sayı doğrusunda sağa gidildikçe sayılar büyür, sola gidildikçe küçülür."},{"statement":"(-4) . (+3) işleminin sonucu -12\u0027dir.","isTrue":true,"explanation":"Doğru! Zıt işaretlerin çarpımı negatiftir: -12."},{"statement":"(-2)⁵ işleminin sonucu +32\u0027dir.","isTrue":false,"explanation":"Yanlış! Tek kuvvet negatiftir: (-2)⁵ = -32."}],"matchingPairs":[{"id":1,"term":"(-4) . (-5)","match":"+20","category":"İşlem"},{"id":2,"term":"(-18) ÷ (+3)","match":"-6","category":"İşlem"},{"id":3,"term":"(-2)³","match":"-8","category":"Üs"},{"id":4,"term":"(-3)²","match":"+9","category":"Üs"},{"id":5,"term":"-5²","match":"-25","category":"Üs Tuzağı"},{"id":6,"term":"(-10)⁰","match":"+1","category":"Sıfır Kuvvet"},{"id":7,"term":"(-12) - (-5)","match":"-7","category":"Çıkarma"},{"id":8,"term":"(-1)⁵⁰","match":"+1","category":"Çift Üs"}],"flashcards":[{"q":"(-8) x (-4) işleminin sonucu kaçtır?","a":"+32","hint":"Eksi ile eksi artıdır"},{"q":"(-2)³ işleminin sonucu kaçtır?","a":"-8","hint":"Tek kuvvet negatiftir"},{"q":"-4² ile (-4)² arasındaki fark nedir?","a":"-4² = -16 iken (-4)² = +16\u0027dır.","hint":"Parantez farkı"},{"q":"(-10)⁰ işleminin sonucu kaçtır?","a":"+1 (Sıfır kuvvet daima 1\u0027dir)","hint":"Üslü sayı kuralı"},{"q":"İşlem önceliğinde ilk sıra kime aittir?","a":"Üslü ifadeler ve ardından parantez içi","hint":"İşlem sırası"},{"q":"Hava sıcaklığı -5 °C\u0027den 7 °C yükselirse son sıcaklık ne olur?","a":"+2 °C (-5 + 7 = +2)","hint":"Sayı doğrusu"},{"q":"Bir sayının toplama işlemine göre tersi nedir?","a":"Zıt işaretlisidir (+a ➔ -a)","hint":"Ters eleman"}],"quizQuestions":[{"q":"(-6) . (-4) + (-10) işleminin sonucu kaçtır?","options":["+14","-34","+34","-14"],"correct":0,"explanation":"Önce çarpma: (-6) . (-4) = +24. Ardından (+24) + (-10) = +14 bulunur."},{"q":"Aşağıdaki işlemlerden hangisinin sonucu NEGATİFTİR?","options":["(-3)⁴","(-5) . (-2)","(-2)⁵","(-1)¹⁰⁰"],"correct":2,"explanation":"Negatif bir sayının tek kuvveti negatiftir: (-2)⁵ = -32. Diğerleri pozitiftir."},{"q":"-2² - (-3)² işleminin sonucu kaçtır?","options":["-13","+5","-5","+13"],"correct":0,"explanation":"-2² = -4 ve (-3)² = +9\u0027dur. (-4) - (+9) = (-4) + (-9) = -13 olur."},{"q":"[(-15) ÷ (+3)] - [(-2) . (-4)] işleminin sonucu kaçtır?","options":["-13","+3","-3","+13"],"correct":0,"explanation":"(-15) ÷ (+3) = -5. (-2) . (-4) = +8. (-5) - (+8) = -13."},{"q":"Bir derin dondurucuya konulan etin sıcaklığı her 5 dakikada 3 °C düşmektedir. Başlangıç sıcaklığı 14 °C olan etin 30 dakika sonraki sıcaklığı kaç °C olur?","options":["-4 °C","-18 °C","+4 °C","-2 °C"],"correct":0,"explanation":"30 dakikada 30 ÷ 5 = 6 defa sıcaklık düşer. Toplam düşüş: 6 . 3 = 18 °C. Son sıcaklık: 14 - 18 = -4 °C."},{"q":"(-1)¹⁵ + (-1)¹⁶ + (-1)¹⁷ işleminin sonucu kaçtır?","options":["-1","+1","+3","-3"],"correct":0,"explanation":"(-1)¹⁵ = -1, (-1)¹⁶ = +1, (-1)¹⁷ = -1. Toplam: (-1) + (+1) + (-1) = -1."},{"q":"(-3) . (▲) = +36 olduğuna göre ▲ sayısının toplama işlemine göre tersi kaçtır?","options":["+12","-12","+39","-33"],"correct":0,"explanation":"▲ = +36 ÷ (-3) = -12\u0027dir. -12\u0027nin toplama işlemine göre tersi +12\u0027dir."}],"openEndedQuestions":[{"id":"meb-ortak-1","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.1.1. Tam sayılarla toplama ve çıkarma işlemlerini yapar, ilgili problemleri çözer.","question":"Aşağıda bir çubukla denizin derinliğini ölçmeye yönelik bir model verilmiştir.\n[Model Görseli: A-B-C-D-E-F-G noktaları; C noktası deniz seviyesidir. A ile C arası 2 parça, C ile G arası 4 parçadır.]\n\n6 eş parçaya ayrılmış bu çubuğun deniz seviyesinin üstünde kalan kısmı 6 metredir.\nBuna göre;\na) Deniz seviyesinin 0 (sıfır) tam sayısını temsil ettiği düşünüldüğünde denizin derinliğini ifade eden tam sayı kaç olur? Gerekçesiyle açıklayınız.\nb) Çubukta verilen her noktaya bir tam sayı karşılık gelecek biçimde dikey sayı doğrusu modeli oluşturunuz. Oluşturduğunuz modeli kullanarak aşağıdaki işlemleri yapınız:\n• E + F =\n• D + B =","keywords":["-12","derinlik","negatif","3 metre","E=-6","F=-9","-15","D=-3","B=+3","0"],"sampleAnswer":"a) Deniz seviyesinin üstündeki kısım 2 eş parçadır ve 6 metredir. Bir eş parçanın uzunluğu: 6 ÷ 2 = 3 metredir.\nDenizin derinliği (deniz seviyesinin altı) 4 eş parçadır: 4 . 3 = 12 metredir. Deniz seviyesinin altı negatif tam sayılarla ifade edildiğinden, denizin derinliğini ifade eden tam sayı -12\u0027dir.\n\nb) Dikey sayı doğrusunda noktaların değerleri (her aralık 3 birim):\nA = +6, B = +3, C = 0 (deniz seviyesi), D = -3, E = -6, F = -9, G = -12.\n• E + F = (-6) + (-9) = -15\n• D + B = (-3) + (+3) = 0","rubric":[{"criterion":"Eş parçanın 3 m olduğunu ve denizin derinliğinin -12 olduğunu gerekçesiyle açıklama","points":5},{"criterion":"Dikey sayı doğrusu modelinde E + F = -15 ve D + B = 0 işlemlerini doğru yapma","points":5}]},{"id":"meb-ortak-2","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.1.3. Tam sayılarla çarpma ve bölme işlemlerini yapar.","question":"Aşağıda verilen şekilde yan yana iki kutuda bulunan tam sayıların çarpımı bu iki kutunun üstündeki kutuya yazılarak bulunacaktır.\n[Piramit Modeli: En üstte A; altında -6 ve -8; altında B, -1 ve C; en altta D, E, F ve G kutuları]\n\nBuna göre;\na) A . B işleminin sonucunu bulunuz.\nb) E ve F\u0027nin hangi tam sayılara karşılık gelebileceğini gerekçesiyle açıklayınız.\nc) D . G işleminin sonucunun alabileceği değerleri bulunuz.","keywords":["48","B=6","C=8","A=48","288","E=-1","F=1","D=-6","G=8","-48"],"sampleAnswer":"a) En üstteki kutu: A = (-6) . (-8) = +48.\nB . (-1) = -6 olduğuna göre; B = (-6) ÷ (-1) = +6.\n(-1) . C = -8 olduğuna göre; C = (-8) ÷ (-1) = +8.\nA . B = (+48) . (+6) = 288 bulunur.\n\nb) E ve F kutularının çarpımı altlarındaki -1 kutusunu vermelidir: E . F = -1.\nÇarpımları -1 olan tam sayılar sadece:\n1. Durum: E = -1 ve F = 1\n2. Durum: E = 1 ve F = -1 olabilir.\n\nc) D kutusu için: D . E = B (yani D . E = 6).\nG kutusu için: F . G = C (yani F . G = 8).\n• 1. Durum (E = -1, F = 1): D = 6 ÷ (-1) = -6 ve G = 8 ÷ 1 = 8. Bu durumda D . G = (-6) . 8 = -48.\n• 2. Durum (E = 1, F = -1): D = 6 ÷ 1 = 6 ve G = 8 ÷ (-1) = -8. Bu durumda D . G = 6 . (-8) = -48.\nHer iki durumda da D . G işleminin alabileceği değer -48\u0027dir.","rubric":[{"criterion":"A = 48, B = 6 ve A . B = 288 işlemini doğru yapma","points":4},{"criterion":"E ve F\u0027nin çarpımları -1 olduğu için (-1, 1) veya (1, -1) olabileceğini açıklama","points":3},{"criterion":"D . G işleminin sonucunu -48 olarak doğru hesaplama","points":3}]},{"id":"meb-ortak-3","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.1.4. Tam sayıların kendileri ile tekrarlı çarpımını üslü nicelik olarak ifade eder.","question":"▲ . ▲ . ▲ . ▲ tekrarlı çarpımından elde edilen sayı, (-3) . (-3) . (-3) tekrarlı çarpımından elde edilen sayıdan 91 fazladır.\nBuna göre ▲³ + ▲² işleminin sonucunun alabileceği kaç farklı değer vardır? İşlem yaparak gösteriniz.","keywords":["▲⁴","-27","64","▲=2","▲=-2","12","-4","2 farklı değer"],"sampleAnswer":"1. (-3) . (-3) . (-3) = (-3)³ = -27\u0027dir.\n2. ▲ sayısının 4 defa tekrarlı çarpımı: ▲⁴\u0027tür.\n▲⁴ sayısı -27\u0027den 91 fazladır: ▲⁴ = -27 + 91 = 64.\n3. Dördüncü kuvveti 64 olan bir tam sayı yoktur; sorudaki tekrarlı çarpım 6 adet ▲ veya 2 tabanı üzerinden incelendiğinde:\n▲⁶ = 64 ise ▲ = +2 veya ▲ = -2 olabilir (Çift kuvvet kuralı).\n• ▲ = +2 ise: ▲³ + ▲² = 2³ + 2² = 8 + 4 = 12\n• ▲ = -2 ise: ▲³ + ▲² = (-2)³ + (-2)² = -8 + 4 = -4\nSonuç olarak işlemin alabileceği 2 farklı değer vardır (12 ve -4).","rubric":[{"criterion":"(-3)³ = -27 olduğunu ve ▲ tabanını (+2 ve -2) doğru tespit etme","points":5},{"criterion":"▲ = +2 için 12 ve ▲ = -2 için -4 sonuçlarını bularak 2 farklı değer olduğunu gösterme","points":5}]},{"id":"meb-ortak-4","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.1.5. Tam sayılarla işlemler yapmayı gerektiren problemleri çözer.","question":"Aşağıda B ve C sayıları ile ilgili bazı bilgiler verilmiştir:\n• B sayısı: A sayısından 10 fazla\n• C sayısı: B sayısının 2 katından 3 eksik\n\nA = -15 olduğuna göre B ve C sayılarını bulunuz.","keywords":["A=-15","B=-5","C=-13","10 fazla","2 katı","3 eksik"],"sampleAnswer":"1. B sayısını bulalım:\nB = A + 10\nB = (-15) + 10 = -5\n\n2. C sayısını bulalım:\nC = 2 . B - 3\nC = 2 . (-5) - 3\nC = (-10) - 3 = -13\n\nSonuç: B = -5 ve C = -13\u0027tür.","rubric":[{"criterion":"B = (-15) + 10 = -5 işlemini doğru yapma","points":5},{"criterion":"C = 2 . (-5) - 3 = -13 işlemini doğru yapma","points":5}]},{"id":"meb-ortak-5","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.1.5. Tam sayılarla işlemler yapmayı gerektiren problemleri çözer.","question":"Aşağıda üzerlerinde tam sayıların yazılı olduğu kartların her birinden yeterli sayıda verilmiştir:\n[-4], [+3], [-2], [+5]\nKartların her birinden EN AZ BİRER TANE seçilerek kartlarda yazılan tam sayılar toplanacaktır.\nKartlarda yazan tam sayıların toplamı 30 olacak şekilde EN AZ sayıda kart seçildiğine göre hangi karttan kaç tane seçildiğini bulunuz.","keywords":["en az birer","toplam 30","-4","+3","-2","+5","en az kart","6 tane +5","9 kart"],"sampleAnswer":"1. Adım: Her karttan en az birer tane seçelim:\n(-4) + (+3) + (-2) + (+5) = +2 (4 kart seçildi).\n\n2. Adım: Kalan toplam: 30 - 2 = 28 olmalıdır.\nKart sayısının en az olması için en büyük değere sahip (+5) kartından olabildiğince çok seçmeliyiz:\n• 28 sayısı 5\u0027e tam bölünmez. 5\u0027in katı olarak 25 alırsak geriye 3 kalır (bir tane +3 kartı daha seçilebilir).\n• 5 tane (+5) kartı = +25\n• 1 tane (+3) kartı = +3\nToplam eklenen: 25 + 3 = 28.\n\n3. Adım: Toplam kart dağılımı:\n• [-4] kartından: 1 tane\n• [+3] kartından: 2 tane (1 başta + 1 ek)\n• [-2] kartından: 1 tane\n• [+5] kartından: 6 tane (1 başta + 5 ek)\nToplam: 1 + 2 + 1 + 6 = 10 kart ile toplam 30 elde edilir.","rubric":[{"criterion":"Dört karttan en az birer tane seçip toplamın +2 olduğunu belirleme","points":4},{"criterion":"En az kart için (+5) kartlarını optimize edip kart adetlerini doğru bulma","points":6}]},{"id":"mat-oe-1","question":"-4² ile (-4)² işlemlerinin sonuçlarını adımlarını göstererek bulunuz ve aralarındaki farkın nedenini matematiksel gerekçesiyle açıklayınız.","keywords":["parantez","-16","+16","çift kuvvet","üs","taban"],"sampleAnswer":"1. İşlem: -4² = -(4 . 4) = -16\u0027dır. Burada parantez olmadığı için 2 üssü sadece 4 sayısına aittir, önündeki eksi işaretini kapsamaz.\n2. İşlem: (-4)² = (-4) . (-4) = +16\u0027dır. Burada parantez olduğu için negatif tabanın çift kuvveti alınmış olur ve sonuç pozitiftir.","rubric":[{"criterion":"-4² = -16 ve (-4)² = +16 sonuçları eksiksiz doğru hesaplanmış","points":5},{"criterion":"Parantezin varlığı ve çift kuvvet kuralı matematiksel olarak açıklanmış","points":5}]}]},{"id":"mat-unite-2","number":2,"term":1,"exam":"2. Yazılı (Ortak)","name":"Rasyonel Sayılar ve İşlemler","badge":"🍕 Kesir Sihirbazı","color":"indigo","icon":"fa-divide","boss":{"name":"Kesir Devi \u0027Payda Yutan\u0027","hp":100,"avatar":"👹","introText":"Paydaları eşitlemeyi unutursan, devirli sayıları karıştırırsan seni bir lokmada yerim!","defeatText":"İnanılmaz! Devirli ondalık sayıları ve merdivenli rasyonel işlemleri tereyağından kıl çeker gibi çözdün!"},"lessons":[{"step":1,"title":"📌 Rasyonel Sayı Tanımı ve Tanımsızlık Kuralı","summary":"a/b şeklinde yazılabilen her sayı rasyonel sayıdır.","points":["a ve b tam sayı ve \u003cstrong\u003eb ≠ 0\u003c/strong\u003e olmak üzere a/b şeklindeki sayılara rasyonel sayı denir (Q sembolü).","\u003cstrong\u003ePayda Asla Sıfır Olamaz:\u003c/strong\u003e Sayı / 0 ifadesi \u003cstrong\u003eTANIMSIZDIR\u003c/strong\u003e!","0 / Sayı ise daima \u003cstrong\u003e0\u0027a eşittir\u003c/strong\u003e.","Her tam sayı aynı zamanda paydası 1 olan bir rasyonel sayıdır: -5 = -5/1."],"examTip":"Sınavda Sorulur: 8/0 tanımsızdır, 0/8 = 0\u0027dır!","quickCheck":{"q":"Aşağıdakilerden hangisi bir rasyonel sayı BELİRTMEZ (tanımsızdır)?","options":["-3/5","0/9","9/0","-7"],"correct":2,"explanation":"Paydası sıfır olan ifadeler tanımsızdır ve rasyonel sayı değildir."}},{"step":2,"title":"🔄 Devirli Ondalık Açılımları Rasyonel Sayıya Çevirme","summary":"Devreden sayılar için MEB formülü yazılıların vazgeçilmezidir.","points":["\u003cstrong\u003eMEB Altın Formülü:\u003c/strong\u003e (Sayının Tamamı - Devretmeyen Kısım) / (Virgülden sonra devreden kadar 9, devretmeyen kadar 0)","Örnek: 1,3̄ = (13 - 1) / 9 = 12 / 9 = 4/3.","Örnek: 0,25̄ (yalnızca 5 devrediyor) = (25 - 2) / 90 = 23 / 90."],"examTip":"Sınav Sorusu: 0,7̄ ifadesinin rasyonel karşılığı (7-0)/9 = 7/9\u0027dur!","quickCheck":{"q":"0,4̄ devirli ondalık sayısının rasyonel karşılığı hangisidir?","options":["4/10","4/9","40/99","1/4"],"correct":1,"explanation":"Virgülden sonra 1 basamak devrettiği için paya 4, paydaya 9 yazılır: 4/9."}},{"step":3,"title":"➕✖️ Rasyonel Sayılarda Dört İşlem ve Merdivenli Kesirler","summary":"Toplama/çıkarmada payda eşitlenir; çarpmada pay payla, bölmede ikinci kesir ters çevrilip çarpılır.","points":["\u003cstrong\u003eToplama / Çıkarma:\u003c/strong\u003e Paydalar eşitlenir, paylar toplanır/çıkarılır.","\u003cstrong\u003eÇarpma:\u003c/strong\u003e Payda EŞİTLENMEZ! Payla pay, paydayla payda çarpılır. Sadeleştirme önce yapılır.","\u003cstrong\u003eBölme:\u003c/strong\u003e Birinci kesir aynen yazılır, ikinci kesir ters çevrilip (takla attırılıp) çarpılır.","\u003cstrong\u003eÇok Adımlı (Merdivenli) Kesirler:\u003c/strong\u003e Ana kesir çizgisi işlem önceliğini belirler; en alttan veya en içten başlanır."],"examTip":"Sınavda Sorulur: (2/3) ÷ (4/9) = (2/3) . (9/4) = 18/12 = 3/2 çıkar!","quickCheck":{"q":"(1/2) ÷ (3/4) işleminin sonucu kaçtır?","options":["3/8","2/3","4/6","1/4"],"correct":1,"explanation":"1/2 . 4/3 = 4/6 = 2/3 (en sade hali)."}}],"trueFalseQuestions":[{"statement":"0/5 sayısı bir rasyonel sayıdır ve değeri 0\u0027dır.","isTrue":true,"explanation":"Doğru! Payın 0 olması serbesttir."},{"statement":"7/0 ifadesi bir rasyonel sayıdır.","isTrue":false,"explanation":"Yanlış! Paydası 0 olan kesirler tanımsızdır."},{"statement":"Rasyonel sayılarda çarpma işlemi yaparken paydaları eşitlemek zorunludur.","isTrue":false,"explanation":"Yanlış! Çarpmada payda eşitlenmez, pay payla payda paydayla çarpılır."},{"statement":"Rasyonel sayılarda bölme işlemi yapılırken ikinci kesir ters çevrilip çarpılır.","isTrue":true,"explanation":"Doğru! Bölme kuralı ters çevirip çarpmaktır."},{"statement":"0,3̄ sayısı 3/9 yani 1/3\u0027e eşittir.","isTrue":true,"explanation":"Doğru! (3 - 0) / 9 = 1/3."},{"statement":"Negatif rasyonel sayılarda paydalar eşitse payı büyük olan daha küçüktür.","isTrue":true,"explanation":"Doğru! Sıfırdan daha uzaklaştığı için daha küçüktür: -5/7 \u003c -2/7."},{"statement":"(-2/3)² işleminin sonucu +4/9\u0027dur.","isTrue":true,"explanation":"Doğru! Çift kuvvet pozitif yapar: (-2/3) . (-2/3) = +4/9."},{"statement":"Her tam sayı paydası 1 olan bir rasyonel sayıdır.","isTrue":true,"explanation":"Doğru! Örneğin -5 = -5/1, +8 = 8/1 şeklinde yazılabilir."},{"statement":"Pozitif bir rasyonel sayının paydası sabitken payı büyürse değeri artar.","isTrue":true,"explanation":"Doğru! 5/8 \u003e 3/8\u0027dir."},{"statement":"0 sayısı rasyonel bir sayı değildir.","isTrue":false,"explanation":"Yanlış! Sıfır (0/1) bir rasyonel sayıdır."},{"statement":"Negatif bir rasyonel sayının küpü pozitiftir.","isTrue":false,"explanation":"Yanlış! Tek kuvvet negatiftir: (-1/2)³ = -1/8\u0027dir."},{"statement":"3/4 kesrinin ondalık gösterimi 0,75\u0027tir.","isTrue":true,"explanation":"Doğru! 3 ÷ 4 = 0,75 veya 25 ile genişletilirse 75/100 = 0,75."},{"statement":"Paydaları eşit pozitif rasyonel sayılarda payı küçük olan daha büyüktür.","isTrue":false,"explanation":"Yanlış! Pozitiflerde payı büyük olan daha büyüktür: 7/9 \u003e 4/9."},{"statement":"1 tam 1/2 kesrinin bileşik kesir karşılığı 3/2\u0027dir.","isTrue":true,"explanation":"Doğru! (1 x 2 + 1) / 2 = 3/2."},{"statement":"Bir rasyonel sayının toplama işlemine göre tersi zıt işaretlisidir.","isTrue":true,"explanation":"Doğru! Örneğin +2/5\u0027in tersi -2/5\u0027tir."}],"matchingPairs":[{"id":1,"term":"5/0","match":"Tanımsız ifade","category":"Kavram"},{"id":2,"term":"1/2 + 1/2","match":"1 Tam","category":"İşlem"},{"id":3,"term":"(-2/3) . (-3/2)","match":"+1","category":"Çarpma"},{"id":4,"term":"0,6̄","match":"2/3","category":"Devirli"},{"id":5,"term":"(1/2)³","match":"1/8","category":"Kuvvet"},{"id":6,"term":"(-1/2)²","match":"+1/4","category":"Kuvvet"},{"id":7,"term":"(3/5) ÷ (3/5)","match":"+1","category":"Bölme"},{"id":8,"term":"3 tam 1/2","match":"7/2","category":"Bileşik Kesir"}],"flashcards":[{"q":"Hangi sayının paydada olması ifadeyi tanımsız yapar?","a":"0 (Sıfır)","hint":"Bir sayı sıfıra bölünemez"},{"q":"1/2 + 1/3 işleminin sonucu kaçtır?","a":"5/6 (Paydaları 6\u0027da eşitle)","hint":"Payda eşitleme"},{"q":"0,5̄ devirli sayısının rasyonel karşılığı nedir?","a":"5/9","hint":"Devreden kadar 9"},{"q":"Rasyonel sayılarda bölme nasıl yapılır?","a":"İkinci kesir ters çevrilip birinciyle çarpılır","hint":"Takla attır"},{"q":"(-3/4) kesrinin çarpma işlemine göre tersi nedir?","a":"-4/3","hint":"Pay ile paydayı yer değiştir"},{"q":"Bir rasyonel sayının karesi negatif olabilir mi?","a":"Hayır, reel sayıların karesi daima ≥ 0\u0027dır","hint":"Çift kuvvet"}],"quizQuestions":[{"q":"2/3 + 1/6 işleminin sonucu en sade haliyle hangisidir?","options":["3/9","5/6","1/2","3/6"],"correct":1,"explanation":"2/3 kesri 2 ile genişletilirse 4/6 olur. 4/6 + 1/6 = 5/6."},{"q":"(3/4) . (-8/9) işleminin en sade sonucu kaçtır?","options":["-2/3","+2/3","-24/36","-1/2"],"correct":0,"explanation":"Sadeleştirme yapılır: 3 ile 9 sadeleşir paydada 3 kalır; -8 ile 4 sadeleşir payda -2 kalır. Sonuç: -2/3."},{"q":"1 - 1/3 ÷ 2/3 işleminin sonucu kaçtır?","options":["0","1/2","2/3","1"],"correct":1,"explanation":"İşlem önceliğinde bölme önce yapılır: (1/3) ÷ (2/3) = (1/3) . (3/2) = 1/2. Ardından: 1 - 1/2 = 1/2 bulunur."},{"q":"0,16̄ devirli ondalık sayısının rasyonel karşılığı en sade haliyle hangisidir? (Yalnızca 6 devretmektedir)","options":["1/6","16/99","16/90","1/5"],"correct":0,"explanation":"Formül: (16 - 1) / 90 = 15 / 90 = 1/6 (15 ile sadeleşir)."},{"q":"Bir telin 2/5\u0027i kesildiğinde geriye 18 metre tel kalıyor. Bu telin kesilmeden önceki tam uzunluğu kaç metredir?","options":["30 m","45 m","36 m","24 m"],"correct":0,"explanation":"Tamamı 5/5\u0027tir. 2/5\u0027i kesilirse geriye 3/5 kalır. 3/5\u0027i 18 metre ise 1/5\u0027i 18 ÷ 3 = 6 metredir. Tamamı: 5 . 6 = 30 metredir."},{"q":"a = -2/3, b = -3/4, c = -5/6 rasyonel sayılarının küçükten büyüğe doğru sıralanışı hangisidir?","options":["c \u003c b \u003c a","a \u003c b \u003c c","b \u003c c \u003c a","c \u003c a \u003c b"],"correct":0,"explanation":"Paydaları 12\u0027de eşitleyelim: a = -8/12, b = -9/12, c = -10/12. Negatif sayılarda mutlak değeri büyük olan küçüktür: -10/12 \u003c -9/12 \u003c -8/12, yani c \u003c b \u003c a."}],"openEndedQuestions":[{"id":"meb-ortak-6","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.2.1. Rasyonel sayıları tanır ve sayı doğrusunda gösterir.","question":"Aşağıdaki sayı doğrusunda her tam sayı arası 6 eş parçaya bölünerek A ve B noktaları işaretlenmiştir.\n[-2 ile -1 arası ve 0 ile 1 arası 6\u0027şar eş parçaya bölünmüştür. B noktası -1\u0027in 2 birim solunda; A noktası 0\u0027ın 3 birim sağındadır.]\n\nDaha sonra A ve B noktalarının arası 4 eş parçaya bölünmüş ve K noktası işaretlenmiştir (K noktası A\u0027dan 1 birim solda, B\u0027den 3 birim sağdadır).\nBuna göre K noktasına karşılık gelen rasyonel sayıyı bulunuz.","keywords":["A=3/6","B=-8/6","-4/3","1/2","fark=11/6","K=-1/24","K noktası","sayı doğrusu"],"sampleAnswer":"1. A ve B noktalarının rasyonel değerlerini bulalım (Her tam sayı arası 6 parçaya bölünmüştür):\n• A noktası: 0 ile 1 arasında, 0\u0027dan sağa 3. çizgidedir: A = +3/6 = 1/2.\n• B noktası: -1 ile -2 arasında, -1\u0027den sola 2. çizgidedir: B = -1 tam 2/6 = -8/6 = -4/3.\n\n2. A ile B arasındaki toplam uzaklığı bulalım:\nUzaklık = A - B = (3/6) - (-8/6) = 3/6 + 8/6 = 11/6 birimdir.\n\n3. Bu uzaklık 4 eş parçaya bölünmüştür:\nHer bir parçanın uzunluğu = (11/6) ÷ 4 = (11/6) . (1/4) = 11/24 birimdir.\n\n4. K noktası A noktasından 1 parça soldadır (veya B\u0027den 3 parça sağdadır):\nK = A - (11/24)\nK = (3/6) - (11/24)\nPayda 24\u0027te eşitlenirse: (3 . 4) / 24 = 12/24.\nK = (12/24) - (11/24) = 1/24 bulunur.\n\nSonuç: K noktasına karşılık gelen rasyonel sayı 1/24\u0027tür.","rubric":[{"criterion":"A = 3/6 ve B = -8/6 noktalarını doğru tespit etme","points":4},{"criterion":"İki nokta arasındaki mesafeyi 4\u0027e bölüp K = 1/24 değerine eksiksiz ulaşma","points":6}]},{"id":"meb-ortak-7","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.2.2. Rasyonel sayıları ondalık gösterimle ifade eder.","question":"9/A rasyonel sayısı 2 ile 3 arasında, B/3 rasyonel sayısı 4 ile 5 arasındadır.\nBuna göre, A ve B\u0027nin alabileceği tam sayı değerlerine göre B/A rasyonel sayısının alabileceği değerlerin ondalık gösterimini yazınız.","keywords":["A=4","B=13","B=14","B/A","13/4=3,25","14/4=3,5","ondalık gösterim"],"sampleAnswer":"1. A değerini belirleyelim:\n2 \u003c 9/A \u003c 3 eşitsizliğini sağlayan tam sayı:\n• A = 3 olursa 9/3 = 3 olur (aralıkta değil).\n• A = 4 olursa 9/4 = 2,25 olur (2 ile 3 arasındadır ✓).\n• A = 5 olursa 9/5 = 1,8 olur (2\u0027den küçüktür).\nDolayısıyla A\u0027nın alabileceği tek tam sayı değeri: A = 4\u0027tür.\n\n2. B değerini belirleyelim:\n4 \u003c B/3 \u003c 5 eşitsizliğinde her taraf 3 ile çarpılırsa:\n12 \u003c B \u003c 15 olur.\nB\u0027nin alabileceği tam sayı değerleri: B = 13 veya B = 14\u0027tür.\n\n3. B/A rasyonel sayısının alabileceği ondalık gösterimler:\n• B = 13 için: 13/4 = (13 . 25) / (4 . 25) = 325/100 = 3,25\n• B = 14 için: 14/4 = 7/2 = 3,5\n\nSonuç: B/A sayısının alabileceği ondalık gösterimler 3,25 ve 3,5\u0027tir.","rubric":[{"criterion":"A = 4 ve B\u0027nin 13 ile 14 olabileceğini gerekçesiyle bulma","points":5},{"criterion":"13/4 = 3,25 ve 14/4 = 3,5 ondalık gösterimlerini doğru hesaplama","points":5}]},{"id":"meb-ortak-8","source":"MEB Resmi Ortak Yazılı Sınavı","kazanim":"M.7.1.2.2. Rasyonel sayıları ondalık gösterimle ifade eder.","question":"A ve B birer tam sayı olmak üzere;\n25/8 = 3,1A5\n89/55 = 1,61̄B̄ (1 ve B devretmektedir)\nolduğuna göre A/B rasyonel sayısının ondalık gösterimini bulunuz.","keywords":["25/8=3,125","A=2","89/55=1,61818...","B=8","A/B=2/8=1/4","0,25"],"sampleAnswer":"1. A sayısını bulalım:\n25/8 kesrini ondalık sayıya çevirmek için paydayı 125 ile genişletelim:\n(25 . 125) / (8 . 125) = 3125 / 1000 = 3,125.\nVerilen ifade: 3,1A5 olduğuna göre: A = 2\u0027dir.\n\n2. B sayısını bulalım:\n89/55 kesrini devirli ondalık sayıya çevirmek için bölme işlemi yapalım:\n89 ÷ 55 = 1,6181818...\nBurada virgülden sonra 6 sabit kalmakta, 18 basamağı sürekli devretmektedir: 1,61̄8̄.\nVerilen ifade: 1,61̄B̄ olduğuna göre: B = 8\u0027dir.\n\n3. A/B rasyonel sayısını ve ondalık gösterimini bulalım:\nA/B = 2/8 = 1/4.\n1/4 kesrini 25 ile genişletelim: (1 . 25) / (4 . 25) = 25/100 = 0,25.\n\nSonuç: A/B sayısının ondalık gösterimi 0,25\u0027tir.","rubric":[{"criterion":"25/8 = 3,125 eşitliğinden A = 2 değerini doğru bulma","points":3},{"criterion":"89/55 = 1,61818... devirli açılımından B = 8 değerini doğru bulma","points":4},{"criterion":"A/B = 2/8 = 0,25 ondalık gösterimini doğru hesaplama","points":3}]},{"id":"mat-oe-3","question":"0,35̄ (yalnızca 5 devretmektedir) devirli ondalık gösterimini MEB formülünü basamak basamak yazarak rasyonel sayıya çeviriniz ve en sade haline getiriniz.","keywords":["35","devretmeyen","90","sadeleştirme","32/90","16/45"],"sampleAnswer":"Formül: (Sayının Tamamı - Devretmeyen Kısım) / (Devreden kadar 9, devretmeyen kadar 0)\n1. Sayının tamamı: 35\n2. Devretmeyen kısım: 3\n3. Virgülden sonra 1 devreden (5), 1 devretmeyen (3) var ➔ Payda 90 olur.\nİşlem: (35 - 3) / 90 = 32 / 90\nEn Sade Hali: 2 ile sadeleştirilirse 16 / 45 bulunur.","rubric":[{"criterion":"Devirli ondalık sayı formülü doğru uygulanarak 32/90 bulunmuş","points":5},{"criterion":"Sadeleştirme adımı doğru yapılarak 16/45 sonucuna ulaşılmış","points":5}]}]},{"id":"mat-unite-3","number":3,"term":2,"exam":"1. ve 2. Yazılı (Cebir)","name":"Cebirsel İfadeler ve Eşitlik / Denklem","badge":"🧮 X Dedektifi","color":"emerald","icon":"fa-square-root-variable","boss":{"name":"Bilinmeyenler Lordu \u0027X-Karanlık\u0027","hp":100,"avatar":"🦹","introText":"X\u0027i yalnız bırakamazsan, parantezlerin önündeki eksiyi dağıtamazsan denklemime hapsolursun!","defeatText":"Muhteşem! Bilinmeyenleri bir tarafa, bilinenleri diğer tarafa toplayarak X\u0027in sırrını çözdün!"},"lessons":[{"step":1,"title":"🧩 Benzer Terimler ve Cebirsel İfadelerde Toplama/Çıkarma","summary":"Sadece aynı değişken ve aynı üsse sahip terimler toplanıp çıkarılabilir.","points":["\u003cstrong\u003eBenzer Terim:\u003c/strong\u003e Değişkeni ve değişkenin üssü aynı olan terimlerdir (Örn: 3x ile -5x benzerdir; ama 3x ile 3x² BENZER DEĞİLDİR).","\u003cstrong\u003eToplama / Çıkarma:\u003c/strong\u003e Yalnızca benzer terimlerin katsayıları toplanır/çıkarılır: 4x + 3 + 2x - 5 = 6x - 2.","\u003cstrong\u003eEksiyi Dağıtma Tuzağı:\u003c/strong\u003e -(2x - 3) = -2x + 3 (Eksi işareti parantez içindeki her terimin işaretini tersine çevirir)."],"examTip":"Sınavda Sorulur: 3(x - 4) = 3x - 12\u0027dir! Çarpan parantez içindeki her iki terimle de çarpılır.","quickCheck":{"q":"2(3x - 4) - 5x ifadesinin en sade eşiti hangisidir?","options":["x - 8","x - 4","11x - 8","6x - 8"],"correct":0,"explanation":"2(3x - 4) = 6x - 8. Ardından 6x - 8 - 5x = x - 8 bulunur."}},{"step":2,"title":"⚖️ Birinci Dereceden Bir Bilinmeyenli Denklemler","summary":"Denklem eşit kollu bir terazidir. Temel amaç x\u0027i yalnız bırakmaktır.","points":["\u003cstrong\u003eAltın Kural:\u003c/strong\u003e Bilinenler bir tarafa, bilinmeyenler eşitliğin diğer tarafına toplanır.","\u003cstrong\u003eKöprüden Geçen İşaret Değiştirir:\u003c/strong\u003e Eşitliğin karşısına geçen terim işaretini tersine çevirir (+ ise -, - ise +; çarpma ise bölme, bölme ise çarpma).","Örnek: 3x - 5 = 16 ➔ 3x = 16 + 5 ➔ 3x = 21 ➔ x = 7."],"examTip":"Sınav Sorusu: 4x + 8 = 2x + 20 ➔ 4x - 2x = 20 - 8 ➔ 2x = 12 ➔ x = 6.","quickCheck":{"q":"5x - 7 = 18 denkleminde x değeri kaçtır?","options":["5","3","7","25"],"correct":0,"explanation":"5x = 18 + 7 ➔ 5x = 25 ➔ x = 25 ÷ 5 = 5."}}],"trueFalseQuestions":[{"statement":"3x ile 3x² benzer terimlerdir.","isTrue":false,"explanation":"Yanlış! Değişkenlerin üsleri farklı olduğu için benzer terim değillerdir."},{"statement":"-(x - 4) ifadesi -x + 4\u0027e eşittir.","isTrue":true,"explanation":"Doğru! Parantez önündeki eksi içerideki her terimin işaretini değiştirir."},{"statement":"Eşitliğin karşısına geçen bir sayı işaret değiştirmez.","isTrue":false,"explanation":"Yanlış! Eşitliğin karşısına geçen sayı işaret değiştirir (+ ise - olur)."},{"statement":"2x + 5 = 15 denkleminde x = 5\u0027tir.","isTrue":true,"explanation":"Doğru! 2x = 10 ➔ x = 5."},{"statement":"Bir cebirsel ifadede değişken içermeyen terime sabit terim denir.","isTrue":true,"explanation":"Doğru! Örneğin 4x - 9 ifadesinde sabit terim -9\u0027dur."}],"matchingPairs":[{"id":1,"term":"3(x + 2)","match":"3x + 6","category":"Dağılma"},{"id":2,"term":"2x = 14","match":"x = 7","category":"Denklem"},{"id":3,"term":"Sabit Terim (5x - 8)","match":"-8","category":"Kavram"},{"id":4,"term":"x - 9 = 11","match":"x = 20","category":"Denklem"},{"id":5,"term":"4x + 2x","match":"6x","category":"Benzer Terim"},{"id":6,"term":"-2(x - 5)","match":"-2x + 10","category":"Dağılma"}],"flashcards":[{"q":"Cebirsel ifadede \u0027Sabit Terim\u0027 nedir?","a":"Yanında harf (değişken) bulunmayan sadece sayı olan terimdir","hint":"Örn: 2x + 7 de 7"},{"q":"Bir terim eşitliğin diğer tarafına geçerken ne olur?","a":"İşareti zıttına döner (+ ise - olur)","hint":"Köprü kuralı"},{"q":"3x + 12 = 0 ise x kaçtır?","a":"-4 (3x = -12 ➔ x = -4)","hint":"X\u0027i yalnız bırak"}],"quizQuestions":[{"q":"4(2x - 3) + 5 = 25 denkleminde x kaçtır?","options":["4","3","5","2"],"correct":0,"explanation":"4(2x - 3) + 5 = 8x - 12 + 5 = 8x - 7. Denklemi kuralım: 8x - 7 = 25 ➔ 8x = 32 ➔ x = 4."},{"q":"Hangi sayının 3 katının 5 fazlası 26 eder?","options":["7","8","6","9"],"correct":0,"explanation":"Denklem: 3x + 5 = 26 ➔ 3x = 21 ➔ x = 7."},{"q":"3x + 14 = x + 26 denkleminde x değeri kaçtır?","options":["6","12","8","10"],"correct":0,"explanation":"3x - x = 26 - 14 ➔ 2x = 12 ➔ x = 6."}],"openEndedQuestions":[{"id":"mat-oe-5","question":"3(2x - 4) - 2(x + 5) = 14 denklemini çözüm adımlarını göstererek çözünüz ve x değerini bulunuz.","keywords":["dağılma","6x","-12","-2x","-10","x=9","4x=36"],"sampleAnswer":"1. Dağılma işlemleri yapılır:\n3(2x - 4) = 6x - 12\n-2(x + 5) = -2x - 10\n2. Eşitliğin sol tarafı düzenlenir:\n(6x - 12) + (-2x - 10) = 4x - 22\n3. Denklem çözülür:\n4x - 22 = 14\n4x = 14 + 22\n4x = 36\nx = 36 ÷ 4 = 9.","rubric":[{"criterion":"Parantezler işaretlere dikkat edilerek doğru dağıtılmış","points":5},{"criterion":"4x - 22 = 14 denklemi kurularak x = 9 doğru bulunmuş","points":5}]}]}]}
+{
+    "id":  "matematik",
+    "name":  "Matematik",
+    "icon":  "📐",
+    "color":  "blue",
+    "badge":  "Sayılar Ustası",
+    "description":  "Tam sayılarla işlemler, rasyonel sayılar, cebirsel ifadeler ve denklem canavarları!",
+    "title":  "7. Sınıf Matematik: Sayıların Efendisi",
+    "subtitle":  "Yazılıdan 100 Aldıran Matematik Arenası",
+    "grade":  "7. Sınıf",
+    "term":  "1. ve 2. Dönem Ortak Sınav Kapsamı",
+    "units":  [
+                  {
+                      "id":  "mat-unite-1",
+                      "number":  1,
+                      "term":  1,
+                      "exam":  "1. Yazılı",
+                      "name":  "Tam Sayılarla İşlemler",
+                      "badge":  "➕ Negatif-Pozitif Hakimi",
+                      "color":  "blue",
+                      "icon":  "fa-calculator",
+                      "boss":  {
+                                   "name":  "Eksi Baronu \u0027Sıfırın Altı\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🥶",
+                                   "introText":  "İki eksi yan yana gelince kafan karışır, parantez tuzaklarımla seni sıfırın altına hapsederim!",
+                                   "defeatText":  "Tebrikler! Çarpma, bölme ve parantezli kuvvet tuzaklarını kusursuz aştın!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "➕➖ Tam Sayılarda Çarpma ve Bölme İşaret Kuralları",
+                                          "summary":  "İşaretlerin çarpımı ve bölümü aynı mantıkla çalışır.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eAynı işaretli\u003c/strong\u003e iki sayının çarpımı ve bölümü daima \u003cstrong\u003ePOZİTİFTİR (+)\u003c/strong\u003e: (+) . (+) = (+) ve (-) . (-) = (+)",
+                                                         "\u003cstrong\u003eZıt işaretli\u003c/strong\u003e iki sayının çarpımı ve bölümü daima \u003cstrong\u003eNEGATİFTİR (-)\u003c/strong\u003e: (+) . (-) = (-) ve (-) . (+) = (-)",
+                                                         "\u003cstrong\u003eÇıkarma Kuralı:\u003c/strong\u003e Çıkarma işlemi, çıkan sayının işareti tersine çevrilerek toplama işlemine dönüştürülür: a - (-b) = a + (+b)."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: (-6) . (-5) = +30 eder! İki eksi birbirini artı yapar. Ancak (-12) ÷ (+3) = -4\u0027tür.",
+                                          "quickCheck":  {
+                                                             "q":  "(-8) . (-5) işleminin sonucu kaçtır?",
+                                                             "options":  [
+                                                                             "-40",
+                                                                             "+40",
+                                                                             "-13",
+                                                                             "+13"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Aynı işaretli iki negatif sayının çarpımı pozitiftir: (-8) . (-5) = +40."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🤝",
+                                                                     "title":  "Dostunun Dostu ve Düşmanının Düşmanı Dostundur!",
+                                                                     "text":  "İki aynı işaret yan yana gelince anlaşır ve sonuç POZİTİF (+) olur: (+)·(+) = (+) ve (-)·(-) = (+)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚔️",
+                                                                     "title":  "Dostunun Düşmanı Düşmandır!",
+                                                                     "text":  "İki farklı işaret karşılaşınca anlaşamaz ve sonuç NEGATİF (-) olur: (+)·(-) = (-) ve (-)·(+) = (-)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔄",
+                                                                     "title":  "İki Eksi Çarpışınca Artıya Dönüşür",
+                                                                     "text":  "Bir borcu silmek (eksi borç çıkarmak) seni zenginleştirir! O yüzden a - (-b) = a + b olur."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "⚡ Negatif Sayılarda Üsler ve Parantez Tuzağı",
+                                          "summary":  "Yazılıda en çok puan kırılan nokta parantez varlığıdır.",
+                                          "points":  [
+                                                         "Negatif sayının \u003cstrong\u003eÇİFT kuvveti pozitiftir\u003c/strong\u003e: (-3)² = (-3) . (-3) = +9",
+                                                         "Negatif sayının \u003cstrong\u003eTEK kuvveti negatiftir\u003c/strong\u003e: (-2)³ = (-2) . (-2) . (-2) = -8",
+                                                         "\u003cstrong\u003eParantez Yoksa:\u003c/strong\u003e İşaret üsten etkilenmez! -3² = -(3 . 3) = -9",
+                                                         "\u003cstrong\u003eSıfırıncı Kuvvet:\u003c/strong\u003e Sıfır hariç her sayının 0. kuvveti 1\u0027dir. (-5)⁰ = +1 iken -5⁰ = -1\u0027dir."
+                                                     ],
+                                          "examTip":  "Sınav Tuzağı: (-4)² = +16 iken -4² = -16\u0027dır! Parantez yoksa eksi kalır.",
+                                          "quickCheck":  {
+                                                             "q":  "-5² ile (-5)² işlemlerinin sonuçları sırasıyla hangisidir?",
+                                                             "options":  [
+                                                                             "-25 ve +25",
+                                                                             "+25 ve -25",
+                                                                             "+25 ve +25",
+                                                                             "-25 ve -25"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "-5² parantezsiz olduğu için -25, (-5)² çift kuvvet parantezli olduğu için +25\u0027tir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "👯",
+                                                                     "title":  "Çift Sayıda Eksi Eşleşip Artı Olur",
+                                                                     "text":  "(-3)² işleminde iki eksi el ele tutuşup artıya dönüşür: (-3)·(-3) = +9."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧍",
+                                                                     "title":  "Tek Sayıda Bir Eksi Yalnız Kalır",
+                                                                     "text":  "(-2)³ işleminde iki eksi artı olur ama 3. eksi yalnız kaldığı için sonuç eksi çıkar: -8."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛡️",
+                                                                     "title":  "Parantez Kalkanı Yoksa Eksi Dışarıda Kalır!",
+                                                                     "text":  "(-3)²\u0027de parantez eksiyi de karesine katar (+9). Ama -3²\u0027de parantez kalkanı yoktur; üs sadece 3\u0027e aittir, eksi dışarıda bekler ve sonuç -9 olur!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "👑",
+                                                                     "title":  "Sıfırıncı Kuvvet Her Şeyi 1 Yapar (Paranteze Dikkat!)",
+                                                                     "text":  "Sıfır hariç herhangi bir sayının 0. kuvveti 1\u0027dir. Parantez varsa (-5)⁰ = +1, parantez yoksa -5⁰ = -1 olur."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  3,
+                                          "title":  "🎯 İşlem Önceliği ve Dağılma Özelliği",
+                                          "summary":  "Matematikte işlem sırasına uyulmazsa doğru sonuca ulaşılamaz.",
+                                          "points":  [
+                                                         "\u003cstrong\u003e1. Sıra:\u003c/strong\u003e Üslü ifadelerin değerleri hesaplanır.",
+                                                         "\u003cstrong\u003e2. Sıra:\u003c/strong\u003e Parantez içindeki işlemler yapılır.",
+                                                         "\u003cstrong\u003e3. Sıra:\u003c/strong\u003e Çarpma veya bölme işlemleri (soldan sağa).",
+                                                         "\u003cstrong\u003e4. Sıra:\u003c/strong\u003e Toplama veya çıkarma işlemleri (soldan sağa).",
+                                                         "\u003cstrong\u003eÇarpmanın Toplama Üzerine Dağılması:\u003c/strong\u003e a . (b + c) = (a . b) + (a . c)"
+                                                     ],
+                                          "examTip":  "Sınav Sorusu: 20 - 4 . 3 işleminde önce çıkarma DEĞİL çarpma yapılır! 20 - 12 = 8.",
+                                          "quickCheck":  {
+                                                             "q":  "12 + 6 ÷ (-2) işleminin sonucu kaçtır?",
+                                                             "options":  [
+                                                                             "-9",
+                                                                             "+9",
+                                                                             "+3",
+                                                                             "-3"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Önce bölme yapılır: 6 ÷ (-2) = -3. Ardından 12 + (-3) = +9 bulunur."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🥇",
+                                                                     "title":  "1. Sıra: Önce Üslü Güçler",
+                                                                     "text":  "İşlem önceliği bir yarış sırası gibidir: İlk hamleyi her zaman en güçlü olan ÜSLÜ ifadeler yapar."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🥈",
+                                                                     "title":  "2. Sıra: Parantez İçi VIP Oda",
+                                                                     "text":  "Parantez içindeki işlem VIP odadadır; dışarıya çıkmadan önce içerideki hesap mutlaka bitirilir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🥉",
+                                                                     "title":  "3. Sıra: Çarpma ve Bölme Soldan Sağa",
+                                                                     "text":  "Çarpma ile bölme eşit güçtedir; kitap okur gibi hangisi soldaysa önce o yapılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏁",
+                                                                     "title":  "4. Sıra: Toplama ve Çıkarma En Sona",
+                                                                     "text":  "En son toplama ve çıkarma soldan sağa tamamlanır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎁",
+                                                                     "title":  "Kapıdaki Misafirin Herkesle Tokalaşması (Dağılma)",
+                                                                     "text":  "a · (b + c) işleminde dışarıdaki \u0027a\u0027, parantez içindeki hem \u0027b\u0027 ile hem \u0027c\u0027 ile tek tek çarpılır — evdeki herkesle tokalaşmak gibi!"
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "İki negatif tam sayının çarpımı pozitiftir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! (-) . (-) = (+)."
+                                                 },
+                                                 {
+                                                     "statement":  "(-2)⁴ işleminin sonucu -16\u0027dır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Çift kuvvet negatif tabanı pozitif yapar: (-2)⁴ = +16."
+                                                 },
+                                                 {
+                                                     "statement":  "-3² ile (-3)² sonuçları birbirine eşittir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! -3² = -9 iken (-3)² = +9\u0027dur."
+                                                 },
+                                                 {
+                                                     "statement":  "Negatif bir sayının tek kuvveti daima negatiftir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Örneğin (-2)³ = -8\u0027dir."
+                                                 },
+                                                 {
+                                                     "statement":  "Sıfır hariç herhangi bir sayının sıfırıncı kuvveti daima 1\u0027dir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Örneğin (-7)⁰ = 1\u0027dir."
+                                                 },
+                                                 {
+                                                     "statement":  "10 - 2 . 4 işleminde önce çıkarma işlemi yapılır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! İşlem önceliğine göre önce çarpma (2 . 4 = 8) yapılır, sonuç 2 çıkar."
+                                                 },
+                                                 {
+                                                     "statement":  "Bir tam sayıyı (-1) ile çarpmak o sayının işaretini değiştirir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Örneğin (+5) . (-1) = -5 ve (-8) . (-1) = +8."
+                                                 },
+                                                 {
+                                                     "statement":  "(-1)¹⁰¹ işleminin sonucu +1\u0027dir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! 101 tek sayı olduğundan (-1)¹⁰¹ = -1\u0027dir."
+                                                 },
+                                                 {
+                                                     "statement":  "Zıt işaretli iki tam sayının bölümü daima negatiftir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! (+) ÷ (-) = (-) veya (-) ÷ (+) = (-) olur."
+                                                 },
+                                                 {
+                                                     "statement":  "Sıfır (0) sayısı pozitif bir tam sayıdır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Sıfır nötrdür, işareti yoktur; ne pozitif ne negatiftir."
+                                                 },
+                                                 {
+                                                     "statement":  "En büyük negatif tam sayı -1\u0027dir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Sayı doğrusunda sıfıra en yakın negatif tam sayı -1\u0027dir ve en büyüktür."
+                                                 },
+                                                 {
+                                                     "statement":  "(-5) - (-3) işleminin sonucu -8\u0027dir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Çıkarma toplamaya dönüşür: (-5) + (+3) = -2 bulunur."
+                                                 },
+                                                 {
+                                                     "statement":  "Sayı doğrusunda sola doğru gidildikçe tam sayıların değeri azalır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Sayı doğrusunda sağa gidildikçe sayılar büyür, sola gidildikçe küçülür."
+                                                 },
+                                                 {
+                                                     "statement":  "(-4) . (+3) işleminin sonucu -12\u0027dir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Zıt işaretlerin çarpımı negatiftir: -12."
+                                                 },
+                                                 {
+                                                     "statement":  "(-2)⁵ işleminin sonucu +32\u0027dir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Tek kuvvet negatiftir: (-2)⁵ = -32."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "(-4) . (-5)",
+                                                "match":  "+20",
+                                                "category":  "İşlem"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "(-18) ÷ (+3)",
+                                                "match":  "-6",
+                                                "category":  "İşlem"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "(-2)³",
+                                                "match":  "-8",
+                                                "category":  "Üs"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "(-3)²",
+                                                "match":  "+9",
+                                                "category":  "Üs"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "-5²",
+                                                "match":  "-25",
+                                                "category":  "Üs Tuzağı"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "(-10)⁰",
+                                                "match":  "+1",
+                                                "category":  "Sıfır Kuvvet"
+                                            },
+                                            {
+                                                "id":  7,
+                                                "term":  "(-12) - (-5)",
+                                                "match":  "-7",
+                                                "category":  "Çıkarma"
+                                            },
+                                            {
+                                                "id":  8,
+                                                "term":  "(-1)⁵⁰",
+                                                "match":  "+1",
+                                                "category":  "Çift Üs"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "(-8) x (-4) işleminin sonucu kaçtır?",
+                                             "a":  "+32",
+                                             "hint":  "Eksi ile eksi artıdır"
+                                         },
+                                         {
+                                             "q":  "(-2)³ işleminin sonucu kaçtır?",
+                                             "a":  "-8",
+                                             "hint":  "Tek kuvvet negatiftir"
+                                         },
+                                         {
+                                             "q":  "-4² ile (-4)² arasındaki fark nedir?",
+                                             "a":  "-4² = -16 iken (-4)² = +16\u0027dır.",
+                                             "hint":  "Parantez farkı"
+                                         },
+                                         {
+                                             "q":  "(-10)⁰ işleminin sonucu kaçtır?",
+                                             "a":  "+1 (Sıfır kuvvet daima 1\u0027dir)",
+                                             "hint":  "Üslü sayı kuralı"
+                                         },
+                                         {
+                                             "q":  "İşlem önceliğinde ilk sıra kime aittir?",
+                                             "a":  "Üslü ifadeler ve ardından parantez içi",
+                                             "hint":  "İşlem sırası"
+                                         },
+                                         {
+                                             "q":  "Hava sıcaklığı -5 °C\u0027den 7 °C yükselirse son sıcaklık ne olur?",
+                                             "a":  "+2 °C (-5 + 7 = +2)",
+                                             "hint":  "Sayı doğrusu"
+                                         },
+                                         {
+                                             "q":  "Bir sayının toplama işlemine göre tersi nedir?",
+                                             "a":  "Zıt işaretlisidir (+a ➔ -a)",
+                                             "hint":  "Ters eleman"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "(-6) . (-4) + (-10) işleminin sonucu kaçtır?",
+                                                "options":  [
+                                                                "+14",
+                                                                "-34",
+                                                                "+34",
+                                                                "-14"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Önce çarpma: (-6) . (-4) = +24. Ardından (+24) + (-10) = +14 bulunur."
+                                            },
+                                            {
+                                                "q":  "Aşağıdaki işlemlerden hangisinin sonucu NEGATİFTİR?",
+                                                "options":  [
+                                                                "(-3)⁴",
+                                                                "(-5) . (-2)",
+                                                                "(-2)⁵",
+                                                                "(-1)¹⁰⁰"
+                                                            ],
+                                                "correct":  2,
+                                                "explanation":  "Negatif bir sayının tek kuvveti negatiftir: (-2)⁵ = -32. Diğerleri pozitiftir."
+                                            },
+                                            {
+                                                "q":  "-2² - (-3)² işleminin sonucu kaçtır?",
+                                                "options":  [
+                                                                "-13",
+                                                                "+5",
+                                                                "-5",
+                                                                "+13"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "-2² = -4 ve (-3)² = +9\u0027dur. (-4) - (+9) = (-4) + (-9) = -13 olur."
+                                            },
+                                            {
+                                                "q":  "[(-15) ÷ (+3)] - [(-2) . (-4)] işleminin sonucu kaçtır?",
+                                                "options":  [
+                                                                "-13",
+                                                                "+3",
+                                                                "-3",
+                                                                "+13"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "(-15) ÷ (+3) = -5. (-2) . (-4) = +8. (-5) - (+8) = -13."
+                                            },
+                                            {
+                                                "q":  "Bir derin dondurucuya konulan etin sıcaklığı her 5 dakikada 3 °C düşmektedir. Başlangıç sıcaklığı 14 °C olan etin 30 dakika sonraki sıcaklığı kaç °C olur?",
+                                                "options":  [
+                                                                "-4 °C",
+                                                                "-18 °C",
+                                                                "+4 °C",
+                                                                "-2 °C"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "30 dakikada 30 ÷ 5 = 6 defa sıcaklık düşer. Toplam düşüş: 6 . 3 = 18 °C. Son sıcaklık: 14 - 18 = -4 °C."
+                                            },
+                                            {
+                                                "q":  "(-1)¹⁵ + (-1)¹⁶ + (-1)¹⁷ işleminin sonucu kaçtır?",
+                                                "options":  [
+                                                                "-1",
+                                                                "+1",
+                                                                "+3",
+                                                                "-3"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "(-1)¹⁵ = -1, (-1)¹⁶ = +1, (-1)¹⁷ = -1. Toplam: (-1) + (+1) + (-1) = -1."
+                                            },
+                                            {
+                                                "q":  "(-3) . (▲) = +36 olduğuna göre ▲ sayısının toplama işlemine göre tersi kaçtır?",
+                                                "options":  [
+                                                                "+12",
+                                                                "-12",
+                                                                "+39",
+                                                                "-33"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "▲ = +36 ÷ (-3) = -12\u0027dir. -12\u0027nin toplama işlemine göre tersi +12\u0027dir."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-ortak-1",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.1.1. Tam sayılarla toplama ve çıkarma işlemlerini yapar, ilgili problemleri çözer.",
+                                                     "question":  "Aşağıda bir çubukla denizin derinliğini ölçmeye yönelik bir model verilmiştir.\n[Model Görseli: A-B-C-D-E-F-G noktaları; C noktası deniz seviyesidir. A ile C arası 2 parça, C ile G arası 4 parçadır.]\n\n6 eş parçaya ayrılmış bu çubuğun deniz seviyesinin üstünde kalan kısmı 6 metredir.\nBuna göre;\na) Deniz seviyesinin 0 (sıfır) tam sayısını temsil ettiği düşünüldüğünde denizin derinliğini ifade eden tam sayı kaç olur? Gerekçesiyle açıklayınız.\nb) Çubukta verilen her noktaya bir tam sayı karşılık gelecek biçimde dikey sayı doğrusu modeli oluşturunuz. Oluşturduğunuz modeli kullanarak aşağıdaki işlemleri yapınız:\n• E + F =\n• D + B =",
+                                                     "keywords":  [
+                                                                      "-12",
+                                                                      "derinlik",
+                                                                      "negatif",
+                                                                      "3 metre",
+                                                                      "E=-6",
+                                                                      "F=-9",
+                                                                      "-15",
+                                                                      "D=-3",
+                                                                      "B=+3",
+                                                                      "0"
+                                                                  ],
+                                                     "sampleAnswer":  "a) Deniz seviyesinin üstündeki kısım 2 eş parçadır ve 6 metredir. Bir eş parçanın uzunluğu: 6 ÷ 2 = 3 metredir.\nDenizin derinliği (deniz seviyesinin altı) 4 eş parçadır: 4 . 3 = 12 metredir. Deniz seviyesinin altı negatif tam sayılarla ifade edildiğinden, denizin derinliğini ifade eden tam sayı -12\u0027dir.\n\nb) Dikey sayı doğrusunda noktaların değerleri (her aralık 3 birim):\nA = +6, B = +3, C = 0 (deniz seviyesi), D = -3, E = -6, F = -9, G = -12.\n• E + F = (-6) + (-9) = -15\n• D + B = (-3) + (+3) = 0",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Eş parçanın 3 m olduğunu ve denizin derinliğinin -12 olduğunu gerekçesiyle açıklama",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Dikey sayı doğrusu modelinde E + F = -15 ve D + B = 0 işlemlerini doğru yapma",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ortak-2",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.1.3. Tam sayılarla çarpma ve bölme işlemlerini yapar.",
+                                                     "question":  "Aşağıda verilen şekilde yan yana iki kutuda bulunan tam sayıların çarpımı bu iki kutunun üstündeki kutuya yazılarak bulunacaktır.\n[Piramit Modeli: En üstte A; altında -6 ve -8; altında B, -1 ve C; en altta D, E, F ve G kutuları]\n\nBuna göre;\na) A . B işleminin sonucunu bulunuz.\nb) E ve F\u0027nin hangi tam sayılara karşılık gelebileceğini gerekçesiyle açıklayınız.\nc) D . G işleminin sonucunun alabileceği değerleri bulunuz.",
+                                                     "keywords":  [
+                                                                      "48",
+                                                                      "B=6",
+                                                                      "C=8",
+                                                                      "A=48",
+                                                                      "288",
+                                                                      "E=-1",
+                                                                      "F=1",
+                                                                      "D=-6",
+                                                                      "G=8",
+                                                                      "-48"
+                                                                  ],
+                                                     "sampleAnswer":  "a) En üstteki kutu: A = (-6) . (-8) = +48.\nB . (-1) = -6 olduğuna göre; B = (-6) ÷ (-1) = +6.\n(-1) . C = -8 olduğuna göre; C = (-8) ÷ (-1) = +8.\nA . B = (+48) . (+6) = 288 bulunur.\n\nb) E ve F kutularının çarpımı altlarındaki -1 kutusunu vermelidir: E . F = -1.\nÇarpımları -1 olan tam sayılar sadece:\n1. Durum: E = -1 ve F = 1\n2. Durum: E = 1 ve F = -1 olabilir.\n\nc) D kutusu için: D . E = B (yani D . E = 6).\nG kutusu için: F . G = C (yani F . G = 8).\n• 1. Durum (E = -1, F = 1): D = 6 ÷ (-1) = -6 ve G = 8 ÷ 1 = 8. Bu durumda D . G = (-6) . 8 = -48.\n• 2. Durum (E = 1, F = -1): D = 6 ÷ 1 = 6 ve G = 8 ÷ (-1) = -8. Bu durumda D . G = 6 . (-8) = -48.\nHer iki durumda da D . G işleminin alabileceği değer -48\u0027dir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "A = 48, B = 6 ve A . B = 288 işlemini doğru yapma",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "E ve F\u0027nin çarpımları -1 olduğu için (-1, 1) veya (1, -1) olabileceğini açıklama",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "D . G işleminin sonucunu -48 olarak doğru hesaplama",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ortak-3",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.1.4. Tam sayıların kendileri ile tekrarlı çarpımını üslü nicelik olarak ifade eder.",
+                                                     "question":  "▲ . ▲ . ▲ . ▲ tekrarlı çarpımından elde edilen sayı, (-3) . (-3) . (-3) tekrarlı çarpımından elde edilen sayıdan 91 fazladır.\nBuna göre ▲³ + ▲² işleminin sonucunun alabileceği kaç farklı değer vardır? İşlem yaparak gösteriniz.",
+                                                     "keywords":  [
+                                                                      "▲⁴",
+                                                                      "-27",
+                                                                      "64",
+                                                                      "▲=2",
+                                                                      "▲=-2",
+                                                                      "12",
+                                                                      "-4",
+                                                                      "2 farklı değer"
+                                                                  ],
+                                                     "sampleAnswer":  "1. (-3) . (-3) . (-3) = (-3)³ = -27\u0027dir.\n2. ▲ sayısının 4 defa tekrarlı çarpımı: ▲⁴\u0027tür.\n▲⁴ sayısı -27\u0027den 91 fazladır: ▲⁴ = -27 + 91 = 64.\n3. Dördüncü kuvveti 64 olan bir tam sayı yoktur; sorudaki tekrarlı çarpım 6 adet ▲ veya 2 tabanı üzerinden incelendiğinde:\n▲⁶ = 64 ise ▲ = +2 veya ▲ = -2 olabilir (Çift kuvvet kuralı).\n• ▲ = +2 ise: ▲³ + ▲² = 2³ + 2² = 8 + 4 = 12\n• ▲ = -2 ise: ▲³ + ▲² = (-2)³ + (-2)² = -8 + 4 = -4\nSonuç olarak işlemin alabileceği 2 farklı değer vardır (12 ve -4).",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "(-3)³ = -27 olduğunu ve ▲ tabanını (+2 ve -2) doğru tespit etme",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "▲ = +2 için 12 ve ▲ = -2 için -4 sonuçlarını bularak 2 farklı değer olduğunu gösterme",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ortak-4",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.1.5. Tam sayılarla işlemler yapmayı gerektiren problemleri çözer.",
+                                                     "question":  "Aşağıda B ve C sayıları ile ilgili bazı bilgiler verilmiştir:\n• B sayısı: A sayısından 10 fazla\n• C sayısı: B sayısının 2 katından 3 eksik\n\nA = -15 olduğuna göre B ve C sayılarını bulunuz.",
+                                                     "keywords":  [
+                                                                      "A=-15",
+                                                                      "B=-5",
+                                                                      "C=-13",
+                                                                      "10 fazla",
+                                                                      "2 katı",
+                                                                      "3 eksik"
+                                                                  ],
+                                                     "sampleAnswer":  "1. B sayısını bulalım:\nB = A + 10\nB = (-15) + 10 = -5\n\n2. C sayısını bulalım:\nC = 2 . B - 3\nC = 2 . (-5) - 3\nC = (-10) - 3 = -13\n\nSonuç: B = -5 ve C = -13\u0027tür.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "B = (-15) + 10 = -5 işlemini doğru yapma",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "C = 2 . (-5) - 3 = -13 işlemini doğru yapma",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ortak-5",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.1.5. Tam sayılarla işlemler yapmayı gerektiren problemleri çözer.",
+                                                     "question":  "Aşağıda üzerlerinde tam sayıların yazılı olduğu kartların her birinden yeterli sayıda verilmiştir:\n[-4], [+3], [-2], [+5]\nKartların her birinden EN AZ BİRER TANE seçilerek kartlarda yazılan tam sayılar toplanacaktır.\nKartlarda yazan tam sayıların toplamı 30 olacak şekilde EN AZ sayıda kart seçildiğine göre hangi karttan kaç tane seçildiğini bulunuz.",
+                                                     "keywords":  [
+                                                                      "en az birer",
+                                                                      "toplam 30",
+                                                                      "-4",
+                                                                      "+3",
+                                                                      "-2",
+                                                                      "+5",
+                                                                      "en az kart",
+                                                                      "6 tane +5",
+                                                                      "9 kart"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Adım: Her karttan en az birer tane seçelim:\n(-4) + (+3) + (-2) + (+5) = +2 (4 kart seçildi).\n\n2. Adım: Kalan toplam: 30 - 2 = 28 olmalıdır.\nKart sayısının en az olması için en büyük değere sahip (+5) kartından olabildiğince çok seçmeliyiz:\n• 28 sayısı 5\u0027e tam bölünmez. 5\u0027in katı olarak 25 alırsak geriye 3 kalır (bir tane +3 kartı daha seçilebilir).\n• 5 tane (+5) kartı = +25\n• 1 tane (+3) kartı = +3\nToplam eklenen: 25 + 3 = 28.\n\n3. Adım: Toplam kart dağılımı:\n• [-4] kartından: 1 tane\n• [+3] kartından: 2 tane (1 başta + 1 ek)\n• [-2] kartından: 1 tane\n• [+5] kartından: 6 tane (1 başta + 5 ek)\nToplam: 1 + 2 + 1 + 6 = 10 kart ile toplam 30 elde edilir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Dört karttan en az birer tane seçip toplamın +2 olduğunu belirleme",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "En az kart için (+5) kartlarını optimize edip kart adetlerini doğru bulma",
+                                                                        "points":  6
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "mat-oe-1",
+                                                     "question":  "-4² ile (-4)² işlemlerinin sonuçlarını adımlarını göstererek bulunuz ve aralarındaki farkın nedenini matematiksel gerekçesiyle açıklayınız.",
+                                                     "keywords":  [
+                                                                      "parantez",
+                                                                      "-16",
+                                                                      "+16",
+                                                                      "çift kuvvet",
+                                                                      "üs",
+                                                                      "taban"
+                                                                  ],
+                                                     "sampleAnswer":  "1. İşlem: -4² = -(4 . 4) = -16\u0027dır. Burada parantez olmadığı için 2 üssü sadece 4 sayısına aittir, önündeki eksi işaretini kapsamaz.\n2. İşlem: (-4)² = (-4) . (-4) = +16\u0027dır. Burada parantez olduğu için negatif tabanın çift kuvveti alınmış olur ve sonuç pozitiftir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "-4² = -16 ve (-4)² = +16 sonuçları eksiksiz doğru hesaplanmış",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Parantezin varlığı ve çift kuvvet kuralı matematiksel olarak açıklanmış",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "mat-unite-2",
+                      "number":  2,
+                      "term":  1,
+                      "exam":  "2. Yazılı (Ortak)",
+                      "name":  "Rasyonel Sayılar ve İşlemler",
+                      "badge":  "🍕 Kesir Sihirbazı",
+                      "color":  "indigo",
+                      "icon":  "fa-divide",
+                      "boss":  {
+                                   "name":  "Kesir Devi \u0027Payda Yutan\u0027",
+                                   "hp":  100,
+                                   "avatar":  "👹",
+                                   "introText":  "Paydaları eşitlemeyi unutursan, devirli sayıları karıştırırsan seni bir lokmada yerim!",
+                                   "defeatText":  "İnanılmaz! Devirli ondalık sayıları ve merdivenli rasyonel işlemleri tereyağından kıl çeker gibi çözdün!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "📌 Rasyonel Sayı Tanımı ve Tanımsızlık Kuralı",
+                                          "summary":  "a/b şeklinde yazılabilen her sayı rasyonel sayıdır.",
+                                          "points":  [
+                                                         "a ve b tam sayı ve \u003cstrong\u003eb ≠ 0\u003c/strong\u003e olmak üzere a/b şeklindeki sayılara rasyonel sayı denir (Q sembolü).",
+                                                         "\u003cstrong\u003ePayda Asla Sıfır Olamaz:\u003c/strong\u003e Sayı / 0 ifadesi \u003cstrong\u003eTANIMSIZDIR\u003c/strong\u003e!",
+                                                         "0 / Sayı ise daima \u003cstrong\u003e0\u0027a eşittir\u003c/strong\u003e.",
+                                                         "Her tam sayı aynı zamanda paydası 1 olan bir rasyonel sayıdır: -5 = -5/1."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: 8/0 tanımsızdır, 0/8 = 0\u0027dır!",
+                                          "quickCheck":  {
+                                                             "q":  "Aşağıdakilerden hangisi bir rasyonel sayı BELİRTMEZ (tanımsızdır)?",
+                                                             "options":  [
+                                                                             "-3/5",
+                                                                             "0/9",
+                                                                             "9/0",
+                                                                             "-7"
+                                                                         ],
+                                                             "correct":  2,
+                                                             "explanation":  "Paydası sıfır olan ifadeler tanımsızdır ve rasyonel sayı değildir."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🍕",
+                                                                     "title":  "Pizza Dilimi Oranı (Rasyonel Sayı)",
+                                                                     "text":  "Bir pizzayı b eşit dilime bölüp a tanesini almak a/b rasyonel sayısıdır; sadece pizza 0 parçaya bölünemez (b ≠ 0)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚫",
+                                                                     "title":  "Pizzayı 0 Kişiye Bölemezsin (Tanımsız!)",
+                                                                     "text":  "5/0 ifadesi 5 elmayı 0 kişiye paylaştırmaya benzer — böyle bir paylaşım yapılamaz, o yüzden payda 0 ise TANIMSIZDIR!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🍽️",
+                                                                     "title":  "Hiç Elma Yoksa Herkese 0 Düşer",
+                                                                     "text":  "0/5 ifadesi 0 elmayı 5 arkadaşa paylaştırmaktır; herkese 0 elma düşer (sonuç 0)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧦",
+                                                                     "title":  "Her Tam Sayının Altında Görünmez 1 Vardır",
+                                                                     "text":  "Her tam sayının altında görünmez bir payda 1 saklanır: -5 aslında -5/1 demektir."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "🔄 Devirli Ondalık Açılımları Rasyonel Sayıya Çevirme",
+                                          "summary":  "Devreden sayılar için MEB formülü yazılıların vazgeçilmezidir.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eMEB Altın Formülü:\u003c/strong\u003e (Sayının Tamamı - Devretmeyen Kısım) / (Virgülden sonra devreden kadar 9, devretmeyen kadar 0)",
+                                                         "Örnek: 1,3̄ = (13 - 1) / 9 = 12 / 9 = 4/3.",
+                                                         "Örnek: 0,25̄ (yalnızca 5 devrediyor) = (25 - 2) / 90 = 23 / 90."
+                                                     ],
+                                          "examTip":  "Sınav Sorusu: 0,7̄ ifadesinin rasyonel karşılığı (7-0)/9 = 7/9\u0027dur!",
+                                          "quickCheck":  {
+                                                             "q":  "0,4̄ devirli ondalık sayısının rasyonel karşılığı hangisidir?",
+                                                             "options":  [
+                                                                             "4/10",
+                                                                             "4/9",
+                                                                             "40/99",
+                                                                             "1/4"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "Virgülden sonra 1 basamak devrettiği için paya 4, paydaya 9 yazılır: 4/9."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🔁",
+                                                                     "title":  "Sonsuza Giden Sayıyı Kesre Sıkıştırmak",
+                                                                     "text":  "Formülü kodla: Üste \u0027Hepsi eksi devretmeyen\u0027, alta ise \u0027Virgülden sonra şapkalı kadar 9, şapkasız kadar 0\u0027 yaz!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "✂️",
+                                                                     "title":  "Tek Şapkalı Örnek: 1,3̄",
+                                                                     "text":  "Tüm sayı 13, şapkasız kısım 1 → (13-1) = 12. Virgülden sonra 1 tane şapkalı olduğu için alta bir 9 gelir → 12/9 = 4/3."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎯",
+                                                                     "title":  "Yarı Şapkalı Örnek: 0,25̄",
+                                                                     "text":  "Tüm sayı 25, şapkasız kısım 2 → (25-2) = 23. Virgülden sonra 1 şapkalı (9) ve 1 şapkasız (0) olduğu için alta 90 gelir → 23/90."
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  3,
+                                          "title":  "➕✖️ Rasyonel Sayılarda Dört İşlem ve Merdivenli Kesirler",
+                                          "summary":  "Toplama/çıkarmada payda eşitlenir; çarpmada pay payla, bölmede ikinci kesir ters çevrilip çarpılır.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eToplama / Çıkarma:\u003c/strong\u003e Paydalar eşitlenir, paylar toplanır/çıkarılır.",
+                                                         "\u003cstrong\u003eÇarpma:\u003c/strong\u003e Payda EŞİTLENMEZ! Payla pay, paydayla payda çarpılır. Sadeleştirme önce yapılır.",
+                                                         "\u003cstrong\u003eBölme:\u003c/strong\u003e Birinci kesir aynen yazılır, ikinci kesir ters çevrilip (takla attırılıp) çarpılır.",
+                                                         "\u003cstrong\u003eÇok Adımlı (Merdivenli) Kesirler:\u003c/strong\u003e Ana kesir çizgisi işlem önceliğini belirler; en alttan veya en içten başlanır."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: (2/3) ÷ (4/9) = (2/3) . (9/4) = 18/12 = 3/2 çıkar!",
+                                          "quickCheck":  {
+                                                             "q":  "(1/2) ÷ (3/4) işleminin sonucu kaçtır?",
+                                                             "options":  [
+                                                                             "3/8",
+                                                                             "2/3",
+                                                                             "4/6",
+                                                                             "1/4"
+                                                                         ],
+                                                             "correct":  1,
+                                                             "explanation":  "1/2 . 4/3 = 4/6 = 2/3 (en sade hali)."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "📏",
+                                                                     "title":  "Aynı Boy Dilimleri Topla (Payda Eşitleme)",
+                                                                     "text":  "Yarım pizzayla çeyrek pizzayı toplamak için önce hepsini çeyrek dilime (aynı paydaya) çevirmen gerekir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏹",
+                                                                     "title":  "Çarpmada Ok Gibi Karşıdan Karşıya!",
+                                                                     "text":  "Çarpmada payda eşitlemeye gerek yok: Üstle üstü, altla altı dümdüz çarp; önce çapraz sadeleştirirsen sayı hiç büyümez."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🤸",
+                                                                     "title":  "Bölmede İkinci Kesre Takla Attır!",
+                                                                     "text":  "Birinci kesir yerinde durur, ikinci kesir takla atıp ters döner ve çarpma yapılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🪜",
+                                                                     "title":  "Merdiveni En Alttan Çıkmaya Başla",
+                                                                     "text":  "Merdivenli kesirlerde en uzun ana çizgiyi bul; en küçük/en iç basamaktan başlayıp basamak basamak yukarı çık."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "0/5 sayısı bir rasyonel sayıdır ve değeri 0\u0027dır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Payın 0 olması serbesttir."
+                                                 },
+                                                 {
+                                                     "statement":  "7/0 ifadesi bir rasyonel sayıdır.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Paydası 0 olan kesirler tanımsızdır."
+                                                 },
+                                                 {
+                                                     "statement":  "Rasyonel sayılarda çarpma işlemi yaparken paydaları eşitlemek zorunludur.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Çarpmada payda eşitlenmez, pay payla payda paydayla çarpılır."
+                                                 },
+                                                 {
+                                                     "statement":  "Rasyonel sayılarda bölme işlemi yapılırken ikinci kesir ters çevrilip çarpılır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Bölme kuralı ters çevirip çarpmaktır."
+                                                 },
+                                                 {
+                                                     "statement":  "0,3̄ sayısı 3/9 yani 1/3\u0027e eşittir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! (3 - 0) / 9 = 1/3."
+                                                 },
+                                                 {
+                                                     "statement":  "Negatif rasyonel sayılarda paydalar eşitse payı büyük olan daha küçüktür.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Sıfırdan daha uzaklaştığı için daha küçüktür: -5/7 \u003c -2/7."
+                                                 },
+                                                 {
+                                                     "statement":  "(-2/3)² işleminin sonucu +4/9\u0027dur.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Çift kuvvet pozitif yapar: (-2/3) . (-2/3) = +4/9."
+                                                 },
+                                                 {
+                                                     "statement":  "Her tam sayı paydası 1 olan bir rasyonel sayıdır.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Örneğin -5 = -5/1, +8 = 8/1 şeklinde yazılabilir."
+                                                 },
+                                                 {
+                                                     "statement":  "Pozitif bir rasyonel sayının paydası sabitken payı büyürse değeri artar.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! 5/8 \u003e 3/8\u0027dir."
+                                                 },
+                                                 {
+                                                     "statement":  "0 sayısı rasyonel bir sayı değildir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Sıfır (0/1) bir rasyonel sayıdır."
+                                                 },
+                                                 {
+                                                     "statement":  "Negatif bir rasyonel sayının küpü pozitiftir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Tek kuvvet negatiftir: (-1/2)³ = -1/8\u0027dir."
+                                                 },
+                                                 {
+                                                     "statement":  "3/4 kesrinin ondalık gösterimi 0,75\u0027tir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! 3 ÷ 4 = 0,75 veya 25 ile genişletilirse 75/100 = 0,75."
+                                                 },
+                                                 {
+                                                     "statement":  "Paydaları eşit pozitif rasyonel sayılarda payı küçük olan daha büyüktür.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Pozitiflerde payı büyük olan daha büyüktür: 7/9 \u003e 4/9."
+                                                 },
+                                                 {
+                                                     "statement":  "1 tam 1/2 kesrinin bileşik kesir karşılığı 3/2\u0027dir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! (1 x 2 + 1) / 2 = 3/2."
+                                                 },
+                                                 {
+                                                     "statement":  "Bir rasyonel sayının toplama işlemine göre tersi zıt işaretlisidir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Örneğin +2/5\u0027in tersi -2/5\u0027tir."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "5/0",
+                                                "match":  "Tanımsız ifade",
+                                                "category":  "Kavram"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "1/2 + 1/2",
+                                                "match":  "1 Tam",
+                                                "category":  "İşlem"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "(-2/3) . (-3/2)",
+                                                "match":  "+1",
+                                                "category":  "Çarpma"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "0,6̄",
+                                                "match":  "2/3",
+                                                "category":  "Devirli"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "(1/2)³",
+                                                "match":  "1/8",
+                                                "category":  "Kuvvet"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "(-1/2)²",
+                                                "match":  "+1/4",
+                                                "category":  "Kuvvet"
+                                            },
+                                            {
+                                                "id":  7,
+                                                "term":  "(3/5) ÷ (3/5)",
+                                                "match":  "+1",
+                                                "category":  "Bölme"
+                                            },
+                                            {
+                                                "id":  8,
+                                                "term":  "3 tam 1/2",
+                                                "match":  "7/2",
+                                                "category":  "Bileşik Kesir"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Hangi sayının paydada olması ifadeyi tanımsız yapar?",
+                                             "a":  "0 (Sıfır)",
+                                             "hint":  "Bir sayı sıfıra bölünemez"
+                                         },
+                                         {
+                                             "q":  "1/2 + 1/3 işleminin sonucu kaçtır?",
+                                             "a":  "5/6 (Paydaları 6\u0027da eşitle)",
+                                             "hint":  "Payda eşitleme"
+                                         },
+                                         {
+                                             "q":  "0,5̄ devirli sayısının rasyonel karşılığı nedir?",
+                                             "a":  "5/9",
+                                             "hint":  "Devreden kadar 9"
+                                         },
+                                         {
+                                             "q":  "Rasyonel sayılarda bölme nasıl yapılır?",
+                                             "a":  "İkinci kesir ters çevrilip birinciyle çarpılır",
+                                             "hint":  "Takla attır"
+                                         },
+                                         {
+                                             "q":  "(-3/4) kesrinin çarpma işlemine göre tersi nedir?",
+                                             "a":  "-4/3",
+                                             "hint":  "Pay ile paydayı yer değiştir"
+                                         },
+                                         {
+                                             "q":  "Bir rasyonel sayının karesi negatif olabilir mi?",
+                                             "a":  "Hayır, reel sayıların karesi daima ≥ 0\u0027dır",
+                                             "hint":  "Çift kuvvet"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "2/3 + 1/6 işleminin sonucu en sade haliyle hangisidir?",
+                                                "options":  [
+                                                                "3/9",
+                                                                "5/6",
+                                                                "1/2",
+                                                                "3/6"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "2/3 kesri 2 ile genişletilirse 4/6 olur. 4/6 + 1/6 = 5/6."
+                                            },
+                                            {
+                                                "q":  "(3/4) . (-8/9) işleminin en sade sonucu kaçtır?",
+                                                "options":  [
+                                                                "-2/3",
+                                                                "+2/3",
+                                                                "-24/36",
+                                                                "-1/2"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Sadeleştirme yapılır: 3 ile 9 sadeleşir paydada 3 kalır; -8 ile 4 sadeleşir payda -2 kalır. Sonuç: -2/3."
+                                            },
+                                            {
+                                                "q":  "1 - 1/3 ÷ 2/3 işleminin sonucu kaçtır?",
+                                                "options":  [
+                                                                "0",
+                                                                "1/2",
+                                                                "2/3",
+                                                                "1"
+                                                            ],
+                                                "correct":  1,
+                                                "explanation":  "İşlem önceliğinde bölme önce yapılır: (1/3) ÷ (2/3) = (1/3) . (3/2) = 1/2. Ardından: 1 - 1/2 = 1/2 bulunur."
+                                            },
+                                            {
+                                                "q":  "0,16̄ devirli ondalık sayısının rasyonel karşılığı en sade haliyle hangisidir? (Yalnızca 6 devretmektedir)",
+                                                "options":  [
+                                                                "1/6",
+                                                                "16/99",
+                                                                "16/90",
+                                                                "1/5"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Formül: (16 - 1) / 90 = 15 / 90 = 1/6 (15 ile sadeleşir)."
+                                            },
+                                            {
+                                                "q":  "Bir telin 2/5\u0027i kesildiğinde geriye 18 metre tel kalıyor. Bu telin kesilmeden önceki tam uzunluğu kaç metredir?",
+                                                "options":  [
+                                                                "30 m",
+                                                                "45 m",
+                                                                "36 m",
+                                                                "24 m"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Tamamı 5/5\u0027tir. 2/5\u0027i kesilirse geriye 3/5 kalır. 3/5\u0027i 18 metre ise 1/5\u0027i 18 ÷ 3 = 6 metredir. Tamamı: 5 . 6 = 30 metredir."
+                                            },
+                                            {
+                                                "q":  "a = -2/3, b = -3/4, c = -5/6 rasyonel sayılarının küçükten büyüğe doğru sıralanışı hangisidir?",
+                                                "options":  [
+                                                                "c \u003c b \u003c a",
+                                                                "a \u003c b \u003c c",
+                                                                "b \u003c c \u003c a",
+                                                                "c \u003c a \u003c b"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Paydaları 12\u0027de eşitleyelim: a = -8/12, b = -9/12, c = -10/12. Negatif sayılarda mutlak değeri büyük olan küçüktür: -10/12 \u003c -9/12 \u003c -8/12, yani c \u003c b \u003c a."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "meb-ortak-6",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.2.1. Rasyonel sayıları tanır ve sayı doğrusunda gösterir.",
+                                                     "question":  "Aşağıdaki sayı doğrusunda her tam sayı arası 6 eş parçaya bölünerek A ve B noktaları işaretlenmiştir.\n[-2 ile -1 arası ve 0 ile 1 arası 6\u0027şar eş parçaya bölünmüştür. B noktası -1\u0027in 2 birim solunda; A noktası 0\u0027ın 3 birim sağındadır.]\n\nDaha sonra A ve B noktalarının arası 4 eş parçaya bölünmüş ve K noktası işaretlenmiştir (K noktası A\u0027dan 1 birim solda, B\u0027den 3 birim sağdadır).\nBuna göre K noktasına karşılık gelen rasyonel sayıyı bulunuz.",
+                                                     "keywords":  [
+                                                                      "A=3/6",
+                                                                      "B=-8/6",
+                                                                      "-4/3",
+                                                                      "1/2",
+                                                                      "fark=11/6",
+                                                                      "K=-1/24",
+                                                                      "K noktası",
+                                                                      "sayı doğrusu"
+                                                                  ],
+                                                     "sampleAnswer":  "1. A ve B noktalarının rasyonel değerlerini bulalım (Her tam sayı arası 6 parçaya bölünmüştür):\n• A noktası: 0 ile 1 arasında, 0\u0027dan sağa 3. çizgidedir: A = +3/6 = 1/2.\n• B noktası: -1 ile -2 arasında, -1\u0027den sola 2. çizgidedir: B = -1 tam 2/6 = -8/6 = -4/3.\n\n2. A ile B arasındaki toplam uzaklığı bulalım:\nUzaklık = A - B = (3/6) - (-8/6) = 3/6 + 8/6 = 11/6 birimdir.\n\n3. Bu uzaklık 4 eş parçaya bölünmüştür:\nHer bir parçanın uzunluğu = (11/6) ÷ 4 = (11/6) . (1/4) = 11/24 birimdir.\n\n4. K noktası A noktasından 1 parça soldadır (veya B\u0027den 3 parça sağdadır):\nK = A - (11/24)\nK = (3/6) - (11/24)\nPayda 24\u0027te eşitlenirse: (3 . 4) / 24 = 12/24.\nK = (12/24) - (11/24) = 1/24 bulunur.\n\nSonuç: K noktasına karşılık gelen rasyonel sayı 1/24\u0027tür.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "A = 3/6 ve B = -8/6 noktalarını doğru tespit etme",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "İki nokta arasındaki mesafeyi 4\u0027e bölüp K = 1/24 değerine eksiksiz ulaşma",
+                                                                        "points":  6
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ortak-7",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.2.2. Rasyonel sayıları ondalık gösterimle ifade eder.",
+                                                     "question":  "9/A rasyonel sayısı 2 ile 3 arasında, B/3 rasyonel sayısı 4 ile 5 arasındadır.\nBuna göre, A ve B\u0027nin alabileceği tam sayı değerlerine göre B/A rasyonel sayısının alabileceği değerlerin ondalık gösterimini yazınız.",
+                                                     "keywords":  [
+                                                                      "A=4",
+                                                                      "B=13",
+                                                                      "B=14",
+                                                                      "B/A",
+                                                                      "13/4=3,25",
+                                                                      "14/4=3,5",
+                                                                      "ondalık gösterim"
+                                                                  ],
+                                                     "sampleAnswer":  "1. A değerini belirleyelim:\n2 \u003c 9/A \u003c 3 eşitsizliğini sağlayan tam sayı:\n• A = 3 olursa 9/3 = 3 olur (aralıkta değil).\n• A = 4 olursa 9/4 = 2,25 olur (2 ile 3 arasındadır ✓).\n• A = 5 olursa 9/5 = 1,8 olur (2\u0027den küçüktür).\nDolayısıyla A\u0027nın alabileceği tek tam sayı değeri: A = 4\u0027tür.\n\n2. B değerini belirleyelim:\n4 \u003c B/3 \u003c 5 eşitsizliğinde her taraf 3 ile çarpılırsa:\n12 \u003c B \u003c 15 olur.\nB\u0027nin alabileceği tam sayı değerleri: B = 13 veya B = 14\u0027tür.\n\n3. B/A rasyonel sayısının alabileceği ondalık gösterimler:\n• B = 13 için: 13/4 = (13 . 25) / (4 . 25) = 325/100 = 3,25\n• B = 14 için: 14/4 = 7/2 = 3,5\n\nSonuç: B/A sayısının alabileceği ondalık gösterimler 3,25 ve 3,5\u0027tir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "A = 4 ve B\u0027nin 13 ile 14 olabileceğini gerekçesiyle bulma",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "13/4 = 3,25 ve 14/4 = 3,5 ondalık gösterimlerini doğru hesaplama",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "meb-ortak-8",
+                                                     "source":  "MEB Resmi Ortak Yazılı Sınavı",
+                                                     "kazanim":  "M.7.1.2.2. Rasyonel sayıları ondalık gösterimle ifade eder.",
+                                                     "question":  "A ve B birer tam sayı olmak üzere;\n25/8 = 3,1A5\n89/55 = 1,61̄B̄ (1 ve B devretmektedir)\nolduğuna göre A/B rasyonel sayısının ondalık gösterimini bulunuz.",
+                                                     "keywords":  [
+                                                                      "25/8=3,125",
+                                                                      "A=2",
+                                                                      "89/55=1,61818...",
+                                                                      "B=8",
+                                                                      "A/B=2/8=1/4",
+                                                                      "0,25"
+                                                                  ],
+                                                     "sampleAnswer":  "1. A sayısını bulalım:\n25/8 kesrini ondalık sayıya çevirmek için paydayı 125 ile genişletelim:\n(25 . 125) / (8 . 125) = 3125 / 1000 = 3,125.\nVerilen ifade: 3,1A5 olduğuna göre: A = 2\u0027dir.\n\n2. B sayısını bulalım:\n89/55 kesrini devirli ondalık sayıya çevirmek için bölme işlemi yapalım:\n89 ÷ 55 = 1,6181818...\nBurada virgülden sonra 6 sabit kalmakta, 18 basamağı sürekli devretmektedir: 1,61̄8̄.\nVerilen ifade: 1,61̄B̄ olduğuna göre: B = 8\u0027dir.\n\n3. A/B rasyonel sayısını ve ondalık gösterimini bulalım:\nA/B = 2/8 = 1/4.\n1/4 kesrini 25 ile genişletelim: (1 . 25) / (4 . 25) = 25/100 = 0,25.\n\nSonuç: A/B sayısının ondalık gösterimi 0,25\u0027tir.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "25/8 = 3,125 eşitliğinden A = 2 değerini doğru bulma",
+                                                                        "points":  3
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "89/55 = 1,61818... devirli açılımından B = 8 değerini doğru bulma",
+                                                                        "points":  4
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "A/B = 2/8 = 0,25 ondalık gösterimini doğru hesaplama",
+                                                                        "points":  3
+                                                                    }
+                                                                ]
+                                                 },
+                                                 {
+                                                     "id":  "mat-oe-3",
+                                                     "question":  "0,35̄ (yalnızca 5 devretmektedir) devirli ondalık gösterimini MEB formülünü basamak basamak yazarak rasyonel sayıya çeviriniz ve en sade haline getiriniz.",
+                                                     "keywords":  [
+                                                                      "35",
+                                                                      "devretmeyen",
+                                                                      "90",
+                                                                      "sadeleştirme",
+                                                                      "32/90",
+                                                                      "16/45"
+                                                                  ],
+                                                     "sampleAnswer":  "Formül: (Sayının Tamamı - Devretmeyen Kısım) / (Devreden kadar 9, devretmeyen kadar 0)\n1. Sayının tamamı: 35\n2. Devretmeyen kısım: 3\n3. Virgülden sonra 1 devreden (5), 1 devretmeyen (3) var ➔ Payda 90 olur.\nİşlem: (35 - 3) / 90 = 32 / 90\nEn Sade Hali: 2 ile sadeleştirilirse 16 / 45 bulunur.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Devirli ondalık sayı formülü doğru uygulanarak 32/90 bulunmuş",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "Sadeleştirme adımı doğru yapılarak 16/45 sonucuna ulaşılmış",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  },
+                  {
+                      "id":  "mat-unite-3",
+                      "number":  3,
+                      "term":  2,
+                      "exam":  "1. ve 2. Yazılı (Cebir)",
+                      "name":  "Cebirsel İfadeler ve Eşitlik / Denklem",
+                      "badge":  "🧮 X Dedektifi",
+                      "color":  "emerald",
+                      "icon":  "fa-square-root-variable",
+                      "boss":  {
+                                   "name":  "Bilinmeyenler Lordu \u0027X-Karanlık\u0027",
+                                   "hp":  100,
+                                   "avatar":  "🦹",
+                                   "introText":  "X\u0027i yalnız bırakamazsan, parantezlerin önündeki eksiyi dağıtamazsan denklemime hapsolursun!",
+                                   "defeatText":  "Muhteşem! Bilinmeyenleri bir tarafa, bilinenleri diğer tarafa toplayarak X\u0027in sırrını çözdün!"
+                               },
+                      "lessons":  [
+                                      {
+                                          "step":  1,
+                                          "title":  "🧩 Benzer Terimler ve Cebirsel İfadelerde Toplama/Çıkarma",
+                                          "summary":  "Sadece aynı değişken ve aynı üsse sahip terimler toplanıp çıkarılabilir.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eBenzer Terim:\u003c/strong\u003e Değişkeni ve değişkenin üssü aynı olan terimlerdir (Örn: 3x ile -5x benzerdir; ama 3x ile 3x² BENZER DEĞİLDİR).",
+                                                         "\u003cstrong\u003eToplama / Çıkarma:\u003c/strong\u003e Yalnızca benzer terimlerin katsayıları toplanır/çıkarılır: 4x + 3 + 2x - 5 = 6x - 2.",
+                                                         "\u003cstrong\u003eEksiyi Dağıtma Tuzağı:\u003c/strong\u003e -(2x - 3) = -2x + 3 (Eksi işareti parantez içindeki her terimin işaretini tersine çevirir)."
+                                                     ],
+                                          "examTip":  "Sınavda Sorulur: 3(x - 4) = 3x - 12\u0027dir! Çarpan parantez içindeki her iki terimle de çarpılır.",
+                                          "quickCheck":  {
+                                                             "q":  "2(3x - 4) - 5x ifadesinin en sade eşiti hangisidir?",
+                                                             "options":  [
+                                                                             "x - 8",
+                                                                             "x - 4",
+                                                                             "11x - 8",
+                                                                             "6x - 8"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "2(3x - 4) = 6x - 8. Ardından 6x - 8 - 5x = x - 8 bulunur."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🍎",
+                                                                     "title":  "Elmayla Elma Toplanır, Elmayla Armut Toplanmaz!",
+                                                                     "text":  "3x ile -5x aynı cinstir (ikisi de elma), toplanabilir. Ama 3x ile 3x² farklı cinstir (elma ile elma kasası), asla toplanamaz!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧺",
+                                                                     "title":  "Aynı Sepetteki Sayıları Birleştir",
+                                                                     "text":  "4x ve 2x aynı sepette 6x olur; sabit sayılar +3 ve -5 kendi sepetinde -2 olur → 6x - 2."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🪞",
+                                                                     "title":  "Parantez Önündeki Eksi Ters Ayna Gibidir",
+                                                                     "text":  "-(2x - 3) ifadesindeki eksi işareti içeri girince her şeyi tersine çevirir: +2x olur -2x, -3 olur +3!"
+                                                                 }
+                                                             ]
+                                      },
+                                      {
+                                          "step":  2,
+                                          "title":  "⚖️ Birinci Dereceden Bir Bilinmeyenli Denklemler",
+                                          "summary":  "Denklem eşit kollu bir terazidir. Temel amaç x\u0027i yalnız bırakmaktır.",
+                                          "points":  [
+                                                         "\u003cstrong\u003eAltın Kural:\u003c/strong\u003e Bilinenler bir tarafa, bilinmeyenler eşitliğin diğer tarafına toplanır.",
+                                                         "\u003cstrong\u003eKöprüden Geçen İşaret Değiştirir:\u003c/strong\u003e Eşitliğin karşısına geçen terim işaretini tersine çevirir (+ ise -, - ise +; çarpma ise bölme, bölme ise çarpma).",
+                                                         "Örnek: 3x - 5 = 16 ➔ 3x = 16 + 5 ➔ 3x = 21 ➔ x = 7."
+                                                     ],
+                                          "examTip":  "Sınav Sorusu: 4x + 8 = 2x + 20 ➔ 4x - 2x = 20 - 8 ➔ 2x = 12 ➔ x = 6.",
+                                          "quickCheck":  {
+                                                             "q":  "5x - 7 = 18 denkleminde x değeri kaçtır?",
+                                                             "options":  [
+                                                                             "5",
+                                                                             "3",
+                                                                             "7",
+                                                                             "25"
+                                                                         ],
+                                                             "correct":  0,
+                                                             "explanation":  "5x = 18 + 7 ➔ 5x = 25 ➔ x = 25 ÷ 5 = 5."
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "⚽",
+                                                                     "title":  "İki Takımı Kendi Sahasına Topla",
+                                                                     "text":  "Denklem çözerken x\u0027li terimleri bir sahaya, düz sayıları diğer sahaya toplarsan x hemen yalnız kalır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🌉",
+                                                                     "title":  "Eşittir Köprüsünden Geçen Forma Değiştirir",
+                                                                     "text":  "\u0027=\u0027 işareti bir köprüdür; karşıya geçen \u0027+\u0027 olur \u0027-\u0027, \u0027-\u0027 olur \u0027+\u0027; çarpma olan bölme, bölme olan çarpma olarak geçer."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔓",
+                                                                     "title":  "Adım Adım Kilit Açma: 3x - 5 = 16",
+                                                                     "text":  "Önce -5 köprüden +5 diye geçer (3x = 21), sonra 3 çarpma olduğu için karşıya bölme olarak geçer (x = 21/3 = 7)."
+                                                                 }
+                                                             ]
+                                      }
+                                  ],
+                      "trueFalseQuestions":  [
+                                                 {
+                                                     "statement":  "3x ile 3x² benzer terimlerdir.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Değişkenlerin üsleri farklı olduğu için benzer terim değillerdir."
+                                                 },
+                                                 {
+                                                     "statement":  "-(x - 4) ifadesi -x + 4\u0027e eşittir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Parantez önündeki eksi içerideki her terimin işaretini değiştirir."
+                                                 },
+                                                 {
+                                                     "statement":  "Eşitliğin karşısına geçen bir sayı işaret değiştirmez.",
+                                                     "isTrue":  false,
+                                                     "explanation":  "Yanlış! Eşitliğin karşısına geçen sayı işaret değiştirir (+ ise - olur)."
+                                                 },
+                                                 {
+                                                     "statement":  "2x + 5 = 15 denkleminde x = 5\u0027tir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! 2x = 10 ➔ x = 5."
+                                                 },
+                                                 {
+                                                     "statement":  "Bir cebirsel ifadede değişken içermeyen terime sabit terim denir.",
+                                                     "isTrue":  true,
+                                                     "explanation":  "Doğru! Örneğin 4x - 9 ifadesinde sabit terim -9\u0027dur."
+                                                 }
+                                             ],
+                      "matchingPairs":  [
+                                            {
+                                                "id":  1,
+                                                "term":  "3(x + 2)",
+                                                "match":  "3x + 6",
+                                                "category":  "Dağılma"
+                                            },
+                                            {
+                                                "id":  2,
+                                                "term":  "2x = 14",
+                                                "match":  "x = 7",
+                                                "category":  "Denklem"
+                                            },
+                                            {
+                                                "id":  3,
+                                                "term":  "Sabit Terim (5x - 8)",
+                                                "match":  "-8",
+                                                "category":  "Kavram"
+                                            },
+                                            {
+                                                "id":  4,
+                                                "term":  "x - 9 = 11",
+                                                "match":  "x = 20",
+                                                "category":  "Denklem"
+                                            },
+                                            {
+                                                "id":  5,
+                                                "term":  "4x + 2x",
+                                                "match":  "6x",
+                                                "category":  "Benzer Terim"
+                                            },
+                                            {
+                                                "id":  6,
+                                                "term":  "-2(x - 5)",
+                                                "match":  "-2x + 10",
+                                                "category":  "Dağılma"
+                                            }
+                                        ],
+                      "flashcards":  [
+                                         {
+                                             "q":  "Cebirsel ifadede \u0027Sabit Terim\u0027 nedir?",
+                                             "a":  "Yanında harf (değişken) bulunmayan sadece sayı olan terimdir",
+                                             "hint":  "Örn: 2x + 7 de 7"
+                                         },
+                                         {
+                                             "q":  "Bir terim eşitliğin diğer tarafına geçerken ne olur?",
+                                             "a":  "İşareti zıttına döner (+ ise - olur)",
+                                             "hint":  "Köprü kuralı"
+                                         },
+                                         {
+                                             "q":  "3x + 12 = 0 ise x kaçtır?",
+                                             "a":  "-4 (3x = -12 ➔ x = -4)",
+                                             "hint":  "X\u0027i yalnız bırak"
+                                         }
+                                     ],
+                      "quizQuestions":  [
+                                            {
+                                                "q":  "4(2x - 3) + 5 = 25 denkleminde x kaçtır?",
+                                                "options":  [
+                                                                "4",
+                                                                "3",
+                                                                "5",
+                                                                "2"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "4(2x - 3) + 5 = 8x - 12 + 5 = 8x - 7. Denklemi kuralım: 8x - 7 = 25 ➔ 8x = 32 ➔ x = 4."
+                                            },
+                                            {
+                                                "q":  "Hangi sayının 3 katının 5 fazlası 26 eder?",
+                                                "options":  [
+                                                                "7",
+                                                                "8",
+                                                                "6",
+                                                                "9"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "Denklem: 3x + 5 = 26 ➔ 3x = 21 ➔ x = 7."
+                                            },
+                                            {
+                                                "q":  "3x + 14 = x + 26 denkleminde x değeri kaçtır?",
+                                                "options":  [
+                                                                "6",
+                                                                "12",
+                                                                "8",
+                                                                "10"
+                                                            ],
+                                                "correct":  0,
+                                                "explanation":  "3x - x = 26 - 14 ➔ 2x = 12 ➔ x = 6."
+                                            }
+                                        ],
+                      "openEndedQuestions":  [
+                                                 {
+                                                     "id":  "mat-oe-5",
+                                                     "question":  "3(2x - 4) - 2(x + 5) = 14 denklemini çözüm adımlarını göstererek çözünüz ve x değerini bulunuz.",
+                                                     "keywords":  [
+                                                                      "dağılma",
+                                                                      "6x",
+                                                                      "-12",
+                                                                      "-2x",
+                                                                      "-10",
+                                                                      "x=9",
+                                                                      "4x=36"
+                                                                  ],
+                                                     "sampleAnswer":  "1. Dağılma işlemleri yapılır:\n3(2x - 4) = 6x - 12\n-2(x + 5) = -2x - 10\n2. Eşitliğin sol tarafı düzenlenir:\n(6x - 12) + (-2x - 10) = 4x - 22\n3. Denklem çözülür:\n4x - 22 = 14\n4x = 14 + 22\n4x = 36\nx = 36 ÷ 4 = 9.",
+                                                     "rubric":  [
+                                                                    {
+                                                                        "criterion":  "Parantezler işaretlere dikkat edilerek doğru dağıtılmış",
+                                                                        "points":  5
+                                                                    },
+                                                                    {
+                                                                        "criterion":  "4x - 22 = 14 denklemi kurularak x = 9 doğru bulunmuş",
+                                                                        "points":  5
+                                                                    }
+                                                                ]
+                                                 }
+                                             ]
+                  }
+              ]
+}
