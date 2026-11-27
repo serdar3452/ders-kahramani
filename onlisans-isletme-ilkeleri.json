@@ -43,7 +43,34 @@
                                                                          ],
                                                              "answer":  1,
                                                              "hint":  "Kâr ve risk doğrudan bu kişiye aittir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "⚽",
+                                                                     "title":  "Tek Başına Maç Olmaz, Takım Gerekir",
+                                                                     "text":  "Bir kişinin tek başına kuramadığı büyük hedef için birleşen ekip \u0027Örgüt\u0027tür. Bu ekip kâr elde etmek için mal veya hizmet üretip satıyorsa artık adı \u0027İşletme\u0027dir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🍰",
+                                                                     "title":  "Üretim Pastasından Kim Ne Pay Alır?",
+                                                                     "text":  "Bir kafede dükkân sahibi toprağı/mekânı koyar (Rant), çalışanlar emeğini koyar (Ücret), kredi veren parayı koyar (Faiz), riski alan kurucu ise kalan kârı alır (Girişimci = Kâr)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚢",
+                                                                     "title":  "Gemi Sahibi (Girişimci) vs. Kaptan (Yönetici)",
+                                                                     "text":  "Girişimci gemiyi alan ve batarsa zarar edecek kişidir. Yönetici ise maaş karşılığı dümeni tutup gemiyi en iyi rotada götüren profesyonel kaptandır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎯",
+                                                                     "title":  "Hem Para Kazanmak Hem İyi Komşu Olmak",
+                                                                     "text":  "İşletmenin ayakta kalması için kâr etmesi ve büyümesi şarttır (Ekonomik amaç); ama doğayı koruması, çalışanına iyi bakması da toplumun güvenini kazandırır (Sosyal amaç)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎼",
+                                                                     "title":  "Orkestra Şefi ve Enstrümanlar",
+                                                                     "text":  "Yönetim orkestra şefidir (Genel fonksiyon). Üretim ve Pazarlama sahnedeki ana solistlerdir (Temel fonksiyon). Finans, İK ve Ar-Ge ise konserin kusursuz sürmesini sağlayan sahne arkası ekibidir (Yardımcı fonksiyon)."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -164,7 +191,34 @@
                                                                          ],
                                                              "answer":  1,
                                                              "hint":  "İşletmenin dışındaki makro ve mikro dinamiklerden beslenir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🧅",
+                                                                     "title":  "Soğan Katmanları Gibi İşletme Çevresi",
+                                                                     "text":  "En içte çalışanlar ve patron (İç Çevre), bir dışında müşteri ve rakipler (Mikro), onun dışında devlet yasaları ve ekonomi (Makro), en dışta ise dünya trendleri (Küresel Çevre) yer alır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🥊",
+                                                                     "title":  "Ringdeki 5 Rakip Güç (Porter)",
+                                                                     "text":  "Bir kafeyi sadece yan sokaktaki kafe zorlamaz: Yeni açılacak kafeler (giriş engeli), evde kahve yapan makineler (ikame ürün), pahalı kahve çekirdeği satanlar (tedarikçi) ve seçici müşteriler hep birlikte baskı kurar."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🌊",
+                                                                     "title":  "Durgun Göl vs. Fırtınalı Okyanus",
+                                                                     "text":  "Az faktörlü ve yavaş değişen pazar durgun göldür (düşük belirsizlik). Her gün yeni teknolojinin ve rakibin çıktığı pazar ise fırtınalı okyanustur (Karmaşık + Dinamik = Yüksek belirsizlik)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🦎",
+                                                                     "title":  "Bukalemun Gibi Çevreye Uyum",
+                                                                     "text":  "Pazar hızla değişiyorsa katı kurallarla ayakta kalınmaz; ortaklıklar kurmak, esnek ekip yapısına geçmek ve çevreyi sürekli izlemek işletmeye bukalemun esnekliği kazandırır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔭",
+                                                                     "title":  "Aynaya Bakmak ve Dürbünle Ufku İzlemek (SWOT \u0026 PEST)",
+                                                                     "text":  "SWOT\u0027ta Güçlü/Zayıf yönler aynaya bakıp kendini tanımaktır (İç); Fırsat/Tehditler ile PEST ise dürbünle dış dünyadaki rüzgârı okumaktır (Dış)."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -285,7 +339,34 @@
                                                                          ],
                                                              "answer":  1,
                                                              "hint":  "Anonim ve limited şirketler bu gruba girer."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🍞",
+                                                                     "title":  "Fırın, Kuaför ve Market Ayrımı",
+                                                                     "text":  "Unu ekmeğe çeviren fırın Ürün Üreten, saç kesen kuaför Hizmet Üreten, hazır ekmeği alıp müşteriye satan bakkal ise Ticaret işletmesidir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏛️",
+                                                                     "title":  "Cüzdan Kimin? (Özel, Kamu, Yabancı)",
+                                                                     "text":  "Sermayeyi şahıslar koyduysa Özel, devlet koyduysa Kamu (İDT/KİK/Belediye), yurt dışından yatırımcı getirdiyse Yabancı sermayeli işletmedir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📏",
+                                                                     "title":  "Tişört Bedenleri Gibi KOBİ Ölçüsü",
+                                                                     "text":  "İşletmeler çalışan sayısı ve ciroya göre S-M-L-XL bedenlere ayrılır: Mikro, Küçük ve Orta boylar KOBİ sayılır; 250 çalışanı aşanlar artık Büyük işletmedir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🤝",
+                                                                     "title":  "Aile Dükkânı (Şahıs) vs. Hisseli Şirket (Sermaye)",
+                                                                     "text":  "Şahıs işletmesi kişinin kendi adıyla ve güveniyle kurduğu aile dükkânı gibidir. Anonim ve Limited gibi sermaye şirketleri ise ortaklardan ayrı güçlü bir kurumsal kabuktur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛡️",
+                                                                     "title":  "Tüm Malvarlığınla Kefil Olmak vs. Sadece Koyduğun Kadar Risk",
+                                                                     "text":  "Şahıs şirketinde borç ödenmezse patronun evine, arabasına bile haciz gelebilir (sınırsız sorumluluk). Sermaye şirketinde ise ortağın riski yalnızca şirkete koymayı taahhüt ettiği sermaye ile sınırlıdır."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -406,7 +487,34 @@
                                                                          ],
                                                              "answer":  1,
                                                              "hint":  "İşletmenin kârlı olma ve varlığını sürdürme gereksinimidir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🔺",
+                                                                     "title":  "4 Katlı Bina (Carroll Piramidi)",
+                                                                     "text":  "Temel kat kâr etmektir (Ekonomik); 2. kat kanunlara uymak (Yasal); 3. kat yasa zorlamasa da dürüst olmak (Ahlaki); çatı katı ise okul yaptırmak, burs vermek gibi gönüllü iyiliklerdir (Filantropik)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "💰",
+                                                                     "title":  "Sadece Kasa mı, Tüm Mahalle mi?",
+                                                                     "text":  "Klasik görüş (Friedman) \u0027işletmenin tek işi kâr etmektir\u0027 der. Modern görüş ise \u0027çevreyi kirletip çalışanı mutsuz ederek uzun süre ayakta kalamazsın, tüm paydaşlara karşı sorumlusun\u0027 der."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🕸️",
+                                                                     "title":  "Aynı Gemideki Herkes (Paydaşlar)",
+                                                                     "text":  "Bir fabrikanın kararı sadece patronu değil; işçiyi, müşteriyi, komşu mahalleyi ve devleti de etkiler. Bu ağın tamamı paydaşlardır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📖",
+                                                                     "title":  "Yol Haritası (Etik) vs. Günlük Sürüş (Ahlak)",
+                                                                     "text":  "Etik doğru-yanlışın felsefi teorisidir; ahlak toplumda yaşadığımız pratik kurallardır. İş ahlakı ise bu dürüstlük kurallarını reklama, fiyata ve üretime uygulamaktır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧭",
+                                                                     "title":  "İçeride Adalet, Dışarıda Dürüstlük",
+                                                                     "text":  "İş ahlakı içeride adil maaş ve güvenli çalışma ortamı; dışarıda ise müşteriyi aldatmayan reklam, doğaya saygı ve dürüst rekabet demektir."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -527,7 +635,34 @@
                                                                          ],
                                                              "answer":  1,
                                                              "hint":  "Kullanılmayan üretim potansiyelini ifade eder."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "📐",
+                                                                     "title":  "Önce Maket ve Hesap, Sonra İnşaat (Fizibilite)",
+                                                                     "text":  "Ev yapmadan önce zemin etüdü ve bütçe hesabı yapmadan tuğla örmezsin. İşletme kurarken de önce fikir → fizibilite → kesin proje → deneme üretimi sırası izlenir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔍",
+                                                                     "title":  "5 Gözlükle Kontrol (Fizibilite Boyutları)",
+                                                                     "text":  "Ekonomik gözlük \u0027alan olur mu?\u0027, Teknik \u0027nasıl üretilir?\u0027, Finansal \u0027para yeter mi?\u0027, Hukuki \u0027izinler tamam mı?\u0027, Örgütsel \u0027kim yönetecek?\u0027 sorularını yanıtlar."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📍",
+                                                                     "title":  "En Az Yol, En Çok Müşteri (Optimal Kuruluş Yeri)",
+                                                                     "text":  "Meyve suyu fabrikası meyve bahçesine (hammadde), fırın ise mahalleye (pazar) yakın kurulur. Toplam taşıma ve üretim maliyetini en aza indiren nokta optimal kuruluştur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚡",
+                                                                     "title":  "Arabanın Kadranı vs. Gerçek Yol Hızı (Kapasite)",
+                                                                     "text":  "Kadranda 240 km/s yazar (Teorik), trafik ve yol şartlarıyla 140 km/s yapabilirsin (Pratik), şu an 100 km/s ile gidiyorsan bu senin Fiili kapasitendir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🪑",
+                                                                     "title":  "Boş Kalan Koltuklar (Atıl Kapasite)",
+                                                                     "text":  "100 kişilik restoranda 70 müşteri varsa 30 koltuk \u0027Atıl (Boş) Kapasite\u0027dir; Kapasite Kullanım Oranı %70\u0027tir. Birim maliyetin en düşük olduğu doluluk ise Optimal Kapasitedir."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -648,7 +783,34 @@
                                                                          ],
                                                              "answer":  0,
                                                              "hint":  "Aynı faaliyet düzeyindeki rakiplerin birleşmesidir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🌱",
+                                                                     "title":  "Fidanın Çınara Dönüşmesi (Büyüme Evreleri)",
+                                                                     "text":  "Her şirket küçük fidan gibi başlar (Kurulma), hızla dallanır (Gelişme), kurumsallaşır; ama yeniliğe kapanırsa hantal \u0027Dinozor\u0027a dönüp gerilemeye başlar."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏋️",
+                                                                     "title":  "Kendi Kasınla Büyümek (İç) vs. Takım Transferi (Dış)",
+                                                                     "text":  "Kendi kârınla yeni şube açmak İç Büyümedir. Başka bir şirketi satın almak veya birleşmek ise hızlıca güç katan Dış Büyümedir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "↔️",
+                                                                     "title":  "Yatay, Dikey ve Çapraz Birleşme",
+                                                                     "text":  "İki otobüs firması birleşirse Yatay; tekstilci kendi pamuk tarlasını alırsa Geriye Dikey, kendi mağaza zincirini kurarsa İleriye Dikey; alakasız sektörle birleşirse Çapraz birleşmedir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🤝",
+                                                                     "title":  "İş Birliğinin 7 Tonu",
+                                                                     "text":  "Tek köprü için geçici ortaklık Konsorsiyum, gizli fiyat anlaşması Kartel, tek çatı altında hisseleri yönetmek Holding, iki şirketin birlikte sıfırdan yeni şirket kurması ise Joint Venture\u0027dır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛒",
+                                                                     "title":  "Toptan Alınca Ucuzlaması (Ölçek Ekonomisi)",
+                                                                     "text":  "10 ekmek pişirirken de fırın aynı elektriği yakar, 1000 ekmek pişirirken de. Üretim arttıkça ekmek başına düşen sabit maliyetin düşmesi Ölçek Ekonomisidir."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -769,7 +931,34 @@
                                                                          ],
                                                              "answer":  2,
                                                              "hint":  "Faktör serbestliğini sağlayan ortak pazar düzeyidir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🪜",
+                                                                     "title":  "Yurt Dışına Açılma Merdiveni (Düşük Riskten Yükseğe)",
+                                                                     "text":  "En altta sadece mal göndermek (İhracat - düşük risk), ortada marka hakkı vermek (Franchising), en tepede ise yabancı ülkede kendi fabrikanı kurmak (Doğrudan Yatırım - yüksek risk ve kontrol) vardır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🌍",
+                                                                     "title":  "Tek Menü mü, Yerel Lezzet mi?",
+                                                                     "text":  "Küresel şirket dünyada aynı ürünü satar; Çok Uluslu şirket her ülkeye göre ürünü uyarlar; Ulusötesi şirket ise hem küresel gücü hem yerel lezzeti aynı anda birleştirir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎭",
+                                                                     "title":  "Ülkelerin Karakter Haritası (Hofstede)",
+                                                                     "text":  "Bazı ülkelerde patronla mesafe büyüktür (Güç Mesafesi), bazıları bireysel başarıyı bazıları ekip ruhunu öne çıkarır. Hofstede kültürleri bu 5 ölçüyle haritalandırır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "💎",
+                                                                     "title":  "Bir Ülke Neden O İşte Şampiyon Olur? (Porter Elması)",
+                                                                     "text":  "İtalya\u0027nın ayakkabıda, Almanya\u0027nın otomotivde lider olması tesadüf değildir: Nitelikli kaynak, seçici müşteriler, güçlü yan sanayi ve sert iç rekabet (Elmasın 4 köşesi) şampiyon yaratır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛂",
+                                                                     "title":  "Komşu Ülkelerle Yakınlaşmanın 4 Basamağı",
+                                                                     "text":  "1) Arada gümrük kalkar (Serbest Ticaret), 2) Dışarıya ortak tarife konur (Gümrük Birliği), 3) İşçi ve sermaye serbestçe gezer (Ortak Pazar), 4) Tek para birimine geçilir (Ekonomik Birlik - AB gibi)."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -890,7 +1079,34 @@
                                                                          ],
                                                              "answer":  2,
                                                              "hint":  "Çatı koordinasyon fonksiyonudur."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "⚙️",
+                                                                     "title":  "Canlı Bir Fabrika Sistemi",
+                                                                     "text":  "İşletme kapalı bir kutu değil; dışarıdan malzeme/bilgi alır (Girdi), işler (Dönüşüm), ürün çıkarır (Çıktı) ve müşteri yorumlarına göre kendini düzeltir (Geri Bildirim)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧭",
+                                                                     "title":  "Yönetimin 4 Adımlı Pusulası",
+                                                                     "text":  "Önce rotayı çiz (Planlama), ekibi kur (Örgütleme), harekete geçir (Yöneltme), hedefe gidiyor muyuz diye kontrol et (Denetim). Tepe yöneticisi büyük resmi (kavramsal), usta başı ise makineyi (teknik) iyi bilmelidir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "💎",
+                                                                     "title":  "Değer Üreten İkili: Üretim + Pazarlama (4P)",
+                                                                     "text":  "Üretim kaliteli ürünü ortaya çıkarır; Pazarlama ise doğru Ürün, doğru Fiyat, doğru Dağıtım ve doğru Tutundurma (4P) ile onu müşteriyle buluşturup gelir yaratır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🩺",
+                                                                     "title":  "Şirketin Organları (Destek Fonksiyonları)",
+                                                                     "text":  "Finans kan dolaşımı (para akışı), Muhasebe hafıza (kayıt), İK kas gücü (çalışanlar), Ar-Ge beyin (yenilik), Halkla İlişkiler ise güler yüzdür (itibar)."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚙️",
+                                                                     "title":  "Birbirini Döndüren Saat Çarkları",
+                                                                     "text":  "Pazarlama ne istendiğini söyler, Ar-Ge tasarlar, Üretim yapar, İK ekibi bulur, Finans bütçe verir, Muhasebe hesaplar; tek bir çark durursa saat aksar."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
