@@ -47,7 +47,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Temel bilanço eşitliği gereği Aktif = Pasif (Varlıklar = Kaynaklar) dengesi asla bozulmaz."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🏡",
+                                                                     "title":  "Ev Almanın İki Cebi",
+                                                                     "text":  "5 milyon TL\u0027lik bir ev aldığını düşün (Varlık/Aktif). Bunun 2 milyonunu kendi birikiminle (Öz Kaynak), 3 milyonunu banka kredisiyle (Borç) ödedin. Evin değeri her zaman bu iki cebin toplamına eşittir: 5M = 3M + 2M."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🪪",
+                                                                     "title":  "Şirket Ayrı Bir Kimlik Kartıdır",
+                                                                     "text":  "Kişilik kavramı şirketi sahibinden ayrı bir birey sayar. Kendi market alışverişini şirket kasasından ödeyemezsin; tıpkı komşunun cüzdanından kendi elektrik faturanı ödeyemeyeceğin gibi!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📸",
+                                                                     "title":  "Anlık Fotoğraf mı, 1 Yıllık Video mu?",
+                                                                     "text":  "Bilanço, 31 Aralık gecesi çekilen tek bir anlık fotoğraftır (elinde ne var, kime ne borçlusun). Gelir Tablosu ise 1 Ocak\u0027tan 31 Aralık\u0027a kadar olan tüm satış ve masrafların 1 yıllık videosudur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚪",
+                                                                     "title":  "Sol Kapı Giriş, Sağ Kapı Çıkış",
+                                                                     "text":  "Kasa, Banka ve Mal gibi varlık (aktif) hesaplarını bir depo gibi düşün: Depoya değer girdikçe (artış) SOL tarafa (Borç), depodan çıktıkça (azalış) SAĞ tarafa (Alacak) yazılır."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -341,7 +363,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Varlık ve gider hesaplarında artışlar daima BORÇ tarafına yazılır."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "⚖️",
+                                                                     "title":  "İki Kefeli Terazi Kuralı",
+                                                                     "text":  "Varlıklar ve Giderler terazinin SOL kefesidir (arttıkça Borç yazılır). Borçlar, Sermaye ve Gelirler ise SAĞ kefedir (arttıkça Alacak yazılır). Her işlemde terazi mutlaka dengede kalır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📓",
+                                                                     "title":  "Günlük Hatıra Defteri (Yevmiye)",
+                                                                     "text":  "Yevmiye defteri olayları tarih sırasıyla yazan günlük gibidir. Tek kişilik harcama \u0027Basit Madde\u0027, bir faturayı hem nakit hem kartla ödemek \u0027Bileşik Madde\u0027, çoklu alışverişi çoklu yolla ödemek \u0027Karışık Madde\u0027dir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🗂️",
+                                                                     "title":  "Evrakları Klasörlere Ayırmak ve Sağlama Yapmak",
+                                                                     "text":  "Günlük notları (Yevmiye) tek tek \u0027Kasa\u0027, \u0027Banka\u0027, \u0027Satıcılar\u0027 klasörlerine ayırmak Büyük Defter\u0027dir. Ay sonunda tüm klasörlerin sol ve sağ toplamlarının eşit çıkıp çıkmadığını kontrol eden sağlama listesi ise Mizan\u0027dır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎬",
+                                                                     "title":  "Bir Yıllık Muhasebe Yolculuğu",
+                                                                     "text":  "Yıla başlangıç fotoğrafıyla (Açılış Bilançosu) başlarsın, yıl boyu olayları kaydedersin, yıl sonunda depoyu sayıp hataları düzeltirsin (Envanter) ve tertemiz kapanış fotoğrafını (Dönem Sonu Bilançosu) çekersin."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -634,7 +678,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Alış KDV\u0027si daima 191 İndirilecek KDV hesabının BORÇ tarafında izlenir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "👛",
+                                                                     "title":  "Cüzdandaki Nakit ve Kesilmiş Çek",
+                                                                     "text":  "Cebindeki nakit (100 Kasa) ve banka kartın (102 Banka) anında harcayabileceğin paralardır. Kendi kestiğin çek (103 Verilen Çekler) ise bankadan çıkacak para olduğu için aktifin içinde eksi (-) olarak durur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📒",
+                                                                     "title":  "Veresiye Defteri ve Tahsilat Şüphesi",
+                                                                     "text":  "Sözle veresiye sattığın müşteri \u0027120 Alıcılar\u0027, imzalı senet aldığın müşteri \u0027121 Alacak Senetleri\u0027dir. Müşteri ödemeyip icralık olursa o alacağı \u0027128 Şüpheli Alacaklar\u0027 rafına ayırır ve ihtiyatlı davranıp şimdiden gider karşılığı (654) yazarsın."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🏪",
+                                                                     "title":  "Market Rafı Takibi: Anlık Barkod vs. Ay Sonu Sayımı",
+                                                                     "text":  "Her satışta barkod okutup maliyeti anında düşmek \u0027Aralıksız Envanter\u0027dir. Yıl boyu satış yapıp dönem sonunda rafları tek tek sayarak satılan mal maliyetini bulmak ise \u0027Aralıklı Envanter\u0027dir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧾",
+                                                                     "title":  "Devlet Adına Emanet KDV Havuzu",
+                                                                     "text":  "Mal alırken ödediğin KDV (191) devletten alacağındır; satarken müşteriden tahsil ettiğin KDV (391) devlete borcundur. Ay sonunda tahsil ettiğin fazlaysa farkı devlete ödersin (360), ödediğin fazlaysa gelecek aya devredersin (190)."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -924,7 +990,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Azalan bakiyeler yönteminde oran normal amortisman oranının 2 katıdır ve %50\u0027yi aşamaz."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🏭",
+                                                                     "title":  "Satmak İçin Değil, Kullanmak İçin Alınan Demirbaşlar",
+                                                                     "text":  "Bir fırının sattığı ekmek stoktur (Dönen Varlık), ama ekmek pişirdiği fırın ve dağıtım kamyoneti yıllarca kullanılacağı için Maddi Duran Varlıktır. Marka/patent hakkı ise elle tutulmayan Maddi Olmayan Duran Varlıktır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🚗",
+                                                                     "title":  "Eşit Taksitli Yıpranma vs. İlk Yıllarda Hızlı Eskime",
+                                                                     "text":  "Normal amortisman bir makinenin değerini her yıl eşit dilimlerle (ör. 5 yıl × %20) gidere yazar. Azalan bakiyeler ise yeni alınan cihazın ilk yıllarda daha hızlı değer kaybetmesini yansıtır (2 kat oran, tavan %50); hızlıdan normale dönülebilir ama tersi yapılamaz."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🐷",
+                                                                     "title":  "Emanet Kumbara ve 3 Yıllık Söz (549 Özel Fonlar)",
+                                                                     "text":  "Eski makineyi satıp yenisini almak için kâr elde ettiğinde, devlet bu kârı \u0027549 Özel Fonlar\u0027 kumbarasında en fazla 3 yıl vergisiz bekletmene izin verir. 3 yıl içinde yeni makine alırsan amortismanına mahsup edersin; almazsan süre dolar ve kâr vergilendirilir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛠️",
+                                                                     "title":  "Kiralık Dükkâna Yapılan Tadilat (264 Özel Maliyetler)",
+                                                                     "text":  "Kiralık bir dükkâna 5 yıllık sözleşmeyle dekorasyon yaptırdığında bu masrafı tek seferde değil, dükkânı kullanacağın 5 yıla bölerek her yıl eşit payla gider yazarsın."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -1212,7 +1300,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Teminat mektupları nakit olmayan kredi olduğu için Nazım Hesaplarda izlenir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "📅",
+                                                                     "title":  "Bu Yılın Faturaları vs. Uzun Vadeli Konut Kredisi",
+                                                                     "text":  "12 ay içinde ödeyeceğin borçlar Kısa Vadeli (3 Grubu), 1 yıldan uzun taksitli borçlar Uzun Vadeli (4 Grubu) yabancı kaynaklardır. Borcun arttıkça Alacak, ödedikçe Borç yazılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🤝",
+                                                                     "title":  "Nakit Ödünç vs. Bankanın Kefilliği (Teminat Mektubu)",
+                                                                     "text":  "Banka kredisi (300) eline doğrudan nakit verir. Teminat mektubu ise bankanın \u0027bu şirket işini yapmazsa ben öderim\u0027 diyerek kefil olmasıdır; nakit çıkışı olmadığı için bilanço dışı Nazım Hesaplarda izlenir, sadece komisyonu 780\u0027e gider yazılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔄",
+                                                                     "title":  "Vade Uzatma Bedeli ve Müşteri Senedini Devretmek",
+                                                                     "text":  "Günü gelen senedi ödeyemeyip faiz ekleyerek yenilediğinde eklenen fark borçlanma maliyetidir (780 Finansman Gideri). Müşteriden aldığın senedi (121) arkasına imza atıp (ciro) kendi satıcına (320) verirsen borcun düşer, senet cüzdanından çıkar."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📦",
+                                                                     "title":  "Kapora (340) ve Peşin Ödenen Vergi Mahsubu (371)",
+                                                                     "text":  "Müşteriden gelecek ay teslim edeceğin ürün için peşin kapora alırsan (340), bu artık ürün teslim borcudur. Yıl içinde peşin ödediğin geçici vergiler (371) ise yıl sonu toplam vergi borcundan (370) düşülen ön ödemedir."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -1501,7 +1611,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Hisse senedi ihraç primleri (emisyon primi) ticari kâr değil sermaye hareketidir ve \u0027520 Hisse Senedi İhraç Primleri\u0027 (sermaye yedeği) hesabının alacağına kaydedilir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🧱",
+                                                                     "title":  "Söz Verilen Sermaye vs. Kasaya Giren Gerçek Sermaye",
+                                                                     "text":  "Ortaklar 1 milyon TL sermaye koymaya söz verip (500) henüz 300 bin TL\u0027sini yatırmadıysa (501 Ödenmemiş Sermaye), şirketin fiilen elindeki Ödenmiş Sermaye = 1.000.000 − 300.000 = 700.000 TL\u0027dir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🎟️",
+                                                                     "title":  "10 TL\u0027lik Hisseyi 15 TL\u0027ye Satmanın Fazlası (520 Emisyon Primi)",
+                                                                     "text":  "Şirket kârından değil, üzerinde 10 TL yazan hisse senedinin yatırımcılara 15 TL\u0027ye satılmasından doğan 5 TL\u0027lik fazlalık \u0027520 Hisse Senedi İhraç Primi\u0027 olarak 52 Sermaye Yedeklerinde tutulur."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🛟",
+                                                                     "title":  "Kârdan Ayrılan 3 Farklı Acil Durum Fonu",
+                                                                     "text":  "Yıl sonu kârının tamamı dağıtılmaz: Kanunun zorunlu tuttuğu pay \u0027540 Yasal Yedek\u0027, şirket sözleşmesindeki pay \u0027541 Statü Yedeği\u0027, ortakların genel kurulda gönüllü ayırdığı pay ise \u0027542 Olağanüstü Yedek\u0027tir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📆",
+                                                                     "title":  "Yeni Yılda Defteri Temizleme (590 ➔ 570)",
+                                                                     "text":  "Bu yılın net kârı 31 Aralık bilançosunda \u0027590 Dönem Net Kârı\u0027 olarak durur. 1 Ocak sabahı yeni yıl başlayınca artık eski yılın kârı olduğu için \u0027570 Geçmiş Yıllar Kârları\u0027 rafına taşınır."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -1761,7 +1893,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Gelir hesapları borçlandırılarak kapatılır ve bakiyeleri 690 Dönem Kârı veya Zararı hesabının ALACAK tarafına devredilir."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "🧺",
+                                                                     "title":  "7/A: Departman Sepetleri ve Her Sepetin Kendi Kapısı",
+                                                                     "text":  "7/A (Fonksiyon Esası) giderleri departmana göre ayrı sepetlere koyar: Pazarlama (760), Genel Yönetim (770), Finansman (780). Dönem sonunda her sepet kendi özel yansıtma kapısından (761, 771, 781) geçerek Gelir Tablosuna aktarılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "📦",
+                                                                     "title":  "7/B: Türüne Göre Topla, Tek Kapıdan (798) Geçir",
+                                                                     "text":  "7/B (Çeşit Esası) küçük işletmeler içindir: Giderler departmana değil türüne göre (işçilik, dışarıdan sağlanan fayda vb. 790–797) toplanır ve dönem sonunda hepsi tek bir ortak kapıdan (798 Yansıtma) geçirilip dağıtılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🧮",
+                                                                     "title":  "690: Yıl Sonu Büyük Hesaplaşma Havuzu",
+                                                                     "text":  "690 Dönem Kârı veya Zararı hesabını yıl sonu terazisi gibi düşün: Tüm gelirler sağ kefeye (Alacak), tüm giderler sol kefeye (Borç) dökülür. Sağ kefe ağır basarsa şirket kâr etmiştir!"
+                                                                 },
+                                                                 {
+                                                                     "icon":  "⚡",
+                                                                     "title":  "Aralık Elektrik Faturası Ocak\u0027ta Ödense de Aralık Gideridir",
+                                                                     "text":  "Tahakkuk ilkesi \u0027parayı ne zaman ödediğin değil, hizmeti ne zaman tükettiğin önemlidir\u0027 der. Aralık ayında yaktığın elektriğin faturasını Ocak\u0027ta ödesen bile gideri Aralık ayına yazarsın."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
@@ -2021,7 +2175,29 @@
                                                                          ],
                                                              "correct":  0,
                                                              "explanation":  "Tebrikler! Envanter düzeltme ve devir kayıtları yapıldıktan sonra çıkarılan son mizan \u0027Kesin Mizan\u0027dır ve kalanları doğrudan Dönem Sonu Bilançosunu oluşturur."
-                                                         }
+                                                         },
+                                          "pointAnalogies":  [
+                                                                 {
+                                                                     "icon":  "📋",
+                                                                     "title":  "Depoyu Saymak (Dışı) vs. Defteri Düzeltmek (İçi)",
+                                                                     "text":  "Elinde liste ile kasadaki parayı ve depodaki kutuları tek tek saymak \u0027Muhasebe Dışı Envanter\u0027dir. Sayımda çıkan eksik/fazla farkları yevmiye defterine yazıp hesapları gerçeğe eşitlemek ise \u0027Muhasebe İçi Envanter\u0027dir."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔍",
+                                                                     "title":  "Taslak Kontrol (Geçici Mizan) ➔ Final Kontrol (Kesin Mizan)",
+                                                                     "text":  "Envanter düzeltmelerinden önce çıkarılan liste \u0027Genel Geçici Mizan\u0027dır (taslak kontrol). Düzeltmeler ve gelir/gider kapanışları bitince çıkarılan \u0027Kesin Mizan\u0027 ise doğrudan Dönem Sonu Bilançosu\u0027nun birebir aynasıdır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🕵️",
+                                                                     "title":  "Kasadaki Eksik veya Fazla Parayı Bekleme Odasına Almak",
+                                                                     "text":  "Kasayı saydığında 500 TL eksik çıkarsa nedeni bulunana kadar \u0027197 Noksanlar\u0027 bekleme odasına; 500 TL fazla çıkarsa \u0027397 Fazlalar\u0027 bekleme odasına alırsın. Nedeni bulununca ilgili hesaba aktarılır."
+                                                                 },
+                                                                 {
+                                                                     "icon":  "🔒",
+                                                                     "title":  "Defteri Sıfırlayıp Yılı Kapatmak (Ters Kayıt)",
+                                                                     "text":  "31 Aralık gecesi bilançodaki tüm aktif ve pasif hesapların bakiyeleri tam ters tarafa yazılarak sıfırlanır (Pasifler Borçlu, Aktifler Alacaklı). Böylece eski yılın defteri tertemiz kapanır; 1 Ocak\u0027ta tersiyle yeniden açılır."
+                                                                 }
+                                                             ]
                                       }
                                   ],
                       "flashcards":  [
