@@ -69,6 +69,18 @@
                                                                      "title":  "Sol Kapı Giriş, Sağ Kapı Çıkış",
                                                                      "text":  "Kasa, Banka ve Mal gibi varlık (aktif) hesaplarını bir depo gibi düşün: Depoya değer girdikçe (artış) SOL tarafa (Borç), depodan çıktıkça (azalış) SAĞ tarafa (Alacak) yazılır."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Kuruluş Bilançosunda Borç / Sermaye Bulma",
+                                                                     "trigger":  "Soruda Kasa, Taşıt, Bina, Sermaye verilip \u0027Borçlar kaç TL\u0027dir?\u0027 diye sorulursa!",
+                                                                     "problem":  "Kasa 50.000, Taşıt 100.000, Bina 300.000, Sermaye 350.000 TL ise Borçlar kaç TL\u0027dir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Tüm Varlıkları Topla): 50.000 + 100.000 + 300.000 = 450.000 TL",
+                                                                                   "2. Adım (Temel Denkliği Yaz): Varlıklar = Borçlar + Sermaye ➔ 450.000 = Borçlar + 350.000",
+                                                                                   "3. Adım (Sermayeyi Çıkar): Borçlar = 450.000 − 350.000 = 100.000 TL ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       }
                                   ],
@@ -385,6 +397,18 @@
                                                                      "title":  "Bir Yıllık Muhasebe Yolculuğu",
                                                                      "text":  "Yıla başlangıç fotoğrafıyla (Açılış Bilançosu) başlarsın, yıl boyu olayları kaydedersin, yıl sonunda depoyu sayıp hataları düzeltirsin (Envanter) ve tertemiz kapanış fotoğrafını (Dönem Sonu Bilançosu) çekersin."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Satıcılar (320) T-Hesabından Kalan Borç Bulma",
+                                                                     "trigger":  "Soruda SATICILAR T-hesabı çizilip \u0027Tedarikçilere borç kaç TL\u0027dir?\u0027 diye sorulursa!",
+                                                                     "problem":  "Satıcılar T-hesabı: Borç = 21.400 | Alacak = 45.100, 6.800, 11.400 TL. Borç kaç TL\u0027dir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Alacak Tarafını Topla): 45.100 + 6.800 + 11.400 = 63.300 TL",
+                                                                                   "2. Adım (Borç Tarafını Topla): 21.400 TL (yapılan ödemeler)",
+                                                                                   "3. Adım (Büyükten Küçüğü Çıkar): 63.300 − 21.400 = 41.900 TL (Alacak kalanı = kalan borç) ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       }
                                   ],
@@ -700,6 +724,28 @@
                                                                      "title":  "Devlet Adına Emanet KDV Havuzu",
                                                                      "text":  "Mal alırken ödediğin KDV (191) devletten alacağındır; satarken müşteriden tahsil ettiğin KDV (391) devlete borcundur. Ay sonunda tahsil ettiğin fazlaysa farkı devlete ödersin (360), ödediğin fazlaysa gelecek aya devredersin (190)."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Satılan Ticari Mallar Maliyeti (STMM) Hesabı",
+                                                                     "trigger":  "Soruda \u0027Dönem başı stok + Alışlar + Dönem sonu stok\u0027 verilip STMM sorulursa!",
+                                                                     "problem":  "Dönem başı 30.000 TL, alış 70.000 TL, dönem sonu 25.000 TL ise STMM kaç TL\u0027dir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Satılabilir Toplam Malı Bul): Dönem Başı + Alış = 30.000 + 70.000 = 100.000 TL",
+                                                                                   "2. Adım (Rafta Kalanı Düş): 100.000 − 25.000 (Dönem Sonu Stok)",
+                                                                                   "3. Adım (Sonucu Yaz): STMM = 75.000 TL ✅"
+                                                                               ]
+                                                                 },
+                                                                 {
+                                                                     "title":  "Ay Sonu KDV Mahsubu (360 mı, 190 mı?)",
+                                                                     "trigger":  "Soruda \u0027191 İndirilecek KDV\u0027 ve \u0027391 Hesaplanan KDV\u0027 tutarları verilirse!",
+                                                                     "problem":  "391 Hesaplanan KDV 18.000 TL, 191 İndirilecek KDV 12.000 TL ise hangi hesap kullanılır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (İki KDV\u0027yi Kıyasla): Tahsil ettiğin (391 = 18.000) \u003e Ödediğin (191 = 12.000)",
+                                                                                   "2. Adım (Aradaki Farkı Bul): 18.000 − 12.000 = 6.000 TL",
+                                                                                   "3. Adım (Doğru Hesabı Seç): 391 büyükse 360 Ödenecek Vergi ve Fonlar ALACAKLI 6.000 TL (191 büyük olsaydı 190 Devreden KDV BORÇLU olurdu) ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       }
                                   ],
@@ -1012,6 +1058,28 @@
                                                                      "title":  "Kiralık Dükkâna Yapılan Tadilat (264 Özel Maliyetler)",
                                                                      "text":  "Kiralık bir dükkâna 5 yıllık sözleşmeyle dekorasyon yaptırdığında bu masrafı tek seferde değil, dükkânı kullanacağın 5 yıla bölerek her yıl eşit payla gider yazarsın."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Azalan Bakiyeler — 2. Yıl Amortisman Hesabı",
+                                                                     "trigger":  "Soruda \u0027Azalan bakiyeler\u0027 + \u0027ikinci yıl amortisman\u0027 ifadelerini görürsen!",
+                                                                     "problem":  "30.000 TL demirbaş, normal oran %20. Azalan bakiyelere göre 2. yıl amortismanı kaç TL\u0027dir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Oranı 2\u0027yle çarp, %50\u0027yi geçme): %20 × 2 = %40",
+                                                                                   "2. Adım (1. yıl tam maliyetten kes \u0026 kalanı bul): 30.000 × %40 = 12.000 TL ➔ Kalan = 30.000 − 12.000 = 18.000 TL",
+                                                                                   "3. Adım (2. yıl kalan bakiyeden kes): 18.000 × %40 = 7.200 TL ✅"
+                                                                               ]
+                                                                 },
+                                                                 {
+                                                                     "title":  "Duran Varlık (Makine/Taşıt) Satış Kârı veya Zararı",
+                                                                     "trigger":  "Soruda \u0027Maliyet + Birikmiş Amortisman + Satış Bedeli\u0027 verilip kâr/zarar sorulursa!",
+                                                                     "problem":  "Maliyeti 36.000 TL, birikmiş amortismanı 9.000 TL olan makine 25.000 TL\u0027ye satılırsa sonuç nedir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Net Defter Değerini Bul): Maliyet − Birikmiş Amortisman = 36.000 − 9.000 = 27.000 TL",
+                                                                                   "2. Adım (Satış Bedelinden Net Değeri Çıkar): 25.000 − 27.000 = −2.000 TL",
+                                                                                   "3. Adım (İşarete Bak): Eksi çıktığı için 2.000 TL ZARAR (Artı çıksaydı KÂR) ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       }
                                   ],
@@ -1321,6 +1389,18 @@
                                                                      "icon":  "📦",
                                                                      "title":  "Kapora (340) ve Peşin Ödenen Vergi Mahsubu (371)",
                                                                      "text":  "Müşteriden gelecek ay teslim edeceğin ürün için peşin kapora alırsan (340), bu artık ürün teslim borcudur. Yıl içinde peşin ödediğin geçici vergiler (371) ise yıl sonu toplam vergi borcundan (370) düşülen ön ödemedir."
+                                                                 }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Dönem Sonu İşlemiş Kredi Faizi Tahakkuku (381)",
+                                                                     "trigger":  "Soruda \u00271 Ekim\u0027de kredi çekildi, faiz vade sonunda ödenecek, 31 Aralık kaydı?\u0027 derse!",
+                                                                     "problem":  "1 Ekim\u0027de 6 aylık 24.000 TL kredi, toplam 1.200 TL faiz vade sonunda ödenecek. 31 Aralık kaydı nedir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Bu Yıla Düşen Ay Sayısını Say): Ekim + Kasım + Aralık = 3 ay (6 ayın yarısı)",
+                                                                                   "2. Adım (Bu Yılın Faizini Hesapla): 1.200 × (3 / 6) = 600 TL",
+                                                                                   "3. Adım (Kayıt): 780 Finansman Giderleri BORÇLU 600 TL / 381 Gider Tahakkukları ALACAKLI 600 TL ✅"
+                                                                               ]
                                                                  }
                                                              ]
                                       }
@@ -1633,6 +1713,18 @@
                                                                      "title":  "Yeni Yılda Defteri Temizleme (590 ➔ 570)",
                                                                      "text":  "Bu yılın net kârı 31 Aralık bilançosunda \u0027590 Dönem Net Kârı\u0027 olarak durur. 1 Ocak sabahı yeni yıl başlayınca artık eski yılın kârı olduğu için \u0027570 Geçmiş Yıllar Kârları\u0027 rafına taşınır."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "I. Tertip Yasal Yedek Akçe \u0026 %20 Üst Sınır Kontrolü",
+                                                                     "trigger":  "Soruda \u0027Sermaye + Ödenmemiş Sermaye + Önceki Yedek + Dönem Net Kârı\u0027 verilip I. Tertip sorulursa!",
+                                                                     "problem":  "Sermaye 500.000, Ödenmemiş 200.000, Önceki I. Tertip 50.000, Net Kâr 400.000 TL. Ne kadar ayrılır?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Ödenmiş Sermaye \u0026 %20 Tavanı Bul): 500.000 − 200.000 = 300.000 TL ➔ Tavan = 300.000 × %20 = 60.000 TL",
+                                                                                   "2. Adım (Yıllık %5\u0027i Hesapla): 400.000 × %5 = 20.000 TL",
+                                                                                   "3. Adım (Kalan Boşluğu Kontrol Et): Tavan (60.000) − Önceki (50.000) = 10.000 TL boşluk var ➔ 20.000 yerine sadece 10.000 TL ayrılır ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       }
                                   ],
@@ -1915,6 +2007,18 @@
                                                                      "title":  "Aralık Elektrik Faturası Ocak\u0027ta Ödense de Aralık Gideridir",
                                                                      "text":  "Tahakkuk ilkesi \u0027parayı ne zaman ödediğin değil, hizmeti ne zaman tükettiğin önemlidir\u0027 der. Aralık ayında yaktığın elektriğin faturasını Ocak\u0027ta ödesen bile gideri Aralık ayına yazarsın."
                                                                  }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "Ticari Kârdan Mali Kâra (Vergi Matrahına) Geçiş",
+                                                                     "trigger":  "Soruda \u0027Ticari kâr + Vergiden muaf gelir + KKEG\u0027 verilip Mali Kâr sorulursa!",
+                                                                     "problem":  "Ticari kâr 300.000 TL, vergiden muaf gelir 80.000 TL, KKEG 35.000 TL ise Mali Kâr kaç TL\u0027dir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Ticari Kârı Yaz): 300.000 TL",
+                                                                                   "2. Adım (Muaf Geliri DÜŞ, KKEG\u0027yi EKLE): 300.000 − 80.000 + 35.000",
+                                                                                   "3. Adım (Sonucu Bul): Mali Kâr = 255.000 TL ✅"
+                                                                               ]
+                                                                 }
                                                              ]
                                       }
                                   ],
@@ -2196,6 +2300,18 @@
                                                                      "icon":  "🔒",
                                                                      "title":  "Defteri Sıfırlayıp Yılı Kapatmak (Ters Kayıt)",
                                                                      "text":  "31 Aralık gecesi bilançodaki tüm aktif ve pasif hesapların bakiyeleri tam ters tarafa yazılarak sıfırlanır (Pasifler Borçlu, Aktifler Alacaklı). Böylece eski yılın defteri tertemiz kapanır; 1 Ocak\u0027ta tersiyle yeniden açılır."
+                                                                 }
+                                                             ],
+                                          "workedExamples":  [
+                                                                 {
+                                                                     "title":  "2 Yıllık Peşin Kira Ödemesinde 180 Gelecek Aylar Payı",
+                                                                     "trigger":  "Soruda \u0027Eylül başında 2 yıllık kira peşin ödendi, yıl sonunda 180 hesabı?\u0027 derse!",
+                                                                     "problem":  "Eylül başında aylık 4.000 TL\u0027den 24 aylık kira peşin ödendi. Yıl sonunda 180 hesabı kaç TL\u0027dir?",
+                                                                     "steps":  [
+                                                                                   "1. Adım (Bu Yıla Düşen Ayları Düş): Eylül–Aralık = 4 ay cari yıl gideridir (Kalan = 20 ay)",
+                                                                                   "2. Adım (İzleyen 12 Ayı Ayır): Gelecek yılın 12 ayı ➔ 180 Gelecek Aylara Ait Giderler (Kalan 8 ay ➔ 280)",
+                                                                                   "3. Adım (Çarp): 12 ay × 4.000 TL = 48.000 TL ✅"
+                                                                               ]
                                                                  }
                                                              ]
                                       }
