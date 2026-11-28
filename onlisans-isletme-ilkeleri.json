@@ -140,7 +140,13 @@
                                                                 "Yönetici - Kâr"
                                                             ],
                                                 "answer":  3,
-                                                "explanation":  "Kâr, üretim faktörlerinden \u0027Girişimci\u0027nin (müteşebbis) elde ettiği gelirdir. Yönetici ise emek karşılığı maaş/ücret alır ve riski üstlenmez."
+                                                "explanation":  "Kâr, üretim faktörlerinden \u0027Girişimci\u0027nin (müteşebbis) elde ettiği gelirdir. Yönetici ise emek karşılığı maaş/ücret alır ve riski üstlenmez.",
+                                                "simpleQ":  "Üretimde kullanılan her kaynağın kendine özgü bir kazancı vardır. Seçeneklerden hangisinde bu kaynak-kazanç eşleştirmesi yanlış yapılmıştır?",
+                                                "thinkSteps":  [
+                                                                   "Üretim faktörleri emek, sermaye, doğal kaynaklar ve girişimci olarak dört gruba ayrılır.",
+                                                                   "Emek ücret, sermaye faiz, doğal kaynaklar rant, girişimci ise risk aldığı için kâr elde eder.",
+                                                                   "Yönetici riski üstlenen girişimci değildir; emeği karşılığında maaş alır, dolayısıyla kâr ile eşleştirilemez."
+                                                               ]
                                             },
                                             {
                                                 "q":  "İşletmenin \u0027ürün üreten ve müşteriye ulaştırarak doğrudan gelir yaratan\u0027 temel fonksiyonları aşağıdakilerin hangisinde birlikte verilmiştir?",
@@ -151,7 +157,13 @@
                                                                 "Ar-Ge ve Halkla İlişkiler"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "İşletmenin temel fonksiyonları Üretim ve Pazarlamadır. Yönetim genel fonksiyon; finans, insan kaynakları, Ar-Ge vb. ise yardımcı fonksiyonlardır."
+                                                "explanation":  "İşletmenin temel fonksiyonları Üretim ve Pazarlamadır. Yönetim genel fonksiyon; finans, insan kaynakları, Ar-Ge vb. ise yardımcı fonksiyonlardır.",
+                                                "simpleQ":  "Bir işletmenin ayakta kalması için hem mal veya hizmet üretmesi hem de bunu müşteriye satıp para kazanması gerekir. Bu iki temel işlev hangisinde bir arada verilmiştir?",
+                                                "thinkSteps":  [
+                                                                   "İşletmeye doğrudan gelir getiren iki ana çekirdek işlevi düşün.",
+                                                                   "Önce ortaya bir ürün veya hizmet konur (üretim), ardından müşteriye ulaştırılıp satılır (pazarlama).",
+                                                                   "Yönetim, finans, İK ve Ar-Ge gibi alanlar bu iki ana işi destekleyen genel veya yardımcı işlevlerdir."
+                                                               ]
                                             }
                                         ]
                   },
@@ -288,7 +300,13 @@
                                                                 "Rakipler ve Tedarikçiler"
                                                             ],
                                                 "answer":  3,
-                                                "explanation":  "Rakipler ve tedarikçiler işletmenin MİKRO (yakın/sektörel) çevresinde yer alır. Diğerleri makro çevre faktörleridir."
+                                                "explanation":  "Rakipler ve tedarikçiler işletmenin MİKRO (yakın/sektörel) çevresinde yer alır. Diğerleri makro çevre faktörleridir.",
+                                                "simpleQ":  "Bir şirketin tek başına değiştiremeyeceği ülke veya dünya çapındaki büyük etkenlere uzak (makro) çevre denir. Hangisi bu büyük etkenlerden biri değil, şirketin hemen yanındaki yakın çevresidir?",
+                                                "thinkSteps":  [
+                                                                   "Makro çevre; ekonomi, nüfus yapısı, yasalar ve teknoloji gibi tüm sektörü etkileyen geniş koşullardır.",
+                                                                   "Mikro çevre ise işletmenin her gün doğrudan muhatap olduğu müşteri, rakip ve tedarikçilerden oluşur.",
+                                                                   "Doğrudan iş ilişkisi kurulan ya da yarışı paylaşılan aktörleri içeren seçeneği ayır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki tekniklerden hangisi makro ve mikro çevredeki fırsat ve tehditler ile işletmenin güçlü ve zayıf yönlerini eş zamanlı incelemeyi sağlar?",
@@ -299,7 +317,13 @@
                                                                 "Trend Analizi"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "SWOT analizi (Strengths, Weaknesses, Opportunities, Threats) iç çevredeki güçlü/zayıf yönler ile dış çevredeki fırsat/tehditleri birlikte değerlendirir."
+                                                "explanation":  "SWOT analizi (Strengths, Weaknesses, Opportunities, Threats) iç çevredeki güçlü/zayıf yönler ile dış çevredeki fırsat/tehditleri birlikte değerlendirir.",
+                                                "simpleQ":  "Bir işletmenin hem kendi içindeki güçlü ve zayıf yönlerini hem de dışarıdaki fırsat ve tehditleri tek bir tabloda görmesini sağlayan analiz yöntemi hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Soruda dört temel boyut vurgulanıyor: güçlü yönler, zayıf yönler, fırsatlar ve tehditler.",
+                                                                   "İngilizce baş harfleri S (Strengths), W (Weaknesses), O (Opportunities), T (Threats) olan analiz bu dörtlüye bakar.",
+                                                                   "PEST yalnızca dış çevreyi inceler; iç ve dış değerlendirmeyi birleştiren yöntem SWOT analizidir."
+                                                               ]
                                             }
                                         ]
                   },
@@ -436,7 +460,13 @@
                                                                 "Limited Şirket"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "Komandit şirketlerde iki tip ortak bulunur: Sorumluluğu sınırsız komandite ortak ve sorumluluğu sermayesiyle sınırlı komanditer ortak."
+                                                "explanation":  "Komandit şirketlerde iki tip ortak bulunur: Sorumluluğu sınırsız komandite ortak ve sorumluluğu sermayesiyle sınırlı komanditer ortak.",
+                                                "simpleQ":  "Bazı ortakların tüm mal varlığıyla sınırsız sorumlu olduğu, bazı ortakların ise yalnızca koyduğu para kadar sorumlu tutulduğu şirket türü hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Soruda iki farklı ortak tipinden söz ediliyor: sınırsız sorumlu \u0027komandite\u0027 ve sınırlı sorumlu \u0027komanditer\u0027.",
+                                                                   "Ortak isimlerinin kökü, doğrudan şirket türünün adını ele verir.",
+                                                                   "Bu ikili sorumluluk yapısına sahip şirket türü komandit şirkettir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi işletmeleri büyüklüklerine göre sınıflandırırken kullanılan nitel (kalitatif) ölçütlerden biridir?",
@@ -447,7 +477,13 @@
                                                                 "Örgüt ve yönetim yapısı"
                                                             ],
                                                 "answer":  3,
-                                                "explanation":  "Çalışan sayısı, satış hasılatı ve harcanan enerji nicel (sayısal) ölçütlerdir. Örgüt ve yönetim yapısı ise nitel (kalitatif) ölçüttür."
+                                                "explanation":  "Çalışan sayısı, satış hasılatı ve harcanan enerji nicel (sayısal) ölçütlerdir. Örgüt ve yönetim yapısı ise nitel (kalitatif) ölçüttür.",
+                                                "simpleQ":  "İşletmelerin büyük mü küçük mü olduğuna bakarken bazen sayılarla, bazen de çalışma düzeniyle ölçüm yapılır. Hangisi sayıyla değil, nitelikle ilgili bir ölçüttür?",
+                                                "thinkSteps":  [
+                                                                   "Nicel ölçütler rakamla sayılabilen veya ölçülebilen büyüklüklerdir (personel sayısı, satış tutarı, harcanan enerji).",
+                                                                   "Nitel ölçütler ise işletmenin yönetim biçimi, uzmanlaşma düzeyi ve örgüt yapısı gibi özelliklerdir.",
+                                                                   "Sayısal bir değerle ifade edilemeyen yapısal özelliği seç."
+                                                               ]
                                             }
                                         ]
                   },
@@ -584,7 +620,13 @@
                                                                 "Ahlaki -\u003e Ekonomik -\u003e Yasal -\u003e Gönüllü"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Carroll piramidinde en altta Ekonomik sorumluluklar, ardından Yasal, sonra Ahlaki ve en üstte Gönüllü (Filantropik) sorumluluklar yer alır."
+                                                "explanation":  "Carroll piramidinde en altta Ekonomik sorumluluklar, ardından Yasal, sonra Ahlaki ve en üstte Gönüllü (Filantropik) sorumluluklar yer alır.",
+                                                "simpleQ":  "Carroll\u0027ın Sosyal Sorumluluk Piramidi\u0027ne göre bir işletme önce en temel görevinden başlayıp gönüllü iyiliklere doğru yükselir. Tabandan tepeye doğru sıralama nasıldır?",
+                                                "thinkSteps":  [
+                                                                   "Bir işletmenin varlığını sürdürebilmesi için en altta kâr elde etme yani ekonomik sorumluluk bulunmalıdır.",
+                                                                   "İkinci basamakta kurallara ve kanunlara uyma (yasal), üçüncü basamakta ise doğru ve adil davranma (ahlaki) yer alır.",
+                                                                   "En tepede ise zorunlu olmadığı hâlde topluma katkı sunan gönüllü (filantropik) sorumluluk bulunur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi işletme İÇİ faktörlerle ilgili iş ahlakı konuları arasında gösterilemez?",
@@ -595,7 +637,13 @@
                                                                 "Muhasebe kayıtlarının ve kârlılığın gerçeğe aykırı gösterilmesi"
                                                             ],
                                                 "answer":  2,
-                                                "explanation":  "Rakiplerle yapılan fiyat anlaşmaları ve rekabet kısıtlamaları \u0027İşletme DIŞI\u0027 (pazar ve rekabet) faktörlerle ilgili iş ahlakı konusudur."
+                                                "explanation":  "Rakiplerle yapılan fiyat anlaşmaları ve rekabet kısıtlamaları \u0027İşletme DIŞI\u0027 (pazar ve rekabet) faktörlerle ilgili iş ahlakı konusudur.",
+                                                "simpleQ":  "İş ahlakı sorunlarının bazıları şirketin kendi iç işleyişinde, bazıları ise pazardaki dış ilişkilerde ortaya çıkar. Hangisi şirket içi değil, şirket dışı bir etik sorundur?",
+                                                "thinkSteps":  [
+                                                                   "Seçeneklerdeki davranışların şirketin kendi departmanlarıyla mı yoksa dışarıdaki rakiplerle mi ilgili olduğuna bak.",
+                                                                   "İşe alım, muhasebe kayıtları ve kendi reklam politikası şirket içi karar ve uygulamalardır.",
+                                                                   "Rakiplerin satışını engellemek veya fiyat anlaşması yapmak ise doğrudan dış pazardaki rekabetle ilgili bir sorundur."
+                                                               ]
                                             }
                                         ]
                   },
@@ -732,7 +780,13 @@
                                                                 "100.000 adet"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Atıl Kapasite = Pratik Kapasite - Fiili Kapasite ➔ 80.000 - 60.000 = 20.000 adettir. (Teorik kapasite atıl kapasite hesabında kullanılmaz)."
+                                                "explanation":  "Atıl Kapasite = Pratik Kapasite - Fiili Kapasite ➔ 80.000 - 60.000 = 20.000 adettir. (Teorik kapasite atıl kapasite hesabında kullanılmaz).",
+                                                "simpleQ":  "Bir fabrika normal bakım ve molalarla yılda 80.000 ürün yapabilecek durumdayken gerçekte 60.000 ürün üretmiştir. Fabrikanın kullanılmadan boşta kalan kapasitesi ne kadardır?",
+                                                "thinkSteps":  [
+                                                                   "Boşta kalan (atıl) kapasite hesaplanırken hiç durmadan ulaşılan teorik kapasite (100.000) değil, gerçekçi pratik kapasite (80.000) esas alınır.",
+                                                                   "Pratik kapasiteden fiilen üretilen miktarı çıkar: 80.000 - 60.000.",
+                                                                   "Aradaki 20.000 adetlik fark, fabrikanın kullanılmayan atıl kapasitesini verir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "İşletmenin kuruluş sürecinde yapılabilirlik araştırmasının (fizibilite etüdü) yapıldığı ve fizibilite raporunun hazırlandığı aşama aşağıdakilerden hangisidir?",
@@ -743,7 +797,13 @@
                                                                 "Deneme Üretimi Aşaması"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "Fizibilite etüdü ve yapılabilirlik raporu ön proje aşamasında hazırlanır ve bu rapora göre yatırım kararı verilir."
+                                                "explanation":  "Fizibilite etüdü ve yapılabilirlik raporu ön proje aşamasında hazırlanır ve bu rapora göre yatırım kararı verilir.",
+                                                "simpleQ":  "Yeni bir iş kurmadan önce \u0027Bu yatırım gerçekten yapılabilir mi, kâr getirir mi?\u0027 diye detaylı fizibilite raporunun hazırlandığı aşama hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Kuruluş süreci önce bir fikirle başlar, ardından o fikrin uygulanabilirliği araştırılır.",
+                                                                   "Yapılabilirlik araştırması (fizibilite etüdü) kesin projeye geçmeden önce yatırım kararını netleştirmek için yapılır.",
+                                                                   "Bu nedenle fizibilite raporu ön proje / fizibilite aşamasında hazırlanır."
+                                                               ]
                                             }
                                         ]
                   },
@@ -880,7 +940,13 @@
                                                                 "Çapraz (Kümeli) Birleşme"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "İşletmenin gereksinim duyduğu hammadde veya ara mamulü üreten tedarikçi ile birleşmesi \u0027Geriye Doğru Dikey Birleşme\u0027dir. Pazarlama ve dağıtım kanalıyla birleşme ise \u0027İleriye Doğru Dikey Birleşme\u0027dir."
+                                                "explanation":  "İşletmenin gereksinim duyduğu hammadde veya ara mamulü üreten tedarikçi ile birleşmesi \u0027Geriye Doğru Dikey Birleşme\u0027dir. Pazarlama ve dağıtım kanalıyla birleşme ise \u0027İleriye Doğru Dikey Birleşme\u0027dir.",
+                                                "simpleQ":  "Bir otomobil fabrikası, kendisine lastik sağlayan tedarikçi firmayı satın alıp kendi bünyesine katarsa bu nasıl bir birleşme olur?",
+                                                "thinkSteps":  [
+                                                                   "Üretim zincirini baştan sona düşün: hammadde/parça tedarikçisi → ana üretici → dağıtım ve satış.",
+                                                                   "Ana üretici, kendisinden önceki basamakta yer alan tedarikçiyi satın alıyorsa zincirde geriye doğru gitmiş olur.",
+                                                                   "Tedarikçiyi bünyeye katmak bu yüzden geriye doğru dikey birleşme olarak adlandırılır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki iş birliği türlerinden hangisinde katılan işletmeler ticari unvanlarını ve markalarını korumakla birlikte \u0027ekonomik bağımsızlıklarını\u0027 kaybederek tek bir merkezin parçası haline gelirler?",
@@ -891,7 +957,13 @@
                                                                 "Kartel"
                                                             ],
                                                 "answer":  2,
-                                                "explanation":  "Konsern yapısına giren işletmeler unvanlarını korusalar da ekonomik bağımsızlıklarını kaybederler ve finansal yönetimleri tek merkezden yürütülür."
+                                                "explanation":  "Konsern yapısına giren işletmeler unvanlarını korusalar da ekonomik bağımsızlıklarını kaybederler ve finansal yönetimleri tek merkezden yürütülür.",
+                                                "simpleQ":  "Birden fazla şirket kendi isimlerini ve markalarını koruyarak bir araya gelir, ancak para ve yönetim kararlarında özgürlüklerini kaybedip tek merkeze bağlanırsa bu yapıya ne denir?",
+                                                "thinkSteps":  [
+                                                                   "İş birliği türlerini bağımsızlık düzeyine göre ayır: kartel ve centilmenlik anlaşmasında şirketler ekonomik özgürlüğünü korur.",
+                                                                   "Konsorsiyum ise belirli ve geçici büyük bir proje için kurulan ortaklıktır.",
+                                                                   "Hukuki unvanı koruyup ekonomik bağımsızlığı tek merkeze devreden yapı konserndir."
+                                                               ]
                                             }
                                         ]
                   },
@@ -1028,7 +1100,13 @@
                                                                 "Franchising"
                                                             ],
                                                 "answer":  2,
-                                                "explanation":  "Dolaylı ihracat, aracı kurumlar üzerinden yapıldığı için yabancı pazara girişte işletmeye en az finansal risk ve en az kaynak yükü getiren yöntemdir."
+                                                "explanation":  "Dolaylı ihracat, aracı kurumlar üzerinden yapıldığı için yabancı pazara girişte işletmeye en az finansal risk ve en az kaynak yükü getiren yöntemdir.",
+                                                "simpleQ":  "Bir işletme yurt dışına açılırken en az para harcamak ve en düşük riski almak istiyorsa hangi yolu seçmelidir?",
+                                                "thinkSteps":  [
+                                                                   "Yurt dışında fabrika kurmak (doğrudan yatırım) veya ortak şirket açmak yüksek sermaye ve ciddi risk gerektirir.",
+                                                                   "Franchising de sistem kurulumu ve denetim yükümlülüğü getirir.",
+                                                                   "Ürünleri aracı kurumlar üzerinden yurt dışına göndermek yani dolaylı ihracat ise en az kaynak ve en düşük riskle yapılan yöntemdir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Bölgesel ekonomik entegrasyon aşamaları dikkate alındığında; üye ülkeler arasında mal, hizmet, sermaye ve iş gücünün (üretim faktörlerinin) tamamen serbest dolaşımına izin veren aşama aşağıdakilerden hangisidir?",
@@ -1039,7 +1117,13 @@
                                                                 "Ortak Pazar"
                                                             ],
                                                 "answer":  3,
-                                                "explanation":  "Ortak Pazar (Common Market) aşamasında mal ve hizmetlerin yanı sıra üretim faktörleri de (iş gücü ve sermaye) serbest dolaşım hakkı kazanır."
+                                                "explanation":  "Ortak Pazar (Common Market) aşamasında mal ve hizmetlerin yanı sıra üretim faktörleri de (iş gücü ve sermaye) serbest dolaşım hakkı kazanır.",
+                                                "simpleQ":  "Ülkeler arası ekonomik birliklerde, yalnızca malların değil aynı zamanda çalışanların ve sermayenin de sınır tanımadan serbestçe dolaşabildiği aşama hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Entegrasyon basamaklarını sırayla düşün: tercihli ticaret → serbest ticaret bölgesi → gümrük birliği → ortak pazar.",
+                                                                   "İlk üç aşamada odak noktası yalnızca mal ticareti ve gümrük vergileridir.",
+                                                                   "İş gücü ve sermaye gibi üretim faktörlerinin de serbest dolaşımı ortak pazar aşamasında başlar."
+                                                               ]
                                             }
                                         ]
                   },
@@ -1176,7 +1260,13 @@
                                                                 "Araştırma ve Geliştirme (Ar-Ge)"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "Pazarlama (Üretim ile birlikte) işletmenin \u0027Temel\u0027 fonksiyonudur. İKY, Halkla İlişkiler, Ar-Ge, Muhasebe ve Finansman ise \u0027Yardımcı\u0027 fonksiyonlardır."
+                                                "explanation":  "Pazarlama (Üretim ile birlikte) işletmenin \u0027Temel\u0027 fonksiyonudur. İKY, Halkla İlişkiler, Ar-Ge, Muhasebe ve Finansman ise \u0027Yardımcı\u0027 fonksiyonlardır.",
+                                                "simpleQ":  "İşletmede bazı birimler doğrudan gelir getiren temel işleri yapar, bazıları ise onlara destek olur. Seçeneklerden hangisi destek (yardımcı) birimlerden biri değildir?",
+                                                "thinkSteps":  [
+                                                                   "İşletmenin iki temel fonksiyonunu hatırla: üretim ve pazarlama.",
+                                                                   "İnsan kaynakları, halkla ilişkiler ve Ar-Ge bu iki temel işe destek veren yardımcı fonksiyonlardır.",
+                                                                   "Listede temel fonksiyon olan seçeneği ayır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Yönetim düzeyleri ve sahip olunması gereken yönetsel beceriler eşleştirildiğinde; genel müdür, başkan gibi \u0027Üst Kademe Yöneticilerde\u0027 en çok bulunması beklenen yönetsel beceri aşağıdakilerden hangisidir?",
@@ -1187,7 +1277,13 @@
                                                                 "Operasyonel Beceri"
                                                             ],
                                                 "answer":  1,
-                                                "explanation":  "Üst kademe yöneticilerde işletmeyi bütün olarak görme, strateji geliştirme ve çevreyi analiz etmeyi sağlayan \u0027Kavramsal Beceri\u0027 en ön plandadır."
+                                                "explanation":  "Üst kademe yöneticilerde işletmeyi bütün olarak görme, strateji geliştirme ve çevreyi analiz etmeyi sağlayan \u0027Kavramsal Beceri\u0027 en ön plandadır.",
+                                                "simpleQ":  "Genel müdür veya şirket başkanı gibi en üst düzey yöneticilerde en çok hangi becerinin güçlü olması beklenir?",
+                                                "thinkSteps":  [
+                                                                   "Alt kademe yöneticiler günlük işleri yürüttüğü için teknik beceriye daha çok ihtiyaç duyar.",
+                                                                   "Üst kademe yöneticiler ise şirketin geleceğini planlar, büyük resmi görür ve strateji belirler.",
+                                                                   "Büyük resmi görüp uzun vadeli kararlar almayı sağlayan yetkinlik kavramsal beceridir."
+                                                               ]
                                             }
                                         ]
                   }

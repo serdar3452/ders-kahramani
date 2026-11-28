@@ -173,7 +173,13 @@
                                                                 "Özel Sigorta Modeli"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Beveridge modeli (Ulusal Sağlık Hizmetleri Sistemi), genel vergilerle finanse edilen ve vatandaşlık esasına dayanan modeldir."
+                                                "explanation":  "Beveridge modeli (Ulusal Sağlık Hizmetleri Sistemi), genel vergilerle finanse edilen ve vatandaşlık esasına dayanan modeldir.",
+                                                "simpleQ":  "Herkesin sırf vatandaş olduğu için yararlanabildiği ve masraflarının büyük ölçüde devletin topladığı genel vergilerle karşılandığı sağlık sistemi modeli hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Sağlık finansman modellerini kaynağına göre ayır: Bismarck modeli çalışan-işveren primlerine dayanır.",
+                                                                   "Özel sigorta ve tıbbi tasarruf hesapları ise bireysel ödeme ve birikim temellidir.",
+                                                                   "Genel vergi gelirleriyle tüm vatandaşları kapsayan ulusal sağlık sistemi Beveridge modelidir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Sosyal güvenlik sisteminde \u0027sosyal yardımlar ve sosyal hizmetler\u0027 aşağıdaki kategorilerden hangisine girmektedir?",
@@ -184,7 +190,13 @@
                                                                 "Özel Sigorta Sistemi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Sosyal yardımlar ve sosyal hizmetler vergi gelirleriyle finanse edilen primsiz sosyal güvenlik sistemleri içinde yer alır."
+                                                "explanation":  "Sosyal yardımlar ve sosyal hizmetler vergi gelirleriyle finanse edilen primsiz sosyal güvenlik sistemleri içinde yer alır.",
+                                                "simpleQ":  "İhtiyaç sahiplerine karşılıksız sunulan sosyal yardımlar ve sosyal hizmetler, sosyal güvenlik sisteminin hangi koluna girer?",
+                                                "thinkSteps":  [
+                                                                   "Sosyal güvenlik iki ana kola ayrılır: önceden prim ödenen primli sistem ve vergilerle desteklenen primsiz sistem.",
+                                                                   "Sosyal yardımlar ve sosyal hizmetler için kişiden önceden prim ödemiş olması beklenmez.",
+                                                                   "Bu nedenle bu destekler primsiz sosyal güvenlik sistemi içinde yer alır."
+                                                               ]
                                             }
                                         ]
                   },
@@ -357,7 +369,13 @@
                                                                 "Kaymak Sıyırma"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Ahlaki tehlike hem sosyal hem özel sağlık sigortasında geçerlidir. Ters seçim ve risk seçimi ise sadece özel sağlık sigortasında geçerlidir."
+                                                "explanation":  "Ahlaki tehlike hem sosyal hem özel sağlık sigortasında geçerlidir. Ters seçim ve risk seçimi ise sadece özel sağlık sigortasında geçerlidir.",
+                                                "simpleQ":  "Hem devletin zorunlu sağlık sigortasında hem de özel sağlık sigortasında karşımıza çıkabilen ortak piyasa sorunu hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Ters seçim ve risk seçimi (kaymak sıyırma), sigortaya girip çıkmada serbestlik bulunan özel sigorta piyasalarında görülür.",
+                                                                   "Zorunlu sosyal sigortada herkes kapsandığı için seçicilik sorunları oluşmaz.",
+                                                                   "Ancak \u0027nasıl olsa sigorta ödüyor\u0027 diyerek gereksiz sağlık hizmeti kullanma (ahlaki tehlike) her iki sistemde de ortaya çıkar."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Sağlık hizmeti sunucusu olan hekimin, hastanın bilgi eksikliğinden ve sigortanın varlığından yararlanarak hasta adına gereksiz tetkik ve tedavi talep etmesi durumuna ne ad verilir?",
@@ -368,7 +386,13 @@
                                                                 "Tüketici Egemenliği"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Vekâlet ilişkisi ve bilgi asimetrisi sonucu hekimin hastası adına finansal veya başka yönlerden çıkar sağlayacak gereksiz tedavileri talep etmesine arzın talep yaratması denir."
+                                                "explanation":  "Vekâlet ilişkisi ve bilgi asimetrisi sonucu hekimin hastası adına finansal veya başka yönlerden çıkar sağlayacak gereksiz tedavileri talep etmesine arzın talep yaratması denir.",
+                                                "simpleQ":  "Bir doktorun, hastanın tıbbi konularda bilgisi az olduğu ve masrafı sigorta karşıladığı için aslında gerek olmayan tahlil ve tedaviler istemesine ne ad verilir?",
+                                                "thinkSteps":  [
+                                                                   "Burada talebi yaratan kişi hasta değil, hizmeti sunan yani arz tarafındaki hekimdir.",
+                                                                   "Hekim ile hasta arasındaki bilgi farkı, sunucunun kendi lehine ekstra işlem talep etmesine yol açar.",
+                                                                   "Hizmeti sunanın kendi talebini oluşturması durumu \u0027arzın talep yaratması\u0027 olarak adlandırılır."
+                                                               ]
                                             }
                                         ]
                   },
@@ -535,7 +559,13 @@
                                                                 "Piyasa Denetimi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Fon biriktirme (havuzlama), nüfus adına ön ödemeli gelirlerin birikimi ve riskin paylaşılması fonksiyonudur."
+                                                "explanation":  "Fon biriktirme (havuzlama), nüfus adına ön ödemeli gelirlerin birikimi ve riskin paylaşılması fonksiyonudur.",
+                                                "simpleQ":  "Sağlık harcamaları için toplanan paraların tek bir ortak kasada birleştirilip hastalık masrafı riskinin herkes arasında paylaşılmasına hangi işlev denir?",
+                                                "thinkSteps":  [
+                                                                   "Sağlık finansmanının üç temel işlevi vardır: gelir elde etme, fon biriktirme (havuzlama) ve satın alma.",
+                                                                   "Soruda özellikle toplanan kaynakların bir havuzda biriktirilip riskin dağıtılması vurgulanıyor.",
+                                                                   "Bu tanım doğrudan fon biriktirme (havuzlama) işlevini işaret eder."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi doğrudan cepten yapılan ödemelerin (doğrudan hanehalkı harcamaları) bileşenlerinden biri değildir?",
@@ -546,7 +576,13 @@
                                                                 "Enformal (Kayıt Dışı) Ödeme"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Sosyal sağlık sigortası primi dolaylı cepten yapılan bir ödemedir; doğrudan cepten ödemeler ise katkı payı, doğrudan ödeme ve enformal ödemelerden oluşur."
+                                                "explanation":  "Sosyal sağlık sigortası primi dolaylı cepten yapılan bir ödemedir; doğrudan cepten ödemeler ise katkı payı, doğrudan ödeme ve enformal ödemelerden oluşur.",
+                                                "simpleQ":  "Hastaneye veya eczaneye gittiğimizde cebimizden doğrudan ödediğimiz harcamalar vardır. Hangisi bu doğrudan cepten ödemelerden biri değildir?",
+                                                "thinkSteps":  [
+                                                                   "Doğrudan cepten ödemeler; hizmet alırken ödenen katkı payı, ücretli muayene bedeli ve kayıt dışı ödemeleri kapsar.",
+                                                                   "Sosyal sağlık sigortası primi ise maaştan veya düzenli olarak önceden kesilen dolaylı bir ödemedir.",
+                                                                   "Hizmet anında değil önceden sigorta fonuna aktarılan seçeneği ayır."
+                                                               ]
                                             }
                                         ]
                   },
@@ -713,7 +749,13 @@
                                                                 "Kâr Marjı"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Risk primi (safi prim), olası tazminat ödemelerini karşılamak üzere aktüeryal hesaplanan temel prim miktarıdır."
+                                                "explanation":  "Risk primi (safi prim), olası tazminat ödemelerini karşılamak üzere aktüeryal hesaplanan temel prim miktarıdır.",
+                                                "simpleQ":  "Bir sigorta poliçesinin fiyatını hesaplarken, yalnızca olası hastalık veya hasar tazminatlarını karşılamak için istatistikle belirlenen temel prim kısmına ne ad verilir?",
+                                                "thinkSteps":  [
+                                                                   "Toplam sigorta primi; temel hasar karşılığı ile komisyon, yönetim gideri ve kâr gibi ek yüklerden oluşur.",
+                                                                   "Yük primi, komisyon ve kâr marjı şirketin masraf ve kazanç eklemeleridir.",
+                                                                   "Doğrudan olası hasarları karşılamak için aktüeryal hesaplanan saf kısım risk primi (safi prim) adını alır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Türkiye\u0027de SGK\u0027nın uyguladığı Genel Sağlık Sigortası (GSS) sisteminde hizmet sunumu ile finansmanın birbirinden ayrıldığı organizasyon yapısına ne ad verilir?",
@@ -724,7 +766,13 @@
                                                                 "Kapalı Bütçe Sistemi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "GSS sisteminde SGK finansmanı sağlarken hizmet sunucularıyla sözleşme yapar; finansman ile sunumun ayrıldığı bu yapıya \u0027Endirekt Sistem\u0027 denir."
+                                                "explanation":  "GSS sisteminde SGK finansmanı sağlarken hizmet sunucularıyla sözleşme yapar; finansman ile sunumun ayrıldığı bu yapıya \u0027Endirekt Sistem\u0027 denir.",
+                                                "simpleQ":  "SGK\u0027nın sağlık hizmetini kendi hastaneleriyle vermek yerine yalnızca parasını ödeyip hastanelerle sözleşme yaptığı modele ne denir?",
+                                                "thinkSteps":  [
+                                                                   "Eğer finansmanı sağlayan kurum aynı zamanda hastaneleri de doğrudan işletiyorsa buna direkt sistem denir.",
+                                                                   "Finansman kurumu ile hizmeti sunan kurumların birbirinden ayrılıp sözleşmeyle çalışması ise dolaylı bir yapıdır.",
+                                                                   "Bu ayrışmış organizasyon modeli endirekt sistem olarak adlandırılır."
+                                                               ]
                                             }
                                         ]
                   },
@@ -897,7 +945,13 @@
                                                                 "Günlük Ödemeler Yöntemi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Kişi başına ödeme (capitation) yönteminde hekime kayıtlı nüfus başına sabit ödeme yapılır, sunulan hizmet miktarı ödemeyi değiştirmez."
+                                                "explanation":  "Kişi başına ödeme (capitation) yönteminde hekime kayıtlı nüfus başına sabit ödeme yapılır, sunulan hizmet miktarı ödemeyi değiştirmez.",
+                                                "simpleQ":  "Hekimin o ay kaç kez muayene yaptığına bakılmaksızın, kendisine kayıtlı her kişi başına sabit bir ücret aldığı ödeme yöntemi hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Sorudaki anahtar ipucu: ödeme yapılan işlem sayısına göre değil, kayıtlı birey sayısına göre sabit belirleniyor.",
+                                                                   "Hizmet başına, vaka başına ve günlük ödeme yöntemlerinde yapılan işlem veya yatış sayısı toplam ödemeyi değiştirir.",
+                                                                   "Kayıtlı nüfus başına sabit ödeme yapılan yöntem kişi başına ödeme (capitation) yöntemidir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki ödeme yöntemlerinden hangisi üretilen hizmet ve tetkik miktarını artırmayı en çok teşvik eden ve maliyet kontrolü en zor olan yöntemdir?",
@@ -908,7 +962,13 @@
                                                                 "Maaş Yöntemi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Hizmet başına ödeme yönteminde sunucu yapılan her işlem için ayrı ücret aldığından hizmet miktarını ve tetkik sayısını artırma eğilimi yüksektir."
+                                                "explanation":  "Hizmet başına ödeme yönteminde sunucu yapılan her işlem için ayrı ücret aldığından hizmet miktarını ve tetkik sayısını artırma eğilimi yüksektir.",
+                                                "simpleQ":  "Hangi ödeme yönteminde hastaneler ve hekimler daha fazla gelir elde etmek için gereğinden fazla tahlil ve işlem yapmaya daha çok yönelir, bu yüzden maliyet kontrolü zorlaşır?",
+                                                "thinkSteps":  [
+                                                                   "Sabit maaş, global bütçe ve kişi başına ödemede ekstra işlem yapmak geliri artırmaz.",
+                                                                   "Ancak yapılan her tekil muayene, tahlil veya görüntüleme için ayrı ücret ödenirse işlem sayısını artırma eğilimi doğar.",
+                                                                   "Bu nedenle maliyet kontrolü en zor olan yöntem hizmet başına ödeme yöntemidir."
+                                                               ]
                                             }
                                         ]
                   },
@@ -1081,7 +1141,13 @@
                                                                 "Bağ-Kur Kanunu"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "1921 tarihli Ereğli Havza-i Fahmiyesi Kanunu ile kurulan Amele Birliği, Cumhuriyet öncesi/erken Cumhuriyet döneminin ilk sosyal sigorta ve yardımlaşma uygulamasıdır."
+                                                "explanation":  "1921 tarihli Ereğli Havza-i Fahmiyesi Kanunu ile kurulan Amele Birliği, Cumhuriyet öncesi/erken Cumhuriyet döneminin ilk sosyal sigorta ve yardımlaşma uygulamasıdır.",
+                                                "simpleQ":  "Türkiye\u0027de Cumhuriyet dönemine girerken sosyal güvenlik ve yardımlaşma alanında atılan ilk yasal ve kurumsal adım hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Zonguldak-Ereğli kömür havzasındaki maden işçilerinin haklarını ve yardımlaşmasını düzenleyen 1921 tarihli yasayı hatırla.",
+                                                                   "Bu yasa ile kurulan Amele Birliği, modern sosyal sigorta tarihimizin ilk kurumsal örneğidir.",
+                                                                   "SSK ve Bağ-Kur çok daha sonraki yıllarda kurulmuştur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Türkiye\u0027de 2006 yılına kadar var olan sosyal güvenlik kurumları arasında sağlık sigortası prim oranları ve hizmetten yararlanma koşullarına ilişkin aşağıdakilerden hangisi doğrudur?",
@@ -1092,7 +1158,13 @@
                                                                 "Bağ-Kur üyeleri ilk günden itibaren sağlık hizmetinden yararlanırken SSK üyeleri 1 yıl beklemiştir."
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Eski sistemdeki norm ve standart farklılıkları nedeniyle devlet memurları ayrı bir sağlık primi ödemezken SSK %12, Bağ-Kur %20 oranında sağlık primi tahsil etmekteydi."
+                                                "explanation":  "Eski sistemdeki norm ve standart farklılıkları nedeniyle devlet memurları ayrı bir sağlık primi ödemezken SSK %12, Bağ-Kur %20 oranında sağlık primi tahsil etmekteydi.",
+                                                "simpleQ":  "2006\u0027daki tek çatı reformundan önce Türkiye\u0027deki eski sosyal güvenlik kurumlarında sağlık primi oranları kurumdan kuruma farklıydı. Bu dönemle ilgili doğru bilgi hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "2006 öncesi Emekli Sandığı, SSK ve Bağ-Kur arasında ciddi norm ve standart farkları bulunuyordu.",
+                                                                   "Aktif devlet memurları maaşlarından ayrı bir sağlık primi ödemezken, SSK\u0027lılar %12, Bağ-Kur\u0027lular ise %20 oranında prim ödüyordu.",
+                                                                   "Tüm kurumların aynı koşulda olduğu veya yeşil kartlıların yüksek prim ödediği ifadeleri gerçeğe aykırıdır."
+                                                               ]
                                             }
                                         ]
                   },
@@ -1259,7 +1331,13 @@
                                                                 "%20"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "GSS primi toplamda prime esas kazancın %12,5\u0027idir (%5 sigortalı, %7,5 işveren payı)."
+                                                "explanation":  "GSS primi toplamda prime esas kazancın %12,5\u0027idir (%5 sigortalı, %7,5 işveren payı).",
+                                                "simpleQ":  "5510 sayılı Kanun\u0027a göre Genel Sağlık Sigortası (GSS) primi, çalışanın prime esas kazancının yüzde kaçı kadardır?",
+                                                "thinkSteps":  [
+                                                                   "GSS primi işçi ve işveren paylarının toplamından oluşur.",
+                                                                   "Sigortalı payı %5, işveren payı ise %7,5 olarak belirlenmiştir.",
+                                                                   "İki payı topladığında (%5 + %7,5) toplam GSS prim oranı %12,5 olur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Sosyal Sağlık Sigortası (GSS) kapsamında vatandaşların ödemekle yükümlü olduğu katılım payları ve ilave ücretlerle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
@@ -1270,7 +1348,13 @@
                                                                 "Yeşil kartlı hastalar her muayenede %50 katılım payı öder."
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "5510 sayılı Kanun uyarınca kişilerin ödemekle yükümlü olduğu yasal katılım payları özel sigortalar tarafından teminat veya ödeme konusu yapılamaz."
+                                                "explanation":  "5510 sayılı Kanun uyarınca kişilerin ödemekle yükümlü olduğu yasal katılım payları özel sigortalar tarafından teminat veya ödeme konusu yapılamaz.",
+                                                "simpleQ":  "Genel Sağlık Sigortası kapsamında vatandaşların ödemesi gereken yasal katılım payları ve ilave ücretlerle ilgili doğru kural hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Katılım payının temel amacı, gereksiz sağlık hizmeti tüketimini sınırlamaktır.",
+                                                                   "Eğer özel sigortalar bu yasal katılım payını karşılarsa caydırıcılık ortadan kalkar; bu yüzden 5510 sayılı Kanun bunu yasaklar.",
+                                                                   "Aile hekimliği ücretsizdir ve özel hastaneler belirlenen tavan oranında ilave ücret alabilir; dolayısıyla katılım payının özel sigortaca karşılanamayacağı bilgisi doğrudur."
+                                                               ]
                                             }
                                         ]
                   },
@@ -1437,7 +1521,13 @@
                                                                 "SGK prim oranlarının sürekli düşürülmesi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Demografik dönüşüm (yaşlanan nüfus) ve kronik hastalıkların artması, sağlık hizmeti kullanımını ve harcamaları artırarak aktüeryal dengeyi tehdit eder."
+                                                "explanation":  "Demografik dönüşüm (yaşlanan nüfus) ve kronik hastalıkların artması, sağlık hizmeti kullanımını ve harcamaları artırarak aktüeryal dengeyi tehdit eder.",
+                                                "simpleQ":  "Gelecekte Türkiye\u0027deki sağlık sigortası sisteminin maddi dengesini ve sürdürülebilirliğini en çok zorlayacak gelişme hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Sağlık harcamalarını en çok artıran demografik ve tıbbi eğilimleri düşün.",
+                                                                   "Ortalama yaşam süresi uzadıkça nüfus yaşlanır ve uzun süreli tedavi gerektiren kronik hastalıklar artar.",
+                                                                   "Bu durum sigorta sisteminin giderlerini sürekli yükselterek finansal sürdürülebilirliği tehdit eder."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Tıbbi cihaz, ilaç ve yeni tedavi yöntemlerinin klinik ve ekonomik etkilerini inceleyerek geri ödeme kararlarına baz oluşturan yaklaşım aşağıdakilerden hangisidir?",
@@ -1448,7 +1538,13 @@
                                                                 "Limon Problemi Analizi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Sağlık Teknolojisi Değerlendirmesi (STD), kaynakların verimli kullanımı ve sürdürülebilirlik için geri ödeme kararlarında kullanılan temel araçtır."
+                                                "explanation":  "Sağlık Teknolojisi Değerlendirmesi (STD), kaynakların verimli kullanımı ve sürdürülebilirlik için geri ödeme kararlarında kullanılan temel araçtır.",
+                                                "simpleQ":  "Yeni bir ilacın veya tıbbi cihazın hem hastaya gerçekten fayda sağlayıp sağlamadığını hem de maliyetine değip değmediğini inceleyip geri ödeme kararına ışık tutan yöntem hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Soruda yeni tıbbi ürünlerin hem klinik etkisini hem de ekonomik değerini birlikte ölçen bir değerlendirme süreci soruluyor.",
+                                                                   "Ters seçim ve limon problemi piyasa başarısızlıklarıdır, bir değerlendirme aracı değildir.",
+                                                                   "Kaynakları verimli kullanmak için geri ödeme kararlarında kullanılan bu yaklaşım Sağlık Teknolojisi Değerlendirmesi\u0027dir."
+                                                               ]
                                             }
                                         ]
                   }

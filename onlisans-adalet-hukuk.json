@@ -145,7 +145,13 @@
                                                                 "Cumhurbaşkanlığı Kararnamesi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Doktrin ve yargı kararları yardımcı kaynak olup bağlayıcı değildir."
+                                                "explanation":  "Doktrin ve yargı kararları yardımcı kaynak olup bağlayıcı değildir.",
+                                                "simpleQ":  "Hakimler karar verirken bazı kaynaklara uymak zorundadır, bazılarından ise sadece fikir almak için yararlanır. Hangisi uyulması zorunlu olmayan yardımcı bir kaynaktır?",
+                                                "thinkSteps":  [
+                                                                   "Anayasa, kanun ve Cumhurbaşkanlığı kararnamesi yazılı ve herkes için bağlayıcı asli kaynaklardır.",
+                                                                   "Hukuk bilginlerinin kitap ve makalelerdeki görüşleri (öğreti/doktrin) ise yol göstericidir ama bağlayıcı değildir.",
+                                                                   "Bağlayıcılığı olmayan bilimsel görüşleri ifade eden seçeneği bul."
+                                                               ]
                                             }
                                         ]
                   }

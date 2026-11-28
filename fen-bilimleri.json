@@ -304,7 +304,13 @@
                                                                 "Uzay araçlarının kopan panelleri"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "Gök taşları doğal oluşumlardır. Uzay kirliliği yalnızca insan yapımı atıklarla meydana gelir."
+                                                "explanation":  "Gök taşları doğal oluşumlardır. Uzay kirliliği yalnızca insan yapımı atıklarla meydana gelir.",
+                                                "simpleQ":  "Uzay kirliliği insanların uzayda bıraktığı atıklardan oluşur. Seçeneklerden hangisi uzay kirliliğine yol açmaz?",
+                                                "thinkSteps":  [
+                                                                   "Uzay kirliliğinin tanımını hatırla: yalnızca insan yapımı, işlevi bitmiş uydu ve roket parçaları kirlilik sayılır.",
+                                                                   "Ömrü biten uydular, yakıt tankları ve kopan paneller insan yapımı uzay çöpleridir.",
+                                                                   "Gök taşları (meteorlar) ise uzayın doğal bir parçasıdır, kirlilik oluşturmaz."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Işık yılı kavramı ile ilgili verilen bilgilerden hangisi DOĞRUDUR?",
@@ -315,7 +321,13 @@
                                                                 "Güneş\u0027in ömrünü hesaplayan bir ölçüttür."
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Işık yılı bir mesafe (uzaklık) birimidir. Işığın 1 yılda kat ettiği yaklaşık 9.46 trilyon kilometreyi ifade eder."
+                                                "explanation":  "Işık yılı bir mesafe (uzaklık) birimidir. Işığın 1 yılda kat ettiği yaklaşık 9.46 trilyon kilometreyi ifade eder.",
+                                                "simpleQ":  "İsminde \u0027yıl\u0027 geçse de aslında çok farklı bir şeyi ölçen \u0027ışık yılı\u0027 kavramı hakkında hangi bilgi doğrudur?",
+                                                "thinkSteps":  [
+                                                                   "İsmindeki \u0027yıl\u0027 kelimesine aldanma; ışık yılı bir zaman birimi değil, çok büyük gök cisimleri arası uzaklık birimidir.",
+                                                                   "Işığın boşlukta tam bir yıl boyunca yol alarak kat ettiği mesafeyi gösterir.",
+                                                                   "Mesafe/uzaklık birimi olduğunu vurgulayan seçeneği belirle."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Hubble ve James Webb gibi teleskopların yeryüzü yerine uzaya yerleştirilmesinin en önemli gerekçesi nedir?",
@@ -326,7 +338,13 @@
                                                                 "Dünya\u0027da yer kalmaması"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Atmosferdeki gazlar, tozlar, hava hareketleri ve ışık kirliliği yeryüzünden net görüntü almayı engeller."
+                                                "explanation":  "Atmosferdeki gazlar, tozlar, hava hareketleri ve ışık kirliliği yeryüzünden net görüntü almayı engeller.",
+                                                "simpleQ":  "Bilim insanları Hubble ve James Webb gibi dev teleskopları neden yeryüzüne kurmak yerine uzaya gönderiyor?",
+                                                "thinkSteps":  [
+                                                                   "Dünya\u0027dan gökyüzüne bakarken aramızda kalın bir atmosfer tabakası vardır.",
+                                                                   "Atmosferdeki bulutlar, hava olayları, tozlar ve şehirlerin ışık kirliliği görüntüyü bulanıklaştırır.",
+                                                                   "Teleskopları atmosferin dışına çıkarmak, ışık soğurulması ve hava olayları olmadan çok net görüntü almayı sağlar."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Türkiye\u0027nin uzaya fırlattığı ilk yerli ve millî yüksek çözünürlüklü gözlem uydusu hangisidir?",
@@ -337,7 +355,13 @@
                                                                 "Göktürk-1"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "İMECE, Türkiye\u0027nin ilk yerli üretim yüksek çözünürlüklü elektro-optik yer gözlem uydusudur."
+                                                "explanation":  "İMECE, Türkiye\u0027nin ilk yerli üretim yüksek çözünürlüklü elektro-optik yer gözlem uydusudur.",
+                                                "simpleQ":  "Türkiye\u0027nin kendi imkânlarıyla üretip uzaya gönderdiği ilk yüksek çözünürlüklü yer gözlem uydusunun adı nedir?",
+                                                "thinkSteps":  [
+                                                                   "Türksat 5A bir haberleşme uydusudur, gözlem uydusu değildir.",
+                                                                   "RASAT ve Göktürk uyduları önceki dönem veya yabancı ortaklı projelerdi.",
+                                                                   "Yüksek çözünürlüklü ilk yerli ve millî elektro-optik gözlem uydumuz İMECE\u0027dir."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -730,7 +754,13 @@
                                                                 "Bütün yıldızların yüzey sıcaklığı aynıdır."
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Mavi ve beyaz yıldızlar en sıcak, sarı yıldızlar orta, kırmızı yıldızlar ise en soğuk yıldızlardır."
+                                                "explanation":  "Mavi ve beyaz yıldızlar en sıcak, sarı yıldızlar orta, kırmızı yıldızlar ise en soğuk yıldızlardır.",
+                                                "simpleQ":  "Yıldızların rengi bize ne kadar sıcak olduklarını söyler. En sıcaktan en soğuğa doğru yıldız renkleri nasıl sıralanır?",
+                                                "thinkSteps":  [
+                                                                   "Günlük hayattaki ocak alevini düşün: en sıcak alev mavi, orta sıcaklık sarı, daha soğuk kor ise kırmızı görünür.",
+                                                                   "Yıldızlarda da aynı kural geçerlidir: mavi-beyaz yıldızlar en sıcak, sarı yıldızlar orta sıcaklıktadır.",
+                                                                   "Kırmızı yıldızlar ise yüzey sıcaklığı en düşük olan yıldızlardır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Büyük kütleli bir yıldızın hayatının sonunda geçirdiği devasa patlamaya ne ad verilir?",
@@ -741,7 +771,13 @@
                                                                 "Meteor Yağmuru"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Büyük kütleli yıldızlar ömürlerinin sonunda süpernova patlaması ile yok olur ve geriye nötron yıldızı veya kara delik bırakır."
+                                                "explanation":  "Büyük kütleli yıldızlar ömürlerinin sonunda süpernova patlaması ile yok olur ve geriye nötron yıldızı veya kara delik bırakır.",
+                                                "simpleQ":  "Çok büyük kütleli bir yıldız ömrünün sonuna geldiğinde yaşadığı o dev patlamaya ne isim verilir?",
+                                                "thinkSteps":  [
+                                                                   "Büyük Patlama (Big Bang) evrenin başlangıcıdır, tek bir yıldızın ölümü değildir.",
+                                                                   "Güneş tutulması ve meteor yağmuru ise Güneş Sistemi içi gök olaylarıdır.",
+                                                                   "Büyük kütleli yıldızların ömrünü sonlandıran dev patlama süpernova patlamasıdır."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -1061,7 +1097,13 @@
                                                                 "Ribozom"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Sentrozom organeli hücre bölünmesinde iğ ipliklerini organize eder ve gelişmiş bitkilerde bulunmaz."
+                                                "explanation":  "Sentrozom organeli hücre bölünmesinde iğ ipliklerini organize eder ve gelişmiş bitkilerde bulunmaz.",
+                                                "simpleQ":  "Hücre bölünürken görev yapan, ama gelişmiş bitki hücrelerinde değil yalnızca hayvan hücrelerinde bulunan organel hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Kloroplast yalnızca bitki hücrelerinde fotosentez için bulunur; koful ve ribozom ise her iki hücrede de vardır.",
+                                                                   "Hücre bölünmesi sırasında iğ ipliklerini düzenleyen organeli hatırla.",
+                                                                   "Hayvan hücrelerine özgü bu bölünme organeli sentrozomdur."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [

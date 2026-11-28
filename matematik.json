@@ -373,7 +373,13 @@
                                                                 "-14"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Önce çarpma: (-6) . (-4) = +24. Ardından (+24) + (-10) = +14 bulunur."
+                                                "explanation":  "Önce çarpma: (-6) . (-4) = +24. Ardından (+24) + (-10) = +14 bulunur.",
+                                                "simpleQ":  "Önce (-6) ile (-4) sayılarını çarpıp, çıkan sonuca (-10) eklediğimizde hangi sayıyı elde ederiz?",
+                                                "thinkSteps":  [
+                                                                   "İşlem önceliğine göre önce çarpma işlemini yap: iki negatif sayının çarpımı pozitiftir, (-6) · (-4) = +24.",
+                                                                   "Şimdi +24 ile -10\u0027u topla; işaretler zıt olduğu için büyükten küçüğü çıkarıp büyüğün işaretini koy.",
+                                                                   "24 - 10 = +14 sonucuna ulaşırsın."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki işlemlerden hangisinin sonucu NEGATİFTİR?",
@@ -384,7 +390,13 @@
                                                                 "(-1)¹⁰⁰"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "Negatif bir sayının tek kuvveti negatiftir: (-2)⁵ = -32. Diğerleri pozitiftir."
+                                                "explanation":  "Negatif bir sayının tek kuvveti negatiftir: (-2)⁵ = -32. Diğerleri pozitiftir.",
+                                                "simpleQ":  "Verilen işlemlerden hangisinin sonucu sıfırdan küçük, yani eksi (-) işaretli çıkar?",
+                                                "thinkSteps":  [
+                                                                   "Parantez içindeki negatif bir sayının çift kuvveti her zaman pozitiftir: (-3)⁴ ve (-1)¹⁰⁰ pozitiftir.",
+                                                                   "İki negatif sayının çarpımı da pozitiftir: (-5) · (-2) = +10.",
+                                                                   "Negatif bir sayının tek kuvveti ise negatif kalır: (-2)⁵ = -32."
+                                                               ]
                                             },
                                             {
                                                 "q":  "-2² - (-3)² işleminin sonucu kaçtır?",
@@ -395,7 +407,13 @@
                                                                 "+13"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "-2² = -4 ve (-3)² = +9\u0027dur. (-4) - (+9) = (-4) + (-9) = -13 olur."
+                                                "explanation":  "-2² = -4 ve (-3)² = +9\u0027dur. (-4) - (+9) = (-4) + (-9) = -13 olur.",
+                                                "simpleQ":  "Parantezlerin nerede olduğuna dikkat ederek -2² - (-3)² işleminin sonucunu bulabilir misin?",
+                                                "thinkSteps":  [
+                                                                   "İlk terimde (-2² değil) parantez olmadığı için kare sadece 2\u0027yi etkiler: -2² = -4.",
+                                                                   "İkinci terimde parantez olduğu için -3\u0027ün karesi alınır: (-3)² = +9.",
+                                                                   "Şimdi çıkarma işlemini yap: (-4) - (+9) = -4 - 9 = -13."
+                                                               ]
                                             },
                                             {
                                                 "q":  "[(-15) ÷ (+3)] - [(-2) . (-4)] işleminin sonucu kaçtır?",
@@ -406,7 +424,13 @@
                                                                 "+13"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "(-15) ÷ (+3) = -5. (-2) . (-4) = +8. (-5) - (+8) = -13."
+                                                "explanation":  "(-15) ÷ (+3) = -5. (-2) . (-4) = +8. (-5) - (+8) = -13.",
+                                                "simpleQ":  "Önce iki köşeli parantezin içindeki bölme ve çarpma işlemlerini ayrı ayrı hesapla, sonra ilk sonuçtan ikinci sonucu çıkar.",
+                                                "thinkSteps":  [
+                                                                   "İlk parantezi hesapla: (-15) ÷ (+3) = -5 (zıt işaretli bölme negatiftir).",
+                                                                   "İkinci parantezi hesapla: (-2) · (-4) = +8 (aynı işaretli çarpma pozitiftir).",
+                                                                   "Sonuçları birbirinden çıkar: (-5) - (+8) = -5 - 8 = -13."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Bir derin dondurucuya konulan etin sıcaklığı her 5 dakikada 3 °C düşmektedir. Başlangıç sıcaklığı 14 °C olan etin 30 dakika sonraki sıcaklığı kaç °C olur?",
@@ -417,7 +441,13 @@
                                                                 "-2 °C"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "30 dakikada 30 ÷ 5 = 6 defa sıcaklık düşer. Toplam düşüş: 6 . 3 = 18 °C. Son sıcaklık: 14 - 18 = -4 °C."
+                                                "explanation":  "30 dakikada 30 ÷ 5 = 6 defa sıcaklık düşer. Toplam düşüş: 6 . 3 = 18 °C. Son sıcaklık: 14 - 18 = -4 °C.",
+                                                "simpleQ":  "14 °C sıcaklıktaki bir et, her 5 dakikada bir 3 °C soğuyan dondurucuya konuyor. Yarım saat (30 dakika) sonra etin sıcaklığı kaça düşer?",
+                                                "thinkSteps":  [
+                                                                   "30 dakikanın içinde kaç tane 5 dakikalık aralık olduğunu bul: 30 ÷ 5 = 6 aralık.",
+                                                                   "Her aralıkta 3 °C düştüğüne göre toplam düşüşü hesapla: 6 · 3 = 18 °C.",
+                                                                   "Başlangıç sıcaklığından toplam düşüşü çıkar: 14 - 18 = -4 °C."
+                                                               ]
                                             },
                                             {
                                                 "q":  "(-1)¹⁵ + (-1)¹⁶ + (-1)¹⁷ işleminin sonucu kaçtır?",
@@ -428,7 +458,13 @@
                                                                 "-3"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "(-1)¹⁵ = -1, (-1)¹⁶ = +1, (-1)¹⁷ = -1. Toplam: (-1) + (+1) + (-1) = -1."
+                                                "explanation":  "(-1)¹⁵ = -1, (-1)¹⁶ = +1, (-1)¹⁷ = -1. Toplam: (-1) + (+1) + (-1) = -1.",
+                                                "simpleQ":  "(-1) sayısının 15., 16. ve 17. kuvvetlerini tek tek bulup hepsini topladığımızda sonuç kaç çıkar?",
+                                                "thinkSteps":  [
+                                                                   "(-1)\u0027in tek kuvvetleri -1, çift kuvvetleri +1 olur.",
+                                                                   "Buna göre (-1)¹⁵ = -1, (-1)¹⁶ = +1 ve (-1)¹⁷ = -1 değerlerini yaz.",
+                                                                   "Üçünü topla: (-1) + (+1) + (-1) = -1."
+                                                               ]
                                             },
                                             {
                                                 "q":  "(-3) . (▲) = +36 olduğuna göre ▲ sayısının toplama işlemine göre tersi kaçtır?",
@@ -439,7 +475,13 @@
                                                                 "-33"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "▲ = +36 ÷ (-3) = -12\u0027dir. -12\u0027nin toplama işlemine göre tersi +12\u0027dir."
+                                                "explanation":  "▲ = +36 ÷ (-3) = -12\u0027dir. -12\u0027nin toplama işlemine göre tersi +12\u0027dir.",
+                                                "simpleQ":  "(-3) ile çarpıldığında +36 eden gizli sayıyı (▲) bul, ardından bu sayının ters işaretlisini (toplamaya göre tersini) söyle.",
+                                                "thinkSteps":  [
+                                                                   "Önce ▲ sayısını bulmak için +36\u0027yı -3\u0027e böl: (+36) ÷ (-3) = -12.",
+                                                                   "Soru ▲ sayısını değil, onun toplama işlemine göre tersini istiyor.",
+                                                                   "Bir sayının toplamaya göre tersi işaretinin değişmiş hâlidir; -12\u0027nin tersi +12 olur."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -950,7 +992,13 @@
                                                                 "3/6"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "2/3 kesri 2 ile genişletilirse 4/6 olur. 4/6 + 1/6 = 5/6."
+                                                "explanation":  "2/3 kesri 2 ile genişletilirse 4/6 olur. 4/6 + 1/6 = 5/6.",
+                                                "simpleQ":  "2/3 kesri ile 1/6 kesrini topladığımızda en sade hâliyle hangi kesri buluruz?",
+                                                "thinkSteps":  [
+                                                                   "Kesirleri toplamak için önce paydalarını eşitle; 2/3 kesrini 2 ile genişletirsen 4/6 olur.",
+                                                                   "Paydalar eşitlendikten sonra payları topla: 4/6 + 1/6 = 5/6.",
+                                                                   "5 ve 6 aralarında asal olduğu için kesir zaten en sade hâlindedir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "(3/4) . (-8/9) işleminin en sade sonucu kaçtır?",
@@ -961,7 +1009,13 @@
                                                                 "-1/2"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Sadeleştirme yapılır: 3 ile 9 sadeleşir paydada 3 kalır; -8 ile 4 sadeleşir payda -2 kalır. Sonuç: -2/3."
+                                                "explanation":  "Sadeleştirme yapılır: 3 ile 9 sadeleşir paydada 3 kalır; -8 ile 4 sadeleşir payda -2 kalır. Sonuç: -2/3.",
+                                                "simpleQ":  "3/4 ile -8/9 kesirlerini çarpıp sonucu olabildiğince sadeleştirdiğimizde hangi kesir çıkar?",
+                                                "thinkSteps":  [
+                                                                   "Pozitif ile negatif bir kesrin çarpımı negatif olacağı için sonuç eksi (-) işaretli çıkacak.",
+                                                                   "Çarpmadan önce çapraz sadeleştirme yap: 3 ile 9\u0027u 3\u0027e böl (1 ve 3 kalır), -8 ile 4\u0027ü 4\u0027e böl (-2 ve 1 kalır).",
+                                                                   "Kalan payları ve paydaları çarp: (1 · -2) / (1 · 3) = -2/3."
+                                                               ]
                                             },
                                             {
                                                 "q":  "1 - 1/3 ÷ 2/3 işleminin sonucu kaçtır?",
@@ -972,7 +1026,13 @@
                                                                 "1"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "İşlem önceliğinde bölme önce yapılır: (1/3) ÷ (2/3) = (1/3) . (3/2) = 1/2. Ardından: 1 - 1/2 = 1/2 bulunur."
+                                                "explanation":  "İşlem önceliğinde bölme önce yapılır: (1/3) ÷ (2/3) = (1/3) . (3/2) = 1/2. Ardından: 1 - 1/2 = 1/2 bulunur.",
+                                                "simpleQ":  "İşlem önceliğine dikkat ederek 1 - 1/3 ÷ 2/3 işleminin sonucunu bulabilir misin?",
+                                                "thinkSteps":  [
+                                                                   "Çıkarma işleminden önce bölmeyi yapmalısın: (1/3) ÷ (2/3).",
+                                                                   "Kesirlerde bölme yaparken ilk kesri aynen yazıp ikinciyi ters çevirip çarp: (1/3) · (3/2) = 1/2.",
+                                                                   "Şimdi 1 tamdan 1/2\u0027yi çıkar: 1 - 1/2 = 1/2."
+                                                               ]
                                             },
                                             {
                                                 "q":  "0,16̄ devirli ondalık sayısının rasyonel karşılığı en sade haliyle hangisidir? (Yalnızca 6 devretmektedir)",
@@ -983,7 +1043,13 @@
                                                                 "1/5"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Formül: (16 - 1) / 90 = 15 / 90 = 1/6 (15 ile sadeleşir)."
+                                                "explanation":  "Formül: (16 - 1) / 90 = 15 / 90 = 1/6 (15 ile sadeleşir).",
+                                                "simpleQ":  "Sadece 6 rakamı sonsuza kadar tekrar eden 0,1666... devirli sayısını en sade kesir olarak nasıl yazarız?",
+                                                "thinkSteps":  [
+                                                                   "Devirli ondalık formülünü kullan: (Sayının tamamı - Devretmeyen kısım) / (Virgülden sonra devreden kadar 9, devretmeyen kadar 0).",
+                                                                   "Pay: 16 - 1 = 15; payda: bir basamak devrettiği ve bir basamak devretmediği için 90 olur.",
+                                                                   "15/90 kesrini 15 ile sadeleştirerek en sade hâli olan 1/6\u0027ya ulaş."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Bir telin 2/5\u0027i kesildiğinde geriye 18 metre tel kalıyor. Bu telin kesilmeden önceki tam uzunluğu kaç metredir?",
@@ -994,7 +1060,13 @@
                                                                 "24 m"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Tamamı 5/5\u0027tir. 2/5\u0027i kesilirse geriye 3/5 kalır. 3/5\u0027i 18 metre ise 1/5\u0027i 18 ÷ 3 = 6 metredir. Tamamı: 5 . 6 = 30 metredir."
+                                                "explanation":  "Tamamı 5/5\u0027tir. 2/5\u0027i kesilirse geriye 3/5 kalır. 3/5\u0027i 18 metre ise 1/5\u0027i 18 ÷ 3 = 6 metredir. Tamamı: 5 . 6 = 30 metredir.",
+                                                "simpleQ":  "Bir telin 5\u0027te 2\u0027si kesilip atılınca elde 18 metre tel kalıyor. Tel kesilmeden önce toplam kaç metreydi?",
+                                                "thinkSteps":  [
+                                                                   "Telin tamamı 5/5\u0027tir; 2/5\u0027i kesilince geriye 5/5 - 2/5 = 3/5\u0027i kalır.",
+                                                                   "3 parça 18 metreye eşitse 1 parçayı (1/5\u0027i) bulmak için bölme yap: 18 ÷ 3 = 6 metre.",
+                                                                   "Telin tamamı 5 parça olduğundan 5 · 6 = 30 metre bulunur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "a = -2/3, b = -3/4, c = -5/6 rasyonel sayılarının küçükten büyüğe doğru sıralanışı hangisidir?",
@@ -1005,7 +1077,13 @@
                                                                 "c \u003c a \u003c b"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Paydaları 12\u0027de eşitleyelim: a = -8/12, b = -9/12, c = -10/12. Negatif sayılarda mutlak değeri büyük olan küçüktür: -10/12 \u003c -9/12 \u003c -8/12, yani c \u003c b \u003c a."
+                                                "explanation":  "Paydaları 12\u0027de eşitleyelim: a = -8/12, b = -9/12, c = -10/12. Negatif sayılarda mutlak değeri büyük olan küçüktür: -10/12 \u003c -9/12 \u003c -8/12, yani c \u003c b \u003c a.",
+                                                "simpleQ":  "Üç negatif kesir olan -2/3, -3/4 ve -5/6 sayılarını en küçükten en büyüğe doğru nasıl sıralarız?",
+                                                "thinkSteps":  [
+                                                                   "Karşılaştırmayı kolaylaştırmak için paydaları 12\u0027de eşitle: a = -8/12, b = -9/12, c = -10/12.",
+                                                                   "Negatif sayılarda sıfırdan uzaklaştıkça sayı küçülür; yani eksi işaretli büyük pay daha küçüktür.",
+                                                                   "Buna göre -10/12 \u003c -9/12 \u003c -8/12, yani c \u003c b \u003c a sıralaması doğrudur."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -1328,7 +1406,13 @@
                                                                 "2"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "4(2x - 3) + 5 = 8x - 12 + 5 = 8x - 7. Denklemi kuralım: 8x - 7 = 25 ➔ 8x = 32 ➔ x = 4."
+                                                "explanation":  "4(2x - 3) + 5 = 8x - 12 + 5 = 8x - 7. Denklemi kuralım: 8x - 7 = 25 ➔ 8x = 32 ➔ x = 4.",
+                                                "simpleQ":  "4(2x - 3) + 5 = 25 eşitliğinde x yerine hangi sayı gelirse eşitlik sağlanır?",
+                                                "thinkSteps":  [
+                                                                   "Önce 4\u0027ü parantezin içine dağıt: 4 · 2x - 4 · 3 = 8x - 12.",
+                                                                   "Sabit sayıları birleştir: 8x - 12 + 5 = 8x - 7 = 25.",
+                                                                   "-7\u0027yi karşıya +7 olarak geçir: 8x = 32, iki tarafı 8\u0027e bölerek x = 4 bul."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Hangi sayının 3 katının 5 fazlası 26 eder?",
@@ -1339,7 +1423,13 @@
                                                                 "9"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Denklem: 3x + 5 = 26 ➔ 3x = 21 ➔ x = 7."
+                                                "explanation":  "Denklem: 3x + 5 = 26 ➔ 3x = 21 ➔ x = 7.",
+                                                "simpleQ":  "Aklımdan bir sayı tuttum; bu sayıyı 3 ile çarpıp üzerine 5 ekleyince 26 oldu. Aklımdan tuttuğum sayı kaçtır?",
+                                                "thinkSteps":  [
+                                                                   "Bilinmeyen sayıya x de ve cümleyi denkleme çevir: 3x + 5 = 26.",
+                                                                   "Önce eklenen 5\u0027i geri al: 26 - 5 = 21, yani 3x = 21.",
+                                                                   "3 katı 21 olan sayıyı bulmak için 21\u0027i 3\u0027e böl: x = 7."
+                                                               ]
                                             },
                                             {
                                                 "q":  "3x + 14 = x + 26 denkleminde x değeri kaçtır?",
@@ -1350,7 +1440,13 @@
                                                                 "10"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "3x - x = 26 - 14 ➔ 2x = 12 ➔ x = 6."
+                                                "explanation":  "3x - x = 26 - 14 ➔ 2x = 12 ➔ x = 6.",
+                                                "simpleQ":  "3x + 14 = x + 26 denkleminde bilinmeyen x sayısı kaça eşittir?",
+                                                "thinkSteps":  [
+                                                                   "x\u0027li terimleri sol tarafta, sabit sayıları sağ tarafta topla: 3x - x = 26 - 14.",
+                                                                   "İki taraftaki çıkarma işlemlerini yap: 2x = 12.",
+                                                                   "Her iki tarafı 2\u0027ye bölerek x = 6 değerini bul."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [

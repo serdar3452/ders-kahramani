@@ -332,7 +332,13 @@
                                                                 "Kardeşine güzel bir resim çizdi."
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Sararmak zamanla kendiliğinden gerçekleşen fiziksel bir değişim olduğu için oluş fiilidir."
+                                                "explanation":  "Sararmak zamanla kendiliğinden gerçekleşen fiziksel bir değişim olduğu için oluş fiilidir.",
+                                                "simpleQ":  "Bazı eylemler insanın isteği olmadan, zamanla kendiliğinden gerçekleşen değişimleri anlatır. Hangi cümledeki fiil böyle bir oluşu bildiriyor?",
+                                                "thinkSteps":  [
+                                                                   "Oluş fiilleri öznenin kendi iradesi dışında, zaman içinde gerçekleşen değişimleri (sararmak, paslanmak, büyümek gibi) anlatır.",
+                                                                   "Okumak ve çizmek iş (kılış) fiili, uyuyakalmak ise durum fiilidir.",
+                                                                   "Yaprakların zamanla kendiliğinden renk değiştirmesini anlatan \u0027sarardı\u0027 fiili oluş fiilidir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "\u0027Her sabah mutlaka bir saat kitap okuyor.\u0027 cümlesindeki anlam (zaman) kayması aşağıdakilerin hangisinde doğru açıklanmıştır?",
@@ -343,7 +349,13 @@
                                                                 "Geniş zaman eki gereklilik yerine kullanılmıştır."
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "\u0027Her sabah\u0027 ifadesi eylemin sürekli yapıldığını (geniş zaman) gösterir, fakat \u0027-yor\u0027 şimdiki zaman eki kullanılmıştır."
+                                                "explanation":  "\u0027Her sabah\u0027 ifadesi eylemin sürekli yapıldığını (geniş zaman) gösterir, fakat \u0027-yor\u0027 şimdiki zaman eki kullanılmıştır.",
+                                                "simpleQ":  "\u0027Her sabah mutlaka bir saat kitap okuyor.\u0027 cümlesinde yapılan iş sürekli tekrarlanıyor ama fiilde şimdiki zaman eki var. Buradaki zaman kayması nasıl açıklanır?",
+                                                "thinkSteps":  [
+                                                                   "Cümledeki \u0027her sabah\u0027 ifadesi, bu eylemin her zaman yapıldığını yani geniş zaman (\u0027okur\u0027) anlamı taşıdığını gösterir.",
+                                                                   "Fakat yüklemde \u0027-yor\u0027 şimdiki zaman eki kullanılmıştır.",
+                                                                   "Dolayısıyla şimdiki zaman eki, geniş zamanın yerine kullanılmıştır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki fiillerden hangisi DİLEK (tasarlama) kiplerinden biriyle çekimlenmiştir?",
@@ -354,7 +366,13 @@
                                                                 "Soruları hızla çözüyor."
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "-meli / -malı gereklilik kipidir ve dilek kipleri grubundadır. Diğerleri haber kipidir."
+                                                "explanation":  "-meli / -malı gereklilik kipidir ve dilek kipleri grubundadır. Diğerleri haber kipidir.",
+                                                "simpleQ":  "Fiil kipleri \u0027zaman bildiren haber kipleri\u0027 ve \u0027istek, şart, gereklilik, emir bildiren dilek kipleri\u0027 olarak ikiye ayrılır. Hangisinde dilek kipi kullanılmıştır?",
+                                                "thinkSteps":  [
+                                                                   "Cümlelerdeki kip eklerini incele: \u0027-ecek\u0027 (gelecek), \u0027-di\u0027 (geçmiş) ve \u0027-yor\u0027 (şimdiki) zaman bildiren haber kipleridir.",
+                                                                   "\u0027-meli / -malı\u0027 eki ise zaman değil, bir zorunluluk veya gereklilik bildirir.",
+                                                                   "Gereklilik kipi dilek (tasarlama) kipleri grubunda yer alır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki fiillerden hangisi nesne alamaz (DURUM fiilidir)?",
@@ -365,7 +383,13 @@
                                                                 "yıkamak"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "\u0027Onu dinlenmek\u0027 denemez, nesne almaz ve durum anlatır. Onu yazmak, onu taşımak, onu yıkamak ise iş fiilidir."
+                                                "explanation":  "\u0027Onu dinlenmek\u0027 denemez, nesne almaz ve durum anlatır. Onu yazmak, onu taşımak, onu yıkamak ise iş fiilidir.",
+                                                "simpleQ":  "Başına \u0027onu\u0027 sözcüğünü getirdiğimizde anlamlı olmayan ve yalnızca bir hâli anlatan durum fiili hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Her fiilin başına \u0027onu\u0027 sözcüğünü getirerek nesne alıp almadığını test et.",
+                                                                   "\u0027Onu yazmak\u0027, \u0027onu taşımak\u0027 ve \u0027onu yıkamak\u0027 anlamlı olduğu için bunlar iş (kılış) fiilidir.",
+                                                                   "\u0027Onu dinlenmek\u0027 anlamsızdır; nesne almayan bu fiil durum fiilidir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "\u0027Görseniz\u0027 fiilinin kip ve şahıs özellikleri hangisinde doğru verilmiştir?",
@@ -376,7 +400,13 @@
                                                                 "Gereklilik kipi - 3. çoğul şahıs (onlar)"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "-se şart kipi, -niz 2. çoğul şahıs ekidir (Siz görseniz)."
+                                                "explanation":  "-se şart kipi, -niz 2. çoğul şahıs ekidir (Siz görseniz).",
+                                                "simpleQ":  "\u0027Görseniz\u0027 fiilindeki ekleri ayırdığımızda hangi kip ve hangi kişiyle çekimlendiğini bulabilir misin?",
+                                                "thinkSteps":  [
+                                                                   "Fiili kök ve eklerine ayır: gör - se - niz.",
+                                                                   "\u0027-se\u0027 eki koşul bildiren şart kipidir.",
+                                                                   "\u0027-niz\u0027 eki ise \u0027siz görseniz\u0027 şeklinde 2. çoğul şahsı gösterir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki cümlelerin hangisinde fiil 3. çoğul şahıs (onlar) ile çekimlenmiştir?",
@@ -387,7 +417,13 @@
                                                                 "Ben her gün yürürüm."
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Çocuklar koşuyorlar ➔ Onlar koşuyorlar (3. çoğul şahıs)."
+                                                "explanation":  "Çocuklar koşuyorlar ➔ Onlar koşuyorlar (3. çoğul şahıs).",
+                                                "simpleQ":  "Hangi cümledeki işi yapanlar \u0027onlar\u0027 (3. çoğul şahıs) zamiriyle karşılanabilir?",
+                                                "thinkSteps":  [
+                                                                   "Her cümlenin yüklemine \u0027kim?\u0027 sorusunu sorarak özneyi bul.",
+                                                                   "Biz (1. çoğul), sen (2. tekil) ve ben (1. tekil) dışındaki seçeneğe bak.",
+                                                                   "\u0027Çocuklar bahçede koşuyorlar\u0027 cümlesinde özne \u0027onlar\u0027dır (3. çoğul şahıs)."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -1004,7 +1040,13 @@
                                                                 "Bizim mahalle oldukça sessizdir."
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "A, B ve D şıklarında ek fiil isim soylu sözcükleri yüklem yapmıştır. C şıkkında ise \u0027koşuyordu\u0027 (koş-uyor-du) bir fiile gelerek birleşik zaman yapmıştır."
+                                                "explanation":  "A, B ve D şıklarında ek fiil isim soylu sözcükleri yüklem yapmıştır. C şıkkında ise \u0027koşuyordu\u0027 (koş-uyor-du) bir fiile gelerek birleşik zaman yapmıştır.",
+                                                "simpleQ":  "Ek fiilin iki görevi vardır: isimleri yüklem yapmak veya fiilleri birleşik zamanlı yapmak. Hangi cümlede ek fiil diğer üçünden farklı bir görevdedir?",
+                                                "thinkSteps":  [
+                                                                   "Her cümlenin yüklemine bakıp kökünün isim mi fiil mi olduğunu belirle.",
+                                                                   "\u0027Rüzgarlıydı\u0027, \u0027buydu\u0027 ve \u0027sessizdir\u0027 sözcükleri isim soyludur; ek fiil bunları yüklem yapmıştır.",
+                                                                   "\u0027Koşuyordu\u0027 ise bir fiildir; ek fiil burada fiile gelerek birleşik zaman (şimdiki zamanın hikâyesi) oluşturmuştur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki fiillerden hangisi YAPISI bakımından TÜREMİŞ bir fiildir?",
@@ -1015,7 +1057,13 @@
                                                                 "Okuyabildi"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "\u0027Göz\u0027 isminden \u0027-le\u0027 yapım eki alarak türemiştir (göz-le-di). Yazdı basittir, affetti ve okuyabildi birleşiktir."
+                                                "explanation":  "\u0027Göz\u0027 isminden \u0027-le\u0027 yapım eki alarak türemiştir (göz-le-di). Yazdı basittir, affetti ve okuyabildi birleşiktir.",
+                                                "simpleQ":  "Yapım eki alarak yeni bir anlam kazanmış olan \u0027türemiş fiil\u0027 hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Fiillerin köklerini ve eklerini incele: \u0027yaz-dı\u0027 sadece kip eki aldığı için basittir.",
+                                                                   "\u0027Af + etti\u0027 ve \u0027oku + yabildi\u0027 iki sözcükten oluştuğu için birleşik fiildir.",
+                                                                   "\u0027Göz-le-di\u0027 ise \u0027göz\u0027 isminden \u0027-le\u0027 yapım ekiyle yeni bir fiile dönüştüğü için türemiştir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "\u0027Gelebilirim\u0027 fiilinin olumsuzu aşağıdakilerden hangisidir?",
@@ -1026,7 +1074,13 @@
                                                                 "Gelmedim"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "Yeterlilik fiilinin olumsuzunda \u0027-ebil\u0027 düşer ancak \u0027e/a\u0027 sesi korunur: Gelemem."
+                                                "explanation":  "Yeterlilik fiilinin olumsuzunda \u0027-ebil\u0027 düşer ancak \u0027e/a\u0027 sesi korunur: Gelemem.",
+                                                "simpleQ":  "Yapabilme gücü bildiren \u0027Gelebilirim\u0027 fiilini olumsuz yapmak istediğimizde doğru söyleniş hangisi olur?",
+                                                "thinkSteps":  [
+                                                                   "\u0027-ebil\u0027 yeterlilik fiili olumsuz yapılırken \u0027-bil\u0027 kısmı düşer ama \u0027e/a\u0027 ünlüsü mutlaka yerinde kalır.",
+                                                                   "\u0027Gelmem\u0027 geniş zamanın, \u0027gelmedim\u0027 geçmiş zamanın olumsuzudur; \u0027gelmeyebilirim\u0027 ise olasılık bildirir.",
+                                                                   "\u0027e\u0027 sesini koruyarak yaptığımızda \u0027gelebilirim\u0027 fiilinin tam olumsuzu \u0027gelemem\u0027 olur."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [

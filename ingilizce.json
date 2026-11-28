@@ -264,7 +264,13 @@
                                                                 "selfish"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Asla geç kalmayan ve zamanında yapan kişiye \u0027punctual\u0027 (dakik) denir."
+                                                "explanation":  "Asla geç kalmayan ve zamanında yapan kişiye \u0027punctual\u0027 (dakik) denir.",
+                                                "simpleQ":  "Ayşe okula hiç geç kalmıyor ve her işini tam zamanında yapıyor. İngilizcede böyle dakik birini anlatan kelime hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Cümledeki anahtar ipuçlarını çevir: \u0027never arrives late\u0027 (asla geç kalmaz) ve \u0027on time\u0027 (zamanında).",
+                                                                   "Seçeneklerin anlamlarına bak: stubborn (inatçı), clumsy (sakar), selfish (bencil).",
+                                                                   "\u0027Dakik\u0027 anlamına gelen \u0027punctual\u0027 kelimesi boşluğa tam uyar."
+                                                               ]
                                             },
                                             {
                                                 "q":  "This book is ___________ than that movie.",
@@ -275,7 +281,13 @@
                                                                 "most interesting"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Uzun sıfatların karşılaştırmasında başına \u0027more\u0027 eklenir: more interesting than."
+                                                "explanation":  "Uzun sıfatların karşılaştırmasında başına \u0027more\u0027 eklenir: more interesting than.",
+                                                "simpleQ":  "\u0027Bu kitap şu filmden daha ilginç.\u0027 anlamını vermek için uzun bir sıfat olan \u0027interesting\u0027 ile doğru karşılaştırma nasıl kurulur?",
+                                                "thinkSteps":  [
+                                                                   "Cümlede \u0027than\u0027 kelimesi olduğu için iki şeyi karşılaştıran comparative yapı gerekir.",
+                                                                   "\u0027Interesting\u0027 uzun (çok heceli) bir sıfattır; sonuna \u0027-er\u0027 almaz, başına \u0027more\u0027 alır.",
+                                                                   "Bu yüzden doğru ifade \u0027more interesting\u0027 olmalıdır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Jack is very ____________. He only thinks about himself and never shares his toys.",
@@ -286,7 +298,13 @@
                                                                 "easy-going"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Sadece kendini düşünen ve paylaşmayan kişiye \u0027selfish\u0027 (bencil) denir."
+                                                "explanation":  "Sadece kendini düşünen ve paylaşmayan kişiye \u0027selfish\u0027 (bencil) denir.",
+                                                "simpleQ":  "Jack yalnızca kendini düşünüyor ve oyuncaklarını hiç paylaşmıyor. Bu huyunu anlatan İngilizce sıfat hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Cümlenin anlamını çıkar: \u0027only thinks about himself\u0027 (sadece kendini düşünür) ve \u0027never shares\u0027 (hiç paylaşmaz).",
+                                                                   "Generous (cömert), outgoing (dışa dönük) ve easy-going (uyumlu) olumlu özelliklerdir.",
+                                                                   "Bencil anlamına gelen \u0027selfish\u0027 kelimesi bu tanıma uyar."
+                                                               ]
                                             },
                                             {
                                                 "q":  "\u0027What does your English teacher look like?\u0027 sorusuna verilecek en uygun yanıt hangisidir?",
@@ -297,7 +315,13 @@
                                                                 "She is very punctual."
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "\u0027What does she look like?\u0027 dış görünüşü sorar: She is tall and has blonde hair."
+                                                "explanation":  "\u0027What does she look like?\u0027 dış görünüşü sorar: She is tall and has blonde hair.",
+                                                "simpleQ":  "Biri sana \u0027İngilizce öğretmenin dış görünüş olarak nasıl biri?\u0027 (What does your English teacher look like?) diye sorduğunda en uygun cevap hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "\u0027Look like\u0027 kalıbı bir kişinin karakterini veya hobilerini değil, fiziksel dış görünüşünü sorar.",
+                                                                   "Dürüst, kibar, dakik olmak kişilik özelliğidir; kitap okumak ise hobidir.",
+                                                                   "Boy ve saç rengi gibi fiziksel özellikleri anlatan cevabı seç."
+                                                               ]
                                             },
                                             {
                                                 "q":  "My brother gets higher grades than me. He is ___________ student than me.",
@@ -308,7 +332,13 @@
                                                                 "best"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Good sıfatının comparative hali \u0027better\u0027dır."
+                                                "explanation":  "Good sıfatının comparative hali \u0027better\u0027dır.",
+                                                "simpleQ":  "\u0027Erkek kardeşim benden daha yüksek notlar alıyor, o benden daha iyi bir öğrenci.\u0027 cümlesinde \u0027good\u0027 sıfatının \u0027daha iyi\u0027 hâli nasıl yazılır?",
+                                                "thinkSteps":  [
+                                                                   "Cümlede \u0027than\u0027 olduğu için karşılaştırma (comparative) yapısı gerekiyor.",
+                                                                   "\u0027Good\u0027 düzensiz bir sıfattır; \u0027gooder\u0027 veya \u0027more good\u0027 şeklinde kullanılmaz.",
+                                                                   "\u0027Good\u0027 sıfatının karşılaştırma hâli \u0027better\u0027 (daha iyi) olarak değişir."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -725,7 +755,13 @@
                                                                 "Swimming"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Sopa (bat), eldiven ve küçük topla oynanan spor beyzboldur."
+                                                "explanation":  "Sopa (bat), eldiven ve küçük topla oynanan spor beyzboldur.",
+                                                "simpleQ":  "Küçük bir top, bir vuruş sopası (bat), eldiven ve rahat kıyafetlerle oynanan spor hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Verilen ekipmanları eşleştir: \u0027small ball\u0027 (küçük top), \u0027bat\u0027 (sopa), \u0027gloves\u0027 (eldiven).",
+                                                                   "Teniste raket kullanılır, bisiklet ve yüzmede ise top ve sopa yoktur.",
+                                                                   "Sopa ve eldivenle oynanan spor beyzboldur (Baseball)."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Mete Gazoz wakes up early every morning and doesn\u0027t wake up late. He _________ gets up late.",
@@ -736,7 +772,13 @@
                                                                 "usually"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "Geç uyanmadığı için \u0027never\u0027 (asla) kullanılır."
+                                                "explanation":  "Geç uyanmadığı için \u0027never\u0027 (asla) kullanılır.",
+                                                "simpleQ":  "Mete Gazoz her sabah erken kalkar ve geç uyanmaz. \u0027O asla geç kalkmaz.\u0027 demek için boşluğa hangi sıklık zarfı gelmelidir?",
+                                                "thinkSteps":  [
+                                                                   "Cümlede \u0027doesn\u0027t wake up late\u0027 (geç uyanmaz) dendiği için geç kalkma sıklığı sıfırdır.",
+                                                                   "Always (her zaman), usually (genellikle) ve rarely (nadiren) bu kesin anlamı vermez.",
+                                                                   "\u0027Asla / hiç\u0027 anlamına gelen \u0027never\u0027 zarfı cümleyi doğru tamamlar."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -1089,7 +1131,13 @@
                                                                 "inventing"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Geçmişte tamamlanmış bir eylem için düzenli fiile -ed eklenir: invented."
+                                                "explanation":  "Geçmişte tamamlanmış bir eylem için düzenli fiile -ed eklenir: invented.",
+                                                "simpleQ":  "Alexander Graham Bell telefonu 1876 yılında icat etti. Geçmişte bitmiş bu olayı anlatmak için \u0027invent\u0027 fiili nasıl çekimlenir?",
+                                                "thinkSteps":  [
+                                                                   "\u0027In 1876\u0027 ifadesi olayın geçmiş zamanda (Simple Past Tense) gerçekleştiğini gösterir.",
+                                                                   "\u0027Invent\u0027 düzenli bir fiil olduğu için geçmiş zamanda sonuna \u0027-ed\u0027 eki alır.",
+                                                                   "Bell icat eden kişi (aktif özne) olduğundan doğru kullanım \u0027invented\u0027 olur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Prof. Aziz Sancar _________ the Nobel Prize in Chemistry in 2015.",
@@ -1100,7 +1148,13 @@
                                                                 "win"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Win düzensiz fiildir, past hali \u0027won\u0027dur."
+                                                "explanation":  "Win düzensiz fiildir, past hali \u0027won\u0027dur.",
+                                                "simpleQ":  "Prof. Aziz Sancar 2015\u0027te Nobel Kimya Ödülü\u0027nü kazandı. Geçmiş zamanda \u0027win\u0027 (kazanmak) fiilinin doğru hâli hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "\u0027In 2015\u0027 ifadesi geçmiş zaman kullanmamız gerektiğini gösterir.",
+                                                                   "\u0027Win\u0027 düzensiz (irregular) bir fiildir; sonuna \u0027-ed\u0027 ekleyerek \u0027winned\u0027 yapılamaz.",
+                                                                   "\u0027Win\u0027 fiilinin ikinci (geçmiş zaman) hâli \u0027won\u0027dur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Where _________ you born?",
@@ -1111,7 +1165,13 @@
                                                                 "did"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "\u0027You\u0027 öznesi ile geçmiş zamanda \u0027were\u0027 kullanılır: Where were you born?"
+                                                "explanation":  "\u0027You\u0027 öznesi ile geçmiş zamanda \u0027were\u0027 kullanılır: Where were you born?",
+                                                "simpleQ":  "Birine \u0027Nerede doğdun?\u0027 diye sorarken \u0027Where ___ you born?\u0027 boşluğuna hangi yardımcı fiil gelir?",
+                                                "thinkSteps":  [
+                                                                   "Doğmak ifadesi İngilizcede geçmiş zamanda \u0027was/were born\u0027 kalıbıyla kurulur.",
+                                                                   "Özne \u0027you\u0027 olduğu için \u0027was\u0027 değil, çoğul/you uyumlu \u0027were\u0027 kullanılır.",
+                                                                   "Bu yüzden doğru soru \u0027Where were you born?\u0027 şeklindedir."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -1310,7 +1370,13 @@
                                                                 "reptiles"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Sadece et yiyen hayvanlar \u0027carnivore\u0027 (etobur) olarak adlandırılır."
+                                                "explanation":  "Sadece et yiyen hayvanlar \u0027carnivore\u0027 (etobur) olarak adlandırılır.",
+                                                "simpleQ":  "Aslanlar ve kaplanlar yalnızca et yer. İngilizcede sadece etle beslenen \u0027etobur\u0027 hayvanlara ne denir?",
+                                                "thinkSteps":  [
+                                                                   "Cümledeki ipucu \u0027eat only meat\u0027 (sadece et yer) ifadesidir.",
+                                                                   "Herbivores (otobur), omnivores (hem etçil hem otçul), reptiles (sürüngenler) anlamına gelir.",
+                                                                   "Sadece et yiyen etobur hayvanlar \u0027carnivores\u0027 olarak adlandırılır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "We _________ cut down trees and destroy natural habitats.",
@@ -1321,7 +1387,13 @@
                                                                 "are"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Doğal yaşam alanlarını yok etmemeliyiz: shouldn\u0027t."
+                                                "explanation":  "Doğal yaşam alanlarını yok etmemeliyiz: shouldn\u0027t.",
+                                                "simpleQ":  "\u0027Ağaçları kesmemeli ve doğal yaşam alanlarını yok etmemeliyiz.\u0027 tavsiyesini vermek için boşluğa hangisi gelmelidir?",
+                                                "thinkSteps":  [
+                                                                   "Cümle doğaya zarar veren olumsuz bir eylemden (\u0027cut down trees\u0027, \u0027destroy habitats\u0027) söz ediyor.",
+                                                                   "Bunu yapmamamız gerektiğini söylemek için olumsuz bir tavsiye kipi gerekir.",
+                                                                   "\u0027Yapmamalıyız\u0027 anlamına gelen \u0027shouldn\u0027t\u0027 boşluğa tam uyar."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [

@@ -390,7 +390,12 @@
                                                                 "Azrail"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Mikail tabiat olayları ve canlıların rızıklarıyla görevlendirilmiştir."
+                                                "explanation":  "Mikail tabiat olayları ve canlıların rızıklarıyla görevlendirilmiştir.",
+                                                "simpleQ":  "Yağmur, rüzgâr gibi doğa olaylarını yönetmek ve canlıların rızkını ulaştırmakla görevli dört büyük melekten biri hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Dört büyük meleğin görevlerini hatırla: Cebrail vahiy getirir, İsrafil kıyamette sûr\u0027a üfler, Azrail can alır.",
+                                                                   "Doğa olayları ve rızıkların dağıtımıyla görevli olan melek Mikail\u0027dir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Ölümle başlayıp kıyametteki yeniden dirilişe (Ba\u0027s) kadar süren kabir hayatı dönemine ne ad verilir?",
@@ -401,7 +406,12 @@
                                                                 "Haşr"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Kabir hayatı veya iki âlem arasındaki perdeye Berzah denir."
+                                                "explanation":  "Kabir hayatı veya iki âlem arasındaki perdeye Berzah denir.",
+                                                "simpleQ":  "İnsanın vefat etmesinden kıyamette yeniden dirileceği güne kadar geçen kabir hayatı dönemine ne ad verilir?",
+                                                "thinkSteps":  [
+                                                                   "Ahiret aşamalarını sırayla düşün: Mizan terazi, Mahşer toplanma yeri, Haşr ise toplanma olayıdır.",
+                                                                   "Dünya hayatı ile ahiret arasında bir perde ve bekleme dönemi olan kabir hayatına Berzah denir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Hz. İsa (a.s.) hakkında verilen bilgilerden hangisi DOĞRUDUR?",
@@ -412,7 +422,12 @@
                                                                 "Kendisine Tevrat verilmiştir."
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Hz. İsa\u0027ya İncil indirilmiş ve beşikteyken annesini savunmak için konuşmuştur."
+                                                "explanation":  "Hz. İsa\u0027ya İncil indirilmiş ve beşikteyken annesini savunmak için konuşmuştur.",
+                                                "simpleQ":  "Hz. İsa (a.s.) ile ilgili verilen bilgilerden hangisi doğrudur?",
+                                                "thinkSteps":  [
+                                                                   "Diğer peygamberlere ait olayları ele: Firavun\u0027la mücadele eden ve Tevrat verilen peygamber Hz. Musa\u0027dır; Kâbe\u0027yi Hz. İsmail ile inşa eden Hz. İbrahim\u0027dir.",
+                                                                   "Hz. İsa\u0027ya İncil indirilmiş ve henüz beşikteyken mucize olarak konuşmuştur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Kur\u0027an-ı Kerim\u0027in son suresi olan ve insanların kalbine vesvese sokan cin ve insan şeytanlarının şerrinden Allah\u0027a sığınmayı öğütleyen sure hangisidir?",
@@ -423,7 +438,12 @@
                                                                 "Felak Suresi"
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "Nâs suresi vesvesecilerin şerrinden Allah\u0027ın Rab, Melik ve İlah sıfatlarına sığınmayı bildirir."
+                                                "explanation":  "Nâs suresi vesvesecilerin şerrinden Allah\u0027ın Rab, Melik ve İlah sıfatlarına sığınmayı bildirir.",
+                                                "simpleQ":  "Kur\u0027an-ı Kerim\u0027in en son suresi olan ve kalplere kötü fısıltılar (vesvese) verenlerin şerrinden Allah\u0027a sığınmayı öğreten sure hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Fatiha ilk suredir, İhlas Allah\u0027ın birliğini anlatır, Felak ise sondan ikinci suredir.",
+                                                                   "Hem Kur\u0027an\u0027ın son suresi olan hem de vesvesecilerin şerrinden Allah\u0027a sığınmayı öğütleyen sure Nâs Suresi\u0027dir."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -1020,7 +1040,12 @@
                                                                 "Vakfe"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Kâbe\u0027nin etrafındaki her 1 dönüşe şavt, 7 şavtın tamamına tavaf denir."
+                                                "explanation":  "Kâbe\u0027nin etrafındaki her 1 dönüşe şavt, 7 şavtın tamamına tavaf denir.",
+                                                "simpleQ":  "Hac veya umrede Kâbe\u0027nin etrafında Hacerülesved köşesinden başlayarak atılan her tek tura (1 dönüşe) ne ad verilir?",
+                                                "thinkSteps":  [
+                                                                   "Tavaf, Kâbe etrafında toplam 7 kez dönmenin tamamıdır; Sa\u0027y Safa ile Merve arasında yürümek, Vakfe ise Arafat\u0027ta beklemektir.",
+                                                                   "Bu 7 dönüşün her bir tek turuna ise \u0027şavt\u0027 denir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Kurban ibadeti ve kurban çeşitleri ile ilgili aşağıda verilen bilgilerden hangisi YANLIŞTIR?",
@@ -1031,7 +1056,13 @@
                                                                 "Kurban etinin üçe bölünerek ihtiyaç sahiplerine dağıtılması müstehaptır."
                                                             ],
                                                 "correct":  2,
-                                                "explanation":  "Adak (nezir) kurbanının etinden adayan kişi, eşi, çocukları, anne ve babası yiyemez; tamamı fakirlere dağıtılmalıdır."
+                                                "explanation":  "Adak (nezir) kurbanının etinden adayan kişi, eşi, çocukları, anne ve babası yiyemez; tamamı fakirlere dağıtılmalıdır.",
+                                                "simpleQ":  "Kurban ibadeti ve çeşitleriyle ilgili verilen bilgilerden hangisi yanlıştır?",
+                                                "thinkSteps":  [
+                                                                   "Büyükbaş hayvana 7 kişiye kadar ortak olunabilir, yeni doğan çocuk için akîka kesilir ve etin üçe bölünmesi güzel görülür.",
+                                                                   "Ancak adak kurbanının özel bir hükmü vardır: adayan kişi, eşi, çocukları, anne-babası ve torunları bu etten yiyemez; tamamı ihtiyaç sahiplerine dağıtılır.",
+                                                                   "Adak kurbanı etinden ailenin dilediği gibi yiyebileceğini söyleyen ifade yanlıştır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Kâbe\u0027nin inşasında babası Hz. İbrahim\u0027e yardım eden ve teslimiyetiyle kurban sünnetinin sembolü olan peygamber kimdir?",
@@ -1042,7 +1073,12 @@
                                                                 "Hz. Süleyman"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Hz. İsmail, babası Hz. İbrahim ile birlikte Kâbe\u0027yi inşa etmiştir."
+                                                "explanation":  "Hz. İsmail, babası Hz. İbrahim ile birlikte Kâbe\u0027yi inşa etmiştir.",
+                                                "simpleQ":  "Babası Hz. İbrahim ile birlikte Kâbe\u0027yi inşa eden ve Allah\u0027a olan teslimiyetiyle kurban ibadetinin sembolü olan peygamber kimdir?",
+                                                "thinkSteps":  [
+                                                                   "Hz. İbrahim\u0027in oğlu olup onunla beraber Kâbe\u0027nin duvarlarını yükselten peygamberi hatırla.",
+                                                                   "Kurban kıssasında babasına büyük bir teslimiyet gösteren bu peygamber Hz. İsmail\u0027dir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Mâ\u0027ûn suresinde aşağıdaki olumsuz tutum ve davranışlardan hangisi ELEŞTİRİLMEMİŞTİR?",
@@ -1053,7 +1089,12 @@
                                                                 "Ticaretle uğraşmak ve kâr elde etmek"
                                                             ],
                                                 "correct":  3,
-                                                "explanation":  "Helal ticaret Mâ\u0027ûn suresinde eleştirilmez. Surede yetimi ezmek, riya yapmak ve yardıma engel olmak yerilmiştir."
+                                                "explanation":  "Helal ticaret Mâ\u0027ûn suresinde eleştirilmez. Surede yetimi ezmek, riya yapmak ve yardıma engel olmak yerilmiştir.",
+                                                "simpleQ":  "Mâ\u0027ûn suresinde yetimi ezmek ve ibadette gösteriş yapmak gibi kötü davranışlar kınanır. Seçeneklerden hangisi bu surede eleştirilen bir durum değildir?",
+                                                "thinkSteps":  [
+                                                                   "Mâ\u0027ûn suresinde eleştirilen davranışları say: yetimi itip kakmak, yoksulu doyurmaya teşvik etmemek ve namazda gösteriş (riya) yapmak.",
+                                                                   "Helal yoldan ticaret yapmak ve kazanç sağlamak ise İslam\u0027da yasaklanan veya bu surede kınanan bir davranış değildir."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [

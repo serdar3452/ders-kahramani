@@ -133,7 +133,13 @@
                                                                 "Kardiyopeksi"
                                                             ],
                                                 "answer":  0,
-                                                "explanation":  "Cardio (kalp) + megaly (büyüme) = Kardiyomegali."
+                                                "explanation":  "Cardio (kalp) + megaly (büyüme) = Kardiyomegali.",
+                                                "simpleQ":  "Tıpta kalbin normalden fazla büyümesini anlatmak için kullanılan terim hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Tıbbi terimleri kök ve eklerine ayırarak çöz: \u0027kardiyo-\u0027 kökü kalbi ifade eder.",
+                                                                   "Son ekleri kontrol et: \u0027-it\u0027 iltihap, \u0027-loji\u0027 bilim dalı, \u0027-peksi\u0027 cerrahi sabitleme anlamına gelir.",
+                                                                   "\u0027-megali\u0027 eki ise anormal büyüme demektir; bu yüzden doğru terim kardiyomegalidir."
+                                                               ]
                                             }
                                         ]
                   }

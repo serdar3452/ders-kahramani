@@ -276,7 +276,13 @@
                                                                 "Onaylayıcı baş hareketleri yapmak"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "İyi bir dinleyici konuşmacının sözünü asla kesmez, sonuna kadar dinler."
+                                                "explanation":  "İyi bir dinleyici konuşmacının sözünü asla kesmez, sonuna kadar dinler.",
+                                                "simpleQ":  "Karşımızdakini gerçekten iyi ve saygılı bir şekilde dinlerken hangi davranışı kesinlikle yapmamalıyız?",
+                                                "thinkSteps":  [
+                                                                   "Etkili iletişimi güçlendiren davranışları belirle: göz teması kurmak, sabırla dinlemek ve başla onaylamak olumludur.",
+                                                                   "Konuşan kişinin lafını bölmek ise iletişimi zedeler ve saygısızlık oluşturur.",
+                                                                   "Olumsuz iletişim davranışını anlatan seçeneği bul."
+                                                               ]
                                             },
                                             {
                                                 "q":  "\u0027Yine odanı toplamamışsın, ne kadar dağınıksın!\u0027 cümlesini BEN DİLİNE en uygun çeviren seçenek hangisidir?",
@@ -287,7 +293,13 @@
                                                                 "Sen hep böylesin, hiç değişmeyeceksin."
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Duyguyu (\u0027endişeleniyorum\u0027) suçlamadan ifade eden cümle Ben Diline örnektir."
+                                                "explanation":  "Duyguyu (\u0027endişeleniyorum\u0027) suçlamadan ifade eden cümle Ben Diline örnektir.",
+                                                "simpleQ":  "\u0027Yine odanı toplamamışsın, ne kadar dağınıksın!\u0027 gibi suçlayıcı bir sözü, kendi duygumuzu anlatan kibar bir \u0027Ben Dili\u0027 cümlesine nasıl çeviririz?",
+                                                "thinkSteps":  [
+                                                                   "Sen dili karşısındakini suçlar, tehdit eder veya emir verir (\u0027sen hep böylesin\u0027, \u0027derhal topla\u0027).",
+                                                                   "Ben dili ise davranışın bizde uyandırdığı duyguyu (\u0027üzülüyorum\u0027, \u0027endişeleniyorum\u0027) yargılamadan ifade eder.",
+                                                                   "Suçlama yerine kendi duygusunu sakin bir dille anlatan cümleyi seç."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Bir televizyon kanalının bir futbolcu hakkında asılsız transfer haberi yapması üzerine futbolcunun avukatı aracılığıyla aynı kanalda düzeltme metni yayımlatması hangi hakla ilgilidir?",
@@ -298,7 +310,13 @@
                                                                 "Konut dokunulmazlığı"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "Gerçeğe aykırı haberlere karşı yasal düzeltme yayımlatma hakkı tekzip hakkıdır."
+                                                "explanation":  "Gerçeğe aykırı haberlere karşı yasal düzeltme yayımlatma hakkı tekzip hakkıdır.",
+                                                "simpleQ":  "Bir televizyon kanalı bir futbolcu hakkında yalan haber yaptığında, futbolcunun aynı kanalda düzeltme yazısı yayımlatması hangi yasal hakkı kullandığını gösterir?",
+                                                "thinkSteps":  [
+                                                                   "Medyada çıkan yanlış veya asılsız bir habere karşı kişinin cevap ve düzeltme isteme hakkını hatırla.",
+                                                                   "Dilekçe hakkı resmi kurumlara başvuru içindir; konut dokunulmazlığı ve haberleşme hürriyeti farklı alanlardır.",
+                                                                   "Asılsız habere karşı yayımlatılan düzeltme metnine \u0027tekzip (düzeltme) hakkı\u0027 denir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi kitle iletişim özgürlüğünün kötüye kullanılmasına örnek gösterilebilir?",
@@ -309,7 +327,13 @@
                                                                 "Halkı aşı konusunda bilgilendirmek"
                                                             ],
                                                 "correct":  1,
-                                                "explanation":  "İzinsiz özel hayatı çekip yayınlamak \u0027Özel Hayatın Gizliliği\u0027 hakkını ihlal eder."
+                                                "explanation":  "İzinsiz özel hayatı çekip yayınlamak \u0027Özel Hayatın Gizliliği\u0027 hakkını ihlal eder.",
+                                                "simpleQ":  "Basın ve kitle iletişim özgürlüğü sınırsız değildir; başkalarının haklarına zarar veremez. Hangisi bu özgürlüğün kötüye kullanılmasına örnektir?",
+                                                "thinkSteps":  [
+                                                                   "Halkı doğru bilgilendirmek, yardım çalışmalarını duyurmak ve sağlık konusunda bilinçlendirmek medyanın faydalı görevleridir.",
+                                                                   "Bir kişinin evinin içini gizlice çekip izinsiz yayınlamak ise özel hayatın gizliliğini ihlal eder.",
+                                                                   "Özel yaşam hakkını çiğneyen davranışı işaretle."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
@@ -706,7 +730,12 @@
                                                                 "Fetret"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "İstimâlet hoşgörü ve adalet politikasıdır."
+                                                "explanation":  "İstimâlet hoşgörü ve adalet politikasıdır.",
+                                                "simpleQ":  "Osmanlı Devleti\u0027nin fethettiği yerlerdeki gayrimüslim halka adaletli davranıp inançlarına karışmaması ve gönüllerini kazanması hangi politikayla adlandırılır?",
+                                                "thinkSteps":  [
+                                                                   "Osmanlı kavramlarını ayır: iskân yerleştirme politikası, gaza din uğruna savaş, fetret ise taht boşluğu dönemidir.",
+                                                                   "Halkın gönlünü kazanmayı, hoşgörü ve adaletle yönetmeyi anlatan politika \u0027istimâlet\u0027 olarak bilinir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Osmanlı Devleti\u0027nde mali işlerden (gelir ve giderlerin kaydedilmesinden) sorumlu divan üyesi kimdir?",
@@ -717,7 +746,12 @@
                                                                 "Sadrazam"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Maliye işlerinden Defterdar sorumludur."
+                                                "explanation":  "Maliye işlerinden Defterdar sorumludur.",
+                                                "simpleQ":  "Osmanlı Devleti\u0027nde devletin gelir ve gider hesaplarını tutan, yani bugünkü maliye bakanı gibi çalışan divan üyesi kimdir?",
+                                                "thinkSteps":  [
+                                                                   "Divan üyelerinin görevlerini eşleştir: Sadrazam başbakan, Kazasker adalet ve eğitim, Nişancı yazışmalar ve tuğra işlerinden sorumludur.",
+                                                                   "Para hesaplarını ve maliye defterlerini tutan görevli, adından da anlaşılacağı gibi Defterdar\u0027dır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Orhan Bey döneminde Bizans İmparatoru\u0027na yardım karşılığında alınan ve Osmanlı\u0027nın Rumeli\u0027ye geçişini sağlayan ilk üs aşağıdakilerden hangisidir?",
@@ -728,7 +762,12 @@
                                                                 "Gelibolu"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Çimpe Kalesi Rumeli\u0027deki ilk askeri üssümüzdür."
+                                                "explanation":  "Çimpe Kalesi Rumeli\u0027deki ilk askeri üssümüzdür.",
+                                                "simpleQ":  "Orhan Bey zamanında Bizans\u0027a yapılan yardım karşılığında Osmanlı\u0027ya verilen ve Avrupa (Rumeli) yakasındaki ilk askeri üssümüz olan yer neresidir?",
+                                                "thinkSteps":  [
+                                                                   "Bursa Anadolu yakasındadır; Edirne ise daha sonra I. Murat döneminde fethedilmiştir.",
+                                                                   "Orhan Bey döneminde Bizans\u0027tan hediye/yardım karşılığı alınan ve Rumeli\u0027ye geçişte köprübaşı olan yer Çimpe Kalesi\u0027dir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Tımar sisteminde köylünün toprağı sebepsiz yere 3 yıl üst üste ekmemesi durumunda alınan ceza vergisi hangisidir?",
@@ -739,7 +778,12 @@
                                                                 "Haraç vergisi"
                                                             ],
                                                 "correct":  0,
-                                                "explanation":  "Üretimde sürekliliği sağlamak için toprağı terk edenden Çiftbozan vergisi alınırdı."
+                                                "explanation":  "Üretimde sürekliliği sağlamak için toprağı terk edenden Çiftbozan vergisi alınırdı.",
+                                                "simpleQ":  "Osmanlı\u0027da tarımsal üretimin aksamaması için, toprağını haklı bir neden olmadan 3 yıl üst üste ekmeyen köylüden alınan ceza vergisi hangisidir?",
+                                                "thinkSteps":  [
+                                                                   "Öşür ve haraç ürün vergisidir; cizye ise gayrimüslimlerden askerlik karşılığı alınan vergidir.",
+                                                                   "Toprağı boş bırakıp üretimi yani \u0027çifti\u0027 bozan köylüden alınan ceza vergisi, adından da anlaşılacağı gibi Çiftbozan vergisidir."
+                                                               ]
                                             }
                                         ],
                       "openEndedQuestions":  [
