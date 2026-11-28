@@ -4937,7 +4937,14 @@
                                                             ],
                                                 "correct":  4,
                                                 "explanation":  "TL Kasası 2.800 TL borçlanır, Döviz Kasası maliyet bedeliyle 3.000 TL alacaklanır; aradaki 200 TL olumsuz fark \u0027656 Kambiyo Zararları\u0027 hesabına BORÇ kaydedilir.",
-                                                "solution":  "TL Kasası 2.800 TL borçlanır, Döviz Kasası maliyet bedeliyle 3.000 TL alacaklanır; aradaki 200 TL olumsuz fark \u0027656 Kambiyo Zararları\u0027 hesabına BORÇ kaydedilir."
+                                                "solution":  "TL Kasası 2.800 TL borçlanır, Döviz Kasası maliyet bedeliyle 3.000 TL alacaklanır; aradaki 200 TL olumsuz fark \u0027656 Kambiyo Zararları\u0027 hesabına BORÇ kaydedilir.",
+                                                "simpleQ":  "Bir kumbaramız var ve içinde 3.000 TL değerinde yabancı para (döviz) duruyor. Bu dövizi bozdurup Türk Lirasına çevirdiğimizde elimize sadece 2.800 TL geçiyor; yani 200 TL eksiğimiz (zararımız) var. Defterimize bunu nasıl yazarız?",
+                                                "thinkSteps":  [
+                                                                   "Kumbaramızdan 3.000 TL\u0027lik döviz çıktı (Sağ tarafa / Alacağa yazılır).",
+                                                                   "Cebimize 2.800 TL nakit para girdi (Sol tarafa / Borca yazılır).",
+                                                                   "Aradaki 200 TL kayıp yani döviz zararıdır; muhasebede buna \u0027Kambiyo Zararı\u0027 denir.",
+                                                                   "Zararlar her zaman sol tarafa (Borç) yazılır: Kambiyo Zararları borcuna 200 TL."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Bir işletmede dönem başı ticari mallar 40.000 TL, dönemde satın alınan ticari mallar 80.000 TL ve dönemde gerçekleşen alış iadeleri tutarı 4.000 TL\u0027dir. Dönem sonunda satılan ticari mal maliyeti 49.000 TL olarak hesaplandığına göre dönem sonu stok maliyeti kaç TL\u0027dir?",
@@ -4950,7 +4957,14 @@
                                                             ],
                                                 "correct":  2,
                                                 "explanation":  "40.000 + 80.000 - 4.000 - 49.000 = 67.000 TL.",
-                                                "solution":  "40.000 + 80.000 - 4.000 - 49.000 = 67.000 TL."
+                                                "solution":  "40.000 + 80.000 - 4.000 - 49.000 = 67.000 TL.",
+                                                "simpleQ":  "Yılın başında dükkânımızda 40.000 TL\u0027lik ürün vardı. Yıl içinde 80.000 TL\u0027lik yeni ürün aldık ama 4.000 TL\u0027lik kısmı kusurlu çıktığı için satıcıya geri verdik. Yıl sonunda sattığımız ürünlerin maliyetinin 49.000 TL olduğunu hesapladık. Rafta şu an kaç TL\u0027lik ürün kalmıştır?",
+                                                "thinkSteps":  [
+                                                                   "Başlangıçta elimizde 40.000 TL\u0027lik ürün vardı.",
+                                                                   "80.000 TL yeni aldık ama 4.000 TL\u0027sini iade ettik → Net alış = 76.000 TL.",
+                                                                   "Satılabilir toplam ürün: 40.000 + 76.000 = 116.000 TL.",
+                                                                   "Bunun 49.000 TL\u0027lik kısmını sattığımıza göre rafta kalan: 116.000 − 49.000 = 67.000 TL!"
+                                                               ]
                                             },
                                             {
                                                 "q":  "Hesaplarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
@@ -4963,7 +4977,14 @@
                                                             ],
                                                 "correct":  1,
                                                 "explanation":  "Varlık (aktif) hesapları borçtan çalışır; daima borç kalanı verirler veya eşitlenerek kalan vermezler.",
-                                                "solution":  "Varlık (aktif) hesapları borçtan çalışır; daima borç kalanı verirler veya eşitlenerek kalan vermezler."
+                                                "solution":  "Varlık (aktif) hesapları borçtan çalışır; daima borç kalanı verirler veya eşitlenerek kalan vermezler.",
+                                                "simpleQ":  "Cebimizdeki paralar, araçlarımız veya bilgisayarlarımız (Varlıklarımız) muhasebe hesabına nasıl girer ve yıl sonunda nasıl kalan verir?",
+                                                "thinkSteps":  [
+                                                                   "Varlık hesapları artış olduğunda sol taraftan (Borç) açılır.",
+                                                                   "Harcama veya çıkış oldukça sağ tarafa (Alacak) yazılır.",
+                                                                   "Cebinde 100 TL olan biri en fazla 100 TL harcayabilir; cebinde eksi (-50 TL) para kalamaz.",
+                                                                   "Bu yüzden varlık hesapları ya Borç kalanı verir ya da sıfır (kalan vermez) olur."
+                                                               ]
                                             },
                                             {
                                                 "q":  "1. Ana hesap | 2. Düzenleyici hesap | 3. Nazım hesap — (K: Varlık ve kaynak yapısında değişim yaratmayan hatırlatma bilgileri, L: Asli hesapların bilançoda net değerleriyle gösterilmesi, M: Benzer işlemleri toplu gösteren, kalanları bilanço ve gelir tablosunu oluşturan hesaplar). Doğru eşleştirme hangisidir?",
@@ -4976,7 +4997,13 @@
                                                             ],
                                                 "correct":  3,
                                                 "explanation":  "Ana hesap = 1-M; Düzenleyici hesap = 2-L; Nazım hesap = 3-K.",
-                                                "solution":  "Ana hesap = 1-M; Düzenleyici hesap = 2-L; Nazım hesap = 3-K."
+                                                "solution":  "Ana hesap = 1-M; Düzenleyici hesap = 2-L; Nazım hesap = 3-K.",
+                                                "simpleQ":  "Üç farklı muhasebe kutumuz var: 1. Ana Hesap, 2. Düzenleyici Hesap, 3. Nazım Hesap. Her birini doğru göreviyle eşleştirelim.",
+                                                "thinkSteps":  [
+                                                                   "Ana Hesap: İşlemleri doğrudan toplayıp finansal tabloları oluşturan temel kutudur (M).",
+                                                                   "Düzenleyici Hesap: Ana kutunun yanında durup eksi (-) etkiyle onun net değerini gösteren kutudur (L).",
+                                                                   "Nazım Hesap: Varlık/kaynak tutarını değiştirmeyen, sadece \u0027Unutma!\u0027 diye bilgi/hatırlatma tutan kutudur (K)."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Kendi arsası üzerine yönetim binası yapan bir işletmenin, yapım sürecindeki harcamalarının kaydı için aşağıdakilerden hangisi doğrudur?",
@@ -4989,7 +5016,13 @@
                                                             ],
                                                 "correct":  4,
                                                 "explanation":  "İnşa halindeki bina harcamaları tamamlanana kadar \u0027258 Yapılmakta Olan Yatırımlar\u0027 hesabına borç kaydedilir; bitince 252 Binalar hesabına aktarılır.",
-                                                "solution":  "İnşa halindeki bina harcamaları tamamlanana kadar \u0027258 Yapılmakta Olan Yatırımlar\u0027 hesabına borç kaydedilir; bitince 252 Binalar hesabına aktarılır."
+                                                "solution":  "İnşa halindeki bina harcamaları tamamlanana kadar \u0027258 Yapılmakta Olan Yatırımlar\u0027 hesabına borç kaydedilir; bitince 252 Binalar hesabına aktarılır.",
+                                                "simpleQ":  "Şirketimiz kendi arsası üzerine yeni bir yönetim binası inşa ediyor. Tuğla, çimento ve işçilik paraları ödeniyor ama bina henüz bitmedi. Bu harcamaları hangi kutuda biriktiririz?",
+                                                "thinkSteps":  [
+                                                                   "Bina henüz tamamlanmadığı için doğrudan \u0027Binalar\u0027 hesabına yazılamaz.",
+                                                                   "İnşaat sürdüğü için harcamalar \u0027258 Yapılmakta Olan Yatırımlar\u0027 hesabının borcunda toplanır.",
+                                                                   "Bina bitip kullanıma hazır olunca bu toplam tutar Binalar hesabına aktarılır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "İşletmenin belirli bir tarihte varlık ve kaynaklarının durumunu saptamak için yaptığı sayım ve değerleme işlemine ne ad verilir?",
@@ -5002,7 +5035,12 @@
                                                             ],
                                                 "correct":  0,
                                                 "explanation":  "Belirli bir tarihteki varlık ve borçların fiilen sayılması, ölçülmesi ve değerlenmesine \u0027Envanter çıkartma\u0027 denir.",
-                                                "solution":  "Belirli bir tarihteki varlık ve borçların fiilen sayılması, ölçülmesi ve değerlenmesine \u0027Envanter çıkartma\u0027 denir."
+                                                "solution":  "Belirli bir tarihteki varlık ve borçların fiilen sayılması, ölçülmesi ve değerlenmesine \u0027Envanter çıkartma\u0027 denir.",
+                                                "simpleQ":  "Yıl sonunda dükkânın kepengini indirip kasadaki paraları tek tek saymak, raftaki ürünleri kontrol etmek ve gerçek değerlerini belirlemek işlemine ne ad verilir?",
+                                                "thinkSteps":  [
+                                                                   "Fiziki olarak sayma, ölçme, tartma ve gerçek değerini bulma işlemidir.",
+                                                                   "Muhasebede bu işleme \u0027Envanter çıkartma\u0027 denir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "1. Basit madde | 2. Bileşik madde | 3. Karışık madde — (K: Birden çok borç, birden çok alacak; L: Birden çok borç, bir alacak; M: Bir borç, bir alacak). Doğru eşleştirme hangisidir?",
@@ -5015,7 +5053,13 @@
                                                             ],
                                                 "correct":  3,
                                                 "explanation":  "Basit madde = 1-M; Bileşik madde = 2-L; Karışık madde = 3-K.",
-                                                "solution":  "Basit madde = 1-M; Bileşik madde = 2-L; Karışık madde = 3-K."
+                                                "solution":  "Basit madde = 1-M; Bileşik madde = 2-L; Karışık madde = 3-K.",
+                                                "simpleQ":  "Yevmiye defterine kayıt yazarken 3 farklı madde türü vardır: Basit, Bileşik ve Karışık madde. Bunları borç/alacak sayısına göre eşleştirelim.",
+                                                "thinkSteps":  [
+                                                                   "Basit Madde: Sol tarafta tek 1 hesap, sağ tarafta tek 1 hesap (M).",
+                                                                   "Bileşik Madde: Bir tarafta tek 1 hesap, diğer tarafta birden fazla hesap (L).",
+                                                                   "Karışık Madde: Hem borç hem alacak tarafında birden fazla hesap (K)."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki işlemlerin hangisi dönen varlıklar toplamını azaltır?",
@@ -5028,7 +5072,13 @@
                                                             ],
                                                 "correct":  0,
                                                 "explanation":  "Satıcıya borcun bankadan ödenmesi 102 Bankalar (dönen varlık) hesabını 10.000 TL azaltır. C ve E dönen varlık içi yer değiştirmedir; B ve D dönen varlıkları artırır.",
-                                                "solution":  "Satıcıya borcun bankadan ödenmesi 102 Bankalar (dönen varlık) hesabını 10.000 TL azaltır. C ve E dönen varlık içi yer değiştirmedir; B ve D dönen varlıkları artırır."
+                                                "solution":  "Satıcıya borcun bankadan ödenmesi 102 Bankalar (dönen varlık) hesabını 10.000 TL azaltır. C ve E dönen varlık içi yer değiştirmedir; B ve D dönen varlıkları artırır.",
+                                                "simpleQ":  "Hangi işlem cebimizdeki veya bankadaki hemen harcanabilir paraların (Dönen Varlıkların) toplamını azaltır?",
+                                                "thinkSteps":  [
+                                                                   "Banka hesabı bir Dönen Varlıktır.",
+                                                                   "Satıcıya olan 10.000 TL borcu bankadan ödersek Bankalar hesabımız 10.000 TL eksilir.",
+                                                                   "Dönen varlık tarafına yeni bir şey girmediği için Dönen Varlıklar toplamı doğrudan azalır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi dönen varlıklar hesap grubunda yer almaz?",
@@ -5041,7 +5091,12 @@
                                                             ],
                                                 "correct":  1,
                                                 "explanation":  "780 Finansman Giderleri bir maliyet/gider hesabıdır; 1 Dönen Varlıklar sınıfında yer almaz.",
-                                                "solution":  "780 Finansman Giderleri bir maliyet/gider hesabıdır; 1 Dönen Varlıklar sınıfında yer almaz."
+                                                "solution":  "780 Finansman Giderleri bir maliyet/gider hesabıdır; 1 Dönen Varlıklar sınıfında yer almaz.",
+                                                "simpleQ":  "Ticari Mallar, Alıcılar, Alınan Çekler, Hisse Senetleri ve Finansman Giderleri. Hangisi işletmenin sahip olduğu bir varlık değil, yaptığı bir harcamadır (giderdir)?",
+                                                "thinkSteps":  [
+                                                                   "Ticari Mal, Alıcılar, Çekler ve Hisse Senetleri işletmenin 1 yıl içinde paraya çevirebileceği Dönen Varlıklardır.",
+                                                                   "Finansman Giderleri ise banka kredisi faizi gibi ödenen bir giderdir (Gelir Tablosu hesabıdır), varlık değildir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi muhasebenin temel amacıdır?",
@@ -5054,7 +5109,12 @@
                                                             ],
                                                 "correct":  3,
                                                 "explanation":  "Muhasebenin temel amacı karar alıcılara (ilgili taraflara) doğru, güvenilir ve yararlı finansal bilgi sağlamaktır.",
-                                                "solution":  "Muhasebenin temel amacı karar alıcılara (ilgili taraflara) doğru, güvenilir ve yararlı finansal bilgi sağlamaktır."
+                                                "solution":  "Muhasebenin temel amacı karar alıcılara (ilgili taraflara) doğru, güvenilir ve yararlı finansal bilgi sağlamaktır.",
+                                                "simpleQ":  "Muhasebe neden her gün düzenli kayıt tutup finansal tablolar hazırlar? Asıl hedefi nedir?",
+                                                "thinkSteps":  [
+                                                                   "Defter tutmak araçtır; asıl amaç şirket sahiplerine, bankalara, yatırımcılara ve devlete karar verirken kullanacakları bilgiyi üretmektir.",
+                                                                   "Yani ilgili taraflara doğru, güvenilir ve yararlı bilgi sağlamaktır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "------- zaman içinde gelişerek günümüze gelen, muhasebecilere finansal nitelikteki olayları ölçmeleri ve raporlamaları için yol gösteren ve işletmeler tarafından kullanılan ayrıntılı esaslardır. Boşluğu hangisi tamamlar?",
@@ -5067,7 +5127,12 @@
                                                             ],
                                                 "correct":  4,
                                                 "explanation":  "Uygulama ve zaman içinde gelişerek finansal olayların ölçülmesi ve raporlanmasına yol gösteren esaslar \u0027Genel Kabul Görmüş Muhasebe İlkeleri\u0027dir.",
-                                                "solution":  "Uygulama ve zaman içinde gelişerek finansal olayların ölçülmesi ve raporlanmasına yol gösteren esaslar \u0027Genel Kabul Görmüş Muhasebe İlkeleri\u0027dir."
+                                                "solution":  "Uygulama ve zaman içinde gelişerek finansal olayların ölçülmesi ve raporlanmasına yol gösteren esaslar \u0027Genel Kabul Görmüş Muhasebe İlkeleri\u0027dir.",
+                                                "simpleQ":  "Tüm muhasebecilerin aynı dili konuşmasını sağlayan, finansal olayları nasıl ölçüp kaydedeceklerini gösteren evrensel kurallar bütününe ne denir?",
+                                                "thinkSteps":  [
+                                                                   "Tek bir kanun değil, zaman içinde herkesin üzerinde uzlaştığı mesleki kurallar bütünüdür.",
+                                                                   "Buna \u0027Genel Kabul Görmüş Muhasebe İlkeleri\u0027 denir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki hesaplardan hangisi Duran Varlıklar kapsamında değildir?",
@@ -5080,7 +5145,12 @@
                                                             ],
                                                 "correct":  0,
                                                 "explanation":  "110 Hisse Senetleri, 11 Menkul Kıymetler (Dönen Varlıklar) grubundadır.",
-                                                "solution":  "110 Hisse Senetleri, 11 Menkul Kıymetler (Dönen Varlıklar) grubundadır."
+                                                "solution":  "110 Hisse Senetleri, 11 Menkul Kıymetler (Dönen Varlıklar) grubundadır.",
+                                                "simpleQ":  "İşletmede 1 yıldan uzun süre kullanılacak değerler (Bina, Makine, Uzun Vadeli Ortaklık) Duran Varlıktır. Peki kısa sürede paraya çevrilebilen \u0027Hisse Senetleri\u0027 hangi gruptadır?",
+                                                "thinkSteps":  [
+                                                                   "Geçici yatırım amaçlı alınan Hisse Senetleri (110) istenildiğinde hemen satılıp nakde çevrilebilir.",
+                                                                   "1 yıl içinde paraya dönüşebildiği için Duran Varlık değil, Dönen Varlık (Menkul Kıymetler) grubundadır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdakilerden hangisi dönem sonu işlemleri kapsamında yapılmaz?",
@@ -5093,7 +5163,12 @@
                                                             ],
                                                 "correct":  1,
                                                 "explanation":  "Geçici mizan dönem sonu envanter işlemlerinden önce hazırlanır.",
-                                                "solution":  "Geçici mizan dönem sonu envanter işlemlerinden önce hazırlanır."
+                                                "solution":  "Geçici mizan dönem sonu envanter işlemlerinden önce hazırlanır.",
+                                                "simpleQ":  "Hangisi yalnızca yılın en sonunda yapılan dönem sonu (envanter) işlemlerinden biri değildir?",
+                                                "thinkSteps":  [
+                                                                   "Muhasebe dışı envanter, dönem sonu kayıtları, kesin mizan ve kapanış kayıtları yıl sonunda yapılır.",
+                                                                   "Geçici mizan (Aylık mizan) ise yıl içinde her ayın sonunda kontrol amacıyla düzenlenir; sadece yıl sonuna özgü değildir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Maliyeti 50.000 TL, birikmiş amortismanı 25.000 TL olan demirbaşlar, KDV hariç 30.000 TL\u0027ye satılmıştır. Satıştan elde edilen kâr veya zarar kaç TL\u0027dir?",
@@ -5106,7 +5181,13 @@
                                                             ],
                                                 "correct":  2,
                                                 "explanation":  "Net defter değeri = 50.000 - 25.000 = 25.000 TL. 30.000 TL\u0027ye satıldığı için 30.000 - 25.000 = 5.000 TL kâr elde edilmiştir.",
-                                                "solution":  "Net defter değeri = 50.000 - 25.000 = 25.000 TL. 30.000 TL\u0027ye satıldığı için 30.000 - 25.000 = 5.000 TL kâr elde edilmiştir."
+                                                "solution":  "Net defter değeri = 50.000 - 25.000 = 25.000 TL. 30.000 TL\u0027ye satıldığı için 30.000 - 25.000 = 5.000 TL kâr elde edilmiştir.",
+                                                "simpleQ":  "50.000 TL\u0027ye aldığımız bir demirbaşı yıllarca kullandık ve 25.000 TL eskime payı (birikmiş amortisman) ayırdık. Yani elimizdeki net değeri 25.000 TL. Bunu 30.000 TL\u0027ye satarsak kâr mı ederiz, zarar mı?",
+                                                "thinkSteps":  [
+                                                                   "Önce demirbaşın Net Defter Değerini bul: 50.000 − 25.000 = 25.000 TL.",
+                                                                   "Satış bedelini net değerle kıyasla: 30.000 − 25.000 = +5.000 TL.",
+                                                                   "Satış bedeli net değerden büyük olduğu için 5.000 TL KÂR elde edilir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "I. Eşitliğin her iki tarafı birlikte artar. — II. Eşitliğin bir tarafı artarken diğer tarafı azalır. — III. Eşitliğin her iki tarafı birlikte azalır. — IV. Varlıkların kendi içindeki değişimi eşitliği bozmaz. Bilanço eşitliği ile ilgili hangileri doğrudur?",
@@ -5119,7 +5200,14 @@
                                                             ],
                                                 "correct":  4,
                                                 "explanation":  "Bilanço eşitliğinde bir taraf artarken diğer taraf azalamaz (eşitlik bozulur). I, III ve IV doğrudur.",
-                                                "solution":  "Bilanço eşitliğinde bir taraf artarken diğer taraf azalamaz (eşitlik bozulur). I, III ve IV doğrudur."
+                                                "solution":  "Bilanço eşitliğinde bir taraf artarken diğer taraf azalamaz (eşitlik bozulur). I, III ve IV doğrudur.",
+                                                "simpleQ":  "Bilanço iki kefeli bir terazi gibidir: Sol Kefe (Varlıklar) = Sağ Kefe (Borçlar + Sermaye). Bu terazinin dengede kalma kurallarından hangileri doğrudur?",
+                                                "thinkSteps":  [
+                                                                   "İki kefeye aynı ağırlık konursa terazi dengede artar (I. Doğru).",
+                                                                   "Bir taraf artarken diğer taraf azalırsa terazi bozulur, eşitlik korunamaz (II. Yanlış!).",
+                                                                   "İki kefeden aynı ağırlık çıkarılırsa terazi dengede azalır (III. Doğru).",
+                                                                   "Tek kefedeki iki kalem yer değiştirirse toplam değişmez, denge korunur (IV. Doğru)."
+                                                               ]
                                             },
                                             {
                                                 "q":  "İşletme 30.000 TL\u0027ye bir demirbaş satın almıştır. Normal amortisman oranı %20\u0027dir. Azalan bakiyeler yöntemine göre ikinci yıl ayrılacak amortisman gideri kaç TL\u0027dir?",
@@ -5132,7 +5220,14 @@
                                                             ],
                                                 "correct":  2,
                                                 "explanation":  "Oran = %20 x 2 = %40. 1. yıl = 30.000 x %40 = 12.000 TL (Kalan = 18.000 TL). 2. yıl = 18.000 x %40 = 7.200 TL.",
-                                                "solution":  "Oran = %20 x 2 = %40. 1. yıl = 30.000 x %40 = 12.000 TL (Kalan = 18.000 TL). 2. yıl = 18.000 x %40 = 7.200 TL."
+                                                "solution":  "Oran = %20 x 2 = %40. 1. yıl = 30.000 x %40 = 12.000 TL (Kalan = 18.000 TL). 2. yıl = 18.000 x %40 = 7.200 TL.",
+                                                "simpleQ":  "30.000 TL\u0027ye bir demirbaş aldık. Normal eskime oranı %20, ama biz \u0027Azalan Bakiyeler (Hızlandırılmış)\u0027 yöntemini seçtik. 2. yılda kaç TL amortisman ayırırız?",
+                                                "thinkSteps":  [
+                                                                   "Azalan bakiyelerde oran normalin 2 katıdır (en fazla %50): %20 × 2 = %40.",
+                                                                   "1. Yıl amortismanı: 30.000 × %40 = 12.000 TL.",
+                                                                   "1. Yıl sonunda kalan net değer: 30.000 − 12.000 = 18.000 TL.",
+                                                                   "2. Yıl amortismanı kalan değer üzerinden alınır: 18.000 × %40 = 7.200 TL!"
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aşağıdaki işlemlerden hangisi hem varlıklarda hem de borçlarda azalışa neden olur?",
@@ -5145,7 +5240,13 @@
                                                             ],
                                                 "correct":  1,
                                                 "explanation":  "Borç kasadan ödenince Kasa (varlık) ve ilgili borç hesabı aynı tutarda azalır.",
-                                                "solution":  "Borç kasadan ödenince Kasa (varlık) ve ilgili borç hesabı aynı tutarda azalır."
+                                                "solution":  "Borç kasadan ödenince Kasa (varlık) ve ilgili borç hesabı aynı tutarda azalır.",
+                                                "simpleQ":  "Hangi işlem hem cebimizdeki/kasamızdaki varlığı hem de başkalarına olan borcumuzu aynı anda azaltır?",
+                                                "thinkSteps":  [
+                                                                   "Varlığın azalması için kasadan veya bankadan para çıkmalıdır.",
+                                                                   "Borcun da azalması için bu paranın bir borcu kapatmak için ödenmesi gerekir.",
+                                                                   "Borcun kasadan ödenmesi: Kasa (Varlık) azalır, Borçlar (Pasif) aynı tutarda azalır!"
+                                                               ]
                                             },
                                             {
                                                 "q":  "Aralıklı envanter yönteminde, satış iade işlemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
@@ -5158,7 +5259,12 @@
                                                             ],
                                                 "correct":  3,
                                                 "explanation":  "Aralıklı envanterde müşteri malı iade edince \u0027610 Satıştan İadeler\u0027 borçlandırılır, \u0027120 Alıcılar\u0027 (veya Kasa) alacaklandırılır.",
-                                                "solution":  "Aralıklı envanterde müşteri malı iade edince \u0027610 Satıştan İadeler\u0027 borçlandırılır, \u0027120 Alıcılar\u0027 (veya Kasa) alacaklandırılır."
+                                                "solution":  "Aralıklı envanterde müşteri malı iade edince \u0027610 Satıştan İadeler\u0027 borçlandırılır, \u0027120 Alıcılar\u0027 (veya Kasa) alacaklandırılır.",
+                                                "simpleQ":  "Aralıklı envanter yönteminde, müşterimiz bizden daha önce veresiye aldığı malı beğenmeyip geri iade ettiğinde hangi hesaplara kayıt yaparız?",
+                                                "thinkSteps":  [
+                                                                   "Müşteri malı geri getirdiği için satışımız azalmış olur → \u0027610 Satıştan İadeler\u0027 hesabının BORCUNA yazılır.",
+                                                                   "Müşteriden (Alıcılar) olan alacağımız da düştüğü için → \u0027120 Alıcılar\u0027 hesabının ALACAĞINA yazılır."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Kiralanan gayrimenkuller için yapılan, normal tamir-bakım ve temizlik giderleri dışında kalan ve kira bitiminde gayrimenkul sahibine bırakılacak olan ilaveler aşağıdaki hesaplardan hangisinde izlenir?",
@@ -5171,7 +5277,12 @@
                                                             ],
                                                 "correct":  0,
                                                 "explanation":  "Kiralanan taşınmazlara yapılan değer artırıcı ilaveler \u0027264 Özel Maliyetler\u0027 hesabında izlenir ve kira süresince itfa edilir.",
-                                                "solution":  "Kiralanan taşınmazlara yapılan değer artırıcı ilaveler \u0027264 Özel Maliyetler\u0027 hesabında izlenir ve kira süresince itfa edilir."
+                                                "solution":  "Kiralanan taşınmazlara yapılan değer artırıcı ilaveler \u0027264 Özel Maliyetler\u0027 hesabında izlenir ve kira süresince itfa edilir.",
+                                                "simpleQ":  "Kiraladığımız bir dükkâna normal boya-tamir dışında değer artıran kalıcı bir yenileme (ör. asma tavan, vitrin, tesisat) yaptık ve kira bitince dükkân sahibine bırakacağız. Bu harcamayı hangi hesapta izleriz?",
+                                                "thinkSteps":  [
+                                                                   "Dükkân bizim malımız olmadığı için \u0027Binalar\u0027 hesabına yazamayız.",
+                                                                   "Kiralanan yere yapılan ve kira bitiminde ev sahibine kalacak değer artırıcı harcamalar \u0027264 Özel Maliyetler\u0027 hesabında izlenir."
+                                                               ]
                                             },
                                             {
                                                 "q":  "Bir işletmenin, maliyeti 200 TL olan malının, 250 TL\u0027ye peşin olarak satılmasının bilanço üzerindeki etkisi aşağıdakilerden hangisidir?",
@@ -5184,7 +5295,13 @@
                                                             ],
                                                 "correct":  2,
                                                 "explanation":  "Kasa +250 TL (varlık artışı), Ticari Mallar -200 TL (varlık azalışı) ve +50 TL satış kârı (özkaynak artışı) meydana gelir.",
-                                                "solution":  "Kasa +250 TL (varlık artışı), Ticari Mallar -200 TL (varlık azalışı) ve +50 TL satış kârı (özkaynak artışı) meydana gelir."
+                                                "solution":  "Kasa +250 TL (varlık artışı), Ticari Mallar -200 TL (varlık azalışı) ve +50 TL satış kârı (özkaynak artışı) meydana gelir.",
+                                                "simpleQ":  "Maliyeti 200 TL olan bir ürünü müşteriye 250 TL\u0027ye peşin sattık. Dükkânımızın bilançosunda (Varlıklar ve Öz Kaynaklar) tam olarak ne değişir?",
+                                                "thinkSteps":  [
+                                                                   "Kasaya 250 TL nakit girdi → Varlıklarda artış (+250 TL).",
+                                                                   "Raftan 200 TL\u0027lik mal çıktı → Varlıklarda azalış (−200 TL).",
+                                                                   "Aradaki +50 TL kâr işletme sahibinin hakkıdır → Öz Kaynaklarda artış (+50 TL)!"
+                                                               ]
                                             }
                                         ]
                   },
